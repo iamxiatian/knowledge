@@ -6,7 +6,7 @@ import java.util.Date
 import akka.http.scaladsl.marshallers.sprayjson.SprayJsonSupport
 import org.joda.time.DateTime
 import spray.json._
-import xiatian.knowledge.models.Article
+import xiatian.knowledge.models.Publication
 
 trait JsonSupport extends SprayJsonSupport with DefaultJsonProtocol {
   def jsonResultOk(data: JsValue) = Map[String, JsValue](
@@ -41,6 +41,6 @@ trait JsonSupport extends SprayJsonSupport with DefaultJsonProtocol {
 
   implicit def dateToJoda(d: Date) = new DateTime(d)
 
-  implicit def articleJsonFormat: RootJsonFormat[Article]
-  = jsonFormat11(Article.apply)
+  implicit def publicationJsonFormat: RootJsonFormat[Publication]
+  = jsonFormat11(Publication.apply)
 }

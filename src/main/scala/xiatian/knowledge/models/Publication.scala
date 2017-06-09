@@ -10,36 +10,36 @@ import scala.concurrent.ExecutionContext.Implicits.global
 import scala.concurrent.Future
 
 /**
-  * 文章信息
+  * 文章发表信息
   *
   * @author Tian Xia
   *         Jun 08, 2017 18:59
   */
-case class Article(id: String,
-                   title: String,
-                   authors: List[String],
-                   `abstract`:String,
-                   journal: String,
-                   year: String,
-                   volume: String,
-                   number: String,
-                   pages: String,
-                   doi: Option[String],
-                   createTime: Date = new Date)
+case class Publication(id: String,
+                       title: String,
+                       authors: List[String],
+                       `abstract`:String,
+                       journal: String,
+                       year: String,
+                       volume: String,
+                       number: String,
+                       pages: String,
+                       doi: Option[String],
+                       createTime: Date = new Date)
 
 
-object Article extends MongoDocument {
+object Publication extends MongoDocument {
   val collectionName = "article"
   val collection: Future[BSONCollection] = db.map(_.collection(collectionName))
 
   val dateFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss")
 
-  implicit def userWriter: BSONDocumentWriter[Article] = Macros.writer[Article]
+  implicit def userWriter: BSONDocumentWriter[Publication] = Macros.writer[Publication]
 
-  implicit def userReader: BSONDocumentReader[Article] = Macros.reader[Article]
+  implicit def userReader: BSONDocumentReader[Publication] = Macros.reader[Publication]
 
 
-  def create(article: Article): Future[(Boolean, String)] = collection.flatMap {
+  def create(article: Publication): Future[(Boolean, String)] = collection.flatMap {
     c =>
       c.insert(article).flatMap(
         r =>
@@ -47,14 +47,14 @@ object Article extends MongoDocument {
       )
   }
 
-  def findById(id: String): Future[Option[Article]] = collection.flatMap {
+  def findById(id: String): Future[Option[Publication]] = collection.flatMap {
     c =>
       c.find(BSONDocument.empty).one
   }
 
-  def findAll(topN: Int): Future[List[Article]] = collection.flatMap {
+  def findAll(topN: Int): Future[List[Publication]] = collection.flatMap {
     c =>
-      c.find(BSONDocument.empty).cursor[Article]().collect[List](topN)
+      c.find(BSONDocument.empty).cursor[Publication]().collect[List](topN)
   }
 
   def find(journal: String, year: String) = collection.flatMap {
@@ -62,11 +62,11 @@ object Article extends MongoDocument {
       c.find(BSONDocument(
         "journal" -> journal,
         "year" -> year
-      )).cursor[Article]().collect[List]()
+      )).cursor[Publication]().collect[List]()
   }
 
   override def init: Future[(Boolean, String)] = {
-    create(Article(
+    create(Publication(
       UUID.randomUUID().toString,
       "词向量聚类加权TextRank的关键词抽取研究",
       List("夏天"),

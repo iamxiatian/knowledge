@@ -11,7 +11,7 @@ import akka.stream.ActorMaterializer
 import akka.util.Timeout
 import ch.megard.akka.http.cors.scaladsl.CorsDirectives.cors
 import ch.megard.akka.http.cors.scaladsl.settings.CorsSettings
-import xiatian.knowledge.models.Article
+import xiatian.knowledge.models.Publication
 
 import scala.concurrent.Future
 import scala.concurrent.duration._
@@ -38,17 +38,30 @@ object HttpApiServer extends JsonSupport {
       (path("") & get) {
         //complete(s"Spider ${Settings.version}")
         redirect("index.html", StatusCodes.MovedPermanently)
-      } ~ (path("api" / "article" / "list.json") & get & cors(settings)) {
+      } ~ (path("api" / "publication" / "list.json") & get & cors(settings)) {
 
-        onSuccess(Article.findAll(1000)) {
+        onSuccess(Publication.findAll(1000)) {
           articles => complete(articles)
         }
 
+      } ~ (path("api" / "publication" / "detail.json")
+        & get
+        & parameter('id.as[String])
+        & cors(settings)) {
+        id: String =>
+          onSuccess(Publication.findById(id)) {
+            case Some(publication) => complete(publication)
+            case None =>
+              complete(
+                StatusCodes.NotFound,
+                s"publication does not  exsist for id => $id"
+              )
+          }
       } ~ get {
-        // 所有其他请求，都直接访问web目录中的对应内容
-        //getFromResourceDirectory("web")
-        getFromDirectory("web")
-      }
+      // 所有其他请求，都直接访问web目录中的对应内容
+      //getFromResourceDirectory("web")
+      getFromDirectory("web")
+    }
 
     println("Server online at http://localhost:7080/")
 
