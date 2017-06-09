@@ -50,10 +50,10 @@ object HttpApiServer extends JsonSupport {
         getFromDirectory("web")
       }
 
-    println("Server online at http://localhost:7070/")
+    println("Server online at http://localhost:7080/")
 
     //启动服务，并在服务关闭时，解除端口绑定
-    Http(system).bindAndHandle(route, "0.0.0.0", 7070)
+    Http(system).bindAndHandle(route, "0.0.0.0", 7080)
   }
 
   def main(args: Array[String]) {
@@ -62,7 +62,7 @@ object HttpApiServer extends JsonSupport {
 
     val bindingFuture = start(system, None)
 
-    println(s"Server online at http://localhost:7070/" +
+    println(s"Server online at http://localhost:7080/" +
       s"\nPress RETURN to stop...")
     StdIn.readLine() // let it run until user presses return
     bindingFuture.flatMap(_.unbind()).onComplete(_ => system.terminate())
