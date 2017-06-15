@@ -94,7 +94,7 @@ object Publication extends MongoDocument {
   }
 
   override def init: Future[(Boolean, String)] = {
-    create(Publication(
+    add(Publication(
       UUID.randomUUID().toString,
       "词向量聚类加权TextRank的关键词抽取研究",
       List("夏天"),
