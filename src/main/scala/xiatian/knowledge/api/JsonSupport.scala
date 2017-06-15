@@ -42,5 +42,5 @@ trait JsonSupport extends SprayJsonSupport with DefaultJsonProtocol {
   implicit def dateToJoda(d: Date) = new DateTime(d)
 
   implicit def publicationJsonFormat: RootJsonFormat[Publication]
-  = jsonFormat11(Publication.apply)
+  = jsonFormat15(Publication.apply)
 }
