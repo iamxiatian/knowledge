@@ -18,14 +18,19 @@ import scala.concurrent.Future
 case class Publication(id: String,
                        title: String,
                        authors: List[String],
-                       `abstract`:String,
+                       organization: String,
+                       `abstract`: String,
                        journal: String,
                        year: String,
                        volume: String,
                        number: String,
                        pages: String,
                        doi: Option[String],
-                       createTime: Date = new Date)
+                       taggedAbstract: String = "",
+                       username: String = "", // 最后一次更新操作的用户
+                       createTime: Date = new Date,
+                       updateTime: Date = new Date
+                      )
 
 
 object Publication extends MongoDocument {
@@ -34,18 +39,41 @@ object Publication extends MongoDocument {
 
   val dateFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss")
 
-  implicit def userWriter: BSONDocumentWriter[Publication] = Macros.writer[Publication]
+  implicit def publicationWriter: BSONDocumentWriter[Publication] =
+    Macros.writer[Publication]
 
-  implicit def userReader: BSONDocumentReader[Publication] = Macros.reader[Publication]
+  implicit def publicationReader: BSONDocumentReader[Publication] =
+    Macros.reader[Publication]
 
+  /**
+    * 把文献信息加入到MongoDB中
+    *
+    * @param publication
+    * @return 如果成功，返回(true, "success")，否则返回(false, 出错信息)
+    */
+  def add(publication: Publication): Future[(Boolean, String)] = collection
+    .flatMap {
+      c =>
+        c.insert(publication).flatMap(
+          r =>
+            Future((r.ok, if (r.ok) publication.title else r.toString))
+        )
+    }
 
-  def create(article: Publication): Future[(Boolean, String)] = collection.flatMap {
-    c =>
-      c.insert(article).flatMap(
-        r =>
-          Future((r.ok, if (r.ok) "Success" else r.toString))
-      )
-  }
+  /**
+    * 根据ID更新人工标记的摘要
+    */
+  def updateById(id: String, taggedAbstract: String): Future[(Boolean, String)] =
+    collection.flatMap {
+      c =>
+        c.update(BSONDocument("id" -> id),
+          BSONDocument(
+            "$set" -> BSONDocument("taggedAbstract" -> taggedAbstract))
+        ).flatMap(
+          r =>
+            Future((r.ok, if (r.ok) "Success" else r.toString))
+        )
+    }
 
   def findById(id: String): Future[Option[Publication]] = collection.flatMap {
     c =>
@@ -70,6 +98,7 @@ object Publication extends MongoDocument {
       UUID.randomUUID().toString,
       "词向量聚类加权TextRank的关键词抽取研究",
       List("夏天"),
+      "中国人民大学",
       "简介。。。。。",
       "数据分析与知识发现",
       "2017",

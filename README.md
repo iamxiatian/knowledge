@@ -1,5 +1,5 @@
 # knowledge
-Mining Scientific literature
+Mining Scientific Publications
 
 # 编译运行
 
