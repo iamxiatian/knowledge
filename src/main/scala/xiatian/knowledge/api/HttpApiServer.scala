@@ -11,6 +11,7 @@ import akka.stream.ActorMaterializer
 import akka.util.Timeout
 import ch.megard.akka.http.cors.scaladsl.CorsDirectives.cors
 import ch.megard.akka.http.cors.scaladsl.settings.CorsSettings
+import xiatian.knowledge.Settings
 import xiatian.knowledge.models.Publication
 
 import scala.concurrent.Future
@@ -57,16 +58,24 @@ object HttpApiServer extends JsonSupport {
                 s"publication does not  exsist for id => $id"
               )
           }
+      } ~ (path("api" / "publication" / "list.json" / )
+        & get
+        & parameters('journal.as[String],'year.as[String])
+        & cors(settings)) {
+        case (journal:String, year:String) =>
+          onSuccess(Publication.find(journal, year)) {
+            publications => complete(publications)
+          }
       } ~ get {
       // 所有其他请求，都直接访问web目录中的对应内容
       //getFromResourceDirectory("web")
       getFromDirectory("web")
     }
 
-    println("Server online at http://localhost:7080/")
+    println(s"Server online at http://0.0.0.0:${Settings.apiServerPort}/")
 
     //启动服务，并在服务关闭时，解除端口绑定
-    Http(system).bindAndHandle(route, "0.0.0.0", 7080)
+    Http(system).bindAndHandle(route, "0.0.0.0", Settings.apiServerPort)
   }
 
   def main(args: Array[String]) {

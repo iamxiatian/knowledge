@@ -31,6 +31,7 @@ abstract class MongoDocument {
     *
     * @return 异步返回一个二元组：第一个布尔值表示是否成功，第二个字符串表示提示信息
     */
-  def init: Future[(Boolean, String)] = ???
+  def init(): Future[(Boolean, String)] = ???
 
+  def terminate() = driver.system.terminate()
 }

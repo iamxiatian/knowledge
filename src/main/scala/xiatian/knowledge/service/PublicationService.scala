@@ -23,7 +23,7 @@ object PublicationService {
     *
     * @param f
     */
-  def loadFromXml(f: File): Seq[Publication] = {
+  def loadJournalFromXml(f: File): Seq[Publication] = {
     val doc = XML loadFile f.toJava
     val bibNodes: NodeSeq = doc \\ "Bibliography"
     bibNodes.map(node =>
@@ -31,20 +31,21 @@ object PublicationService {
         UUID.randomUUID().toString,
         (node \\ "Title").filter(
           _.attributes.exists(_.value.text == "zh-CHS")
-        ).text,
+        ).text.trim,
         ((node \\ "Author" \ "Info")
           .filter(
             _.attributes.exists(_.value.text == "zh-CHS")
-          ) \ "FullName").text.split(";").toList,
-        node \\ "Organization" text,
-        node \\ "Abstracts" text,
-        node \\ "Media" text,
-        node \\ "Year" text,
+          ) \ "FullName").text.trim.split(";").toList,
+        (node \\ "Organization" text).trim,
+        (node \\ "Abstracts" text).trim,
+        (node \\ "Media" text).trim,
+        "journal",
+        (node \\ "Year" text).trim,
         "",
-        node \\ "Issue" text,
-        node \\ "PageScope" text,
+        (node \\ "Issue" text).trim,
+        (node \\ "PageScope" text).trim,
         None,
-        node \\ "Abstracts" text
+        (node \\ "Abstracts" text).trim
       )
     )
   }
@@ -58,19 +59,28 @@ object PublicationService {
   def importFromDir(dir: String) = {
     val xmlFiles = File(dir) glob "**/*.xml"
     xmlFiles foreach { f =>
-      println(s"Importing ${f.pathAsString}...")
-      Future.sequence(loadFromXml(f).map(p => Publication.add(p))).flatMap {
-        results =>
-          //返回执行结果列表
-          Future.successful(
-            results.map {
-              r =>
-                if (r._1) s"插入：${r._2}" else s"失败：${r._2}"
-            }
-          )
-      }.onComplete {
-        case Success(results) => println(s"\t\tDONE: ${f.pathAsString}")
-        case Failure(ex) => println(ex)
+      try {
+        Future.sequence(loadJournalFromXml(f)
+          .filter(p =>
+            p.`abstract`.nonEmpty
+              && p.organization.nonEmpty
+              && p.authors.nonEmpty)
+          .map(p => Publication.add(p)))
+          .flatMap {
+            results =>
+              //返回执行结果列表
+              Future.successful(
+                results.map {
+                  r =>
+                    if (r._1) s"插入：${r._2}" else s"失败：${r._2}"
+                }
+              )
+          }.onComplete {
+          case Success(results) => println(s"DONE: ${f.pathAsString}")
+          case Failure(ex) => println(s"\t失败：${f.pathAsString}\n\t$ex")
+        }
+      } catch {
+        case ex: Exception => println(s"\t失败：${f.pathAsString}\n\t$ex")
       }
     }
   }

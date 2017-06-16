@@ -24,9 +24,13 @@ object Settings {
 
   lazy val mongoUrl = getString("db.mongo.url")
 
+  lazy val apiServerPort = getInt("api.server.port")
+
   def printConfig =
     s"""My configuration:
        |* database config:
        |    mongo url ==> ${mongoUrl}
+       |* API config:
+       |    server port ==> ${apiServerPort}
     """.stripMargin
 }

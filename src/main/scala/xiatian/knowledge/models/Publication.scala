@@ -20,7 +20,8 @@ case class Publication(id: String,
                        authors: List[String],
                        organization: String,
                        `abstract`: String,
-                       journal: String,
+                       media: String,
+                      `type`: String,
                        year: String,
                        volume: String,
                        number: String,
@@ -34,7 +35,7 @@ case class Publication(id: String,
 
 
 object Publication extends MongoDocument {
-  val collectionName = "article"
+  val collectionName = "publication"
   val collection: Future[BSONCollection] = db.map(_.collection(collectionName))
 
   val dateFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss")
@@ -99,6 +100,7 @@ object Publication extends MongoDocument {
       "词向量聚类加权TextRank的关键词抽取研究",
       List("夏天"),
       "中国人民大学",
+      "journal",
       "简介。。。。。",
       "数据分析与知识发现",
       "2017",

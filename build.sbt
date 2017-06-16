@@ -67,7 +67,7 @@ resolvers ++= Seq(
 //native package
 import NativePackagerHelper._
 enablePlugins(JavaServerAppPackaging)
-mainClass in Compile := Some("xiatian.knowledge.api.HttpApiServer")
+mainClass in Compile := Some("xiatian.knowledge.Main")
 
 mappings in Universal <++= (packageBin in Compile) map { _ =>
   /**
