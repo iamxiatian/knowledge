@@ -98,58 +98,58 @@ In all models, we propose that the effects of eWOM on firm profitability or the 
 ]]></section>
 
     <section name="Results" category="results"><![CDATA[
-5. Results
-The overall model fit for model 1 (see Fig. 1 and Table 1) was acceptable, χ2(52) = 115.64, CFI = 0.91, RMSEA = 0.10 (90% C.I. = 0.06; 0.14). ]]><h target="4" match="part">Supporting H1a, star ratings predicted increases in firms’ profitability in the second (β = 0.07, p < 0.01) and third </h><![CDATA[(β = 0.04, p < 0.05) years.  match="part">Results also show that banks’ profitability predicted increases in consumers’ star ratings during the second year (β = 0.09, p < 0.05), supporting H1b.</h><![CDATA[ The overall model fit for model 2 (see Fig. 2 and Table 2) was acceptable, χ2(52) = 113.93, CFI = 0.92; RMSEA = 0.10 (90% C.I. = 06; 0.14). Results show that Positive Feelings did not predict increases in firms’ profitability. Thus, H2a was not supported. Firm profitability predicted increases in consumers’ Positive Feelings in the second year (β = 0.05, p < 0.01), lending support to H3a. The overall model fit for model 3 (see Fig. 2 and Table 2) was acceptable, χ2(52) = 98.24, CFI = 0.93, RMSEA = 0.09 (90% C.I. = 0.05; 0.13).  ]]><h target="3" match="part">Results show that Anger is significantly related to firm profitability in the second year (β = −0.07, p < 0.01), supporting H2b.</h><![CDATA[ However, inconsistent with H3b, results show that banks’ profitability did not predict decreases in Anger in eWOM.
-Fig. 1
-Download high-res image (548KB)Download full-size image
-Fig. 1. The relations between star ratings and profitability.
-Table 1. Result of path analysis (Star ratings and profitability).
-Path	Unstandardized Solution (Standard Error, Wald Statistic)	Completely Standardized Solution
-Star ratings of year N → Star ratings of year N + 1	0.22 (0.10, 2.27)*	0.25*
-Star ratings of year N → Profitability of year N + 1	0.07 (0.02, 3.70)**	0.07**
-Star ratings of year N → Profitability of year N + 2	0.03 (0.02, 2.18)*	0.04*
-Profitability of year N → Profitability of year N + 1	0.74 (0.05, 14.14)**	0.73**
-Profitability of year N → Star ratings of year N + 1	0.09 (0.04, 2.08)*	0.09*
-Profitability of year N → Star ratings of year N + 2	−0.06 (0.04, −1.62)	−0.06
-*
-p < 0.05.
-**
-p < 0.01.
-Fig. 2
-Download high-res image (1MB)Download full-size image
-Fig. 2. The relations between verbalized emotions and profitability.
-Table 2. Result of path analysis (Verbalized emotions and profitability).
-Positive Feelings	Anger
-Path	Unstandardized Solution(Standard Error, Wald Statistic)	Completely Standardized Solution	Unstandardized Solution(Standard Error, Wald Statistic)	Completely Standardized Solution
-Emotions of year N → Emotions of year N + 1	0.63 (0.09, 7.29)**	0.68**	0.69 (0.12, 5.55)**	0.66**
-Emotions of year N → Profitability of year N + 1	−0.02 (.02, −1.07)	−0.02	−0.04(0.02, −2.56)**	−0.07**
-Emotions of year N → Profitability of year N + 2	0.02 (0.02, 1.06)	0.03	.00 (.01, −0.17)	0.00
-Profitability of year N → Profitability of year N + 1	1.11 (0.12, 9.39)**	0.84**	0.77 (0.11, 7.28)**	0.75**
-Profitability of year N → Emotions of year N + 1	0.07 (0.03, 2.13)*	0.05*	0.01 (0.03, 0.20)	0.00
-Profitability of year N → Emotions of year N + 2	−0.03 (.02, −1.49)	−0.02	0.08 (0.05, 1.59)	0.04
-*
-p < 0.05.
-**
-p < 0.01.
-To compare the unique predictive utility of the three eWOM indicators, we created residualized firm profitability variables from which star rating information was removed (i.e., statistically controlled). The overall model fit for model 4 (see Fig. 3 and Table 3) was acceptable, χ2(52) = 99.35, CFI = 0.93, RMSEA = 0.08 (90% C.I. = 0.03; 0.12). ]]><h target="3" match="part"> Results show that Positive Feelings significantly predicted increases in residualized profitability during the second year (β = 0.06, p < 0.01), above and beyond the influence of star ratings.</h><![CDATA[ Thus, H4a was supported for verbalized positive feelings. Results also show that residualized profitability was positively related to Positive Feelings in the second year (β = 0.10, p < 0.01) and the third year (β =0.16, p < 0.01).  ]]><h target="4" match="part">These findings indicates that after removing the variance explained by past star ratings, higher firm profitability was prospectively predictive of consumers’ higher Positive Feelings in the future.</h><![CDATA[ Thus, H4b was supported for verbalized positive feelings. The overall model fit for model 5 (see Fig. 3 and Table 3) was acceptable, χ2(52) = 88.19, CFI = 0.94, RMSEA = 0.07 (90% C.I. = 0.07; 0.11). ]]><h target="3" match="part"> Results show that Anger significantly predicted decreases in residualized profitability at the second year (β = −0.04, p < 0.01).</h><![CDATA[ Thus, H4a was supported for expressed anger.  ]]><h target="3" match="part">However, results show that residualized profitability was not significantly related to Anger. Thus, H4b was not supported for expressed anger.</h><![CDATA[
-Fig. 3
-Download high-res image (1MB)Download full-size image
-Fig. 3. The relations between verbalized emotions and residualized profitability.
-Table 3. Result of path analysis (Verbalized emotions and residualized profitability).
-Positive Feelings	Angers
-Path	Unstandardized Solution(Standard Error, Wald Statistic)	Completely Standardized Solution	Unstandardized Solution(Standard Error, Wald Statistic)	Completely Standardized Solution
-Emotions of year N → Emotions of year N + 1	−0.02 (.15, −0.14)	−0.02	.03 (.14, 0.22)	0.02
-Emotions of year N → Residualized Profitability of year N + 1	0.05 (0.02, 2.65)**	0.06**	−0.04 (0.01, −2.72) **	−0.04**
-Emotions of year N → Residualized Profitability of year N + 2	0.02 (0.01, 1.73)	0.03	.01 (.01, 0.66)	0.01
-Profitability of year N → Profitability of year N + 1	−0.14 (.20, −0.71)	−0.13	0.20 (0.20, 1.01)	0.22
-Profitability of year N → Residualized Emotions of year N + 1	0.14 (0.05, 2.96)**	0.10**	−0.04 (.03, −1.22)	−0.03
-Profitability of year N → Residualized Emotions of year N + 2	0.21 (0.05, 4.13)**	0.16**	0.13 (0.07, 1.85)	0.07
-*p < 0.05.
-
-**
-p < 0.01.
-
-]]></section>
+        5. Results
+        The overall model fit for model 1 (see Fig. 1 and Table 1) was acceptable, χ2(52) = 115.64, CFI = 0.91, RMSEA = 0.10 (90% C.I. = 0.06; 0.14). ]]><h target="4" match="part"><![CDATA[Supporting H1a, star ratings predicted increases in firms’ profitability in the second (β = 0.07, p < 0.01) and third (β = 0.04, p < 0.05) years.]]></h><![CDATA[ Results also show that banks’ profitability predicted increases in consumers’ star ratings during the second year (β = 0.09, p < 0.05), supporting H1b. The overall model fit for model 2 (see Fig. 2 and Table 2) was acceptable, χ2(52) = 113.93, CFI = 0.92; RMSEA = 0.10 (90% C.I. = 06; 0.14). Results show that Positive Feelings did not predict increases in firms’ profitability. Thus, H2a was not supported. Firm profitability predicted increases in consumers’ Positive Feelings in the second year (β = 0.05, p < 0.01), lending support to H3a. The overall model fit for model 3 (see Fig. 2 and Table 2) was acceptable, χ2(52) = 98.24, CFI = 0.93, RMSEA = 0.09 (90% C.I. = 0.05; 0.13). Results show that Anger is significantly related to firm profitability in the second year (β = −0.07, p < 0.01), supporting H2b. However, inconsistent with H3b, results show that banks’ profitability did not predict decreases in Anger in eWOM.
+        Fig. 1
+        Download high-res image (548KB)Download full-size image
+        Fig. 1. The relations between star ratings and profitability.
+        Table 1. Result of path analysis (Star ratings and profitability).
+        Path	Unstandardized Solution (Standard Error, Wald Statistic)	Completely Standardized Solution
+        Star ratings of year N → Star ratings of year N + 1	0.22 (0.10, 2.27)*	0.25*
+        Star ratings of year N → Profitability of year N + 1	0.07 (0.02, 3.70)**	0.07**
+        Star ratings of year N → Profitability of year N + 2	0.03 (0.02, 2.18)*	0.04*
+        Profitability of year N → Profitability of year N + 1	0.74 (0.05, 14.14)**	0.73**
+        Profitability of year N → Star ratings of year N + 1	0.09 (0.04, 2.08)*	0.09*
+        Profitability of year N → Star ratings of year N + 2	−0.06 (0.04, −1.62)	−0.06
+        *
+        p < 0.05.
+        **
+        p < 0.01.
+        Fig. 2
+        Download high-res image (1MB)Download full-size image
+        Fig. 2. The relations between verbalized emotions and profitability.
+        Table 2. Result of path analysis (Verbalized emotions and profitability).
+        Positive Feelings	Anger
+        Path	Unstandardized Solution(Standard Error, Wald Statistic)	Completely Standardized Solution	Unstandardized Solution(Standard Error, Wald Statistic)	Completely Standardized Solution
+        Emotions of year N → Emotions of year N + 1	0.63 (0.09, 7.29)**	0.68**	0.69 (0.12, 5.55)**	0.66**
+        Emotions of year N → Profitability of year N + 1	−0.02 (.02, −1.07)	−0.02	−0.04(0.02, −2.56)**	−0.07**
+        Emotions of year N → Profitability of year N + 2	0.02 (0.02, 1.06)	0.03	.00 (.01, −0.17)	0.00
+        Profitability of year N → Profitability of year N + 1	1.11 (0.12, 9.39)**	0.84**	0.77 (0.11, 7.28)**	0.75**
+        Profitability of year N → Emotions of year N + 1	0.07 (0.03, 2.13)*	0.05*	0.01 (0.03, 0.20)	0.00
+        Profitability of year N → Emotions of year N + 2	−0.03 (.02, −1.49)	−0.02	0.08 (0.05, 1.59)	0.04
+        *
+        p < 0.05.
+        **
+        p < 0.01.
+        To compare the unique predictive utility of the three eWOM indicators, we created residualized firm profitability variables from which star rating information was removed (i.e., statistically controlled). The overall model fit for model 4 (see Fig. 3 and Table 3) was acceptable, χ2(52) = 99.35, CFI = 0.93, RMSEA = 0.08 (90% C.I. = 0.03; 0.12). Results show that Positive Feelings significantly predicted increases in residualized profitability during the second year (β = 0.06, p < 0.01), above and beyond the influence of star ratings. Thus, H4a was supported for verbalized positive feelings. Results also show that residualized profitability was positively related to Positive Feelings in the second year (β = 0.10, p < 0.01) and the third year (β =0.16, p < 0.01). These findings indicates that after removing the variance explained by past star ratings, higher firm profitability was prospectively predictive of consumers’ higher Positive Feelings in the future. Thus, H4b was supported for verbalized positive feelings. The overall model fit for model 5 (see Fig. 3 and Table 3) was acceptable, χ2(52) = 88.19, CFI = 0.94, RMSEA = 0.07 (90% C.I. = 0.07; 0.11). Results show that Anger significantly predicted decreases in residualized profitability at the second year (β = −0.04, p < 0.01). Thus, H4a was supported for expressed anger. However, results show that residualized profitability was not significantly related to Anger. Thus, H4b was not supported for expressed anger.
+        Fig. 3
+        Download high-res image (1MB)Download full-size image
+        Fig. 3. The relations between verbalized emotions and residualized profitability.
+        Table 3. Result of path analysis (Verbalized emotions and residualized profitability).
+        Positive Feelings	Angers
+        Path	Unstandardized Solution(Standard Error, Wald Statistic)	Completely Standardized Solution	Unstandardized Solution(Standard Error, Wald Statistic)	Completely Standardized Solution
+        Emotions of year N → Emotions of year N + 1	−0.02 (.15, −0.14)	−0.02	.03 (.14, 0.22)	0.02
+        Emotions of year N → Residualized Profitability of year N + 1	0.05 (0.02, 2.65)**	0.06**	−0.04 (0.01, −2.72) **	−0.04**
+        Emotions of year N → Residualized Profitability of year N + 2	0.02 (0.01, 1.73)	0.03	.01 (.01, 0.66)	0.01
+        Profitability of year N → Profitability of year N + 1	−0.14 (.20, −0.71)	−0.13	0.20 (0.20, 1.01)	0.22
+        Profitability of year N → Residualized Emotions of year N + 1	0.14 (0.05, 2.96)**	0.10**	−0.04 (.03, −1.22)	−0.03
+        Profitability of year N → Residualized Emotions of year N + 2	0.21 (0.05, 4.13)**	0.16**	0.13 (0.07, 1.85)	0.07
+        *p < 0.05.
+        
+        **
+        p < 0.01.  ]]>
+        
+    </section>
 
     <section name="Discussion and implications" category="discussion"><![CDATA[
 6. Discussion and implications
