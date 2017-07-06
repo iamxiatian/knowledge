@@ -14,7 +14,8 @@ case class Article(filename: String,
                    keywords: List[String],
                    `abstract`: String,
                    content: String,
-                   highlights: List[Highlight])
+                   sections: Seq[Section],
+                   highlights: Seq[Highlight])
 
 /**
   * 文章的节
@@ -66,9 +67,13 @@ object Highlight {
       (doc \\ "journal").text,
       (doc \\ "time").text,
       (doc \\ "doi").text,
-      (doc \\ "keywords").map(_.text).toList,
-      (doc \\ "abstract").text,
+      (doc \\ "keywords").map(_.text.trim).toList,
+      (doc \\ "abstract").text.trim,
       (doc \\ "section").map(_.text).mkString("\n"),
+      (doc \\ "section").map(node =>
+        Section(node.attribute("name").get.text.trim,
+          node.attribute("category").get.text.trim)
+      ),
       extractHighlights(doc)
     )
   }
@@ -82,16 +87,16 @@ object Highlight {
   def extractHighlights(doc: Node): List[Highlight] = {
     val highlightTexts: Map[String, String] = (doc \\ "highlight").map {
       h =>
-        val id = h.attribute("id").get.head.text
-        val content = h.text
+        val id = h.attribute("id").get.head.text.trim
+        val content = h.text.trim
         (id, content)
     }.toMap
 
     // 列出所有Section中人工标记的亮点
     val highlights: Seq[Highlight] = (doc \\ "section") flatMap {
       node =>
-        val section = Section(node.attribute("name").get.text,
-          node.attribute("category").get.text)
+        val section = Section(node.attribute("name").get.text.trim,
+          node.attribute("category").get.text.trim)
 
         (node \\ "h") flatMap {
           h =>
