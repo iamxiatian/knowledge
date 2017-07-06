@@ -1,0 +1,797 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bibliographies>
+<BibliographiesCount>50</BibliographiesCount>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于Wayback的索引策略研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[孙志茹;吴振新;曲云鹏;]]></FullName>
+<Organization><![CDATA[中国科学院国家科学图书馆;中国科学院研究生院;中国国家图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[04]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[Web Archive;Wayback;索引策略]]></Keyword>
+<Keyword Lang="en"><![CDATA[Web Archive Wayback Index strategy]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[通过分析目前使用Wayback作为访问工具的Web Archive项目,总结出资源索引工作采用的几个典型索引策略,并对其适用范围及优缺点进行初步分析和探讨,以期为界内同行提供参考。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[14-18]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[开源全文检索引擎Lucene本地化实践研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[吴鹏飞;马凤娟;李文革;郭鹏;]]></FullName>
+<Organization><![CDATA[石家庄学院图书馆;石家庄经济学院人文与社科学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[04]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[全文检索;Lucene语言分析器;数字图书馆;开源]]></Keyword>
+<Keyword Lang="en"><![CDATA[Full-text retrival Lucene ZH_CNAnalyzer Digital library Open source]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[对开源全文检索引擎Lucene的系统架构、索引与检索过程、语言分析器进行分析的基础上,针对其对中文只能进行单字切分、双字切分的不足,二次开发基于Lucene中英文语言分析器ZH_CNAnalyzer,并给出一个调用此分析器建立索引与检索的实例。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[19-22]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[搜索引擎查询日志的词性标注和挖掘研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[赖茂生;屈鹏;]]></FullName>
+<Organization><![CDATA[北京大学信息管理系;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[04]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[日志挖掘;词性标注;语言行为;词性分布;查询句法]]></Keyword>
+<Keyword Lang="en"><![CDATA[ Log mining Part-of-speech tagging Language behavior POS distribution Query syntax]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[利用搜狗(Sogou)2007年3月的查询日志,使用词性标注方法,得出高频词性标注结果的分布特征。发现用户在查询中以使用名词为主,动词为辅,鲜有其它词类出现在高频词性标注结果中。以的为代表的虚词较少地出现在高频词性标注结果中。网络搜索的查询式与自然语言在句法上存在一定差异,但也有相通之处。用户主要使用名词进行概念性检索,关键词仍为用户进行检索的主要手段。高频词性标注结果部分符合Zipf定律。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[50-56]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于加权XML模型的个性化产品推荐方法]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[李树青;]]></FullName>
+<Organization><![CDATA[南京财经大学信息工程学院信息管理系;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[04]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[个性化;XML检索;用户模式表达;信息推荐]]></Keyword>
+<Keyword Lang="en"><![CDATA[Personalization XML retrieval Expression of user profiles Information recommendation]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[提出一种基于加权XML数据结构的用户兴趣模型构建方法,对于其中的每个XML节点都增加了表达用户个性化信息的权值,并据此设计一种对加权XML模型进行相似度比较的算法。最后,详述基于此用户兴趣模式的个性化产品推荐系统的实现方法。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[64-69]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[CALIS教参本地系统从实体服务器到虚拟机的迁移]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[吴志强;徐革;李宁;]]></FullName>
+<Organization><![CDATA[西南交通大学图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[04]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[CALIS教参系统;实体服务器;虚拟机迁移]]></Keyword>
+<Keyword Lang="en"><![CDATA[CAIRIC Physical servers Virtual machine Migratory]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[结合图书馆的实际应用需要,对CALIS教参本地系统从实体服务器向虚拟机迁移的解决方案进行比较和选择,应用备份和虚拟机的组合技术,快速、可靠地完成CALIS教参本地系统的迁移、更新和升级,为今后基于虚拟机技术构建图书馆服务平台提供可参考的实践依据。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[75-78]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于多尺度条件随机场的文本图像二值化]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[刘坤;吕学强;王涛;施水才;]]></FullName>
+<Organization><![CDATA[北京信息科技大学中文信息处理研究中心;北京拓尔思信息技术股份有限公司;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[04]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[文本图像;二值化;多尺度条件随机场;特征函数]]></Keyword>
+<Keyword Lang="en"><![CDATA[Document image Binarization mCRF Feature function]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[提出一种基于多尺度条件随机场(简称mCRF)的图像二值化算法。该算法将对图像的二值化看作一个标注过程,利用mCRF模型对图像中每个像素点进行标记,从而实现对整幅图像的二值化。mCRF模型属于判别式模型,可以容纳任意的非独立特征,从而充分利用图像本身信息。实验结果表明,本算法比常用的阈值法效果有很大提高。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[79-81]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[体验评价文章抽取模型研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[吴诗贤;张必兰;]]></FullName>
+<Organization><![CDATA[重庆工商大学计算机科学与信息工程学院;重庆工商大学图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[04]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[搭配强度数据字典;体验评价特征值;抽取系统]]></Keyword>
+<Keyword Lang="en"><![CDATA[Collocation degree data dictionary Experience and evaluation eigenvalue Extraction system]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[提出一种体验评价性文章判定、抽取模型,并构造原型系统完成博客体验评价文章抽取的评价实验。该模型基于文章的基本表现特征和简单的规则,不需要进行详细的语法语义分析,只需以文章中出现的体验对象、体验行为、体验评价描述短语三者搭配强度和距离来计算、判定文章是否为体验评价性文章。评价实验结果表明基于该模型的系统具有较高的抽取精度。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[88-92]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[大学图书馆地理信息系统设计与应用]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[刘伟红;]]></FullName>
+<Organization><![CDATA[哈尔滨师范大学图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[04]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[地理信息系统(GIS);图书馆;空间数据]]></Keyword>
+<Keyword Lang="en"><![CDATA[Geographic Information Systems(GIS) Library Spatial data]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[系统利用GIS空间查询和空间分析功能,建立馆藏空间基础地理信息模型,将馆藏资源的属性数据与空间数据相关联,实现GIS在馆藏信息资源空间管理上的应用。系统支持具有不同使用权限的使用者在虚拟环境中实现馆藏资源的管理、检索、查询、分析和应用功能,读者可以方便地进行空间数据和属性数据的双向查询。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[93-97]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于Nutch的Web网站定向采集系统]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[徐健;张智雄;]]></FullName>
+<Organization><![CDATA[中国科学院国家科学图书馆;中山大学资讯管理系;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[04]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[网站定向采集系统;Nutch;网站抓取;网页去噪]]></Keyword>
+<Keyword Lang="en"><![CDATA[Targeted websites harvest system Nutch Website crawl Web page denoising]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[在对目前具有代表性的开源网络抓取软件Nutch、Heritrix、WCT、Web-Harvest进行比较分析的基础上,提出基于Nutch的Web网站定向采集系统,并对种子站点的选取、抓取过程管理、网页去噪、新种子站点的发现等关键问题进行重点探讨。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[1-6]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于Hadoop的海量共现矩阵生成方法]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[杨代庆;张智雄;]]></FullName>
+<Organization><![CDATA[中国科学院国家科学图书馆;中国科学技术信息研究所;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[04]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[Hadoop;MapReduce;共现矩阵;开源软件]]></Keyword>
+<Keyword Lang="en"><![CDATA[Hadoop MapReduce Co-occurrence matrix Open-source-software]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[海量数据的处理分析是当前信息处理技术的热点之一,介绍开源并行系统Hadoop的体系结构以及基于Hadoop的MapReduce编程框架,并在Hadoop基础上提出一种通过多重MapReduce操作,实现海量共现矩阵的生成方法。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[23-26]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[主体知识交互中的会话策略研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[张少龙;]]></FullName>
+<Organization><![CDATA[武汉大学信息管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[04]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[主体;知识交互;会话;KQML]]></Keyword>
+<Keyword Lang="en"><![CDATA[Agent Knowledge interchanging Conversation KQML]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[主体间知识交互的过程是一个复杂的过程,需要一个会话策略来规范主体间的交互行为,保证交互的成功。提出一种基于扩充的KQML模拟TCP协议中的握手机制的会话策略实现方法,该方法能够较好地解决主体交互中会话连接、消息的有序可靠传输等问题。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[57-63]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于开源软件构建数字图书馆的知识组织体系]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[白海燕;姜波;]]></FullName>
+<Organization><![CDATA[中国科学技术信息研究所;燕山大学图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[04]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[知识组织系统;开源软件;数字图书馆]]></Keyword>
+<Keyword Lang="en"><![CDATA[Knowledge organization system Open source software Digital library]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[分析数字图书馆知识组织体系构建的层次与结构,围绕知识组织系统的构建与管理、知识组织系统的互操作、知识组织系统的存储与管理、语义元数据的生成系统4个组成部分,选取相关的开源软件,对每一结构在数字图书馆知识组织过程中的功能和作用进行说明,并对数字图书馆的知识组织体系的构建提出最佳实践和应用说明。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[7-13]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[美国学校图书馆馆员协会推出新网站]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> </Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[04]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[学校图书馆;媒体专家;http;学校管理人员;纵向调查;Jacobsen;搜索功能;Melissa;领域专家;]]></Keyword>
+</Keywords>
+<PageScope><![CDATA[13]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[数字图书馆网格服务描述机制研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[张自然;董慧;]]></FullName>
+<Organization><![CDATA[华中师范大学信息管理系;武汉大学信息资源研究中心;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[04]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[数字图书馆;网格;服务描述;本体]]></Keyword>
+<Keyword Lang="en"><![CDATA[Digital library Grid Service description Ontology]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[将数字图书馆网格中的服务特征进行分类,基于这些特征分类进行多属性的数字图书馆网格服务描述,就数字图书馆网格中服务的语义描述层次问题进行探讨,提出基于本体的数字图书馆网格服务语义描述模型。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[27-32]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[数字仓储中复合数字对象相关标准比较研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[马建霞;]]></FullName>
+<Organization><![CDATA[中国科学院国家科学图书馆兰州分馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[04]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[复合数字对象;数字仓储;METS;MPEG-21 DIDL;OAI-ORE]]></Keyword>
+<Keyword Lang="en"><![CDATA[Compound digital object Digital repository METS MPEG-21 DIDL OAI-ORE]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[介绍复合数字对象相关的几个标准:METS、MPEG-21 DIDL和OAI-ORE,分析它们的基本数据模型、应用情况及特点,并重点对它们对数字处理方式进行对比。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[33-39]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[图书馆网站满意因素微观自主评价软件的设计]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[丁晟春;李冲;李莉;王小庆;]]></FullName>
+<Organization><![CDATA[南京理工大学经济管理学院信息管理系;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[04]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[图书馆网站;满意因素;自主评价;应用软件]]></Keyword>
+<Keyword Lang="en"><![CDATA[Library websites Satisfaction factor Self-evaluation Application software]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[为找出图书馆网站影响用户满意的微观因素,在提出弹性化微观自主评价的思想上,设计一套自主评价软件,供各个图书馆网站机构根据自身需要,自主选择适合自己的微观评价方案,对用户满意的底层影响因素进行自行诊断。该软件是一个高度可自定义的系统,图书馆管理员可以使用系统提供的指标体系模板创建专家权重调查问卷,也可以对创建的问卷自定义,得出各级指标题的权重,同时根据该指标体系自动创建带有问题项的普通用户满意因素调查问卷。最后对用户的调查数据进行各类统计和分析,通过三维可视化图形的方式呈现给图书馆管理员,得出今后图书馆网站需要改进的各微观因素。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[40-43]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[虚拟社区中知识交流的特点分析——基于CSDN技术论坛的实证研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[彭红彬;王军;]]></FullName>
+<Organization><![CDATA[北京大学信息管理系;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[04]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[虚拟社区;知识交流;复杂网络]]></Keyword>
+<Keyword Lang="en"><![CDATA[Virtual community Knowledge communication Complex network]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[以国内著名的技术网络论坛CSDN为研究实例,从中抽取出知识交流网络,采用复杂网络的分析方法进行分析,试图定量化地揭示虚拟社区中知识交流的特点。论文一方面分析知识交流网络的基本统计量,指出它具备无标度性质和小世界效应,并对其成因进行分析;另一方面通过分析知识交流网络中的用户三角形,揭示了虚拟社区中知识传播的两种基本图式。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[44-49]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[网络专题知识库关键技术的研究与实现]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[谈春梅;段卫华;曹松强;]]></FullName>
+<Organization><![CDATA[南京邮电大学图书馆;南京邮电大学计算机学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[04]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[网络专题知识库;网页元数据采集;知识点挖掘;数据快速转换]]></Keyword>
+<Keyword Lang="en"><![CDATA[Network subject knowledge database Web pages metadata acquisition Knowledge point mining Data fast transformation]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[使用Visual Studio.NET开发平台,C#程序设计语言,采用XML网页元数据描述框架,对网络专题知识库系统进行设计开发。对该系统的HTML网页元数据采集与XML文件生成、知识点挖掘、网络专题知识XML文件与关系型数据库快速转换等关键技术进行研究与实现。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[70-74]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[美国图书馆协会发布图书馆专业核心资质标准]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> </Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[04]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[美国图书馆协会;图书馆专业;资质标准;图书馆教育;图书馆员;高校图书馆;研究图书馆;专业人员;公共图书馆;图情;]]></Keyword>
+</Keywords>
+<PageScope><![CDATA[74]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于主题图的旅游文献组织方法研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[李清茂;]]></FullName>
+<Organization><![CDATA[阿坝师范高等专科学校计算机科学系;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[04]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[旅游文献;主题图;信息资源;信息组织]]></Keyword>
+<Keyword Lang="en"><![CDATA[Tourism document Topic maps Information resources Information organization]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[课题选取四川省阿坝州旅游文献信息资源作为研究个案,按照主题图(Topic Maps)的标准,分析旅游文献组织过程中主题及类型选取原则,定义旅游文献各种主题类型之间的关联关系,结合主题图工具软件提出旅游文献主题图构建方法,并展示旅游文献主题图的组织效果。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[82-87]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于一种映射计算模型的应用纲要编码方式]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[Carol Jean Godby;Devon Smith;Eric Childress;娄秀明;]]></FullName>
+<Organization><![CDATA[OCLC;华东师范大学信息学系;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[03]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[应用纲要;Dublin Core;Dublin Core术语;语义互操作;MARC;元数据映射表]]></Keyword>
+<Keyword Lang="en"><![CDATA[Application profiles Dublin Core Dublin Core Terms Semantic interoperability MARC Metadata crosswalks]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[OCLC的自动元数据映射服务(Godby,Smith and Childress,2008)一文规范了映射的概念。如Gill等所定义的,隐藏起具体的技术细节,而以语义元素的对等关系作为中心内容。这样做可以让元数据专家(他们通常并不是程序员)负责建立映射所需的逻辑关系电子表格,程序据此自动将其转换成可执行的代码。论述DC-Term(限定版DC)应用纲要与MARC映射的管理及实现方法。对应用纲要进行编码时,映射方案需要在对照表的基础上增加两项内容:一是标注元素所属的命名域,二是标注上位元素和下位元素的关系,例如DC的Cov-erage(范围)元素和Spatial(空间)元素就存在这种关...]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[15-22]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[资源集合/个体资源元数据关系描述及实现]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[Allen H.Renear;Karen M.Wickett;Richard J.Urban;David Dubin;Sarah L.Shreeves;张海霞;]]></FullName>
+<Organization><![CDATA[美国伊利诺斯州大学科学与学术信息学研究中心;上海大学图书情报档案学系;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[03]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[元数据;都柏林核心;资源集合;情境;逻辑;推理]]></Keyword>
+<Keyword Lang="en"><![CDATA[Metadata Dublin Core Collections Context Logic Inferencing]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[只要是涉及资源集合搜索,现代检索系统一般都忽略了资源集合元数据的问题。而要揭示资源集合层次的信息,一种可选的方法是通过获得资源集合级和文献单元级的元数据,从而深刻理解它们之间的关系。介绍一个对资源集合与文献单元元数据关系提供分类逻辑框架的开发项目。这个逻辑构架支持:元数据规范的开发者定义元数据元素;元数据创建者描述对象;系统设计者实现应用系统的开发,该系统能够充分利用资源集合级元数据所带来的好处。介绍资源集合与文献单元元数据之间存在的三类关系实例:属性/值传递、值传递和值约束,表明即便是对于这些简单的例子,一个精确的公式除了要符合一阶谓词逻辑之外,还需要引入模态概念。这些公式也属于...]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[23-29]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[词性标注的方法研究——结合条件随机场和基于转换学习的方法进行词性标注]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[阴晋岭;王惠临;]]></FullName>
+<Organization><![CDATA[中国科学技术信息研究所;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[03]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[词性标注;条件随机场;基于转换;错误驱动]]></Keyword>
+<Keyword Lang="en"><![CDATA[POS tagging CRF TBL Error-driven]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[词性标注是语料库建设中的重要环节,同时也是自然语言处理领域的基础研究课题。针对词性标注任务中统计处理和规则处理两种方法各自的特点和局限,提出融合条件随机场模型和基于转换学习的方法来进行自动词性标注的方案。实验结果表明,该方案能够有效地提高词性标注的正确率。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[46-51]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于句子关系图的网页文本主题句抽取]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[何维;王宇;]]></FullName>
+<Organization><![CDATA[大连理工大学管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[03]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[主题句;句子关系图;句子相似度]]></Keyword>
+<Keyword Lang="en"><![CDATA[Topic sentence Sentence relationship map Sentence similarity]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[针对网页文本结构信息少、噪声大的特点,将句子看作点,将句子间的相似性看作边,用句子关系图描述文本中句子间的关系。抽取文本主题句的任务转化为搜索图中边最多的点。利用语义词典,将句子相似度定义为句子语义相似度,解决短文本词频相似度低的问题。选用互联网公开语料进行测试,抽取的主题句达到平均80.6%的可接受性。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[57-61]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[网络信息链的分析流程与重构方法]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[张军;]]></FullName>
+<Organization><![CDATA[中国人民大学信息资源管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[03]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[网络信息链;信息链分析;信息链设计;信息生态]]></Keyword>
+<Keyword Lang="en"><![CDATA[Web information chain Analysis of information chain Design of information chain Information ecology]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[明确网络信息链的5步骤分析流程,介绍信息链重构多途径多级利用、生产力、激励相容三原则,借鉴生态学的食物链设计方法,阐述增益环、减耗环、回收利用环、功能复合环4种信息链的重构方法。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[62-68]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[清华大学图书馆英文网站系统架构设计与实现]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[姚飞;陈武;赵阳;]]></FullName>
+<Organization><![CDATA[清华大学图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[03]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[系统架构;网站;内容管理系统;TPI WCCM;反向代理]]></Keyword>
+<Keyword Lang="en"><![CDATA[Architecture Website CMS TPI WCCM Reverse proxy]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[介绍清华图书馆英文网站的系统架构设计和实现。选用清华同方知网网站内容管理系统进行图书馆英文网站的后台管理,通过FTP和反向代理实现网站的静态和动态内容的异地跨平台发布。在保证系统稳定、安全、可靠运行的同时,实现系统的冗余备份。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[91-95]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[OAI-PMH在基于Mediawiki的学科信息门户整合中的应用]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[唐毅;杨雁;]]></FullName>
+<Organization><![CDATA[湘潭大学公共管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[03]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[学科信息门户;Mediawiki;信息整合;元数据]]></Keyword>
+<Keyword Lang="en"><![CDATA[Subject information gateway Mediawiki Information integration Metadata]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[为实现学科信息门户的资源整合,提出利用OAI-PMH作为中间元数据实现数据交换的思路。首先对OAI及OAI-PMH进行介绍,其次对OAI_DC和Mediawiki元数据进行对比,最后对元数据的转换进行分析并对其结果进行展示。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[80-84]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[《自然》杂志走向三维化]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> </Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[03]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[三维化;分子云;恒星形成;文件格式;三维交互;数据立方体;Acrobat;工具条;软件支持;医学成像技术;]]></Keyword>
+</Keywords>
+<PageScope><![CDATA[97]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[“元数据与语义技术和社会性应用”专辑:都柏林核心元数据2008年会论文选译]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[刘炜;]]></FullName>
+<Organization><![CDATA[上海图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[03]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[论文选;书目数据;语义化;FRBR;格式转换;遗留系统;会议文集;数据生成;会议论文集;书目控制;]]></Keyword>
+</Keywords>
+<PageScope><![CDATA[1-2]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[将图书馆目录纳入语义万维网]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[Martin Malmsten;李雯静;]]></FullName>
+<Organization><![CDATA[瑞典国家图书馆LIBRIS部;华东师范大学信息学系;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[03]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[RDF;图书馆编目;语义万维网;关联数据集;持续标识符;FRBR;SPARQL]]></Keyword>
+<Keyword Lang="en"><![CDATA[RDF Library catalogue Semantic Web Linked data Persistent identifiers FRBR SPARQL]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[图书馆书目包含海量结构化、高质量的数据,然而这些数据通常无法应用于语义万维网。介绍使瑞典联合书目(LIBRIS)符合语义万维网和链接数据(LinkedData)协议规范的工具和技术,讨论个体资源的精确描述问题,并重点介绍资源之间的链接以及数据获取机制等方面的内容,同时还提出在同一作品的不同记录之间建立链接的方法。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[3-7]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[LCSH,SKOS和关联数据]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[Ed Summers;Antoine Isaac;Clay Redding;Dan Krech;姚小乐;刘炜;]]></FullName>
+<Organization><![CDATA[美国国会图书馆;荷兰自由大学;华东师范大学信息学系;上海图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[03]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[元数据;语义网;受控词汇;SKOS;MARC;RDF;都柏林核心;标识符]]></Keyword>
+<Keyword Lang="en"><![CDATA[Metadata Semantic Web Controlled vocabularies SKOS MARC RDF Dublin Core Identifiers]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[论述将美国国会图书馆MARCXML格式的主题标目转换为SKOS(RDF编码格式)的技术方法。着重阐述SKOS词表的优势、可能的扩展方向以及与其他语义网词表的整合,如都柏林核心集。还介绍一个利用关联数据(LinkedData)技术在网上发布词表的Web应用。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[8-14]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[最新标签本体:标签和民俗分类法语义模型]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[Hak Lae Kim;Simon Scerri;John G.Breslin;Stefan Decker;Hong Gee Kim;丁鹏宇;]]></FullName>
+<Organization><![CDATA[爱尔兰国立大学数字化企业研究所;韩国首尔国立大学生物医学知识工程实验室;华东师范大学信息学系;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[03]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[标签;标签标注;标签本体;民俗分类;语义标注]]></Keyword>
+<Keyword Lang="en"><![CDATA[Tag Tagging Tagging Ontology Folksonomy Semantic tagging]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[当前,人们越来越关注协作化标签系统中标签数据的表示和共享。传统的标签(指随意标注的、没有与结构化本体相关联的标签)由于语言和语法的差异以及录入错误等,不适于做协作化处理。而且标签反映的是用户个人的观点,也不对同义词、词形变化或者其他对照映射关系做规范处理。因此笔者认为,标签的常规处理方法对语义协作的贡献非常有限,即便是有,要让计算机实现自动共享也是极其困难的。在语义层面上讨论数种协作标签标注的方法,提出一个标签协作标注和设计民俗分类法的概念模型,同时比较已有的标签本体,提出一个评价标准,并参照该标准讨论这些标签本体的优缺点。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[30-37]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[从社会性标签中进行语义关系抽取——一种元数据生成方法]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[崔晓莉;]]></FullName>
+<Organization><![CDATA[美国雪城大学;华东师范大学信息学系;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[03]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[关系抽取;标签;搜索引擎;社会性语义;元数据]]></Keyword>
+<Keyword Lang="en"><![CDATA[Relation extraction Tags Search engine Social semantics Metadata]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[标签形式的社会性语义越来越占据主导地位,使元数据界在这种新形式的信息内容表达和检索方面面临机遇和挑战。其中,主要的挑战是与标签相关的语境信息的缺失。以Flickr标签为例,对如何利用社会性语义资源来丰富主题元数据进行了实验。实验过程包含4个步骤:收集Flickr标签样本;通过共有信息计算标签间的同现情况;通过Google检索结果来追踪标签对的语境信息;用自然语言处理和机器学习技术来抽取标签间的语义关系。本实验能够利用Google搜索结果构建语境库,并且以自然语言处理和机器学习算法对这些语句进行处理。这种新方法对于赋予标签对以一定语义关系有相当高的准确率。也探讨该方法在利用社会性语义丰富的主题元...]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[38-45]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[HathiTrust将与OCLC合作以提高其数字馆藏的可发现性]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> </Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[03]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[OCLC;数字馆藏;HathiTrust;机构库;数字环境;馆藏管理;信息保存;可访问性;电子书籍;数字内容;]]></Keyword>
+</Keywords>
+<PageScope><![CDATA[51]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[XML结构化检索研究及实现]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[刘丹;陆伟;张宓;]]></FullName>
+<Organization><![CDATA[武汉大学信息资源研究中心/武汉大学语言科学技术与当代社会建设跨学科创新平台;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[03]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[XML检索;CAS检索;结构化检索;WHU-XML]]></Keyword>
+<Keyword Lang="en"><![CDATA[XML retrieval CAS retrieval Structured retrieval WHU-XML]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[针对信息检索角度的XML的结构化检索问题,利用基于倒排文件的方法,使用NEXI作为检索语言,在基于XML的数字图书馆检索实验系统WHU-XML上对其进行实现,并具体分析查询语言的解析方法以及所采用的结构化检索算法。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[52-56]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于聚类的网络舆情热点发现及分析]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[王伟;许鑫;]]></FullName>
+<Organization><![CDATA[华东师范大学信息学系;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[03]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[网络舆情;热点发现;舆情分析;文本聚类]]></Keyword>
+<Keyword Lang="en"><![CDATA[Online public opinion Hotspot detection Public opinion analysis Document clustering]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[根据对网络舆情分析的需求,构建出基于聚类的网络舆情热点发现及分析系统。通过对样本网页文本的特征提取,构建向量空间模型,使用OPTICS算法获取网页热点簇,根据热点簇特征向量对网页进行二次聚类,从而获取关于舆情的时间演变模式,为相关领域研究提供决策支持。通过二次聚类,提高舆情网页相关度的质量,使网络舆情分析更为准确可靠。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[74-79]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[以用户为中心的新型OPAC系统——基于“Library2.0产品”概念下的产品设计]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[聂娜;翟晓娟;]]></FullName>
+<Organization><![CDATA[南京大学图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[03]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[Library2.0;Library2.0产品;OPAC]]></Keyword>
+<Keyword Lang="en"><![CDATA[Library2.0 Product Library2.0 OPAC]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[基于Library2.0研究热情高涨但实物匮乏的现状,对Library2.0产品定义概念,并以此入手,设计以用户为中心的新型OPAC系统。对该系统设计中的集成性、人性化、个性化和开放性4大特征,分别分析其设计理念和模块架构,并提出实用解决方法和相关算法实例。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[85-90]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[突破传统:欧洲召开首次图书馆开源软件方案会议]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> </Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[03]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[软件方案;centure;政府机构;创新经验;计算机游戏;切实可行的建议;软件学;管理学大师;Context;think;]]></Keyword>
+</Keywords>
+<PageScope><![CDATA[95]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[第二届“数字图书馆与开放源码软件”(DLIB & OSS 2009)学术研讨会在北京召开]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> </Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[03]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[开放源码软件;数字图书馆;DLIB;OSS 2009;中国图书馆学会;图书馆副馆长;图书馆系统;图书馆应用;图书馆信息系统;大学图书馆馆长;]]></Keyword>
+</Keywords>
+<PageScope><![CDATA[96-97]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[都柏林核心元数据计划在新加坡成立公司]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> </Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[03]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[国家图书馆;法律实体;Dublin;国家档案馆;技术文档;服务委员会;联合信息;学术团体;担保责任;Entity;]]></Keyword>
+</Keywords>
+<PageScope><![CDATA[97]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[LibLime宣布支持社区数字档案开源软件Kete]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> </Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[03]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[数字档案;Kete;LibLime;机构库;描述信息;历史博物馆;安装服务;培训服务;俄亥俄州;视频记录;]]></Keyword>
+</Keywords>
+<PageScope><![CDATA[56]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[网络广告界面评价中的人机交互理论——网络广告交互界面与广告效果关系模型]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[王建冬;]]></FullName>
+<Organization><![CDATA[北京大学信息管理系;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[03]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[网络广告;人机交互;启发式评价;广告效果评价]]></Keyword>
+<Keyword Lang="en"><![CDATA[Network advertising HCI Heuristic evaluation Advertising effectiveness evaluation]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[首先阐述网络广告的交互性特征、人机交互界面评价理论以及将人机交互理论引入到网络广告界面评价中的可行性;其次,讨论如何利用广告效果理论对传统可用性工程方法进行改造,并提出网络广告交互界面与广告效果关系模型;基于上述讨论,设计一组实验以验证该模型的有关假设。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[69-73]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[ALA发布经济萧条时期的图书馆推广工具箱]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> </Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[02]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[ALA;经济萧条时期;美国图书馆协会;经济困难时期;创新计划;推广人员;http;]]></Keyword>
+</Keywords>
+<PageScope><![CDATA[106]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于Mashup的推荐书目服务的实现]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[李凌;马蕾;]]></FullName>
+<Organization><![CDATA[四川大学公共管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[02]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[Mashup应用;推荐书目服务;双层增值;图书评论]]></Keyword>
+<Keyword Lang="en"><![CDATA[Mashup application Book recommendation service Double value-added Book review]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[分析在图书馆特色信息服务中Mashup应用的必要性,针对双层增值指出现有Mashup应用的不足。以服务增值为原则,开发出一种图书馆推荐书目与书评信息的专业应用方案。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[107-111]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[Europeana:欧洲数字图书馆]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> </Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[02]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[数字图书馆;Europeana;国家图书馆;虚拟图书馆;视听资料馆;文化机构;网络门户;国际文献;广播节目;阅读文本;]]></Keyword>
+</Keywords>
+<PageScope><![CDATA[112]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[OCLC发起WorldCat Mobile实验项目]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> </Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[02]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[OCLC;信息搜索;应用程序;应用软件;在线平台;便携式电脑;定位功能;FedEx;权限范围;连锁机构;]]></Keyword>
+</Keywords>
+<PageScope><![CDATA[112-113]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[会议将开辟“数字图书馆开源软件应用培训”专题分会]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> </Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[02]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[数字图书馆;开放源码软件;软件应用;机构仓储;对象内容;检索系统;平台应用;]]></Keyword>
+</Keywords>
+<PageScope><![CDATA[113]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[2009“数字图书馆与开放源码软件”(DLIB & OSS 2009)学术研讨会征文通知]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <Organization><![CDATA[中国科学院国家科学图书馆;中国图书馆学会;数字图书馆研究与建设专业委员会;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[02]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[开放源码软件;DLIB;OSS 2009;数字图书馆;中国图书馆学会;图书馆电子信息;国际图联;投稿截止日期;下载专区;格式规范;]]></Keyword>
+</Keywords>
+<PageScope><![CDATA[114]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[Open Text发布下一代网络解决方案]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> </Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[02]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[网络解决方案;Open Text;用户体验;全球网站;提供商;应用程序;网站管理;企业内容管理;外联网;公司政策;]]></Keyword>
+</Keywords>
+<PageScope><![CDATA[45]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[企业信息系统用户接受行为影响因素研究——以ERP系统为例]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[甘利人;许应楠;]]></FullName>
+<Organization><![CDATA[南京理工大学经济管理学院信息管理系;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[02]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[信息系统;技术接受行为;影响因素分析;结构方程模型;ERP]]></Keyword>
+<Keyword Lang="en"><![CDATA[Information system Technology acceptance behavior Influence factor analysis Structural equation model ERP]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[构建企业信息系统用户接受概念模型,并以ERP系统作为企业信息系统为例进行实证研究,采用结构方程分析方法对概念模型中结构变量间的关系假设进行验证。研究结果表明,模型中提出的多数变量对持续使用意图具有直接或间接影响,对于了解企业信息系统使用中的用户行为作用具有重要意义。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[71-77]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+</Bibliographies>

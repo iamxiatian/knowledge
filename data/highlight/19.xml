@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<publication marker="wanghongmei">
+    <journal>International Journal of Information Management</journal>
+    <time>Volume 36, Issue 5, October 2016, Pages 735-747</time>
+International Journal of Information Management
+    <title>A multicultural study of biometric privacy concerns in a fire ground accountability crisis response system</title>
+    <author>Darrell Carpenter.</author> Author links open the author workspace.Opens the author workspacea. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace<author>Michele Maasberg.</author> Author links open the author workspace.Opens the author workspacea. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace<author>Chelsea Hicks.</author> Author links open the author workspace.Opens the author workspacea. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace<author>Xiaogang Chen.</author> Author links open the author workspace.Opens the author workspaceOpens the author workspaceb. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace
+a
+Department of Information Systems and Cyber Security, The University of Texas at San Antonio, 1 UTSA Circle, San Antonio, TX 78249, United States
+b
+School of Business Administration at Southwestern University of Finance and Economics, No. 555 LiuTai Ave, Wenjiang District, Chengdu 610074, China
+Show more
+    <doi>https://doi.org/10.1016/j.ijinfomgt.2016.02.013</doi>Get rights and content
+Highlights
+<highlight id="1">Anglo and Hispanic ethnic groups perceive biometric privacy issues differently.</highlight>
+<highlight id="2">Use of biometric systems may alleviate some, but not all, types of privacy concerns.</highlight>
+<highlight id="3">Anglo and Hispanic ethnic groups reacted differently after exposure to system.</highlight>
+<highlight id="4">Biometric data vulnerability concerns of Anglos were lower than Hispanics after use.</highlight>
+<highlight id="5">Hispanics had higher accountability concerns related to biometrics prior to use.</highlight>
+
+<abstract><![CDATA[
+Abstract
+Biometric technology is rapidly gaining popularity as an access control mechanism in the workplace. In some instances, systems relying on biometric technology for access control have not been well received by employees. One potential reason for resistance may be perceived privacy issues associated with organizational collection and use of biometric data. This research draws on previous organizational information handling and procedural fairness literature to frame and examine these underlying privacy issues.  ]]><h target="2" match="part">Perceived accountability, perceived vulnerability, and distrust were distilled from the previous literature as the primary dimensions of employee privacy concerns related to biometric technology.</h><![CDATA[  ]]><h target="1" match="part">This study assesses the effects of these privacy concerns, how they vary based on the cultural influences of Anglos and Hispanics.</h><![CDATA[
+
+Fire ground accountability is a critical management objective in the firefighting domain. In multi-unit or multi-agency crisis response scenarios, the on-scene incident commander tracks and accounts for each first responder. This research designed and deployed a new fire ground accountability system that tracked firefighters through finger pattern-based biometric logins to their assigned positions on the firefighting apparatus. An instrument measuring level of privacy concern on three underlying dimensions and demographic data was developed, validated and administered in a quasi-experimental field study. A pre-test–post-test survey methodology was employed to detect potential differences in privacy concerns as familiarity with the system increased. ]]><h target="1" match="part"> The study shows that Anglo and Hispanic subjects frame privacy issues differently associated with use of biometric technology in a fire ground accountability system.</h><![CDATA[  ]]><h target="2" match="part">Finally, the study showed that some privacy concerns such as distrust and perceived vulnerability can be alleviated through system use with changes in post-use privacy concerns moderated by ethnic affiliation.</h><![CDATA[
+
+]]></abstract>
+    
+    <keywords>Crisis response systems</keywords>
+    <keywords>Biometrics</keywords>
+    <keywords>Privacy</keywords>
+    <keywords>Case study</keywords>
+    <keywords>Ethnicity</keywords>
+    <keywords>Human-computer interaction</keywords>
+    
+    <section name="Introduction" category="introduction"><![CDATA[
+1. Introduction
+The use of biometric technology has grown substantially in recent years. In many instances, this technology has been well-received. One study reported that only eight percent of users who were required to have a biometric embedded in their driver’s license thought the technology invaded their privacy (Jain, Bolle, & Pankanti, 2002). Despite the success of biometrics in some contexts, anecdotal evidence from privacy organizations (Abernathy & Tien, 2006; EFF, 2006; O’Donoghue, 2001) suggests that use of biometrics in the workplace results in significant employee privacy concerns. Additionally, case law shows that the deployment of biometrics in the workplace may lead to a number of undesirable outcomes, including enticing employees to unionize (York & Carty, 2006) or seek renegotiation of existing labor contracts (Kelly & Herbert, 2004).
+Employee privacy concerns may be rooted in the uncertainty of how biometric data may be used. For instance, it is well-known that carriers of certain genetic disorders including Down’s syndrome can be detected from fingerprint patterns (Faundez-Zanuy, 2005; Zhai & Qui, 2010). Additionally, some forms of skin cancer can be detected through vascular scans (Hay, 2003). Using biometric data for such functions could allow systematic discrimination of people who carry certain genetic markers or diseases.
+An employee’s trust in the organization to act ethically is also at issue. While organizations may claim they will only use biometric technology for system access, there is little legal protection for employees if the organization decides to expand its usage of collected biometric data (Levinson, 2009). While the stated purpose of a biometric authentication system may be securing the organization’s information technology resources, unscrupulous organizations could surreptitiously use biometric data for purposes unrelated to this espoused objective. Examples of potential surreptitious use include criminal history inquiries (Cole, 2004) and immigration status checks (Bump, 2008; Zureik, 2004).
+ ]]><h target="2" match="part">The specific privacy concerns associated with biometric technology in the workplace have not been fully explored and defined. This research identifies three core dimensions of biometric privacy concern and assesses their impact on acceptance and use of a crisis response system.</h><![CDATA[ Improved knowledge of employee privacy concerns will help organizations address those concerns and mitigate negative impacts on the acceptance of systems incorporating biometric technology. ]]><h target="3" match="part"> This research further examines the influence of Anglo and Hispanic ethnic cultural differences on privacy concerns within the context of a biometrically-enabled fire ground accountability system.</h><![CDATA[
+
+]]></section>
+    
+    <section name="Literature review" category="background"><![CDATA[
+2. Literature review
+2.1. Dimensions of information privacy concern in the employment context
+The introduction of new technologies that are construed to impact privacy may lessen employee acceptance of new systems. Jones, Anton, and Earp (2007) found that there was substantial uncertainty surrounding the privacy impact of digital authentication technologies. They further found that a third of respondents were concerned with the privacy implications of fingerprint scans and that the level of concern was highly context dependent. A review of the extant literature on employee privacy reveals three primary themes that provide insight on the issue of workplace privacy: 1) the scope of monitoring, 2) whether the system is procedurally just or fair, and 3) whether the users trust the organization to use monitoring data only for its intended purpose. These themes describe the organizational practices that generate concern and are reframed below in an employee-centric context.
+2.2. Employee accountability perceptions
+Perceived accountability is the degree to which employees believe they will be held more accountable for their actions when they log in with a biometric sample than when they log into a system via other means. Employees expect to provide limited personal information and accept some level of job performance monitoring in exchange for appropriate compensation. The collection of routine personal information and performance-related monitoring is usually viewed as being relevant to the employers’ business objectives. Previous studies have found that employees believe it is acceptable for management to monitor employees (Grant & Higgins, 1991; Oz, Glass, & Behling, 1999). However, other studies have argued that employers need to look beyond their legal rights and consider the adverse effects on employee morale when considering monitoring efforts, especially when monitoring personal conduct during break periods or activities outside the work environment (Friedman & Reed, 2007; Tolchinsky et al., 1981). When organizational monitoring activities are not directly related to performance, employees tend to perceive the monitoring as an invasion of privacy (Alder, 2001; Alder & Ambrose, 2005; Alge, 2001; Ambrose, Alder, & Noel, 1998).
+While employees often perceive a right to privacy in email communications, employers may also assert a right to monitor these systems. In early email system deployments, the privacy rights of employees with regard to employer-owned email systems were often unclear (Cappel, 1995; Oz et al., 1999). More recently, legal rulings have clearly favored the right of the employer to monitor email if they have reasonable business concerns for doing so (Friedman & Reed, 2007). However, Sipior and Ward (1995) assert that employees are likely to perceive email monitoring as invasive. In terms of monitoring scope, the email example supports the notion that employees will not accept broad monitoring activities even when legitimate business purposes are evident (Cappel, 1995).
+Although employees may perceive different types of electronic monitoring as invasive, the impact of this invasiveness is sparsely documented through empirical evidence. Research has found that employees modify their behavior when they are being monitored (Stanton & Weiss, 2000). For example, more skilled employees were found to produce more work when they perceived they were being monitored while low skill employees were found to produce less work when being monitored (Aiello & Kolb, 1995; Urbaczewski & Jessup, 2002). Both more skilled and less skilled employees reported higher stress when being monitored, and lower job satisfaction (Aiello & Kolb, 1995; Urbaczewski & Jessup, 2002). Overall, the literature on electronic monitoring supports the notion that employees are concerned about systematic monitoring in the workplace and desire to retain some level of anonymity (Grant & Higgins, 1991; Oz et al., 1999). We posit that electronic monitoring leads to perceptions of increased accountability for an employee’s actions. This perception, which may result in adverse outcomes for the employee, creates privacy concerns in the employment context.
+2.3. Employee vulnerability perceptions
+Perceived vulnerability is the degree to which employees believes their stored biometric sample is susceptible to both external threats and internal unauthorized access. Stone, Gueutal, Gardner, and McClure (1983) suggest that individuals are concerned with collection, storage, use and release practices of organizations. Specific areas of concern include understanding what is being collected, the capability to impact that collection, the opportunity to consent to collection, and the physical or psychological intrusiveness of the information collection procedures (Stone & Stone, 1990). Empirical evidence supports this contention through findings that perceptions of privacy invasions were correlated with consequences after disclosure and level of control over information (Fusilier & Hoyer, 1980; Stone et al., 1983; Tolchinsky et al., 1981). Culnan (1993) noted similar dimensions of acquisition, use and transfer of information as privacy concerns in direct marketing campaigns. There were different nuances to the concerns when considering internal customers, external customers or prospective customers. Brandimarte, Acquisti, and Loewenstein (2010) found that users with greater control over publication were more willing to disclose private information, even when they knew they could not control subsequent access to the published data.
+In an empirical study, Smith, Milberg, and Burke (1996) found that collection, unauthorized use, errors, and improper access were significant concerns regarding organizational privacy practices. They also identified reduced judgment (reliance on automated decision-making algorithms) and combining of data (integrating data collected for different purposes) as secondary concerns related to organizational practices. Smith et al. (1996) also found significant correlations between privacy concerns and personality factors including trust/distrust, paranoia, and social criticism. Stewart and Segars (2002) validated the Smith et al. (1996) model using confirmatory factor analysis. They suggested procedural fairness (Culnan & Armstrong, 1999), environmental control (Hoffman, Novak, & Peralta, 1999), and control over secondary use of information (Hoffman et al., 1999) as additional factors potentially impacting concern for organizational privacy practices.
+Procedural fairness is the perception that an individual is treated fairly by organizational processes or automated decision-making algorithms. Organizations that are perceived to exercise procedural fairness build trust when they act on behalf of individuals who cannot control the organization’s behavior (Culnan & Armstrong, 1999). The establishment of a trusting relationship between the individual and the organization is a key element as it may induce the individual to provide greater levels of private information (Hann, Hui, Lee, & Png, 2002; Josang, Ismail, & Boyd, 2007; Liu, Marchewka, & Ku, 2004; Liu, Marchewka, Lu, & Yu, 2005; Walczuch & Lundgren, 2004).
+A central tenant of procedural fairness is that the individual cannot act in his or her own best interest. Thus, the importance of procedural fairness in a given context is dependent upon the level of environmental control (Hoffman et al., 1999). Environmental control is the ability of the individual to control the actions of others involved in a transaction. It is primarily associated with commercial exchanges. In these exchanges, consumers who have a higher level of environmental control are less likely to be concerned with procedural fairness. However, despite an individual’s ability to control the primary transaction environment, that person may still be concerned about subsequent uses of the transaction information. Secondary use of information control describes the individual’s ability to influence further dissemination of information related to a transaction (Eddy, Stone, & Stone-Romero, 1999; Hoffman et al., 1999; Smith et al., 1996; Stone & Stone, 1990).
+In summary, empirical models have identified the collection of excessive information, unauthorized aggregation of data, lack of control, unauthorized use, data errors, reduced human involvement in decision making, and the fairness of the organization controlling the data as factors impacting privacy perceptions in various contexts. However, employees often lack insight into an organization’s specific activities related to these practices and thus the effect may be better captured with a more general sense of perceived vulnerability to undesirable information handling practices.
+
+2.4. Employee distrust
+Perceived distrust refers to the extent to which employees are concerned that the biometric data they provide will be used for purposes other than system authentication. Such unintended purposes include using a piece of biometric data to gain additional personal data about the subject (Woodward, 1997). As an example, genetic markers indicating the propensity for disease may be gleaned from some biometric samples (Prabhakar, Pankanti, & Jain, 2003). Additionally, it is theoretically possible to use stored authentication template data to re-create a significant portion of a person’s actual fingerprint (Jain, Flynn, & Ross, 2007). Other possible scenarios include using biometric samples to link data in ways not previously anticipated (Woodward, 1997). For example, an organization could use access door biometric login records in conjunction with soft-biometric camera data such as clothing characteristics or hair style to re-identify an otherwise anonymous person walking through publicly accessible areas of the organization (Bazzani, Cristani, & Murino, 2013; Shumann & Monari, 2014). Although the finger pattern recognition algorithms used by current devices do not record actual fingerprints many individuals perceive these devices as storing the actual fingerprint rather than a summary of pattern data. Thus, biometric systems users may be concerned about schemes that could provide additional information about the user without that user’s consent. There is a strong rational basis for these types of concerns among those with imperfect knowledge of the difference between a finger pattern-based authentication device and a fingerprint recording device. As an example, research studies have shown that otherwise anonymous fingerprint data can be used to determine gender with 80–90% accuracy (Dantcheva, Elia, & Ross, 2015). We posit that these concerns will be captured as a manifestation of the employee’s distrust or trust in the organization.
+Another area of potential user distrust in biometric systems involves technical limitations of the sensors and algorithms. Three characteristics of these systems often discussed in the literature are false acceptance rate (FAR), false rejection rate (FRR), and failure to acquire (FTA). FAR is the percentage of imposters that will be authenticated as legitimate users due to the inherent variability in the ambient environment, the imprecise presentation of biometric samples, and changes in the biometric feature itself that must be accommodated in the matching algorithms. Similarly, FRR is the percentage of legitimate users that will be rejected as imposters. A biometric authentication system can be tuned to reduce either FAR or FRR, but not both concurrently (Jain et al., 2007; Ratha, Connell, & Bolle, 2001). A third technical limitation of biometric authentication systems is FTA errors. FTA occurs when the sensor is unable to convert a supplied biometric sample into a usable digital format for authentication. This may be due to poorly maintained or damaged sensors as well as an inability to account for individual biometric samples that have peculiar properties. For a detailed discussion on the technical aspects of FAR, FRR, and FTA see Jain et al. (2007).
+FAR, FRR, and FTA are frequently mentioned in the literature as factors affecting both user perceptions of system performance and overall user satisfaction with the system (Braz & Robert, 2006; El-Abed, Gio, Hemery, & Rosenberger, 2012; Kukula, Sutton, & Elliott, 2010). There is, however, no known literature suggesting links between these system characteristics and user privacy perceptions. Because this work is specifically focused on trust/distrust as a privacy concern related to biometrics, we exclude potential FAR, FRR, and FTA distrust concerns as being out of scope in the privacy context.
+Although trust/distrust is extensively explored in the literature, its relationship to privacy remains a topic of debate. Most authors choose to work with either trust/distrust or privacy but not both (Gefen, Karahanna, & Straub, 2003; Hann et al., 2002; Hann, Hui, Lee, & Png, 2007; Hui, Teo, & Lee, 2007; Jarvenpaa, Tractinsky, & Vitale, 2000; Josang et al., 2007; Lee & Turban, 2001; McKnight, Choudhury, & Kacmar, 2002; Xu, Dinev, Smith, & Hart, 2008). Some authors characterize privacy as an antecedent for trust (Liu et al., 2004, 2005). Other researchers have reframed this relationship to focus on distrust (rather than trust) as a dimension of privacy concern. Westin (2003) notes a strong correlation between distrust and privacy concerns in public surveys measuring trust in both business and technology. Further, he reports that thirty percent of employees are concerned about employer handling of personnel data. While the literature shows a strong correlation between privacy and trust/distrust, the complexity of the models prevents the authors from drawing reliable conclusions about any causal nature of the relationship. Other authors prefer to model both privacy and trust/distrust as components of a “privacy calculus” determination (Dinev & Hart, 2006; Dwyer, Hiltz, & Passerini, 2007; Malhotra, Kim, & Agarwal, 2004). In these studies, the authors find strong statistical evidence that privacy concerns and trust/distrust perceptions combine to form an individual’s willingness to share private information. The authors found that not all privacy concerns can be overcome by trust in the organization, nor can distrust account for all privacy concerns. The conceptualization of these models places trust/distrust as a component of overall privacy concerns. Similar to Westin (2003), we adopt distrust as a form of organizational privacy concern in our study.
+2.5. The impact of ethnic cultural values on privacy
+The effect of cultural differences between nations has been studied extensively with most research building upon Hofstede’s (1980) definitions of cultural dimensions. Generally, this body of research shows that cultural influences are an important predictor of behavior (Hofstede, 2001; Oyserman, Coon, & Kemmelmeier, 2002; Triandis, 1995). Within this body of national-level research, there are several works suggesting that privacy concerns are intricately tied to cultural influences (Bellman, Johnson, Kobrin, & Lohse, 2004; Hann et al., 2002). While considerable effort has been aimed at national cultural differences, there is considerably less research studying cultural differences at other strata, particularly ethnic groups within the same country. However, Hofstede (1994) states that culture, as he defines it, may also apply to such ethnic groups.
+When studying cultural influences at an ethnic group level, rather than a national level, some researchers have advocated context-dependent methods (Markus & Kitayama, 1991; Triandis & Gelfand, 1998) or individual-level measurements (Gudykunst et al., 1996; Singelis, 1994; Singelis, Triandis, Bhawuk, & Gelfand, 1995). Studies adopting these ethnicity-centric approaches are still somewhat limited in scope. There are no known studies examining variations in employee privacy concerns among different ethnic groups within the same country. However, studies in other contexts such as Internet use further suggests that the level of privacy concerns may vary based on ethnic culture (Introna & Pouloudi, 1999; O’Neil, 2001). More specifically, previous research suggests that privacy concerns may vary based on the individualism/collectivism cultural dimension (Bellman et al., 2004; Hui et al., 2007; Xu et al., 2008).
+Social psychology researchers often associate the desire for personal privacy with western, predominantly individualistic cultures (Hann et al., 2002; Markus & Kitayama, 1991; Milberg, Burke, Smith, & Kallman, 1995; Oyserman et al., 2002; Rhee, Uleman, Lee, & Roman, 1995). These individualistic cultures are characterized as emphasizing status (Schwartz, 1990), the attainment of personal goals (Kim, 1994) and maintaining individual control over personal matters (Hui & Yee, 1994; Triandis, 1995). In contrast to these independent cultures, collectivist or interdependent cultures are often portrayed as less concerned with personal interests and more focused on meeting the needs of family or other referent groups (Hui, 1988; Oyserman et al., 2002; Triandis, 1995). Asian, African, and Latin American cultures are generally characterized as collectivist-oriented (Gaines et al., 1997; Hofstede, 1980; Marin & Triandis, 1985; Triandis et al., 1986). Members of collectivist cultures are expected to share their private matters with other members of the group (Triandis, 1995). In many cases the collective is viewed as having a fundamental right to know a member’s private thoughts and dictate how that member should think (Ho & Chui, 1994).
+A relatively small number of studies have empirically examined the cultural differences between Anglo-American and Latin American or Hispanic subjects. Shkodriani and Gibbons (1995) reported that Mexican university students exhibited lower levels of collectivism than American university students. This study used an older collectivism instrument designed by Hui (1988) which has frequently produced results at odds with those produced by other instruments. In an unpublished dissertation discussing the development and validation of a vertical individualism and collectivism instrument, Robert (1998) found American subjects significantly more individualistic and significantly less collectivist than Mexican subjects. Oishi (2000) found that Brazilian, Portuguese, and Puerto Rican subjects had significantly higher collectivist tendencies than Anglo populations in a study of the effects of goals as a prerequisite to personal well-being.
+In summary, cultural influences are widely accepted as factors that influence both thought and behavior. At a national level, differences in privacy concerns have been observed between collectivist and individualistic cultures. These cultural differences may impact the level and types of privacy concerns expressed a particular context. A summary of privacy construct definitions is provided in Table 1.
+Table 1. Operational definitions of privacy constructs.
+Construct	Operational definition
+Perceived accountability	The degree to which employees believe they will be held more accountable for their actions when they log in with a biometric sample than when they log into a system via other means
+Perceived vulnerability	The degree to which employees believe their stored biometric sample is susceptible to both external threats and internal unauthorized access
+Perceived distrust	The extent to which employees believe the entity storing their biometric sample will use it for purposes other than system authentication
+2.6. Hypotheses development
+This study examines privacy concerns related to biometric technology in the workplace. The privacy concerns were modeled as three constructs designed to capture user perceptions of privacy issues through the lens of a fire ground accountability system. The perceived accountability construct is the user’s perception of the covert recognition/electronic monitoring threat and is defined as the notion that users will be more accountable for their actions when they log in with a biometric sample than when they log into a system via other means. This is largely due to the user’s belief that a biometric authentication is difficult to refute. The number of alternative plausible explanations for a disputed log in is substantially lower when biometrics are employed and thus the users may feel that they are being held to a higher level of accountability. The perceived vulnerability construct is based on concerns about data aggregation, loss of control and unintended disclosure. It also describes the users’ feelings that the entity storing their biometric data may not be completely secure. Regardless of the users’ trust/distrust in the entity, they may question the entity’s ability to adequately protect the stored biometric samples from unintentional disclosure or compromise.
+
+Both perceived accountability and perceived vulnerability assume implicit trust in the organization to act with due diligence and benevolence toward the individual. A third and separate privacy concern relates to the users’ distrust of the organization. Distrust related to organizational use of biometric technology is drawn from the concepts of unintended functional scope and unintended application scope (Woodward, 1997) along with concerns for misuse of information. If the users believe that the organization storing their biometric templates will use them for undisclosed and unanticipated purposes other than system authentication, they are likely to be concerned about the impact of those other potential uses. The distrust construct captures this concern and is better suited to empirical testing than the unintended functional scope and unintended application scope constructs.
+While familiarity and the opportunity to use new technologies may alleviate some privacy concerns over time, there is little evidence to suggest that the level of privacy concerns among Anglos and Hispanics would converge. ]]><h target="2" match="part"> Thus, the literature suggests that Anglos and Hispanics will differ in each of the three privacy dimensions, both before having opportunity to use the system and after having such an opportunity. There are no known studies that examined differential changes in privacy concerns among ethnic groups following exposure to a technology or system.</h><![CDATA[ Consequently, the limited guidance in the literature suggests that ethnicity will continue to have a significant impact on privacy concerns after use. Thus, the hypotheses are:
+H1
+
+Prior to use of the system, Anglos will have higher perceived accountability concerns than Hispanics toward using the biometric technology.
+
+H2
+
+ The use of biometric technology will reduce perceived accountability concerns of both Anglos and Hispanics, but Hispanics will retain higher levels of concern than Anglos.
+
+H2a
+
+ The use of biometric technology will reduce the perceived accountability concerns of Hispanics.
+
+H2b
+
+ The use of biometric technology will reduce the perceived accountability concerns of Anglos.
+
+H2c
+
+After use, Hispanics have greater perceived accountability concerns toward using biometric technology than Anglos.
+
+H3
+
+Prior to use of the system, Anglos will have higher perceived vulnerability concerns than Hispanics toward using the biometric technology.
+
+H4
+
+The use of biometric technology will reduce perceived vulnerability concerns of both Anglos and Hispanics, but Hispanics will retain higher levels of concern than Anglos.
+
+H4a
+
+The use of biometric technology will reduce the perceived vulnerability concerns of Hispanics.
+
+H4b
+
+ The use of biometric technology will reduce the perceived vulnerability concerns of Anglos.
+
+H4c
+
+ After use, Hispanics have greater perceived vulnerability concerns toward using biometric technology than Anglos.
+
+H5
+
+Prior to use of the system, Anglos will have higher distrust concerns than Hispanics toward using the biometric technology.
+
+H6
+
+The use of biometric technology will reduce distrust concerns of both Anglos and Hispanics, but Hispanics will retain higher levels of concern than Anglos.
+
+H6a
+
+The use of biometric technology will reduce the distrust concerns of Hispanics.
+
+H6b
+
+The use of biometric technology will reduce the distrust concerns of Anglos.
+
+H6c
+
+After use, Hispanics have greater distrust concerns toward using biometric technology than Anglos.
+
+]]></section>
+
+    <section name="Methodology" category="methods"><![CDATA[
+3. Methodology
+This study involved the deployment of an experimental fire ground accountability system that tracked fire fighter work assignments through finger pattern-based biometric logons to a specific duty position. Biometric technology was an option under consideration for improvement of fire fighter safety by providing positive identification of those who responded to incidents. Fire ground accountability is a significant and well-known occupational safety issue in the firefighting domain.
+
+The study was conducted using a quasi-experimental pretest-posttest design. Each firefighter possesses specific skill sets that are taken into account when assigning personnel to shifts and positions. This characteristic and its critical relationship to the operational environment made it impossible to segregate the subjects into appropriate treatment and control groups without impacting the subjects’ primary duties. Therefore, a quasi-experimental design without a control group was used. This type of quasi-experimental design is often most appropriate when it is advantageous to observe the phenomena of interest in a natural setting. A major objective of the study was to assess fire fighter privacy concerns associated with workplace use of biometric technology. To ensure subjects associated their true workplace privacy concerns with the biometric technology it was desirable to deploy the treatment system in the normal work environment. Additionally, the pretest-posttest design is more robust than quasi-experiments utilizing only posttest measures of treatment effects. Comparison between pretest and posttest scores supports the argument that the observed changes are directly attributable to the treatment. To alleviate validity concerns, Cook and Campbell (1979) advise that the single-group pretest-posttest design should only be used when the nature of the outcome variable makes it unlikely that the observed results will be attributable to influences other than the treatment and when the pretest-posttest time interval is relatively short. Our experiment was designed with these recommendations in mind and there was no evidence of external events that were likely to impact results during the study period.
+Subjects for this research were firefighters employed by a large municipality in the southwestern United States. Ethnic diversity of the organization facilitated the goal of studying differences in ethnic cultures within an otherwise homogeneous group. We were specifically interested in studying cultural differences between different ethnicities within the same country and our research subjects were well-suited in that regard. All subjects were U.S. citizens, but varied in their reported ethnic affiliation. Hofstede (2001) recommends selecting subjects from the same profession or occupation, socio/economic strata, organization, education level, age, etc. when studying cultural issues. The proposed sample appeared well-suited in this regard. All of the subjects were from the same profession and were employed by the same organization. The distribution of pay grades, age, and education levels was similar among the ethnic groups of interest.
+The treatment venue was a single fire station within the municipality. Infrastructure modifications required for the pilot system limited the study to a single site. That site was selected based on the largest number of personnel assigned and the favorable distribution of Hispanic and Anglo subjects. There were approximately 54 personnel assigned to the research site with approximately half belonging to each ethnic group of interest. Participants had their privacy concerns toward using biometric technology measured when the system was initially deployed. They were surveyed again after approximately 45 days of system use to see if their concerns had changed.
+Although participation in the study was voluntary, the participation rate was expected to be high. A power analysis based on Cohen’s (1992) work suggested that a sample size of approximately 21 subjects per ethnic group would be sufficient to detect large effects with power = 0.7. Based on the maximum pool of 54 subjects, there was a significant risk that the number of participants would be insufficient to detect smaller differences and thus the focus of the study was the detection of large effects.
+3.1. Instrument development
+A new instrument was developed to collect information on privacy concerns associated with using a biometric system, and respondent demographic information. During the pre-test survey subjects were asked to select a unique identifier that they would be able to remember later. The survey suggested that the subjects use their fire fighter badge number but they were allowed to choose an alternate identifier if they desired to do so. This unique identifier was used to match pre-test and post-test survey responses for each participant. The relevant data collected in the pre-test and post-test surveys was identical except that demographic data was not collected in the post-test instrument.
+
+There were no pre-existing items available to measure the biometric privacy concern dimensions of interest. A pool of at least twelve new items was developed based on the operational definition for each construct as detailed in Table 1. The goal was to produce scales of approximately four to six items for each privacy dimension prior to reliability testing. The new items were then presented to a focus group for evaluation. The focus group consisted of experts in biometric systems, privacy issues, information systems research, firefighting, and instrument development. The focus group was asked to evaluate items based on suitability to measure the construct of interest, appropriateness for the target audience, and any potential item ambiguity related to other privacy constructs. The focus group also provided suggestions related to item clarity, length, wording, and redundancy. Items identified by any focus group member as ambiguous, not clearly related to the construct of interest, or otherwise unsuitable were rejected. All other items were retained for validity testing. Additional new items were created as necessary to maintain an acceptable scale length. Some items in each scale were intentionally developed as reverse-coded items for the purpose of validity checks. After several rounds of revisions, a sufficient number of quality items had been developed for each privacy construct and the focus group agreed that the items were ready for pilot testing. The final instrument selected for pilot testing had six items measuring Perceived Distrust, five items measuring Perceived Accountability, and four items measuring Perceived Vulnerability. Items for each scale were rated on a 7-point Likert scale with responses for each statement ranging from 1 (Strongly Disagree) to 7 (Strongly Agree). The final items used for the analysis are provided in Appendix A.
+3.2. Instrument validation
+Prior to collecting validation data, the city’s firefighters were primed to think they might be subject to using a new biometric system at work. To do this, each fire fighter was sent an email announcing an upcoming pilot project that would evaluate using a biometric system to keep track of who was on duty. The email was sent by a senior department official and indicated management’s support of an upcoming pilot project designed to improve fire fighter tracking through biometric technology. Fire fighters were encouraged to complete a web-based survey to provide anonymous feedback on privacy concerns associated with the system.
+
+The instrument was validated using firefighters assigned to stations other than the designated treatment venue. As with the target research sample pool, the validation sample pool was divided nearly equally among Hispanic and Anglo subjects. Fire fighters within the organization work a 24-h shift. There are three shifts that rotate on a daily basis. To ensure all potential participants had equal opportunity to complete the survey, it was offered to each shift an equal number of times. After two complete cycles of the three shifts, more than 300 responses had been received. It was determined that sufficient validation data had been collected and access to the validation instrument was withdrawn.
+
+The post-collection analysis revealed that 303 responses were received, with 15 declining to take the survey after reading the instructions, and 27 incomplete responses. The high number of incomplete responses can be attributed, in part, to the operational environment. Several fire fighters provided feedback stating that they started the survey but were forced to abandon it when an emergency call was received. These fire fighters were instructed to take the survey again if they desired to do so. After removing declined/incomplete responses, a total of 261 usable responses were obtained. The number of fire fighters employed by the municipality varies daily, but was approximately 1200 at the time of the survey. Thus, the overall response rate was approximately 25.2%. A 20% response rate is average for surveys where the user is given a single notification (Kaplowitz, Hadlock, & Levine, 2004). Given the short period of time the survey was available, the single email notification, and the lack of any incentive for completion, the response rate for this survey was somewhat higher than expected. Response demographic percentages were in line with the organization’s actual workforce structure, indicating that a non-response bias based on demographic factors was unlikely.
+The validation data was subjected to an exploratory factor analysis using principle component analysis with varimax rotation and Kaiser Normalization to assess convergent validity. Convergent validity examines the degree to which multiple measures of a construct are similar (Kerlinger & Lee, 2000). Varimax rotation is an orthogonal scheme that adjusts the coordinates to maximize squared variance sums. It is often a preferred rotation method for examining convergent validity because each factor receives equal weight in determining the amount of rotation (Lattin, Carroll, & Green, 2003).
+The factor analysis identified the three expected factors with eigenvalues greater than 1. The rotated component matrix is provided in Table 2.
+Table 2. Validation sample factor loadings.
+Item	Component with factor loading
+1	2	3
+Perceived vulnerability 1R			0.546
+Perceived vulnerability 2R			0.605
+Perceived vulnerability 3R			0.640
+Perceived vulnerability 4			0.628
+Perceived accountability 1		0.645	
+Perceived accountability 2		0.767	
+Perceived accountability 3		0.711	
+Perceived accountability 4		0.743	
+Perceived accountability 5R		0.756	
+Perceived distrust 1	0.636		
+Perceived distrust 2R	0.688		
+Perceived distrust 3R	0.776		
+Perceived distrust 4	0.734		
+Perceived distrust 5	0.662		
+Perceived distrust 6R	0.776		
+A Cronbach’s coefficient alpha of greater than 0.7 is generally considered acceptable for internal consistency (Crano & Brewer, 2002). Scale reliabilities for the constructs of interest are Perceived Vulnerability = 0.741, Perceived Accountability = 0.873, and Perceived Distrust = 0.834, thus all scale reliabilities are acceptable and the result indicated a relatively parsimonious instrument that adequately assessed the desired constructs. Overall, validation testing indicated that the instrument was suitable to measure the constructs of interest. The instrument exhibited good psychometric properties related to convergent validity and scale reliability. Completion percentages indicated that the survey length was acceptable to potential respondents and that there was reasonable likelihood that sufficient responses would be obtained from the treatment group.
+3.3. The research treatment
+The treatment for this experiment was the introduction of a custom-designed, biometrically-enabled fire ground accountability application at the research site. The application was developed using business rules provided by senior fire department management. Chief among these rules were the requirement for positive log on and log off as well as the ability for the duty officer to override assignments. For the purpose of this experiment, additional rules such as the rank requirements to be an apparatus (fire truck) commander and special qualifications for certain apparatus were not enforced. The application was installed on existing computers within the fire station and on firefighting apparatus assigned to the research site. The sole stated purpose of the application was to track the personnel assigned to each position at any point in time for fire ground accountability.
+
+The application was designed to visually depict the fire fighter’s job assignment paradigm. It allowed users to select from graphical representations of the various firefighting apparatus assigned to the station. Once the fire fighters selected an apparatus, they could choose any available position on the apparatus. If the position was unoccupied, the fire fighters could enter their badge number and provide a biometric finger pattern sample. If the finger pattern sample matched the stored template for that badge number, the fire fighter was assigned to that position. Successful assignment to a position was indicated with the fire fighter’s name shown in the position on the apparatus with a green background. If a log on was successful but the position was already occupied, the log on would show as a red “pending logon” until the previous occupant of the position logged out. Usage was generally twice daily as the fire fighters reported to duty and completed their shift. In some instances, where fire fighters had appointments, used personal time off, or swapped shifts with other workers, a particular fire fighter may have had several log-ins/log-outs in a single day. The duty officer could override the log out requirement as necessary.
+
+3.4. Data collection
+The research data was collected in two phases. The administration of pre-test surveys was scheduled to coincide with the introduction of the treatment system at the research site. Each fire fighter at the research site was sent an email from senior management asking them to complete the pre-test survey and participate in the experiment. This email clearly informed the fire fighters that their participation in both the survey and the experiment was voluntary. It further encouraged each fire fighter to use the system on a daily basis. Finally, fire fighters were asked to complete the pre-test survey prior to their enrollment and first use of the system.
+
+Each fire fighter that chose to participate in the experiment had the option to use either a biometric finger pattern sample or a traditional password to log on to the system. A researcher was available each day during the first two weeks of the experiment to assist fire fighters with the biometric enrollment process. This is similar to industry recommended “best practices” where a technical representative is normally available to assist new biometric system users during the enrollment process. The researcher specifically refrained from further endorsing the system, encouraging survey participation, or answering privacy-related questions.
+
+The post-test survey was administered approximately 45 days after the introduction of the system. As with the pre-test survey, subjects were given six days to complete the post-test survey. 53 fire fighters were assigned to the experiment site. 46 fire fighters completed both the pre-test and post-test surveys. The usable response rate for the matched set was 86.8%. The distribution between Anglo and Hispanic subjects was relatively equal and representative of organizational demographics. There were 24Hispanic respondents and 22 Anglo respondents. The sample size is sufficient to detect large effects between the ethnic groups.
+
+]]></section>
+
+    <section name="Analysis, results, and discussion" category="results"><![CDATA[
+4. Analysis, results, and discussion
+4.1. Pre-test/post-test examination of ethnicity effects on perceived accountability
+The main effect of ethnicity on perceived accountability was significant at p = 0.092 as shown in Table 3, indicating a notable overall difference in perceived accountability concerns at T1 that should be assessed by examining the means in Table 4. H1 is assessed by comparing the T1 means between ethnic groups. ]]><h target="5" match="part"> The T1 mean of Hispanics (4.692) is greater than the T1 mean for Anglos (4.245) and falls outside of the 95% confidence interval (3.939–4.552) for Anglos.</h><![CDATA[ Although the difference between the means of the two ethnic group is significant, the difference is not in the direction hypothesized, thus, H1 is not supported.
+Table 3. Between ethnic groups perceived accountability effects.
+Source	Type III sum of squares	df	Mean square	F	Sig.	Noncent. parameter	Observed powera
+Intercept	957.055	1	957.055	1606.687	0.000	1606.687	1.000
+Ethnicity	1.761	1	1.761	2.957	0.092	2.957	0.391
+Error	27.401	46	0.596				
+Measure: perceived accountability.
+
+Transformed variable: average.
+
+
+a
+Computed using alpha = 0.05.
+Table 4. Examination of means–perceived accountability concerns by ethnic group at T1 vs T2.
+Ethnicity	Time	Mean	Std. error	95% Confidence interval
+Lower bound	Upper bound
+Anglo	1	4.245	0.152	3.939	4.552
+2	4.332	0.185	3.960	4.704
+
+Hispanic	1	4.692	0.140	4.410	4.974
+2	4.654	0.170	4.312	4.996
+Ethnicity × time.
+Measure: perceived accountability.
+
+
+H2a, H2b, and H2c are assessed by comparing the T1 and T2 means as indicated by each of the hypotheses. The effect of time on perceived accountability is not significant (Table 5), thus H2a and H2b are not supported. H2c is assessed by comparing the T2 means of Anglos and Hispanics as shown in Table 4. The T2 mean of Hispanics (4.654) is greater than the T2 mean for Anglos (4.332) but falls within the 95% confidence interval (3.960–4.704) for Anglos. Thus, Anglos and Hispanics are not significantly different at T2 and H2c is not supported.
+Table 5. Effect of time and interaction of time and ethnicity on perceived accountability.
+Effect		Value	F	Hypothesis df	Error df	Sig.
+Time	Pillai’s Trace	0.004	0.194a	1.000	46.000	0.662
+Wilks’ Lambda	0.996	0.194a	1.000	46.000	0.662
+Hotelling’s Trace	0.004	0.194a	1.000	46.000	0.662
+Roy’s Largest Root	0.004	0.194a	1.000	46.000	0.662
+
+Time × ethnicity	Pillai’s Trace	0.028	1.317a	1.000	46.000	0.257
+Wilks’ Lambda	0.972	1.317a	1.000	46.000	0.257
+Hotelling’s Trace	0.029	1.317a	1.000	46.000	0.257
+Roy’s Largest Root	0.029	1.317a	1.000	46.000	0.257
+Within subjects design: time.
+
+
+a
+Exact statistic.
+
+In summary for H1 and H2, although there were significant differences in perceived accountability concerns between Anglos and Hispanics at T1, the groups were not statistically different following the treatment. Neither group was significantly different from their T1 mean at T2. These effects are visually depicted in Fig. 1, which shows relatively flat lines for each ethnic group from T1 to T2, a significant gap between Anglos and Hispanics at T1, and a smaller, statistically insignificant gap between the groups at T2.
+Fig. 1
+Download full-size image
+Fig. 1. Ethnic groups statistically different at T1 but not at T2 for perceived accountability.
+4.2. Pre-test/post­-test examination of ethnicity effects on perceived vulnerability
+The main effect of ethnicity on perceived vulnerability was not significant (p = 0.282) as shown in Table 6, indicating statistically negligible overall differences in the perceived vulnerability concerns of Anglos and Hispanics at T1. Thus, H3 is not supported.
+Table 6. Between ethnic groups perceived vulnerability effects.
+Source	Type III sum of squares	df	Mean square	F	Sig.	Noncent. parameter	Observed powera
+Intercept	756.844	1	756.844	1282.608	0.000	1282.608	1.000
+Ethnicity	0.699	1	0.699	1.184	0.282	1.184	0.187
+Error	27.144	46	0.590				
+Measure: perceived vulnerability.
+
+Transformed variable: average.
+
+
+a
+Computed using alpha = 0.05.
+H4a and H4b are assessed by comparing the T1 and T2 means for each ethnic group. The main effect of time is significant in Table 7 (p = 0.009), thus an examination of the means in Table 8 is necessary to evaluate the specific hypotheses. H4a is assessed by comparing the T1 and T2 means of Hispanics. The T2 mean (4.096) falls within the 95% confidence interval for the T1 mean (3.811–4.419) therefore H4a is not supported. H4b is assessed by comparing the T1 and T2 means of Anglos. ]]><h target="4" match="part"> The T2 mean (3.500) falls outside the 95% confidence interval for the T1 mean (3.897–4.558) therefore H4b is supported, indicating that the treatment significantly reduced the perceived vulnerability concerns of Anglos.</h><![CDATA[ H4c is assessed by comparing the T2 means for Hispanics and Anglos. The T2 mean for Hispanics (4.096) is greater than the T2 mean for Anglos (3.500), and falls outside the T2 95% confidence interval for Anglos (3.063–3.937). Therefore, the two ethnic groups are significantly different at T2, the difference is in the direction hypothesized, and H4c is supported. ]]><h target="4" match="full"> Hispanics have higher perceived vulnerability concerns than Anglos after using the system.</h><![CDATA[
+Table 7. Effect of time and interaction of time and ethnicity on perceived vulnerability concerns.
+Effect		Value	F	Hypothesis df	Error df	Sig.
+Time	Pillai’s Trace	0.138	7.365a	1.000	46.000	0.009
+Wilks’ Lambda	0.862	7.365a	1.000	46.000	0.009
+Hotelling’s Trace	0.160	7.365a	1.000	46.000	0.009
+Roy’s Largest Root	0.160	7.365a	1.000	46.000	0.009
+
+Time × ethnicity	Pillai’s Trace	0.126	6.625a	1.000	46.000	0.013
+Wilks’ Lambda	0.874	6.625a	1.000	46.000	0.013
+Hotelling’s Trace	0.144	6.625a	1.000	46.000	0.013
+Roy’s Largest Root	0.144	6.625a	1.000	46.000	0.013
+Within subjects design: time.
+
+
+a
+Exact statistic.
+
+Table 8. Examination of means–perceived vulnerability by ethnic group at T1 vs T2.
+Ethnicity	Time	Mean	Std. Error	95% Confidence Interval
+Lower bound	Upper bound
+Anglo	1	4.227	0.164	3.897	4.558
+2	3.500	0.217	3.063	3.937
+
+Hispanic	1	4.115	0.151	3.811	4.419
+2	4.096	0.200	3.694	4.498
+Ethnicity × time.
+Measure: perceived vulnerability.
+
+
+Although not hypothesized, the main effect of time and ethnicity indicates a significant interaction effect (p = 0.013) in Table 7. Thus the treatment affects the ethnic groups differently.
+In summary for H3 and H4, Anglos and Hispanics were not significantly different in perceived vulnerability concerns at T1. Although the main effect of ethnicity was not significant, this finding was likely confounded by an interaction between the treatment and ethnicity. A thorough investigation of the means revealed important insights into the constructs of interest. The treatment substantially reduced the perceived vulnerability concerns of Anglos while the perceived vulnerability concerns of Hispanics remained relatively stable as seen visually in Fig. 2.  ]]><h target="4" match="full">Thus, at T2, the level of vulnerability concerns for Anglos diminished and became significantly less than those of Hispanics.</h><![CDATA[
+Fig. 2
+Download full-size image
+Fig. 2. Interaction effect (Anglos reduced, Hispanics stable) T1 vs T2 for perceived vulnerability.
+4.3. Pre-test/post­-test examination of ethnicity effects on distrust
+The main effect of ethnicity on distrust concerns was not significant at p = 0.181 as shown in Table 9, indicating statistically negligible overall differences in the distrust concerns of Anglos and Hispanics at T1. Thus, H5 is not supported.
+Table 9. Between ethnic groups distrust effects.
+Source	Type III sum of squares	df	Mean square	F	Sig.	Noncent. parameter	Observed powera
+Intercept	921.689	1	921.689	687.425	0.000	687.425	1.000
+Ethnicity	2.475	1	2.475	1.846	0.181	1.846	0.265
+Error	61.676	46	1.341				
+Measure: distrust.
+
+Transformed variable: average.
+
+
+a
+Computed using alpha = 0.05.
+H6a and H6b are assessed by comparing the T1 and T2 means as indicated by each of the hypotheses. The effect of time on perceived distrust indicates a significant main effect (Table 10), thus an examination of the means in Table 11 is warranted. H6a is assessed by comparing the T1 and T2 means of Hispanics. The T2 mean (4.127) falls within the 95% confidence interval for the T1 mean (3.747–4.676) therefore H6a is not supported. H6b is assessed by comparing the T1 and T2 means of Anglos. The T2 mean (4.561) falls within the 95% confidence interval for the T1 mean (4.184–5.195) therefore H6b is not supported.
+Table 10. Effect of time and interaction of time and ethnicity on perceived distrust concerns.
+Effect		Value	F	Hypothesis df	Error df	Sig.
+Time	Pillai’s Trace	0.109	5.645a	1.000	46.000	0.022
+Wilks’ Lambda	0.891	5.645a	1.000	46.000	0.022
+Hotelling’s Trace	0.123	5.645a	1.000	46.000	0.022
+Roy’s Largest Root	0.123	5.645a	1.000	46.000	0.022
+
+Time × ethnicity	Pillai’s Trace	0.005	0.244a	1.000	46.000	0.623
+Wilks’ Lambda	0.995	0.244a	1.000	46.000	0.623
+Hotelling’s Trace	0.005	0.244a	1.000	46.000	0.623
+Roy’s Largest Root	0.005	0.244a	1.000	46.000	0.623
+Within subjects design: time.
+
+
+a
+Exact statistic.
+
+Table 11. Examination of means–perceived distrust by ethnic group at T1 vs T2.
+Ethnicity	Time	Mean	Std. error	95% Confidence interval
+Lower bound	Upper bound
+Anglo	1	4.689	0.251	4.184	5.195
+2	4.561	0.247	4.064	5.058
+
+Hispanic	1	4.212	0.231	3.747	4.676
+2	4.127	0.227	3.670	4.585
+Ethnicity × time.
+Measure: distrust.
+
+
+H6c is assessed by comparing the T2 means for Hispanics and Anglos. The T2 mean for Hispanics (4.127) is less than the T2 mean for Anglos (4.561) and falls within the 95% confidence interval for Anglos at T2 (4.064–5.058). Thus, H6c is not supported.
+
+In summary for H5 and H6, Anglos and Hispanics were not significantly different in distrust concerns either before or after treatment. Fig. 3 shows modest reductions in the distrust concerns of both groups following the treatment. When both ethnic groups were combined there was a significant main effect of the treatment in reducing distrust concerns. Thus system use alleviated distrust concerns of study participants as a whole. However, this effect was not statistically significant for either ethnic group alone. Additionally, there was no significant difference between the ethnic groups after treatment.
+Fig. 3
+Download full-size image
+Fig. 3. Ethnic groups not statistically different at T1 or T2, but for all respondents perceived distrust was significantly lower at T2.
+
+]]></section>
+
+    <section name="Conclusion" category="conclusion"><![CDATA[
+5. Conclusion
+This study examined privacy concerns associated with the use of biometric technology in the workplace and how those privacy concerns vary based on ethnic affiliation. ]]><h target="2" match="full"> The study showed that some, but not all, privacy concerns were alleviated by allowing the subjects to use the biometric technology.</h><![CDATA[  ]]><h target="3" match="part">In particular, distrust concerns were significantly reduced for all participants after using the biometric technology and perceived vulnerability concerns for Anglo subjects were also diminished. The large change in perceived vulnerability scores for Anglos may be attributable to system familiarity. The initial concerns of Anglos may have been alleviated once they were able to see how the actual system worked. The high level of initial concerns may have been primarily due to unfamiliarity with the system. By contrast, the concerns of Hispanics appear to be more enduring and may represent a systemic fear of technological security weaknesses.</h><![CDATA[
+
+The study extracted three new constructs for privacy concerns related to biometric technology from the extensive literature on organizational privacy, trust, user resistance, and technology adoption. Perceived accountability, perceived vulnerability, and distrust were determined to reflect the primary concerns associated with this emerging technology. A new instrument with scales for the biometric privacy concern dimensions was developed. It was refined with the aid of a focus group, subjected to pilot testing, and ultimately validated through factor analysis and scale reliability measures. The successfully validated scale provides a new resource for researchers in the privacy domain.
+
+Although only two of nine hypotheses was supported, the study provides significant insights into the privacy concerns of different ethnic groups. Previous research suggested that privacy concerns might vary based on ethnic affiliation. Contrary to previous literature that suggests predominantly independent cultures will have more privacy concerns than predominantly collectivist cultures, the study showed that the reverse was often true with regard to specific privacy dimensions. One potential explanation for this contradictory finding may lie in this study’s examination of ethnic cultural groups within a single country. The vast majority of previous research that informed the hypotheses development relied on national level measures of culture.  ]]><h target="1" match="part">This study provided strong empirical support for the notion that different ethnic groups within a country may share some privacy concerns but differ in other privacy dimensions.</h><![CDATA[  ]]><h target="2" match="part">Finally, the study shows that some privacy concerns can be alleviated through use of the technology but not all ethnic groups react the same way after exposure.</h><![CDATA[ Future studies should consider the implications of this finding during the design phase.
+
+Our results suggest several factors that should be taken into account by system designers, analysts, and integrators. Practitioners would be wise to consider the three privacy sub-dimensions delineated here and carefully assess their impact on the various ethnic groups affected by a new system deployment.  ]]><h target="2" match="part">Additionally, system usage was shown to lessen some privacy concerns, although the effects of use were not uniform across all ethnic groups.</h><![CDATA[ Therefore, system integrators may find it advantageous to provide opportunities for use early in the implementation process. Tactics such as introducing trial systems and soliciting user feedback may help in this regard. However, it is important to note that research from other domains suggests that a certain level of privacy concerns will be both persistent and varied based on ethnic affiliation. Previous research on Internet usage finds that without government intervention, perceptions of privacy will decline over time (Rust, Kannan, & Peng, 2002), privacy concerns will inhibit technology use (Dinev & Hart, 2006; Dinev, Hart, & Mullen, 2008; Sheng, Nah, & Siau, 2008), and that privacy concerns will be exacerbated by the proliferation of multi-organizational information systems (Pearson & Benameur, 2010). Research also suggests that differences in privacy concerns attributable to race and/or ethnicity are evident among technology users in varied contexts such as use of the Internet (O’Neil, 2001), use of healthcare information systems (Brodie et al., 2000), and use of social media (Staddon, Huffaker, Brown, & Sedley, 2012). ]]><h target="2" match="part"> We therefore posit that privacy concerns related to biometric technology will continue to have an impact on users well after initial concerns related to system uncertainty have diminished and that the sub-dimensions of privacy concern identified in this work will continue to be affected by one’s ethnic affiliation.</h><![CDATA[
+Although not empirically tested here, a review of the extant literature also suggests that transparency (Award & Krishnan, 2006), employee voice in system and policy design (Armitage & Conner, 1999; Culnan & Armstrong, 1999), and written policies governing use (Jensen, Potts, & Jensen, 2005) have the potential to improve employee acceptance of biometric technology. Taken together, the adoption of the strategies outlined in the preceding paragraphs may improve the likelihood of system success.
+5.1. Limitations
+Although the experiment sample size was carefully calculated as being large enough to reliably detect large effects, it may not have been sufficient to detect smaller size effects. This may account for some of the insignificant results in the pre-test/post-test hypotheses. Another limitation was the paucity of female participants. Researchers should exercise care when interpreting the results as they may not hold for predominantly female or mixed gender populations. The low female participation was an artifact of the organization selected for the study as firefighting is generally a male-dominated field. While the demographic characteristics of the study sample do not necessarily indicate an issue, we did not have sufficient female participation to examine potential gender differences in the privacy concern dimensions. The age distribution in the organization was also somewhat skewed toward younger adults. This is an artifact of the profession and our sample was consistent with the actual demographic characteristics of the organization. Because age is frequently identified as a factor in privacy concerns in other contexts, researchers should consider the potential implications of the youth-centric profession in our study when attempting to generalize the results to other organizations. Despite these demographic characteristics, the organization had many other desirable attributes and was an appropriate setting for an initial study on biometric privacy concerns and ethnicity in association with biometric technology in the workplace.
+
+Another potential limitation relates to the profession and organization of the study participants. All were members of a single organization and shared a common profession. Single case studies are appropriate for the initial examination of social and organizational phenomena and in this case provide valuable insights into privacy and security related perceptions of emerging technology. While we have no reason to believe the findings in our research are biased based on the specific profession or organization, care should be used when generalizing the findings to other settings in the absence of additional supporting data.
+
+5.2. Directions for future research
+The results of this study suggest several avenues for future research. The first such avenue would be to replicate the study in an organization with a mix of female and male subjects. Confirmation of the findings from this study with a mixed gender population would provide considerable additional insight into the study of ethnic influence and behavior.
+
+A second direction for additional studies would be to replicate this research with subjects from other professions and organizations. Additional studies that examine the same phenomena in a different context would add substantial insights to the scientific knowledge regarding biometric technologies and privacy concerns. Conceptual replications that examine the same relationships in varied contexts are widely considered among the most valuable types of replication research.
+
+Another avenue for future research is refinement of the newly developed privacy constructs and their associated scales. Although the scales have been subjected to a rigorous validation protocol with a large pool of respondents, there may be additional privacy dimensions that were not identified in the initial scale development process. Identification of additional concerns could improve the predictive power of the instrument. One factor that merits consideration may be computer anxiety, or a more specific form of anxiety related to biometrics/privacy-related technologies. The significant reductions in the perceived vulnerability concerns of Anglos after use and the significant reduction in perceived distrust for the combined study sample after use suggest that an examination of computer anxiety or system familiarity factors is warranted in future studies.
+
+Finally, determining the relative importance of items and constructs may be useful in enhancing the validity of both the instrument and theoretical model. Assessment via partial least squares (PLS) regression techniques may help in this regard. PLS regression is particularly suitable when there is some degree of multicollinearity in the data as may be expected when investigating dimensions of a multi-faceted construct such as privacy.
+
+This study showed that perceived accountability, perceived vulnerability, and distrust concerns are affected by ethnic cultural differences in the context of a crisis management system. It further showed that Anglos and Hispanics are relatively equal in their overall level of privacy concern but the underlying dimensions of that concern vary considerably based on ethnic affiliation. These findings have important implications for the design and implementation of future crisis response systems as ethnic affiliation and privacy concerns may both affect user acceptance of these systems.
+]]></section>
+Acknowledgements
+Portions of this research were supported by the National Institute of Standards and Technology Building and Fire Research Laboratory via Fire Research Grant #05-388, Award #70NANB6H6124 for a project entitled “The Integration of Biometric Technologies with Fire Fighting Information Systems”. Support included funding for the pilot system implemented in the study and faculty support during the research effort.
+Appendix A.
+Privacy scale items
+Construct	Item number	Reverse-coded?	Item text
+Perceived accountability	1		The record of my biometric log-ons could be used against me if I do something wrong.
+2		I will be held more accountable for things I do if I use the biometric log-on system.
+3		Using the biometric log-on system lets people trace what I do.
+4		The Fire Department will have more proof of what I do if I use the biometric log-on system.
+5	Yes	Password log-on systems identify people better than biometric log-on systems.
+
+Perceived vulnerability	1	Yes	No one can access my biometric data that is stored in the system.
+2	Yes	Fire Department computer systems are safe from hackers.
+3	Yes	The Fire Department will store my biometric data securely.
+4		Using the biometric log-on system might allow someone to steal my identity.
+
+Perceived distrust	1		The Fire Department can use biometric log-ons to look at my medical records.
+2	Yes	I am confident that the biometric log-on system will not be used for purposes other than system security.
+3	Yes	The Fire Department will not use biometric log-ons to conduct background checks.
+4		I am worried about what the Fire Department will do with my biometric data that is stored on the system.
+5		The Fire Department might use the biometric log-on system for other purposes.
+6	Yes	The Fire Department can be trusted with my biometric data.
+</publication>

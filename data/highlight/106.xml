@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<publication marker="wang xueyan"> 
+    <journal>International Journal of Information Management</journal>
+    <time>Volume 36, Issue 6, Part A, December 2016, Pages 907-916</time>
+    <title>Critical success factors (CSFs) for information technology governance (ITG)</title>
+    <author>Zyad Alreemy.</author> Author links open the author workspace.Opens the author workspaceOpens the author workspacea. Numbers and letters correspond to the affiliation list. Click to expose these in author workspacec. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace <author>Victor Chang. </author>Author links open the author workspace.Opens the author workspaceb. Numbers and letters correspond to the affiliation list. Click to expose these in author workspaceRobert Walters. Author links open the author workspace.Opens the author workspacea. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace <author>Gary Wills. </author>Author links open the author workspace.Opens the author workspacea. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace
+a
+School of Electronics and Computer Science, University of Southampton, Southampton, UK
+b
+Suzhou Business School, Xi'an Jiaotong Liverpool University, Suzhou, China
+c
+King Abdulaziz City for Science and Technology (KACST), Riyadh, Saudi Arabia
+Show more
+    <doi>https://doi.org/10.1016/j.ijinfomgt.2016.05.017</doi>
+Highlights
+    <highlight id="1">The main study’s aim is to investigate and identify the factors that encourage the successful implementation of ITG which will be called in this paper Critical Success Factors (CSFs).</highlight>
+    <highlight id="2">The literature has been thoroughly reviewed and analysed to identify these CSFs.</highlight>
+    <highlight id="3">The literature includes IT Governance standards and best practices; ITG frameworks and models; and related studies.</highlight>
+    <highlight id="4">The extracted, analysed and modified factors have been summarised, classified and sorted based on their importance, relativity and the proper sequence.</highlight>
+    <highlight id="5">Finding of these factors went through different steps in order to have the solution framework, Success Factors for IT Governance (SFITG).</highlight>
+    <abstract> 
+        <![CDATA[
+With the rapid evolution of Information Technology (IT) applications and practices across the organization, appropriate IT Governance (ITG) has become essential to an organization’s success. As IT is associated with risk and value opportunities, a comprehensive, high-level system is required in each organization to minimise the associated risks and optimize value. This requirement triggered the emergence of ITG. Many researchers have addressed this field; ]]><h target="1" match="part">however, the role played by critical success factors (CSFs) in the successful implementation of ITG has not yet received adequate attention. This gap in the research motivated the present study, with the main aim of defining the CSFs needed for the successful implementation of ITG.</h><h target="4" match="part">CSFs were studied and extracted from the literature review and then analysed, categorised, and synthesized to create the Success Factors for IT Governance Framework.</h> </abstract>
+
+Keywords
+    <keywords>Information technology (IT)</keywords>
+    <keywords>GovernanceIT governance (ITG)</keywords>
+    <keywords>Critical success factors (CSFs)</keywords>
+    <section name="Introduction" category="introduction">
+        <![CDATA[
+1. Introduction
+Contemporary developments in the field of information technology (IT) and emergence of new concepts and philosophies in terms of political and economics require continuous development in the efficiency and effectiveness of IT (Abu-Musa, 2009). Long-term success requires a strong connection between business and IT in organizations, to maximise benefits and reduce the uncertainties of IT projects (Grembergen, 2004). Therefore, IT governance (ITG) has become imperative for business organizations to meet the challenges presented by the business environment. In the competitive global world, information technologies impart a competitive advantage to multinational organizations that employ technologies to aid in increasing effectiveness, economising time and diminishing expenditures (Calder, 2005). To achieve the objectives of the technologies incorporated within the government sector, information technology governance has emerged to oversee the emerging technologies (Pardo, 2009; Wilkin & Riddett, 2008).
+The optimal performance of corporations’ information technology permits the organization to achieve its strategic goals and allows it to accomplish a competitive advantage. Information technology governance (ITG) is the structure that permits compatibility among the strategic goals of the corporation and the intentions that will aid the corporation realise a satisfactory stage of risk. ITG encompasses the guidelines, actions, functions and tasks of the employees of the organization. Hence it assists any organization in controlling and realising benefits from IT practices and investments.
+
+The term ‘information technology governance’ (ITG) derives from the ‘corporate governance’ (governance), which emerged after several financial scandals at the global level in large corporations, in both the US and Europe (Calder, 2005).
+‘At its most basic definition, IT governance is the process by which decisions are made around IT investments’ (Symons, 2005). IT governance as defined in Calder and Moir (2009) is a matter of optimising the use of IT investments through strong collaboration and communication between the business and IT’s leaders and their strategies. Therefore, it can be said that IT Governance is the processes that guide and control investments, decisions and practices relating to IT within the organization in order to achieve the desired objectives.]]></section>
+    <section name="Methodology" category="methods">
+        <![CDATA[
+2. Methodology
+This section describes the methodology used to conduct the work described in this paper. ]]><h target="1" match="part">In order to achieve the desired objectives of ITG, there are some important factors that will ease the implementation if they are considered but could hinder it if they are not. These factors are called the critical success factors (CSFs).</h><![CDATA[ If they are not performed well, it is unlikely that the mission, objectives or goals of a business or project will be achieved (Pollard & Cater-Steel, 2009). So from this definition of CSFs, it can be seen that they are not detailed practical steps to implement a system, rather they are assistant factors that support the successful implementation of systems.
+]]><h target="3" match="part">The literature review is the initial source of the main factors which been collected from many well-known standards and frameworks of ITG, and from related studies about Critical factors of ITG.</h> The extract of the literature is formed in the initial framework (iSFITG). iSFITG has gone through filtering, developing and formulation phases to create SFITG. <h target="2" match="part">In order to achieve the paper’s aim and to identify these factors, the researcher analyses:
+1.
+Relevant standards and frameworks to identify the best solution for implementing ITG and to highlight all factors required for successful implementation.
+
+2.
+Related studies, focusing mainly on ITG implementation and CSFs.
+
+3.
+Other ITG studies in order to gain an understanding of ITG implementation processes and related factors.</h>
+
+
+Information and references were sourced from books, journal papers, reports, conferences and scientific websites. These sources are used as the basis for the different factors and categories in the proposed framework.
+
+This paper is divided into 5 sections the core investigation took place in the following sections. Section 3, where the CSFs review of the standards, frameworks and other related studies are presented. Section 4, where the contribution and efforts are explained and the solution framework are presented. Section 5, summarising the paper and where the recommendations for further works are obtainable.</section>
+    <section name="Background" category="background">
+        <![CDATA[
+3. Background
+ITG is primarily responsible for optimising the use of IT resources and managing the risks of IT projects and practices. In addition, ITG can provide good solutions for all organizations, whether they are government or private, to optimize IT’s investments and practices and balance the associated risks.
+
+There are many studies about ITG (e.g., Calder & Moir, 2009; Calder, 2005; Willson & Pollard, 2009), and some reports from leading enterprises in ITG such as by ITGI and ISACA. However, these studies are not at the same level of ITG importance in some aspects such Critical Success Factors (CSFs).
+It is clear that to implement successful ITG, adoption of different standards and frameworks is required based on organization size and requirements, as mentioned in the previous section. These standards and frameworks aim to guide the implementation of some components of ITG based on scope and attention. There are some important factors that encourage the success of the implementation of ITG and give good indications of that success. ‘IT-governance-related success factors must be entrenched and adhered to in order to do away with inadequate governance effectiveness, which has negative consequences for the IT contribution to public service delivery’ (Nfuka & Rusu, 2011). Some of these ITG standards and frameworks have mentioned such factors implicitly using different names and meanings such as enablers or challenges. However, they are not providing a comprehensive framework for measuring the success of overall ITG implementation. COBIT 5 introduced CSFs for the ITG processes but they cannot be used as CSFs for the entire ITG implementation. ISO 38500 introduced six principles, which provide a strong base for the implementation of ITG, but they are not CSFs. Therefore, it can be said that this study will enrich the studies targeting CSFs of ITG implementation. The summarised factors will be grouped in a framework under different categories and will be called Success Factors for IT Governance (SFITG).
+]]><h target="1" match="full">The main study’s aim is to investigate and identify the factors that encourage the successful implementation of ITG which will be called Critical Success Factors (CSFs) in this paper.</h><![CDATA[IT Governance is a broad topic and an umbrella for many IT components; therefore, many studies have been conducted to address ITG in general and these components in particular. Recently, ITG has become essential for organizations to optimize the use of IT projects and minimise risk, which requires more studies on different aspects of ITG. Before showing the results, a brief description of the related standards and frameworks of ITG will be presented.
+
+3.1. ITG standards and best practices
+ITG is broad topic including various components, drivers and outcomes such as risk management, project management and performance management. Each component has specific scope and elements, and thus has its own standards or frameworks (see Fig. 2-1). However, recently ISACA released the COBIT 5 framework, which ‘provides a comprehensive framework that assists enterprises in achieving their objectives for the governance and management of enterprise IT’ (ISACA, 2012). In addition, ‘ISO 38500 is the first international standard explicitly addressed the governance of ICT’ (Calder & Moir, 2009). The next section will give an overview of COBIT and ISO 38500.
+3.1.1. The control objectives for information and related technology (COBIT)
+‘The Information Systems Audit and Control Association (ISACA) has produced COBIT, a widely used good practice framework for auditing IT Governance by controlling the information, IT and related risks’ (Calder & Moir, 2009). It is a framework that helps the organization to achieve its business and IT goals by governing IT practices and processes (ISACA, 2012).
+COBIT 5 is based on five main principles: Meeting stakeholder needs, covering the enterprise end-to-end, applying a single, integrated framework, enabling a holistic approach and separating governance from management. It defines seven categories of enablers: Principles, policies and frameworks; Processes; Organisational structures; Culture, ethics and behaviour; Information; Services, infrastructure and applications and People, skills and competencies
+
+COBIT5 also introduces success factors at the process level rather than at the governance level. These success factors are presented to ease the challenges that are faced during the implementation phases. However, these CSFs will be used as the basis of the solution framework. Additionally, COBIT5 presents Process Capability Assessment Model (PAM), which will indicate the status of the processes, the second enabler. “By consequence, process assessments will not provide the full picture on the state of governance of an enterprise. For that, the other enablers need to be assessed as well” (ISACA, 2012).
+3.1.2. ISO/IEC 38500: 2012 standard
+ISO/IEC 38500:2008 is the standard for corporate governance of information technology, is an advisory standard that provides a framework of principles for senior management and the Board of Directors to use while evaluating, directing and monitoring the use of IT in their organizations (Chaudhuri, 2011). ISO 38500 can be appropriate for any enterprise regardless to its size or scope (Sylvester, 2011).
+ISO 38500 provides broad guidance on the role of a governing body; it encourages organizations to use appropriate standards for effective governance of IT and provides guidance about the effective use of information technology for directors of organizations including owners, board members, directors, partners, senior executives, or similar, on the effective, efficient and acceptable use of IT within their organizations
+
+The directors and top management should evaluate, direct and monitor IT activities based on these six principles: Responsibility, Strategy, Acquisition, Performance, Conformance and Human behaviour, as ISO 38500 recommended.
+
+Its shortcoming is it only provides high-level guidance maintained by top management to facilitate the implementation of ITG rather than providing practical steps (Sylvester, 2011). This shortcoming includes the shortage of providing specific details about supporting areas such as critical success factors of ITG implementation
+3.2. ITG frameworks and studies
+Existing process frameworks and standards have narrow and specific scope assigned to specific components and not affecting other ITG components. Risk management is a main component and outcome of ITG, which targets managing and controlling the uncertainty that enterprises could face, and has ISO 27001 as the global standard. PMBOK and PRINCE2 are good practice frameworks for project management, which is an important driver for the implementation of ITG (Bhattacharjya & Chang, 2006).
+It can be seen that there are different components of IT governance, and related standards and frameworks for each. However, COBIT and ISO/IEC 38500:2008 are the most comprehensive approaches to implementing ITG. ISO/IEC 38500:2008 provides a high-level standard for IT governance, and COBIT provides additional insight about what can help with the implementation and improvement of the six principles that ISO/IEC 38500:2008 provides effective ITG and alignment between business and IT. Combining ISO/IEC 38500:2008 and COBIT enables the framing of a working relationship between governance and management by describing management activities in the governance system. As a result, the ISO/IEC 38500:2008 standard and COBIT framework are very much complementary to achieving business‐IT alignment and ITG (Chaudhuri, 2011). Thus, to implement successful ITG, an adoption of different standards and frameworks is required based on business needs and size. ‘It is important to evaluate the strengths and weaknesses of the business and selectively adopt a combination of the relevant elements of best practice frameworks and standards’ (Bhattacharjya & Chang, 2006). Hence, there is no single standard or framework that covers all ITG processes on its own and is sufficient to implement ITG completely and efficiently (Calder & Moir, 2009). Some standards and frameworks are generic and crucial to successful ITG implementation, such as ISO 38500, COBIT and VAL IT. ISO 38500 can be considered as umbrella for all these components, while VAL IT (ITGI, 2006) and other process frameworks are the basis for implementation. COBIT is the connection between them, see Fig. 1.
+Fig. 1
+Download high-res image (275KB)Download full-size image
+Fig. 1. ITG components and frameworks.
+3.3. Other related studies
+A number of studies have explored factors related to the implementation of ITG. Such factors include barriers, inhibitors and CSFs. Othman, Chan, & Foo (2009) presented a useful framework that defines the barriers to the adoption of ITG. However, this framework focuses only on the barriers to the adoption of ITG, excluding CSFs. In addition, the framework fails to examine ITG implementation. Another study concentrates on the relationship between inhibitors and success factors in ITG in the context of Korea (Lee, Lee, Park, and Jeong, 2008; Lee, Lee, and Jeong, 2008). Nfuka and Rusu’s study (2010) into the role played by CSFs in effective ITG in Tanzania includes an excellent framework for evaluating CSFs; however, the framework was defined in the Tanzanian context and is without reference to related standards and frameworks such as COBIT and ISO/IEC 38500: 2012.]]></section>
+    <section name="Findings" category="methods and results">
+        <![CDATA[
+4. Findings
+The CSFs have been discussed by many sources and expressed in different meanings, terms and under different topics, which required thorough analysis of these sources to extract the most important and related factors. Lee, Lee, Park, & Jeong (2008), Lee, Lee, & Jeong (2008) presented a framework for the inhibitors of ITG implementation, which is driven by CSFs in business and IS planning alignment. They also considered inadequate HR and management under inadequate stakeholder involvement, which is categorised in Nfuka and Rusu (2010) in the resource management category. (Juiz, Guerrero, & Lera, 2014) considered the involvement and support of management as one factor under the business alignment category, while involvement and support are different factors in Lee, Lee, Park, & Jeong (2008), Lee, Lee, & Jeong (2008). Othman et al. (2009) considered lack of management support under the organizational context while it falls under inadequate stakeholder involvement in Lee, Lee, Park, & Jeong (2008), Lee, Lee, & Jeong (2008). The first step is to find these factors. Some standards and frameworks, mentioned in the previous section, have included some success factors but mostly in implicit ways, so the first factors were extracted from these standards and frameworks. The next factors were taken from many sources that discussed ITG implementation. Some of the factors have been listed under success factors of ITG. Others were mentioned under barriers to successful implementation. Still other factors were expressed by different terms and expressions such as considerations, challenges, issues and motivations. By understanding the context of these factors, the factors were categorised by context in order to find the best fit of categories. Some of these categories are mentioned frequently in other studies, while others are not. The next step was to align the factors to the categories. Many factors were expressed in similar terms and have similar meanings, so they fall under one category. As a result of this analysis, ten main categories represent all the others, as described in the following sections.
+4.1. Stakeholders involvement
+ITG implementation is a collaborative effort between different management levels and staff groups in the organization, with the effect of external parties and regulations. The first principle of COBIT, ‘meeting stakeholders needs’, and first and second principles of ISO 38500, ‘responsibility’ and ‘strategy’, cannot be achieved without the involvement of stakeholders. In addition, in all related studies, adequate stakeholders’ involvement is one of the most important factors for successful implementation of ITG. The involvement of these stakeholders is one of the most important drivers to successful implementation of ITG (Nfuka & Rusu, 2010). Stakeholders should be from all business levels and in all implementation stages; otherwise, the implementation process will not succeed. To have a successful ITG project, adequate and the right stakeholder involvement are required during all the stages of implementation (Rau, 2006). ITGI and PwC (2009) stated that one of the key inhibitors for ITG is the absence of business in ITG initiatives and plans. The end users of IT projects are amongst the main stakeholders who should be involved properly in any IT project. Spremić, Žmirak, and Kraljević (2008) concluded that one of the key barriers to success of IT projects in Croatian organizations is ‘End Users not involved in projects’.Luftman, Papp, and Brier (1999) found that the participation of IT people in strategy preparation is an important enabler of business-IT alignment. ‘Lack of business people ownership in IT-enabled projects’ is one of the main problems found in current ITG practices in the studied organizations (Nfuka et al., 2009). Therefore, adequate stakeholders’ involvement is specified by many sources as a main driver for the successful implementation of ITG.
+4.2. Management support
+Management support is a further step after stakeholders’ involvement, and its absence will hinder the next steps of successful implementation of ITG. In addition, the support of any organization management and executives will not be gained without stakeholders’ involvement. The support should be from all management levels for ITG implementation, and without it, the implementation will struggle. A study done by Lee, Lee, Park, & Jeong (2008), Lee, Lee, & Jeong (2008) claimed that ‘lack of senior managements’ leadership’ is another main inhibitor for ITG implementation. ITGI and PwC (2007) claimed that the first critical success factor for ITG is ‘senior management commitment and vision’. Luftman et al. (1999) found that the first enabler of business-IT alignment is ‘senior executive support for IT’. Senior management support is a key factor for successful ITG (Weill & Ross, 2004a). A study done by Othman et al. (2009) found that ‘lack of top management support’ is a major barrier to ITG adoption. Spremić et al. (2008) concluded that one of the key barriers for successful IT projects in Croatian organizations is inadequate support of management. The ITGI and ISACA Global Status Report on the Governance of Enterprise IT (GEIT) revealed that ‘lack of senior management commitment and support’ is a challenge for implementing GEIT (ITGI & ISACA, 2011). Thus, getting top management support is an important point that must be addressed before starting the implementation of ITG (Calder & Moir, 2009).
+4.3. Financial support
+Historically, financial support is a big concern for any successful implementation of IT projects. IT projects usually cost more than other projects, and continuous fund support and budget availability are required for the success of these projects. The financial requirements could hinder the successful implementation of COBIT (Guldentops, Grembergen, & De Haes, 2001). ‘Inadequate budget for required IT resources’ is one of the main problems found in the current ITG practices in the studied organizations (Nfuka et al., 2009). However, financial support does not seem an important factor in other studies. A study done by Lee, Lee, Park, & Jeong (2008), Lee, Lee, & Jeong (2008) found that financial resources is not an important obstacle to successful ITG implementation. Based on that, financial support seems to be an important factor for successful implementation of ITG for some organizations but not for others.
+4.4. Organizational effects (internal)
+The organization structure, internal regulations and management hierarchy are examples of organizational effects. Therefore, the internal organizational effect is an important aspect that should be considered in the implementation of ITG. The internal effect is a very important factor to the success of any project, especially when it is a big project like ITG implementation. The organization structure and current governance are cases of that effect. A study done by ITGI and PwC (2009) considered organization culture the second important barrier to preventing enterprises from realising the full value of IT investments. A study done by the National Computing Centre (2005) stated that enabling and motivating the cultural change that is required for successful implementation of ITG is a critical success factor. ITGI and ISACA’s Global Status Report on the Governance of Enterprise IT (GEIT) in 2011 considered organization culture as the second important factor that influences the implementation of GEIT practices. IT governance was influenced by organizational culture that proved to be incompatible with the federal IT governance model management attempted within the organization’ (Willson & Pollard, 2009). Thus, enterprises should analyse their organizational culture and structure within ITG implementation to ensure a supportive organizational culture (Weill & Ross, 2004a,b). Hence, it’s clear that the organizational or internal effect is an important aspect that should be considered in the implementation of ITG and included in the framework.
+4.5. The strategic alignment between IT and business
+The alignment, communication and relationship between IT and business are important aspects that should be considered in the implementation of ITG. In fact, ITG is matter of alignment between business and IT, and a strong relationship between both of them is needed to achieve good alignment. Luftman et al. (1999) found that a good connection and understanding of business and IT is an important enabler of business-IT alignment (1999). ITGI and PwC (2007) revealed that communication between IT and business is a critical success factor for ITG. A study done by Bhattacharjya and Chang (2006) found that enhancing the communication between IT and business helps to generate value from IT practices. Willson and Pollard, (2009) demonstrate that management support with understanding of ICT and strong relationships between IT and business management are important in achieving business and ICT alignment, a view also supported by Weill and Ross (2004a,b). Ribbers, Peterson, and Parker (2002) stated that ITG is affected by the relationship of business and IT and the integration of their strategy. It is clear that the alignment between IT and business is an important aspect that should be considered in the implementation of IT.
+4.6. IT staffing management
+For any IT-related projects, the management of IT staff plays a key role in the success of these projects. In ITG implementation, almost half of the efforts will be executed and administrated by IT team. Thus, IT staffing management is an important aspect that should be considered in the implementation of ITG. All points that are related to IT team, such as the team skills and size and the needed qualifications, will be under this factor. A study done by ITGI and PwC (2009) considered ‘lack of skill base and training’ a very important barrier preventing enterprises from realising the full value of IT investments. Othman et al. (2009) also found that lack of resources is a major barrier to ITG adoption. Despite continuous efforts, finding skilled IT staff and keeping them is a major issue (Nfuka et al., 2009). Hence, IT staffing, skills and abilities are important aspects that should be addressed before the implementation of ITG.
+4.7. IT structure
+IT structure is a combination of the processes, principles and roles that are required to achieve the desired objectives of these processes. Current IT processes, roles, responsibilities and structure are elements of IT structure factor. The most important finding of a study done by Lee, Lee, Park, & Jeong (2008), Lee, Lee, & Jeong (2008) is that unclear IT principles and policies for optimising IT values is a common issue for many Korean enterprises. Abu’s study about COBIT application in Saudi organizations revealed that most of the participants believed that creating an environment of responsibility structure, performance management system and knowledge management to improve IT performance are good indicators for measuring ITG position in organizations. ‘Inadequate or absent ICT policies and procedures; and lack of clear roles, responsibilities and accountability’ are among the main problems found in current ITG practices in the studied organizations (Nfuka et al., 2009). It is clear that current IT processes and policies are important areas that should be dealt with before moving to ITG implementation.
+4.8. Environment effect (external)
+An enormous project such as ITG implementation should consider the environment and external effects before beginning. External effects should be considered in pursuing regulatory requirements and external policies to be in a competitively advantaged position in the global market. Spremić et al. (2008) concluded that one of the key barriers to successful IT projects in Croatian organizations is the absence of adapting to environmental changes. ITGI and ISACA's (2011) Global Status Report on the Governance of Enterprise IT (GEIT) considered ‘the regulatory environment and specific compliance requirements’ as an important factor that influences the implementation of GEIT practices. They also claimed that inadequate compliance to legal or regulatory requirements would adversely affect ITG success. Hence, environmental factors and external regulations should be addressed and met before the implementation of ITG.
+4.9. Managing the implementation
+The implementation of ITG is a huge project and accordingly requires effective management to achieve the desirable objectives and to control costs. A study done by the National Computing Centre concluded that ‘treating IT governance initiatives as a project not a “one-off” step’ is the first key to success for ITG implementation (National Computing Centre, 2005). ITGI and ISACA's (2011) Global Status Report on the Governance of Enterprise IT (GEIT) revealed that ‘difficulties implementing applications’ is the first major barrier preventing enterprises from realising the full value of IT investments. Good project management of the implementation can ease these difficulties by managing the time of the implementation project and allocating well-planned time. COBIT is a well-known framework for ITG and implementing it requires good project management (Bhattacharjya & Chang, 2006). “Several industry-led frameworks have emphasised the importance of business models, business processes and business project management that can significantly influence the success of IT projects in terms of management, execution and control” (Chang, Walters, & Wills, 2013). Therefore, the management of ITG implementation projects is a very important factor in securing the desired results.
+4.10. Preparation
+The preparation for the implementation of ITG is a critical stage that requires attention before beginning implementation. As with any business and IT implementation project, there are many preparation factors that should be addressed to be sure that the whole organization is ready for the project. The first factor here is the status of the current governance in the organization. ITGI and ISACA's (2011) Global Status Report on the Governance of Enterprise IT (GEIT) revealed that ‘current ineffective enterprise governance’ is a challenge for implementing GEIT. The organization should be clear of all ITG processes and procedures before adopting and implementing ITG practices. ‘Lack of clear ITG processes’ is one of the major barriers to ITG implementation (Lee, Lee, Park, and Jeong, 2008; Lee, Lee, and Jeong, 2008). It is important before starting the implementation to know the requirements and decide on the best combination of ITG standards and frameworks (Bhattacharjya & Chang, 2006). Preparing the stakeholders, employees and users of ITG practices is important before starting the implementation, which could be achieved through good change management strategy and initiatives (Warland & Ridley, 2005). Weill (2004) claimed that ‘education of IT governance’ is a critical success factor for effective ITG. ‘Lack of IT governance awareness and guidelines’ is among the main problems in the current ITG practices of the studied organizations (Nfuka et al., 2009). Analysing the main elements and assigning the main roles and responsibilities before starting the implementation are CFSs of ITG implementations (Pollard & Cater-Steel, 2009). Hence, it can be seen that the preparation factors of the implementation of ITG are major factors that must be covered and analysed before moving to other phases.
+4.11. The lifecycle of the ITG implementation
+]]><h target="5" match="part">The implementation of any project goes through different stages in order to achieve successful implementation of its goals.</h><![CDATA[ Some sources focused on factors of only one stage of ITG, while some others have no clear differentiation between them. The following section gives a brief description of the lifecycle of ITG implementation.
+
+4.11.1. ITG adoption
+This is the first stage that should be addressed before implementation. The implementation of any new concept requires complete adoption of that concept and understanding its details. “The adoption of IT Governance (ITG) continues to be an important topic for research” (Othman et al., 2009). This paper will not cover this phase as a main aspect as it is assumed that the organization has already adopted the implementation of ITG idea. However, some found factors that could be used to facilitate and speed up the adoption stage. In COBIT 5 this stage consists of three phases; what are the drivers, where are we now and where do we want to be.
+4.11.2. Pre-implementation
+Here the preparation for the implementation will be established. To implement an ITG framework successfully, it is important for the organization to be prepared for the coming steps (Weill & Ross, 2004a,b). Hasibuan and Dantes (2012) defined the life cycle as pre implementation, implementation and post implementation. Most of the studies did not speak about this stage explicitly. This stage is represented by what needs to be done phase in COBIT5.
+4.11.3. Implementation
+The main efforts will be in this stage, in implementing the chosen and appropriate standards, frameworks and/or methods. Most studies concentrate on this stage only. This stage is represented by how do we get there phase in COBIT5.
+
+4.11.4. Post-implementation
+Follow up and making continuous improvements are important for the success of any IT project. This paper will not directly cover this stage, but the found factors can be used to assure continuing success. In COBIT 5 this stage has two phases: did we get there and how do we keep the momentum going.
+
+4.12. Findings summary
+In the literature review, there are different success factors, considerations, barriers and challenges that have been discussed in the sources. Therefore, those have been analysed and extracted, and then classified into ten main categories that each has similar definitions and factors. Under each main factor, there are sub factors or different explanations from different resources. In addition, some of the factors have been mentioned in the same expression but in different meanings or contexts. Therefore, they have been dealt with based on their meanings or contexts.
+
+The alignment between business and IT seems to be the most important factor that has been mentioned and discussed in many sources. Other important factors are managing the implementation and preparation for ITG implementation. The unexpected finding based on the literature review is that financial support is not consistently as critical a factor for successful implementation of ITG practices as the other factors.
+
+The lifecycle stages of ITG implementation as enumerated above are the adoption, pre-implementation, implementation and post-implementation. Although there is no clear differentiation between those stages in most previous studies, it can be seen that the implementation stage is the most frequently addressed stage in those studies.ITG domains concentrate on five main elements under the drivers and outcomes: value delivery and risk management are the outcomes, while strategic alignment, resource management and performance management are the drivers (ITGI, 2003). As this paper focuses on the drivers of successful implementation, these drivers will be addressed in the paper.
+IT governance plays an active role in achieving the goals of an organization, which has led many researchers and scholars to contribute to this field (Nfuka & Rusu, 2011).
+IT governance has become an urgent need for business organizations in different activities. The main approach is characterised by modernity, and intellectual leadership is characterised by its way of thinking and the ability to meet the challenges faced by the business environment. ‘Effective ITG generates real business benefits such as enhanced reputation, trust, product leadership, time- to-market and reduced costs, all of which increase stakeholder value’ (Lee, Lee, Park, and Jeong, 2008; Lee, Lee, and Jeong, 2008).
+Since this study deals with research and analysis, it requires a theoretical framework to guide the pace of the researcher through the various stages and aspects of ITG implementation (Spafford, 2003).]]><h target="2" match="part"> The results of the literature review have been studied, analysed and the factors have been extracted.</h><![CDATA[ Some of these factors have been explicitly mentioned, so they can be used in the framework as is. Others have been expressed in different terms but have the same meanings, so a common term has been used to combine their meanings. Others have been used in the same terms but in different contexts, so they fall into different categories based on their contexts.]]><h target="4" match="full">The extracted, analysed and modified factors have been summarised, classified and sorted based on their importance, relativity and the proper sequence.</h> <![CDATA[
+Finding of these factors went through different steps as follows:
+1
+Find the most relevant standards and frameworks and study them thoroughly.
+
+2
+Extract the important factors for the successful implementation of ITG, whether they are challenges, barriers, CSFs or enablers.
+
+3
+Search and thoroughly read the related sources for successful implementation of ITG.
+
+4
+Extract the important factors for the successful implementation of ITG, whether they are challenges, barriers, CSFs or enablers.
+
+5
+Find the main categories for these factors based on similar meaning and scope.
+
+6
+Categorizing the factors with similar meanings and scopes.
+
+7
+Align the categories with the life cycle of ITG implementation.
+
+
+The results are shown in the following framework in Table 1. The sources listed in Table 1 and 2 are examples of some references but not limited to them.
+Table 1. iSFITG-initial success factors for ITG framework.
+Time	Cat no.	Category	CSF no.	Factor	Sources
+Pre Implementation	Adoption	1	Preparation	1	Clear ITG policies and principles	(Dahlberg and Kivijarvi 2006; ITGI and ISACA, 2011; Gheorghe, 2011)
+2	Strengths and weaknesses evaluation	(Abu-musa, 2007)
+3	Change management	(ITGI, 2003; Hardy, 2009)
+4	Costs, benefits and risks analysis	(Haseley and Brucker, 2012)
+5	Organizational readiness	(Hardy, 2006)
+6	Adequate analysis	(Hasibuan and Dantes, 2012)
+7	Ineffective current enterprise governance	(Campbell, McDonald, & Sethibe, 2009)
+8	ITG education	(ITGI, 2006)
+9	Good ITG awareness and guidelines	(Gil-García and Pardo, 2005)
+During the implementation	2	Stakeholders involvement	1	Sufficient business involvement	(Campbell et al., 2009), (Gheorghe, 2011)
+2	Relevant participants involvement	(Hardy, 2006)
+3	End users involvement	(Hasibuan and Dantes, 2012)
+4	Business units and operating groups Involvement	(ISACA, 2012)
+5	Business people ownership	(Gottschalk, 1999)
+3	Management support	1	Executives & IT management support	(Gerrard, 2004), (Korac-Kakabadse and Kakabadse, 2001), (Campbell et al., 2009)
+2	Top management support	(Wilkin and Riddett, 2008)
+3	Top management Buy-in and Ownership	(Othman et al., 2009)
+4	Top management support	(Hasibuan and Dantes, 2012)
+5	Senior management commitment and support	(Spafford, 2003)
+4	Financial support	1	Adequate support for financial resources	(Gerrard, 2004)
+2	The size of the Investment	(Lee, Lee, Park, and Jeong, 2008), (Lee, Lee, and Jeong, 2008)
+3	Increasing it costs	(Spafford, 2003)
+4	Adequate budget for required IT resources	(Gil-García and Pardo, 2005)
+5	Organizational affect (internal)	1	Adequate organizational cultures	(Campbell et al., 2009)
+2	Culture of the organization	(Pérez Lorences and García Ávila, 2013)
+3	Cultural change involvement	(Lee, Lee, Park, and Jeong, 2008), (Lee, Lee, and Jeong, 2008)
+4	The culture of the organization	(Spafford, 2003)
+5	Organizational culture	(Nfuka & Rusu, 2010)
+6	The limitations of organizational structure	(Willson & Pollard, 2009)
+6	Alignment between IT & business	1	The communication between IT & business	(Campbell et al., 2009), (Gheorghe, 2011)
+2	Communication between IT and business	(Willson & Pollard, 2009)
+3	Adequate communication	(Wilkin and Riddett, 2008)
+4	Strategic integration of business and IT decisions	(Khther and Othman, 2013)
+5	Communications issues	(Spafford, 2003)
+6	The communications between stakeholders	(Nfuka & Rusu, 2010)
+7	Strategic alignment	(Gil-García and Pardo, 2005)
+7	Ennvironment effect (external)	1	IT environment	(Lee, Lee, Park, and Jeong, 2008), (Lee, Lee, and Jeong, 2008)
+2	Regulatory environment, industry/vendor support	(Wilkin and Riddett, 2008)
+3	Adjust to environmental changes	(Hasibuan and Dantes, 2012)
+4	Environmental contribution	(Abu-musa, 2007)
+5	Regulatory environment & compliance requirements	(Spafford, 2003)
+8	Current IT structure	1	Clear IT principles and policies	(Gerrard, 2004), (Nfuka & Rusu, 2010)
+2	Climate of empowerment & responsibility	(Abu-musa, 2007)
+3	Clear roles, responsibilities & accountability	(Gil-García and Pardo, 2005)
+Post Implementation			9	IT staffing management	1	Adequate staffing level	(Abu-musa, 2007)
+2	Adequate skill base & training	(Pérez Lorences and García Ávila, 2013)
+3	Adequate resources	(Wilkin and Riddett, 2008)
+4	Adequate human resources	(Hasibuan and Dantes, 2012)
+5	Adequate number of IT staff & IT skills	(Spafford, 2003)
+6	Human resource management	(Gil-García and Pardo, 2005)
+10	Managing the implementation	1	Project control	(Chang et al., 2013)
+2	Good project management methodology	(Abu-musa, 2007)
+3	Implementing applications complexity	(Chang et al., 2013)
+5	ITG as a project & managing expectations	(Nfuka & Rusu, 2010)
+6	Project management	(Hardy, 2009)
+iSFITG has been developed and filtered again by adding the factors found in COBIT and ISO 38500, removing the repetitions and creating border content for similar factors. In addition, some unimportant factors that have very few supported resources have been removed. In addition, the life cycle of the framework is no longer needed, as these factors should be considered during all the implementation stages. The further steps here are:
+8
+Add the found factors from the related standards and frameworks.
+
+9
+Remove the repetitions.
+
+10
+Remove the none-important factors.
+
+11
+Remove the life cycle of ITG implementation, as all factors should be considered during the whole life cycle of ITG implementation.
+
+12
+Adjust the categories, based on the main drivers of ITG and the internal and external effects.
+
+13
+Assign factors to their corresponding categories.
+
+
+The results of the filtering are shown in next framework, the Success Factors for ITG (SFITG), Table 2.
+Table 2. SFITG, success factors for ITG framework.
+Cat No	Category	CSF no	CSFs	Sources
+1	Strategic alignment	1	Adequate stakeholders involvement	COBIT, VAL IT, ISO 38500, (Juiz et al., 2014), (Nfuka & Rusu 2011), (Spremić et al., 2008)
+2	Adequate management support and ownership	COBIT, VAL IT, ISO 38500, (Wilkin and Riddett, 2008), (Lee, Lee, Park, and Jeong, 2008), (Lee, Lee, and Jeong, 2008), (Spafford, 2003)
+3	Effective alignment and communication between IT and business strategy	COBIT, VAL IT, ISO 38500, (Khther and Othman, 2013), (Gil-García and Pardo, 2005), (Wilkin and Riddett, 2008)
+4	Effective communication between IT and business	COBIT, VAL IT, ISO 38500, (Sahibudin, Sharifi, & Ayat, 2008), (Gil-García and Pardo, 2005), (Wilkin and Riddett, 2008)
+2	Environmental effect (external)	1	Regulatory environment & requirements compliance	COBIT, VAL IT, ISO 38500, (Spafford, 2003), (Wilkin and Riddett, 2008)
+3	Organizational effect (internal)	1	Clear ITG policies, principles & responsibilities	COBIT, VAL IT, ISO 38500, (Gerrard, 2004), (Lee, Lee, Park, and Jeong, 2008), (Lee, Lee, and Jeong, 2008), (Gheorghe, 2011)
+2	Effective current Enterprise Governance	ISO 38500, (Spafford, 2003)
+3	Appropriate organizational culture	ISO 38500, COBIT, (Campbell et al., 2009), (Pérez Lorences and García Ávila, 2013), (Khther and Othman, 2013)
+4	Clear IT strategy, principles & policies	COBIT, VAL IT, ISO 38500, (Gerrard, 2004), (Haseley and Brucker, 2012), (Gil-García and Pardo, 2005)
+5	Good organization change strategy	ISO 38500, COBIT, VAL, (ITGI, 2003), (Hardy, 2009)
+4	Performance management	1	Adequate analysis, evaluation of the current and future use of IT	ISO 38500, (Haseley and Brucker, 2012), (Khther and Othman, 2013), (Hasibuan and Dantes, 2012), (Willson & Pollard, 2009)
+2	Good project management methodology	COBIT, (Abu-musa, 2007), (Chang et al., 2013), (Lee, Lee, Park, and Jeong, 2008), (Lee, Lee, and Jeong, 2008)
+3	Effective performance management strategy	ISO 38500, COBIT, (Sahibudin et al., 2008)
+5	Resource Management	1	Sufficient financial support	(Gerrard, 2004, (Abu-musa, 2007), (Spafford, 2003), (Gil-García and Pardo, 2005)
+2	Adequate IT skills & staff	COBIT, ISO 38500, (Pérez Lorences and García Ávila, 2013), (Khther and Othman, 2013), (Spafford, 2003)
+
+5	categories	15	Critical Success Factors (CSFs)	Total
+As it can be seen in Table 2, only the main critical success factors are included in the framework without going deeply in the complete process of implement such factor or category.
+Next, SFITG will go through the confirmation process conducted through global and cultural experts’ reviews. After that, the confirmed framework will be developed to be an instrument that can be applied in five case studies. Then, an evaluation process will be conducted to get the participants’ feedback about the instrument. The last two steps will validate the framework. At the end of this phase, the requirements for the SFITG framework have been identified. It can be seen that SFITG will act as support framework for the implementation of IT Governance and its components, see Fig. 2.
+Fig. 2
+Download high-res image (257KB)Download full-size image
+Fig. 2. SFITG within ITG.]]></section>
+    <section name="Conclusion and future work" category="conclusion">
+        <![CDATA[
+5. Conclusion and future work
+From this paper, it has been demonstrated that ITG can have a significant impact on IT practices, helping organizations to gain optimal benefits from IT projects and manage the associated risks. In this paper, many sources and related studies have been explored and analysed to build a framework that integrates all Critical Success Factors (CSFs) for the successful implementation of ITG. This section presents a conclusion of the paper and outlines the next steps to be followed.
+
+This study included a brief introduction to ITG and the associated factors. ITG is the set of policies, procedures, and processes accomplished by board of directors to optimize IT benefits and minimise their risks. In an era of rapidly-changing information technology, optimising the benefits of IT applications and practices, while minimizing their risks, is critical. ITG offers solutions to this issue by providing guidelines, policies, and procedures to control IT practices and investment. Many frameworks and models have been published to help govern IT (Calder & Moir, 2009). COBIT and ISO/IEC 38500: 2012 have released guidelines and frameworks for most IT practices. The CSFs for ITG is such an aspect that must be considered during and after implementing ITG. The need to research CSFs for implementing ITG has driven this study. To achieve this aim, an in-depth investigation of ITG and its implementation has been carried out, as shown in the literature review. ]]><h target="2" match="part">Many related standards, frameworks, and models have been examined to identify the main success factors, enablers, obstacles, and barriers.</h> <h target="4" match="part">These items have been extracted from the literature review, analysed, sorted, and categorised.</h><![CDATA[ The results were used to create the iSFITG framework. iSFITG was further refined by removing duplications to create the SFITG framework.
+Next, the framework will be pass to a confirmation process through an exploratory study to become a confirmed SFITG. This confirmation process combined two consecutive reviews to incorporate expert views on ITG from across the globe and views pertaining to Saudi culture. After the global review, the recommendations of the global experts will be analysed, and the questionnaire will be adjusted for the cultural review, based on the analysis. As this research is an exploratory study, a survey strategy will be adopted to obtain the primary data, using a questionnaire-based approach. This approach allows for the collection of quantitative data, which can be analysed later using quantitative analysis techniques. The survey will be based on the proposed framework (SFITG). The target at this stage was to learn whether the proposed framework had captured all the important factors, and to ensure that the framework was both globally acceptable and appropriate for the Saudi context.
+
+5.1. Review by global ITG experts
+The SFITG framework was initially confirmed by recommendations from a review by global ITG experts. The development of SFITG was driven by studies that were conducted globally. A review by global ITG experts was, therefore, important to ensure that the framework did not deviate from globally accepted frameworks. Questionnaires were developed based on the SFITG framework. The web-based SurveyGizmo tool was used to design the questionnaire, and to distribute and collect the responses. The validity and reliability of this tool can be measured using scientific methods. Participants gave their opinion about each factor and category as well as their connections with each other. In addition, the questionnaire allowed participants to add or remove factors and categories. The questionnaire was sent to over a hundred ITG experts around the world from different sectors in both developed and developing countries such as the UK, the US, Australia and Malaysia. Analysis of the questionnaire results was used to confirm the CSFs for the proposed ITG framework.
+
+This survey targeted ITG experts, who could best help in refining the ideas and findings of the paper, whether they were executives, managers, IT professionals or researchers. The researcher also contacted leading ITG organizations such as ISACA and ITG Institutes, as these bodies have lists of experts in this field. We acknowledge the help offered by these bodies. ISACA, for example, offered to post the survey questionnaire on its website.
+
+All participants were contacted via email and invited to complete the questionnaire. Emails included a direct link to the questionnaire. Alternatively, participants were told that they could complete the questionnaire from the ISACA website.
+
+5.2. Review by cultural experts
+This review was conducted directly after the global review to provide greater understanding of the status of ITG in Saudi Arabia, and to confirm whether the proposed framework was appropriate for use in Saudi Arabia or whether any adjustments were required. As there is a good understanding of ITG implementation in the Saudi private sector, private sector experts were included in this review. Questionnaires and surveys were developed, based on the SFITG framework, and sent to 120 experts in both the public and private sector, in different industries such as telecommunication companies, universities, research institutes and government ministries. Fig. 3 illustrates the number of questionnaires sent out in each review.
+Fig. 3
+Download high-res image (252KB)Download full-size image
+Fig. 3. Questionnaire methods.]]></section>
+</publication>

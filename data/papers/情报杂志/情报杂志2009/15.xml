@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bibliographies>
+<BibliographiesCount>50</BibliographiesCount>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[企业规模对企业内员工间知识共享影响的博弈分析]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[吴建祖;王欣然;]]></FullName>
+<Organization><![CDATA[兰州大学管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[S2]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[知识共享;重复囚徒困境博弈;贴现因子;企业规模]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[研究企业规模对企业内员工间知识共享的影响。研究表明,知识共享博弈的子博弈精炼均衡存在的条件是未来收益的贴现因子足够大,对背叛的惩罚是可置信的,以及企业的规模小于某个临界值。当企业规模超过临界值时,次优的知识共享水平随企业规模的增大而减小。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[251-253+247]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于RFM分析模式与马尔可夫链的客户行为预测模型研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[黄聪;王东;]]></FullName>
+<Organization><![CDATA[上海交通大学软件学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[S2]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[客户行为分析;RFM;马尔可夫链;马尔科夫链蒙特卡洛模拟;Gibbs抽样]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[对客户的分析预测立足于RFM分析模式,并以F,M两个行为变量定义出单期客户购买行为的9种状态,接着采用k-means算法对客户进行聚类分析,归纳出5种针对前面9种不同客户状态所要采取的方案。然后借助马尔可夫链理论,建立转移矩阵。同时利用Dirichlet-Multinomial模型来估计转移概率,从而解决客户信息的单一性不足和转移矩阵内的多项式分配问题。对于Dirichlet-Multinomial模型的参数本文是运用马尔科夫链蒙特卡洛模拟方法(MCMC)中的吉布斯(Gibbs)抽样算法来估计的。最后通过软件WinBUGS1.4建模分析进行实证研究,并进一步针对模拟次数和统计变量进行参数优化,...]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[143-146+69]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于LISP语言定制装配图中零件的编号]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[郑玉波;彭守凡;夏春林;]]></FullName>
+<Organization><![CDATA[辽宁工程技术大学;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[S2]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[Lisp语言;序号;装配图]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[Auto CAD即Auto Computer Assist Dsign(计算机辅助设计)是美国Auto desk公司开发用于个人计算机的辅助绘图设计系统。Auto CAD技术以简单、快捷、存储方便等优点在工程设计中承担着不可替代的重要作用,Lisp(list processing language)是一种计算机表处理语言,AutoLISP语言是嵌套Auto CAD内部,Lisp语言可以随意扩大图形编辑功能,尤其是Lisp语言灵活多变因而使得Auto CAD功能更加强大。在Auto CAD 2006中,利用Lisp语言完成装配图中零件序号编制的快速定制,提高了绘图工作效率。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[161-162]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[金融危机形势下中小纺织企业信息化对策研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[严晓晴;白庆华;]]></FullName>
+<Organization><![CDATA[同济大学经济与管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[S2]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[信息化;中小纺织企业;SaaS;电子商务平台;金融危机]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[我国中小纺织企业的信息化建设迫在眉睫。分析我国中小纺织行业信息化建设现状及存在问题,并详述了在金融危机下,中小纺织行业实施信息化建设的原则,从而提出SaaS与电子政务平台相结合的信息化建设方案,使中小纺织企业信息化不受资金、人才、技术等资源的约束。这两者相结合的信息化方案是大多数中小纺织企业提高竞争力、赢得市场的一个明智选择。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[12-14]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[图像情报的照相侦察卫星技术及其发展研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[武赫男;谭海峰;李德军;廉凤慧;]]></FullName>
+<Organization><![CDATA[空军航空大学特种专业系;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[S2]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[照相侦察卫星;图像情报;美军]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[从照相侦察卫星图像获取技术出发,结合美军目前使用的几种典型的照相侦察卫星的特点及使用,阐述了照相侦察卫星技术的发展趋势和方向。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[176-177]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[我国自然语言处理研究的文献计量分析]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[祝清松;]]></FullName>
+<Organization><![CDATA[中国科学技术信息研究所;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[S2]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[自然语言处理;中国知网;期刊论文;文献计量分析]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[应用文献计量学的相关方法,对中国知网2000～2009年收录的自然语言处理研究的期刊论文进行了统计分析,包括载文分析、作者分析、关键词分析、期刊分析和机构分析,旨在揭示我国自然语言处理的研究现状。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[32-34+18]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于知识管理的电子政务流程再造]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[张亮;梁秀娟;]]></FullName>
+<Organization><![CDATA[湘潭大学公共管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[S2]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[知识管理;电子政务;流程再造]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[介绍了知识管理的内涵及其核心流程,分析了传统政务流程存在的弊端,并将知识管理中流程管理的理念引入电子政务的流程管理中,从精简、重建和改进三个环节说明了知识管理在电子政务流程再造中的应用,最后指出今后必须辅以制度与评估等手段完善知识管理在电子政务流程中的应用。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[260-262]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[谈我国政府网站合并与整合的必要性和可行性]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[孙平;]]></FullName>
+<Organization><![CDATA[中国科学技术信息研究所;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[S2]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[政府网站;网站合并;内容整合]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[针对当前我国政府网站建设与运行维护工作中存在的网站信息重复与缺失、内容更新机制不健全和运行维护成本高等关键问题,提出合并同级政府部门现有的职能相近或相关的网站,或由上级政府职能部门自上而下建设统一的网站平台以整合网站信息、削减网站数量、方便网站用户以及促进网站可持续发展的设想,论述了政府网站合并与整合的必要性和可行性,并对网站合并的具体策略与实施步骤作了初步探讨。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[107-109]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[信息公开与电子政务建设]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[郝亚芬;黄蜺;]]></FullName>
+<Organization><![CDATA[长安大学人文学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[S2]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[信息公开;电子政务建设;作用;对策]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[信息公开是以公众为中心的电子政务的重要内容之一,电子政务是政府信息公开的重要载体,为政府与公众的交流提供了沟通的渠道,要搞好电子政务建设,使电子政务发挥应有的作用,必须开发丰富的信息资源,并提高信息资源共享程度。本文探究了信息公开、电子政务的内涵及现状,针对信息公开对电子政务的作用进行探究,并根据信息公开不足带给电子政务建设的不利影响,最终提出优化信息公开,促进电子政务建设的对策。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[125-128]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[战场信息资源标准化管理人才评价研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[张俊星;李振富;邵华欣;吴垚;]]></FullName>
+<Organization><![CDATA[西安通信学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[S2]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[层次分析法(AHP);战场信息资源标准化;管理人才;素质评价]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[战场信息资源标准化管理人才是战场信息资源标准化管理的组织实施者,为战场信息资源标准化建设提供智力支撑。结合战场信息资源标准化管理人才需求特点,运用层次分析法从基本素质、知识结构、能力素质三个方面出发建立人才素质评价指标体系,分析计算各指标权重,评价采取定量与定性相结合的方式,给出人才素质评估模型,可以为战场信息资源标准化管理人才的选拔培养提供依据。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[210-212]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[论《孙子兵法》的情报保密思想]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[伍思妍;]]></FullName>
+<Organization><![CDATA[中国人民武装警察部队学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[S2]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[孙子兵法;情报保密;情报思想]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[古往今来,世界各国无不对军事情报的保密予以高度重视,中国的军事情报保密思想就源远流长,产生于公元前512年的兵书《孙子兵法》就已记载了当时主要的情报保密思想。通过对《孙子兵法》中关于情报保密的内容进行系统地梳理、总结,对其情报保密思想有一个新的认识,并且结合实际情况,分析出了情报保密工作的特点。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[269-271]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[外国网络战部队建设概览]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[夏军;杨国鑫;]]></FullName>
+<Organization><![CDATA[炮兵指挥学院;南京政治学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[S2]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[外军;网络战;部队]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[随着网络战地位的提升,组建专职网络战部队,打赢网络上的战争,日益成为各国共识。在对世界主要国家网络战部队发展的基本情况加以梳理研究。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[272-273+271]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[美国军事情报系统转型的背景、规划及具体做法]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[刘鹏喆;邵明海;庞慧;]]></FullName>
+<Organization><![CDATA[69018部队;69023部队;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[S2]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[美国;军事情报;情报系统]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[美国军事情报系统的转型,是在新军事变革的大背景之下进行的,同时,战争形态的转变、美国军队战略的调整、美国所面临安全威胁的多元化以及美国军队开始实施的转型计划,均对美国军事情报系统的转型产生着影响。在确定了未来发展基本构架和近期发展目标的基础上,美国军方采取了一系列措施来具体推进军事情报系统的转型进程。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[281-283]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[美俄情报界管理模式比较研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[李炜;伍思妍;]]></FullName>
+<Organization><![CDATA[中国人民武装警察部队学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[S2]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[美国;俄罗斯;情报体系;管理模式;比较研究]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[情报体系是一个国家安全体系的重要组成部分,为国家整体安全利益而服务。美俄作为当今世界上两个情报大国,其情报体系管理模式具有一定的代表性。通过对美俄两国的情报体系管理模式从组织构成、运行机制等方面进行比较研究,从而揭示情报工作的一般规律,为我国的情报体制及情报工作提供参考。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[59-63]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[略论军队信息化建设引入CIO机制]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[杨世松;张松旭;]]></FullName>
+<Organization><![CDATA[信息工程大学;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[S2]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[信息化;CIO机制]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[为科学合理地规划军队信息化建设,有效管理并充分利用信息资源,在我军引入CIO机制已经成为必然选择。CIO是Chief Information Officer的缩写,意为首席信息官。CIO在美军的信息化建设中发挥着极为重要的作用。我军信息化建设的重要性、艰巨性、复杂性、系统性、长期性等都要求在军队中设置CIO,而且我军已经具备设置CIO的客观条件。培训CIO人才,首先应在院校构建CIO专业课程体系,其次强化CIO专业教学,再次制定必要的CIO资格认证。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[113-115+109]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[《公共图书馆法》立法中读者角色的定位]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[卢慧;]]></FullName>
+<Organization><![CDATA[首都图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[S2]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[公共图书馆法;读者权利;读者义务]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[历经曲折,2008年11月我国的《公共图书馆法》的立法工作终于启动。立法在对公共图书馆的责任、义务予以规定的同时,更应该对读者的责任和义务予以明确。读者作为图书馆建设的重要一方,对图书馆事业的发展有着举足轻重的作用,图书馆的发展需要读者的智慧,读者需承担应有的义务。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[274-276]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[高校科研成果评价中核心期刊选择的原则与方法]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[邵胜春;张云鹏;高玉洁;]]></FullName>
+<Organization><![CDATA[华北煤炭医学院图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[S2]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[科研成果;评价体系;选择原则;选择方法]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[结合高校在职称评定和科研成果评价中所用核心期刊的选择实践,给出高校在科研成果评价及职称评定中选用核心期刊应采取的原则和方法。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[72-74]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于图像特征的SAR机场目标边缘提取方法研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[李德军;王晓娟;王占龙;武赫男;]]></FullName>
+<Organization><![CDATA[空军航空大学;93107部队56分队;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[S2]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[SAR;形态学;阈值分割;边缘提取]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[SAR图像边缘检测是SAR图像处理与分析中最基础的内容之一,从分析SAR图像的成像原理及目标统计特性出发,根据SAR机场图像的基本特性,提出了一种基于图像特征的SAR机场图像边缘提取方法,综合运用了中值滤波、图像分割、数学形态学等方法实现了SAR图像的预处理,最后利用Canny算子对预处理后的SAR图像进行了边缘提取。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[163-165]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于虚拟技术的信息管理实验平台构建研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[温浩宇;黄桂梅;]]></FullName>
+<Organization><![CDATA[西安电子科技大学;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[S2]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[实验室管理;虚拟技术;信息管理;远程控制]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[信息管理实验中往往需要使用多种实验软件,这使得实验室在网络硬件和软件环境的配置方面变得十分复杂,不利于信息管理实验顺利开展。针对信息管理实验软件的特点,采用虚拟技术构建了系统运行的虚拟环境。通过安装虚拟机平台、创建多层次虚拟硬盘、配置远程管理站点、设置安全策略,提高了网络与服务器平台利用率,改善了实验室的可管理性和可维护性。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[147-149]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于语义词典的电子商务推荐系统模型研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[聂规划;章志龙;王锐;]]></FullName>
+<Organization><![CDATA[武汉理工大学经济学院电子商务研究所;武汉理工大学经济学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[S2]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[语义词典;电子商务;推荐系统;相似度]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[随着电子商务行业网站的迅猛发展,智能推荐系统的作用变得越来越重要,它能提升网站的知名度和用户的忠诚度,有效地保留客户和挖掘潜在客户,从而提高商务企业的销售收入。本文介绍了电子商务推荐系统的主要算法和国内外相关研究成果,分析了现有算法和推荐技术存在的缺陷,探讨了语义词典的设计原理,提出了基于语义词典的电子商务推荐系统的想法。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[152-154+165]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[中小型高校图书馆门户网站设计]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[李楠;]]></FullName>
+<Organization><![CDATA[中国社会科学院研究生院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[S2]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[中小型高校图书馆;门户网站;网站设计]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[立足于中小型高校图书馆的实际情况和需求,首先阐述了中小型高校图书馆门户网站建设的必要性,继而针对中小型高校图书馆的特征,对其门户网站建设进行了定位分析,明确了中小型高校图书馆门户网站建设的核心任务和目标定位。随后笔者以所在院校图书馆门户网站的设计为实例,结合实际详细介绍了一个中小型高校图书馆门户网站的设计过程。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[157-160]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[一种实现PDF文档加密的方法]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[褚纪红;云宪明;左宏良;]]></FullName>
+<Organization><![CDATA[西北核技术研究所;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[S2]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[PDF文档;动态链接库;安全性]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[在介绍PDF文档结构的基础上,对PDF文档的安全性进行了深入分析。借助于Acrobat SDK,设计开发一个动态连接库,通过定义该库文件的安全性句柄,将加密信息写入PDF文档中加密字典,从而控制PDF文档字符串对象、流对象等的加密,最终实现加密PDF文档的目的。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[168-169+192]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于图书征订批次的读者荐购系统的设计与开发]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[代茂军;]]></FullName>
+<Organization><![CDATA[浙江警察学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[S2]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[读者荐购系统;图书采购;采访质量;ASP]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[分析了建立图书荐购系统的意义,介绍了我馆读者荐购系统的设计和开发方法,包括数据库的设计、事件处理函数的编写以及ASP关键代码的编写。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[193-195]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[数字图书馆系统与服务质量评价]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[乔欢;王燕;]]></FullName>
+<Organization><![CDATA[北京师范大学管理学院信息管理系;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[S2]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[数字图书馆评价;可用能力评价;图书馆绩效评价]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[数字图书馆评价可以分别从信息系统、服务系统以及整体绩效等不同角度,构建综合性评价体系。通过对不同数字图书馆项目评价分析,提出系统和服务质量评价指标。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[196-199]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于群决策方法的城市信息化发展水平评估模型]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[李晨光;王春新;]]></FullName>
+<Organization><![CDATA[信息工程大学信息工程学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[S2]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[群决策;指标体系;评估;城市信息化水平]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[提出了一种基于群决策方法的评价模型,解决专家的个人权重在决策中反映不充分,易于受到其他成员抑制的问题。通过构造两个综合权重矩阵,从技术上改进了算法问题;介绍了城市信息化水平评估指标体系,并应用该模型对其进行了评价,为解决对城市信息化水平评价问题提供了一种可行方法。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[204-206]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[实施读者关系管理 提升图书馆竞争力]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[杨彬;李宏建;]]></FullName>
+<Organization><![CDATA[乌鲁木齐科技信息服务中心;中科院新疆分院文献信息中心;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[S1]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[图书馆竞争力;读者关系管理;读者忠诚度]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[文献信息资源、服务能力和读者群体是维系图书馆良性发展的三大力量,但长期以来图书馆一直埋头自身建设,文献信息资源建设、服务能力和水平都有长足发展,而忽视了对读者群体的吸引和培育。读者是图书馆的生存与发展之本,强调读者价值和读者关系的重要性,对提升图书馆竞争力有着至关重要的意义。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[351-352]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[高校图书馆信息共享空间的构建与服务]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[张克菊;]]></FullName>
+<Organization><![CDATA[武警医学院图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[S1]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[高校图书馆;信息共享空间;建设与服务]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[信息共享空间是一种新型的物理设施或空间,也是一种独特的在线环境,更是一种新型的服务模式。信息共享空间在北美大学图书馆非常流行,但在国内还比较少见,主要的制约因素是多学科的人员、资源保障和庞大的经费投入。论述了高等院校图书馆结合馆情构建信息共享空间的知识背景、必要性与可行性、建设和服务的内容及问题与对策。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[349-350]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[论图书馆中层干部队伍建设]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[谢军;]]></FullName>
+<Organization><![CDATA[四川攀枝花图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[S1]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[图书馆;中层干部;队伍建设]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[就中层干部的外部环境建设与自身建设相结合,提出了对中层干部队伍建设的思考。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[347-348]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[高校图书馆学科馆员服务与知识管理研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[王立文;]]></FullName>
+<Organization><![CDATA[北京石油化工学院图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[S1]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[高校图书馆;学科馆员;知识管理]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[探讨了高校图书馆学科馆员在高校知识管理中的角色和职责,分析了学科馆员在显性知识和隐性知识管理、高校知识服务项目以及教育研究中的作用。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[344-346]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[网络环境下行业图书馆走向联盟的战略探索]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[陆兰;]]></FullName>
+<Organization><![CDATA[中国石化北京化工研究院图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[S1]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[行业图书馆;图书馆联盟;战略探索;网络环境]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[介绍了图书馆联盟的概念,及其美国与我国图书馆联盟的发展现状;简述了网络环境下行业图书馆建设联盟的必要性和现实意义;最后围绕当前我国行业图书馆开展联盟建设在实践过程中经常出现且需要抓紧解决的几个核心问题而集中展开详细的论述,其中包括行业图书馆实施联盟建设的战略选择以及网络环境下行业图书馆走向联盟的战略探索两个方面的内容。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[341-343+330]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[高校图书馆采访选书决策过程探讨]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[资芸;张勤;]]></FullName>
+<Organization><![CDATA[昆明理工大学图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[S1]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[高校图书馆;图书采访;选书决策过程]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[在分析高校图书馆采访选书决策过程中所涉及的相关影响因素的基础上,提出了高校图书馆图书采访决策要素及决策方式,并分析设计了决策过程。根据这一决策过程,采访人员可以在充分掌握读者需求、馆藏实际情况与发展需要的情况下,科学地进行图书采访工作,从而提高图书采访的质量和水平。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[339-340+302]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[浅谈高校专业阅览室的特藏建设与读者服务工作]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[赵燕红;]]></FullName>
+<Organization><![CDATA[北京建筑工程学院图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[S1]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[专业阅览室;特藏建设;文献资源;读者服务]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[高校专业阅览室是图书馆的一个重要部门,结合北京建筑工程学院专业阅览室的工作实践,对创建特色馆藏服务区和特色文献信息资源服务进行了探讨,阐述了专业阅览室在特色管理和服务方面的几项具体措施。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[337-338]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[面向PBL教学的高校图书馆服务新尝试]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[仇晓春;]]></FullName>
+<Organization><![CDATA[上海交通大学医学院信息资源中心;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[S1]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[PBL教学;图书馆服务;高等教学]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[PBL教学法是一种自我指导学习和小组讨论为教学形式的新的教学模式,较传统教学模式更注重学生自主学习能力的培养。旨在总结过去一年来我校图书馆参与学校PBL教学的经验,分析PBL教学的特点,探索高校图书馆服务PBL教学的新途径、新方法。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[334-336]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[构建人文关怀体系]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[谢一帆;]]></FullName>
+<Organization><![CDATA[西北工业大学;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[S1]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[图书馆;人文;人文关怀]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[阐述了图书馆人文属性的内涵和性质,人文属性的认识过程,揭示了图书馆人文属性的本质在于人文关怀,应包括公益性、平等观、广泛性。目前在图书馆实践中存在着人文关怀缺失的现象,为此要大力提倡人文关怀并重。图书馆人文关怀应从精神认同、制度建设、加强教育、行为约束、环境建设等几个方面加以落实。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[379-380+318]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[浅议高校文书档案工作的规范化管理]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[李萍;]]></FullName>
+<Organization><![CDATA[北京邮电大学;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[S1]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[高等学校;文书档案;规范化]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[在分析高校文书档案工作面临新形势挑战的情况下,提出做好档案工作规范化管理的具体措施和办法。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[267-268]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于BP神经网络的航空装备维修保障信息化评估]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[吴熠;]]></FullName>
+<Organization><![CDATA[空军航空大学航空信息对抗系;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[S1]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[BP神经网络;航空装备维修保障;信息化评估;样本训练]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[参照国家信息化指数评估模型,构建了航空装备维修保障信息化评估指标体系,并依据此指标体系,建立了对其进行评估的BP神经网络。简要介绍了BP算法,并利用统计数据和专家经验获得了对网络进行训练的可靠样本,对网络进行了训练,得到了速度和精度符合要求的BP神经网络。经验证,该网络在评估航空装备维修保障信息化水平时提高了效率,具有良好可信度,并能有效减少主观因素对评估结果的影响。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[147-149]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于平衡计分卡的BPO绩效评价研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[孔杰;彭海香;]]></FullName>
+<Organization><![CDATA[西安电子科技大学经济管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[S1]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[业务流程外包;绩效评价;平衡计分卡]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[分析了BPO绩效评价的重要性和研究现状,结合BPO的特点,以改进的平衡计分卡作为BPO绩效评价指标选取的依据,即在平衡计分卡原有的四个评价模块:财务、客户满意度、内部流程、未来发展模块的基础上增加了信任模块,并在五个评价模块下构建了23个三级关键绩效指标,最后介绍了BPO平衡计分卡绩效评价的实现方法,得出了最终的评价结果。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[139-141]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[中小企业信息化管理模型]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[刘洋;]]></FullName>
+<Organization><![CDATA[内蒙古师范大学;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[S1]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[中小企业;信息化建设;信息化管理模型]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[我国的中小企业大部分还是粗放式管理,信息化建设无疑为他们提供了一个新的发展途径。提出了中小企业信息化管理模型,将统一企业信息化在各个阶段的应用,降低信息化的难度,提高企业管理水平。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[62-63]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[企业全面信息管理研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[邵宏宇;郭伟;]]></FullName>
+<Organization><![CDATA[天津大学机械工程学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[S1]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[企业信息化;信息化能力;企业全面信息管理;企业能力论]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[针对当前企业深入应用信息化的方法问题,在企业资源基础论和企业能力论的基础上,提出了企业信息化能力和企业全面信息管理的概念,并建立了企业全面信息管理框架。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[64-65+97]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[知识管理与电子商务的结合应用研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[冯尉;]]></FullName>
+<Organization><![CDATA[中国科学技术信息研究所信息技术支持中心;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[S1]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[知识管理;电子商务;策略研究;技术框架]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[阐述了知识管理与电子商务的相关概念,指出将知识管理与电子商务相结合应用,有利于对企业的商业应用开辟新的途径。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[305-307]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于AHP的社区信息化水平评价]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[蹇洁;徐晓伟;盛湛;]]></FullName>
+<Organization><![CDATA[重庆邮电大学;杭州信息化办公室;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[S1]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[社区信息化;评价指标体系;层次分析法]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[对社区信息化评估指标体系的研究可以为社区信息化建设提供科学的衡量依据。提出了一套社区信息化评估指标体系,分别根据层次分析法原理研究了各个评价指标对于社区信息化发展水平的不同影响程度,并在东西部典型地区进行实证研究。研究结果表明,东西部地区的社区信息化建设具有较大的差异,从而为西部地区的社区信息化建设提供了现实的指导建议。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[150-152]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[信息产业寡头规律分析]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[罗永刚;]]></FullName>
+<Organization><![CDATA[华东师范大学信息学系;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[S1]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[寡头;信息产业;竞争优势;形成原因]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[介绍了目前信息产业中存在的由几个寡头占某个行业统治地位的主要规律性,并以实例(IC、软件)进行详细分析,说明信息产业寡头的形成不是自然形成,而是市场运作的结果。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[126-127]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[网络社区分类体系的构建——以江苏省网络社区为例]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[方微;邵波;]]></FullName>
+<Organization><![CDATA[南京大学信息管理系;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[S1]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[网络社区;分类指标;网络空间]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[首先分析网络社区的定义与认识误区,再以社区规模、所属机构、设置目的与功能模块为指标构建网络社区分类体系,并以江苏省部分网络社区为例,划分其社区类型,最后阐述构建网络社区分类体系的理论意义与实践意义,为日后研究不同类型的网络社区资源的整合利用,实现其在舆论导向、商业应用中的作用奠定基础。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[374-376+365]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[邓白氏I、SI商业信息服务机构的分析和启示]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[谢飞;]]></FullName>
+<Organization><![CDATA[北京大学信息管理系;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[S1]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[邓白氏;ISI;商业信息服务;信息服务企业]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[近十年是国内商业信息服务企业的高速发展期。与此同时,世界著名老牌商业信息服务企业和新兴数据服务企业纷纷进入中国市场,邓白氏和ISI便是其中的典型案例。通过对这两家家企业的介绍和分析,得出对我国商业信息服务企业发展的启示。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[164-165]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[创意决定一切——谈绝对伏特加广告创意]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[赵晓路;]]></FullName>
+<Organization><![CDATA[陕西师范大学美术学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[S1]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[绝对伏特加;酒品包装;广告创意]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[现代社会是一个充满消费的时代,在经济社会中,消费者的目的,不再是只为基本生活需求而消费,而更多的是为消费的感觉而消费。通过分析绝对伏特加酒品牌渊源、广告创意,对比中国酒品包装现状,举例阐述了创意在广告中的重要地位。绝对伏特加的成功告诉我们:品牌的成功,并不全是金钱砸出来的,推陈出新、个性另类且又适合自身产品属性、文化的广告策略,同样可以达到名扬宇内的效果。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[383-384+348]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[论竞争情报产业的市场构成]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[厉宏;]]></FullName>
+<Organization><![CDATA[重庆图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[S1]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[竞争情报;竞争情报产业化;竞争情报系统;竞争情报服务;竞争情报市场构成]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[现代竞争情报是市场竞争激化和社会信息化高度发展的产物,是信息作为一种战略资源的重要体现,也是情报研究的重要发展。就竞争情报产业化及情报产业的主体、情报产业的市场构成作一些分析研究。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[48-50]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[知识服务产业结构的探讨与知识服务业务运载系统]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[薛晓冬;唐宝莲;殷铭;胡正强;丁健勇;张振琴;]]></FullName>
+<Organization><![CDATA[江苏省科学技术情报研究所;南京医科大学;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[S1]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[知识服务;知识服务业;产业结构;运载系统;系统架构]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[在简述了知识服务的内涵之后,提出了知识服务产业的组成结构,分析了其产业结构的内涵和结构中各角色的关联,探讨了知识服务业产业结构的形态。提出知识服务业运载系统的概念,并给出一个架构设计。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[172-174]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[利用德温特创新索引数据库分析研究行业专利]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[仇玉芹;]]></FullName>
+<Organization><![CDATA[华东师范大学图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[S1]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[专利分析;德温特创新索引数据库;太阳能电池]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[利用德温特创新索引数据库(Derwent Innovations Index,缩写为DII),通过对太阳能电池相关专利进行统计分析,发现太阳能电池行业的领跑者、技术的领军人物、产业发展前景、研发热点等。研究利用DII数据库进行行业专利分析的方法。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[35-36]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于信息分析的中药领域核心专利技术发展研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[罗爱静;尹瑾;]]></FullName>
+<Organization><![CDATA[中南大学湘雅医学院医药信息系;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[S1]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[IPC;中药专利;核心专利;核心技术]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[在深入了解新版《国际专利分类表》(IPC)分类体系的基础上,分析得到1988~2008年近20年以来所有与中药领域相关的专利技术分类3000余类。并将情报学和文献学中布拉德福定律应用于中药领域专利信息分析的研究中。探析了近20年内我国中药领域核心专利技术的分布情况,比较了两个10年间我国中药领域技术发展方向的变化趋势。目的在于发现中药技术领域诸多变化规律和中药产业未来发展趋势的潜在信号,为中药科研机构确立研究方向以及企业确立研发目标提供科学和准确的预示和指导。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[37-39]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[我国纺织专利的现状与发展态势研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[尹方屏;]]></FullName>
+<Organization><![CDATA[西安工程大学图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[S1]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[纺织专利;发展态势;发明专利;实用新型专利;技术创新]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[利用近几年我国纺织领域的专利统计数据分析了我国纺织专利申请总量的发展趋势、专利类型、专利构成类别等情况,了解纺织技术各领域的技术创新能力。进一步强调了强化知识产权意识,加强技术创新能力的必要性。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[66-68]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+</Bibliographies>

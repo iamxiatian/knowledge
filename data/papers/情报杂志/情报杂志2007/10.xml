@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bibliographies>
+<BibliographiesCount>50</BibliographiesCount>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[利用收益分成法评估数字图书馆的著作权]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[康云萍;张文德;]]></FullName>
+<Organization><![CDATA[福州大学图书馆,福州大学图书馆 福州350002,福州350002]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[10]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[数字图书馆;著作权;评估;收益分成法]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[阐述了数字图书馆著作权评估的重要性,提出数字图书馆著作权评估的研究思路,对我国无形资产主要评估方法进行分析,选定了适合数字图书馆著作权评估的收益分成法,并运用专家打分法来确定收益分成法的提成率。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[22-23+26]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于层次分析法的中文文本分类系统评价]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[张成宝;王志玲;]]></FullName>
+<Organization><![CDATA[山东理工大学,山东理工大学 淄博255091,淄博255091]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[10]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[文本分类系统;影响因素;层次分析法;Expert Choice]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[利用层次分析法(AHP)的原理和方法,探讨了中文文本分类系统影响因素的评价问题。首先,提出了影响文本分类系统性能的指标体系,建立了文本分类系统评价的层次结构模型;其次,根据专家调查的结果,构建比较判断矩阵;最后,利用AHP专用软件Expert Choice计算各层次评价指标的权重,并对结果进行了分析说明。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[33-35]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于XML的多媒体信息检索]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[龙泉;陆伟;]]></FullName>
+<Organization><![CDATA[武汉大学信息资源研究中心,武汉大学信息资源研究中心 武汉430072,武汉430072]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[10]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[多媒体检索;TBIR;CBIR;XML]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[因特网上的多媒体数量激增使图像等多媒体信息的检索成为了现在的研究热点。目前在图像检索方面主要采取了两种方法,即基于文本的图像检索(Text Based Information Retrieval,TBIR)和基于内容的图像检索(ContentBased Information Retrieval,CBIR),但两种方法分别使用并不能达到理想的检索结果。本文介绍了基于XML的图像检索系统的系统结构和实现框架,结合XML文档详细介绍了国内外有关文本与内容结合的研究方法。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[48-50+54]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[面向XML的语义近似检索模型]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[余宏;万常选;]]></FullName>
+<Organization><![CDATA[江西财经大学信息管理学院,江西财经大学信息管理学院 南昌330013,南昌330013]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[10]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[XML检索;查询扩展;语义检索;WordNet]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[针对XML文档检索的特点,提出了一种基于XSEarch引擎的语义近似检索模型。设计了利用WordNet对查询项进行语义扩展的计算方法,且对XSEarch引擎的答案排序模型进行了改进,并提出了满足近似检索模型的系统体系结构。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[51-54]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[跨语言信息检索模型应用研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[刘伟成;孙吉红;]]></FullName>
+<Organization><![CDATA[武汉科技大学管理学院,武汉科技大学管理学院 武汉430081,武汉430081]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[10]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[跨语言信息检索;检索模型;应用研究;比较]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[信息检索过程自始至终都涉及相关性问题和检索模型,跨语言信息检索(CLIR)也不例外。对检索模型进行了分类,论述了各模型在CLIR中的应用,并对各模型进行了比较。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[55-57]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于词条空间矢量的Web信息混合搜索引擎设计]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[聂兴信;刘书香;席一凡;]]></FullName>
+<Organization><![CDATA[西安建筑科技大学,西安建筑科技大学,西安建筑科技大学 西安710055,西安710055,西安710055]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[10]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[Web信息检索;词条空间矢量;隐性语义;混合搜索引擎]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[针对如何从丰富的网络信息资源中进行准确、快速检索有用信息的问题。介绍了基于词条空间矢量搜索的基本理论,设计了基于词条空间矢量搜索的Web信息检索系统模型,并采用Java语言完成了基于词条空间矢量的Web信息混合搜索引擎的设计,应用实验证明,该方法比单一搜索引擎具有更深入、更细致的站内全文搜索能力,比关键词标引具有更准确的文档内容表达能力,在基于内容的查询和信息过滤等方面有很好的应用前景,为实现网上信息检索的个性化服务、主动信息服务,为进一步提高Web信息查询的查全率和查准率提供了一种新的思路和方法。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[58-60]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[新版Springer Link网络数据库的检索与利用]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[安娜;]]></FullName>
+<Organization><![CDATA[西安财经学院 西安710061]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[10]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[Springer Link数据库;全文数据库;数据库检索]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[介绍了世界排名第二的科技、医学网络数据库——Springer Link数据库的发展沿革、数字资源概况,并从实践中总结了新版Springer Link的特点、使用方法及技巧。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[61-62+66]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[专利情报分析技术及其分析指标体系建构]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[韩彩云;龚勋;]]></FullName>
+<Organization><![CDATA[上海大学情报学研究中心,上海大学情报学研究中心 上海201800,上海201800]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[10]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[专利情报;专利分析技术;指标体系]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[在经济全球化和知识经济的时代,专利情报越来越受到企业的重视,逐渐成为企业竞争的利器。为指导企业正确、有效地应用专利文献,详细介绍了几种主要的专利情报分析技术,并从公司和技术两个层面,初步构建了专利情报分析指标体系,以期为企业专利情报工作提供帮助。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[78-79+77]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[我国区域图书馆事业发展水平的统计分析]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[李健宁;]]></FullName>
+<Organization><![CDATA[苏州大学 苏州215021]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[10]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[图书馆事业;因子分析;因子得分]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[在详细资料和数理统计的基础上,用因子分析法对全国30个省、市、自治区图书馆事业发展水平进行排序和分类,以便了解我国图书馆事业发展的现状,为更好地指导和规划区域图书馆事业发展提供一定的科学依据。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[90-91+95]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[高校图书馆读者满意度的群决策方法]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[岳中亮;贾玉英;]]></FullName>
+<Organization><![CDATA[广东海洋大学,广东海洋大学 湛江524088,湛江524088]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[10]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[高校图书馆;读者满意度;指标权重;群决策;OWG算子]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[高校图书馆读者满意度的测评,其评价体系的指标权重具有重要的作用。根据实用性和灵活性的原则,让专家根据个人的偏好,从4种形式的偏好信息:序关系值、效用值、互反判断矩阵、模糊互补判断矩阵中有选择地进行决策,然后用OWG算子将各个专家的偏好信息集结为群的偏好,再在模糊多数意义下,按照指标的重要程度确定出指标的权重。并根据读者问卷调查的结果进行满意度综合测评。最后用一个算例说明该方法的可行性和实用性。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[92-95]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[UKEs下高校图书馆学科化服务创新探讨]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[张永军;]]></FullName>
+<Organization><![CDATA[淮阴师范学院 淮安223300]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[10]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[UKEs;学科化服务;学科馆员;高校图书馆]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[在对UKEs简述的基础上,论述了UKEs下高校图书馆开展学科化服务和建立学科馆员队伍的必然性,着重对UKEs下高校图书馆建立和完善学科化服务创新机制和服务前景进行了探讨和展望。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[96-98]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[信息资源开放存取环境中版权政策的特点探析]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[秦珂;]]></FullName>
+<Organization><![CDATA[新乡学院图书馆 新乡453003]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[10]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[开放存取;版权;版权政策;信息资源]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[开放存取施行不同于传统的版权政策,及时掌握其动向、深入分析其特点,有助于加深对开放存取意义的认识,有助于科学、合法地利用开放资源,推动开放存取事业的可持续发展。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[111-113]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[省域社科文献信息中心建设方案探讨]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[赵骥;徐璞英;]]></FullName>
+<Organization><![CDATA[中共浙江省委党校,中共浙江省委党校 杭州310012,杭州310012]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[10]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[省域社科文献信息中心;数字图书馆;图书馆联盟;资源共建共享;建设方案]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[分析了建立省域社科文献信息中心的必要性、可能性和现有基础;提出了省域社科文献信息中心建设的目标和可以选择的三种基本方案(建立高性能的省域社科数字图书馆、建设文献资源共建共享的省域社科文献信息中心、建设一个实现省域社科图书馆联盟的信息平台)及实现方案当前要做的工作。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[129-134]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[我国社会科学成果排序—频度分布研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[岳洪江;]]></FullName>
+<Organization><![CDATA[南京航空航天大学经济与管理学院 南京210016]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[10]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[社会科学论文;资金投入;排序-频度分布;集中度分布]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[选择国内社会科学论文、引文及投入等科学计量学指标,探讨我国社会科学论文及投入地域分布、机构分布、学科分布等的排序-频度分布特征,以及集中度分布特征,揭示了社会科学产出投入的分布特征。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[135-137]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于词频法的我国软件质量研究主题分析]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[万江平;何振辉;郑楚卫;]]></FullName>
+<Organization><![CDATA[华南理工大学工商管理学院,华南理工大学工商管理学院,华南理工大学工商管理学院 华南理工大学新型工业化研究所广州510640]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[10]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[软件质量;软件过程;词频分析法;研究主题;文献计量]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[通过选取关键词软件质量和软件过程对1991年~2005年,进行文献统计分析,包括数量分布统计和主题分布统计。得出我国软件质量研究主题的演化过程,并讨论了未来研究的主题:软件控制、软件开发以及软件测试。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[138-140]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于知识管理的图书馆数字参考咨询服务研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[刘岩芳;]]></FullName>
+<Organization><![CDATA[哈尔滨师范大学 哈尔滨150080]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[10]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[知识管理;数字参考咨询;参考咨询服务;图书馆]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[对图书馆数字参考咨询服务的工作流程及知识管理过程进行了介绍,总结了数字参考咨询服务工作流程中存在的知识管理内容,进一步探讨了知识管理在图书馆数字参考咨询服务中的具体应用,寻找出知识管理与数字参考咨询服务在图书馆服务中的契合点,并从知识管理实践应用的角度构建了图书馆数字参考咨询服务的运行模型。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[141-143]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[虚拟参考咨询显性化服务政策探究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[钟龙;]]></FullName>
+<Organization><![CDATA[西安建筑科技大学 西安710055]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[10]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[虚拟参考咨询;显性化;服务政策]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[Jana Ronan在《问答服务:实时虚拟参考咨询服务指南》中提出了最佳实践,最佳政策的口号。以此,通过对5个最佳实践虚拟参考咨询显性化服务政策的对比分析,完善其服务政策的内容,找出最佳政策实现保证,以期对虚拟参考咨询服务规范化具有一定的参考价值。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[150-151+155]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[网络环境下图书馆竞争与合作战略探究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[陈红梅;]]></FullName>
+<Organization><![CDATA[浙江师范大学 金华321004]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[10]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[图书馆;竞争;合作;竞合;资源共享]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[针对当前社会背景下引入经济领域的竞合理论对图书馆在社会系统中的竞争与合作战略进行探究,旨在通过对图书馆竞合系统的分层分析,提出图书馆竞合的模式。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[152-155]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[《情报杂志》2006年主要评价指标统计分析]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[张芳娟;孙朝阳;张薇;]]></FullName>
+<Organization><![CDATA[渭南师范学院,陕西省科技信息研究所,陕西省科技信息研究所 渭南714000,西安710054,西安710054]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[10]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[情报杂志;期刊指标;载文量;引文;作者;统计]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[以《情报杂志》2006年12期正刊上发表的论文为统计对象,从载文量、载文率、合著情况、地域分布、引文信息、基金资助、作者情况等信息进行分析,为主办单位掌握期刊现状、提高办刊质量提供依据,也为文献情报研究者们作文献研究提供参考信息。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[156-157]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[我国1998～2006年绿色图书馆研究论文统计分析]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[董宇昭;张显锋;]]></FullName>
+<Organization><![CDATA[陕西理工学院,陕西理工学院 汉中723000,汉中723000]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[10]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[绿色图书馆;生态图书馆;统计分析]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[以文献计量统计为基础,从发文年代、发文期刊、作者、论文主题、论文被引频次等角度,对绿色图书馆近10年来的研究现状进行全面的梳理、分析和总结。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[158-159+161]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[论科技文献逻辑增长方程中系数的约束条件]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[陈京莲;]]></FullName>
+<Organization><![CDATA[井冈山学院图书馆 吉安343009]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[10]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[科技文献;逻辑增长方程;约束条件]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[从科技文献逻辑增长方程出发,以科技文献增长的实际情况为基础,第一次经过严格的数学推导,得出了a>0,b>0。并在此基础上给出科技文献逻辑增长方程中系数a,b的约束条件是,a 1且b≤lna。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[160-161]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[《情报杂志》征稿简则]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> </Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[10]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[情报杂志;科学理论研究;新作者;论文集名;缩写点;情报学核心期刊;全文录入;科技期刊群;标准缩写;投稿约定;]]></Keyword>
+</Keywords>
+<PageScope><![CDATA[162]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[供应链协同的知识创造模式研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[吴冰;刘仲英;]]></FullName>
+<Organization><![CDATA[同济大学经济与管理学院,同济大学经济与管理学院 上海200092,上海200092]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[10]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[供应链协同;知识创新;知识创造;场;信息技术]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[从知识创造对供应链生存和发展的必要性出发,阐述了供应链协同知识创造的过程,构建了供应链协同的知识创造模式;在此基础上,研究了供应链协同的知识创造情境,提出供应链中场的构建,为供应链中的知识创造提供必要的空间;以丰田供应链为例分析了供应链协同知识创造的场的构建方式和构建途径。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[2-4]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[软件开发虚拟团队在知识转移中的作用研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[郑国光;程骏;李怀祖;]]></FullName>
+<Organization><![CDATA[西安交通大学管理学院,西安石油大学经管学院,西安交通大学管理学院 西安7100492,西安710065,西安7100492]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[10]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[信息技术;虚拟团队;软件开发;知识转移类型;敏捷开发]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[探讨了软件开发虚拟团队对知识转移促进的功能本质;总结了虚拟团队跨企业知识转移约束的一般方法,并建立跨时间—地域—组织—文化多维度知识转移模型;对软件开发的虚拟团队进行了重新分类,并提出适应我国跨组织和文化的软件开发虚拟团队类型及其组织结构。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[5-7]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[突变论在图书情报领域的应用研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[马东霞;]]></FullName>
+<Organization><![CDATA[西安音乐学院图书馆 西安710061]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[突变论;图书情报;应用研究]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[突变论是研究非连续性突然变化现象的新兴科学,对图书情报工作有指导和借鉴意义,应用前景广阔。论述了利用突变视角多角度为用户服务、用突变理论对图书情报部门的发展程度和工作效率进行评价及在断续性平衡中发展图书情报工作,认为突变论将促使图书情报工作人员多侧面发挥职能。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[155-156]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[数字参考咨询服务空间管理探究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[张松道;]]></FullName>
+<Organization><![CDATA[河南省图书馆 郑州450052]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[数字参考咨询;DRD;空间内容]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[从历史角度考察空间的内涵,分别在用户终端机与DRD工作流程关系上的技术空间、用户与用户终端机关系上的心理空间、咨询馆员与DRD关系上的心理空间、用户与馆员互动的文化空间分析了数字参考咨询服务空间的内容特征,并指出不同关系上空间彼此依存、不可分割。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[157-158+161]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[图书馆中文报刊采购招标评价体系研究——评价指标体系的建立]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[李明珍;马克芬;]]></FullName>
+<Organization><![CDATA[大连理工大学,大连理工大学 大连116024,大连116024]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[环节德尔菲法;中文报刊;采购招标;评价体系]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[通过20名从事中文报刊采购业务5年以上的专家两轮调查问卷,利用环节德尔菲法建立了图书馆中文报刊采购招标评价指标体系,希望其能在中文报刊采购招标评价中发挥作用。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[159-161]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[我国知识管理领域研究热点问题及发展趋势预测]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[丁堃;李鑫;]]></FullName>
+<Organization><![CDATA[北京大学经济学院,大连理工大学21世纪发展研究中心 北京100087大连理工大学21世纪发展研究中心大连116024,大连116024]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[加权马尔可夫链;热点预测;知识管理;有序聚类]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[以我国知识管理研究出现以来的5000余篇学术期刊载文为分析对象,通过EM文本聚类算法自动识别出我国知识管理领域的四大研究热点,运用有序聚类方法确定热点问题的强度状态,进而利用加权马尔可夫链模型对我国知识管理领域的热点问题的发展趋势进行了预测。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[2-4+9]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[知识竞争力形成机理及转化模型研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[曹如中;李霁友;戴昌钧;]]></FullName>
+<Organization><![CDATA[东华大学管理学院,东华大学管理学院,东华大学管理学院 上海200051,上海200051,上海200051]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[知识;知识竞争力;形成机理;转化模型]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[知识成为知识经济时代促进经济增长和决定组织竞争优势的核心资源。但知识不是直接的竞争力,知识转化为竞争力必须经过知识创新系统的转化,历经认知知识、知识的内化、知识的中介化和知识的外化四个步骤。组织可以据此建立内部知晓、内部响应、外部知晓、外部响应的知识竞争力循环链,国家可以通过知识的产业化、产业的知识化、知识的社会化、社会的知识化的宏观转换机制来提高知识竞争力。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[5-9]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[国内外企业知识转移的研究现状分析]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[李纲;刘益;]]></FullName>
+<Organization><![CDATA[西安交通大学管理学院,西安交通大学管理学院 西安710049,西安710049]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[知识转移;企业联盟;跨国公司;国际购并;网络]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[20世纪90年代以来,企业内及企业间的知识转移已成为各类企业获取竞争优势的重要来源,因而引起了管理学者的高度关注。通过对现有的企业知识转移经典文献的归纳整理,明确了知识的内涵及分类,并按照研究主体及研究内容的不同将企业知识转移的研究成果划分为四个不同的学派进行分析。在此基础上,明确了现有的企业知识转移的研究局限及未来研究方向,为企业知识转移的进一步研究奠定了基础。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[10-13]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[数字图书馆的著作权保护与防范机制]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[杨忻;]]></FullName>
+<Organization><![CDATA[焦作大学 焦作454000]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[数字图书馆;著作权保护;防范机制]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[对数字图书馆建设与使用过程中以及图书馆信息服务工作中存在的可能发生侵犯著作权的问题进行了逐一分析,并从著作权法利益平衡的立法精神角度,制定出规避与防范侵权的策略和机制。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[14-15+19]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[解读信息系统整合中的不确定性]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[沈丽宁;]]></FullName>
+<Organization><![CDATA[武汉大学信息资源研究中心 武汉430072]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[信息系统整合;不确定性;企业并购]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[以企业并购后信息系统整合过程中的不确定性作为认识角度,概述了信息系统整合与不确定性的关联交互,并对信息系统整合中的不确定性因素进行了描述和分析。在此基础之上,探讨不确定性问题的治理措施,提出不确定性环境下企业并购后信息系统整合的流程。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[16-19]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[“信息非对称”理论与战略情报分析]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[盛红生;]]></FullName>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[信息非对称;战略情报;非对称情报战]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[随着军事技术的发展和战争理论的更新,战略决策对情报保障的要求提高,战略情报工作也从以往的分散、零星的局部活动发展到了今天的高度组织化、制度化和规模化。在战略情报分析实际工作过程中,适当借鉴自然科学的研究方法可能在一定程度上有助于提高战略情报分析、研究和判断的水平。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[20-22]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[企业隐性知识分类再探]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[马捷;靖继鹏;]]></FullName>
+<Organization><![CDATA[吉林大学高等教育研究所,吉林大学管理学院 长春130012吉林大学管理学院长春130025,长春130025]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[企业;隐性知识;知识分类;知识管理]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[企业隐性知识分类是企业知识管理的理论基础,一直受到学者们的广泛关注。基于人类的认知规律和企业知识管理的实际需要,从三个维度对企业隐性知识进行了分类,构建了企业隐性知识分类的三维立体结构。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[38-39+42]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[论政府绩效下的电子政务价值评估]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[邓崧;]]></FullName>
+<Organization><![CDATA[清大学公共管理学院,云南大学公共管理学院昆明650091 北京100084]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[电子政务价值;政府绩效;电子政务绩效;价值评估]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[在当前新公共管理中要求加强政府绩效评估的背景下,辨析了电子政务价值评估的基本概念,比较分析了它和电子政务绩效的关联和差异,并认为电子政务价值评估是政府绩效评估中的重要内容,也是提升政府绩效的必然要求。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[40-42]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[从信息产品特性论政府信息公开]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[黄璜;]]></FullName>
+<Organization><![CDATA[北京大学政府管理学院 北京100871]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[政府信息公开;信息产品;竞争性;排他性;信息环境]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[由于信道容量不足和承载物在物质或能量上的耗损,信息产品与信息本身不同,存在竞争性。而信息供给者的利益取向、制度设计以及信息技术共同决定了信息产品的排他性。政府信息在公开过程中必然涉及以上问题,需要综合考察。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[43-45+50]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[公众电子公共参与度模型研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[陆敬筠;仲伟俊;梅姝娥;]]></FullName>
+<Organization><![CDATA[东南大学经济管理学院,东南大学经济管理学院,东南大学经济管理学院 南京210096南京工业大学管理学院南京210009,南京210096,南京210096]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[电子政务;电子公共服务;电子公共参与;政府网站]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[通过对G2C模式的电子公共服务进行研究,从电子公共服务所涉及的三个方面(供应方——政府,工具——政府网站,需求方——公众),全方位、多角度地分析了影响公众通过电子方式获取政府公共服务的各种因素,为以后对公众进行电子公共参与度进行实证研究提供了总体研究框架。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[54-56+59]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[影响3G电子商务发展的关键因素研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[吴淑琴;]]></FullName>
+<Organization><![CDATA[上海海事职业技术学院 上海200120]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[第三代移动通信;电子商务;关键因素]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[随着第三代移动通信技术在电子商务领域中的广泛使用,必然会对电子商务系统原有框架产生深刻影响。在分析3G电子商务系统框架基础之上,研究了影响3G电子商务发展的关键因素,力求推进3G电子商务的建设。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[57-59]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于威客网的知识市场研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[李静;沈阳;]]></FullName>
+<Organization><![CDATA[武汉大学,武汉大学 武汉430072,武汉430072]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[威客网;知识市场;Web2.0]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[威客网成功实现了知识的网上交易,为建立完善的知识市场提供了一些参考和借鉴。在威客网的基础上,对于威客网的知识市场模型进行了分析,并提出了构建基于威客网的知识市场的基本框架。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[60-61]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[中国电子商务立法思考]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[秦鸿霞;]]></FullName>
+<Organization><![CDATA[郑州大学法学院 郑州450001]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[电子商务;法律体系;立法研究;中国]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[在分析中国电子商务的立法现状、指导思想及基本原则的基础上,探讨了电子商务法律体系的基本结构。认为我国应当依照联合国国际贸易法委员会的《电子商务示范法》,借鉴其他国家或国际组织的立法经验,结合中国的立法习惯和思维方式,制定出具有中国特色的电子商务基本法,然后再对各个具体问题制定单行规则。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[62-64]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[供应链协调管理中存在的障碍分析]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[刘家国;孔祥雨;]]></FullName>
+<Organization><![CDATA[哈尔滨工程大学经济管理学院,哈尔滨工业大学管理学院 哈尔滨150001,哈尔滨150001]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[供应链管理;供应协调管理;障碍分析]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[协调问题是供应链管理过程诸多问题中最为突出的难点问题,并不是单纯的数学模型和软件就可以解决的,其中涉及很多复杂的因素,它不仅存在于供应链企业内部各职能部门之间,更突现于供应链的各阶段之间。以此为出发点和立意点,从分析供应链概念入手,应用系统的观点指出问题存在的根源,从定性与定量相结合的角度探讨了妨碍供应链协调实现的七大障碍,借以充分认识供应链协调管理所具有的复杂性,为解决供应链协调问题奠定了基础。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[71-73]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于根本性技术创新的企业技术情报流程管理研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[侯普育;杨生斌;胡华军;]]></FullName>
+<Organization><![CDATA[西北工业大学管理学院,西北工业大学管理学院,兵器工业集团5308厂科技情报室 西安710072,西安710072,扬州225009]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[根本性创新;技术情报流程;企业]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[建立有效的技术情报流程是技术型企业应对根本性技术创新的先决条件。分析了企业技术情报流程的结构和流程中处于不同节点处的基层员工、中层管理者、高层管理者之间互动对技术情报传递速度和技术决策质量的影响,提出了企业技术创新中各个阶段减少技术创新风险的措施。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[74-76]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于模糊神经网络的供应链绩效评价方法研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[席一凡;王超;聂兴信;]]></FullName>
+<Organization><![CDATA[西安建筑科技大学管理学院,西安建筑科技大学管理学院,西安建筑科技大学管理学院 西安710055,西安710055,西安710055]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[供应链;绩效评价;模糊神经网络]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[供应链管理是21世纪企业进行生产经营和市场竞争的主要模式,建立科学的、有竞争力的供应链管理模式直接关系到企业的市场反应速度及合作的绩效与成败,供应链绩效评价对供应链管理的有效实施起着极为重要的战略指导意义。在描述供应链绩效评价和模糊神经网络原理的基础上,提出了供应链绩效评价指标体系,建立了基于模糊神经网络的供应链绩效评价模型。该模型具有较强的自学习能力,其评价指标权重通过网络学习自动生成。把该模型应用于供应链绩效评价,为企业供应链管理及绩效评价提供了一种新的方法。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[77-79]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于博弈论的企业供应链管理战略研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[李满;]]></FullName>
+<Organization><![CDATA[中央司法警官学院 保定071000]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[现代企业;供应链管理;供应链整合战略;博弈论]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[以博弈论为研究起点,阐述了供应链中各节点企业应以追求总体利益最大为目标,在合作的基础上建立战略联盟,最终形成和谐、共赢的供应链关系。通过分析当代中国企业供应链管理发展现状的特点,对供应链管理中存在的主要问题提出了一些改善措施,主要包括构建有效的供应链系统、完善信息化系统建设、重视知识管理战略、推进供应链整合战略。最后,探讨了未来几年供应链管理的发展趋势。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[80-83]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[面向业务流程的知识共享模型研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[赵倩;武忠;]]></FullName>
+<Organization><![CDATA[东南大学管理工程研究所,东南大学管理工程研究所 南京210008,南京210008]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[业务流程;知识共享;知识共享模型]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[知识共享是知识管理的核心,企业实施知识共享,能以较低的成本取得较高的目标,为企业长远的竞争优势的创造奠定基础。在综述国内外知识共享相关研究的基础上,论述了业务流程中的知识共享,提出了面向业务流程的知识共享模型,该模型主要由人的环境、流程、信息技术三要素构成。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[84-86]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于虚拟企业的知识共享技术分析]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[丁黎黎;张克英;]]></FullName>
+<Organization><![CDATA[西安交通大学管理学院,西安交通大学管理学院 西安710049,西安710049]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[知识共享技术;信息技术;虚拟企业]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[信息技术的快速发展和知识的日益重要使得虚拟组织间的知识共享成为企业得以生存和发展的核心所在。现代信息技术环境下,知识共享所依赖的技术多种多样,其所具有的特征也各不相同。基于现有企业的信息化状况,对于知识共享技术的主要特征和应用现状及存在的不足进行了分析和总结,提出了相应的改进措施,以期对于现实环境中知识共享技术的合理选择提供一定的依据。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[89-91]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[陕西省互联网络发展与产业发展关系的实证研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[姚灿;蔡建峰;]]></FullName>
+<Organization><![CDATA[西北工业大学管理学院,西北工业大学管理学院 西安710072,西安710072]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[互联网络;产业;主成分分析;相关分析]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[研究互联网络发展与陕西省各大产业发展之间的关系可以为该省互联网络发展侧重点的确定和产业的进一步优化升级提供一定的决策依据。选取了2001～2006年间国家统计局、中国互联网络信息中心和陕西省统计局发布的相关数据,对该省互联网络的发展状况进行了主成分分析,就其互联网络发展与产业发展进行了相关分析,结果表明,两者之间存在着正相关关系。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[124-126]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[陕西省地方财政科技投入与经济增长的协整分析]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[张薇;焦少飞;程骏;]]></FullName>
+<Organization><![CDATA[ 陕西省科技信息研究所,西北大学经济管理学院,西安石油大学经济管理学院,]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[陕西省;科技投入;经济增长;协整分析;因果分析]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[科技投入与经济增长是一个经济系统中相互作用的两个方面,利用1978～2004年的年度数据,研究陕西省地方财政科技投入与经济增长两者之间的互动关系,建立了反映两者长期协整关系的模型,并对两个序列做了Granger因果关系分析。研究结果表明,陕西省地方财政科技投入与经济增长之间存在长期稳定的均衡关系;同时,两者间仅存在单向因果性。研究结果旨在引起管理部门的思考,为其决策与政策制定提供理论参考。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[127-128+131]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[西部地区现代信息服务业制约因素与发展模式探析]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[郭秦茂;白红武;]]></FullName>
+<Organization><![CDATA[西安财经学院,西安财经学院 西安710061,西安710061]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[西部地区;现代信息服务业;制约因素;发展模式]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[西部地区现代信息服务业已开始起步,但西部地区在社会生产力发展水平、信息化环境等方面有着不同于中国经济、文化发达地区的具体实际,现代信息服务业的发展还很缓慢。西部地区应发挥政府的导向作用,实施相应的政策措施,积极培育和规范信息服务市场,构建符合西部现状的现代信息服务业发展模式,使现代信息服务业成为推动西部经济发展的有效支撑点。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[135-137]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[大学生信息素质教育的目标及评价体系构建]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[安新华;]]></FullName>
+<Organization><![CDATA[南阳理工学院 南阳473004]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[大学生;信息素质;素质教育;培养目标;评价体系]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[论述了大学生信息素质教育的总体目标和基本内容,指出了大学生信息素质评价体系的构建原则及内涵,并借鉴国外信息素质评价的标准制定出符合我国高等教育的大学生信息素质教育的评价标准。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[138-139+143]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+</Bibliographies>

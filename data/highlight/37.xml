@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<publication marker= "yu miao">
+    <journal>International Journal of Information Management</journal>
+    <time>Volume 36, Issue 3, June 2016, Pages 397–402</time>
+
+Cover image
+    <title><h target="1" match="part">Collaborative filtering with facial expressions for online video recommendation</h></title>
+
+    <author>II Young Choia</author>, , 
+    <author>Myung Geun Ohb</author>, , 
+    <author>Jae Kyeong Kimb</author>, , , 
+    <author>Young U. Ryuc</author>, 
+Show more
+    <doi>https://doi.org/10.1016/j.ijinfomgt.2016.01.005</doi>
+Get rights and content
+Highlights
+•
+    <highlight id="1">We propose a procedure for online video recommendation based on users facial expressions.</highlight>
+•
+    <highlight id="2">The proposed procedure addresses a user’s preference changes often observed while the user watches a video.</highlight>
+•
+    <highlight id="3">The proposed procedure addresses the new user problem.</highlight>
+•
+    <highlight id="4">Experiment results show that the proposed procedure produces better prediction accuracy than other benchmark systems.</highlight>
+Abstract
+    <abstract>  <![CDATA[Online video recommender systems help users find videos suitable for their preferences. However, they have difficulty in identifying dynamic user preferences. ]]><h target="1" match="full">In this study, we propose a new recommendation procedure using changes of users’ facial expressions captured every moment.</h><h target="2" match="part">Facial expressions portray the users’ actual emotions about videos. We can utilize them to discover dynamic user preferences. </h><h target="3" match="part">Further, because the proposed procedure does not rely on historical rating or purchase records, it properly addresses the new user problem, that is, the difficulty in recommending products to users whose past rating or purchase records are not available. </h><![CDATA[To validate the recommendation procedure, we conducted experiments with footwear commercial videos. ]]><h target="4" match="full">Experiment results show that the proposed procedure outperforms benchmark systems including a random recommendation, an average rating approach, and a typical collaborative filtering approach for recommendation to both new and existing users. </h><![CDATA[From the results, we conclude that facial expressions are a viable element in recommendation.]]></abstract>
+
+Keywords
+    <keywords>Online video recommender system</keywords>; 
+    <keywords>Facial expression</keywords>; 
+    <keywords>Personalization</keywords>; 
+    <keywords>Collaborative filtering</keywords>
+    <section name="Introduction" category="introduction">
+        <![CDATA[
+1. Introduction
+As the Internet cyberspace increases in its size and user population, the frequency of users’ interactions with multimedia products, in particular video products, also grows rapidly. According to Video Brewery,1 there are approximately 100 million Internet users who watch online videos every day and almost 45.4% of Internet users watch more than one video in a month. Consequently, video marketing has become a popular marketing platform. Many online video providers like Dailymotion, YouTube, and Pandora TV make efforts not only to commercialize their video products through an advertising revenue model, but also to increase Website traffic as a means of improving commercialization (Krishnan & Sitaraman, 2013). In particular, video content providers introduce recommender systems helping users find videos relevant to their preference in order to increase Website traffic.
+
+Online video recommendation, however, faces a unique problem. While users watch videos, they often lose their interests in them. These days, most online video clips run under 10 min (Davidson et al., 2010) and it is very difficult to capture and reflect changes of users’ interests over a very short time period in profiles built based on users’ historical data. Thanks to recent advances in digital image processing technology, it is possible to trace a video viewer’s facial expressions in real-time. It has been argued that facial expressions can play a critical role in predicting a user’s preference (Ekman & Oster, 1979; Somerville, Fani, & McClure-Tone, 2011). For instance, a user knits the brows while watching brutal scenes. In brief, facial expressions of target users allow predictions of their emotion or degree of concentration. We can utilize such facial expressions to recommend videos to users. Further, we can discover dynamic and changing user preferences while a user watches a video.
+
+]]><h target="1" match="part">In this study, we propose a procedure based on the changes of facial expressions to address variations of user preferences within a short time period. </h><![CDATA[When a user is exposed to a video, his emotion or concentration is captured by a Web cam in the monitor. Then his emotion or degree of concentration is compared with those of existing users, so that we can decide to continue the video-watching session or quickly propose new video products. Though the proposed procedure basically follows the principle of collaborative filtering (CF), we create and maintain a dynamic user profile using the changes of a user’s facial expressions every moment consisting of 64 feature values, instead of using a user’s previous purchase or rating records.
+
+A notable point is that the proposed approach does not distinguish new users (with no previous purchase or rating records) from existing users (whose previous purchase or raring records are available). ]]><h target="3" match="part">Thus, the proposed procedure does not suffer from the new user problem, that is, the difficulty in recommending products to users whose past purchase or rating records are not available.</h><![CDATA[
+
+We evaluate the proposed procedure through comparison with a random system, an average rating-based system, and a traditional CF-based system as benchmark systems using thirteen footwear advertising videos. Experiment results indicate that the proposed procedure outperforms the benchmark systems in recommendation to both new and existing users. Based on the experiments, we claim that the use of facial expression data is a viable element in recommendation. Further, it can naturally address the new user problem.]]>
+</section>
+
+
+    <section name="Related works" category="background">
+        <![CDATA[
+2. Related works
+2.1. Online video recommender systems
+
+According YouTube statistics,2 there are more than 1 billion unique monthly visitors who watch videos over 6 billion hours each month. In general, we have seen a rapid increase in demand for online videos. Accordingly, the digital video advertising market value has been estimated to be approximately $4.15 billion in 2013 (Olmstead, Mitchell, Holcomb, & Vogt, 2014). In such a circumstance, online video recommender systems have a great importance in attracting more users. Users are known to revisit a video Website if they are satisfied with the recommended videos (Jin & Su, 2009).
+
+There are relatively a small number of studies on online video recommendation compared with recommendation in other domains. Mei et al. (2007) proposed an early online video recommender system that utilizes multimodal relevance between video data (i.e., textual, visual, and aural information) and click-through data. Xu, Jiang, and Lau (2008) proposed a personal online recommender system based on tracking of a user’s attention time. Arapakis et al. (2009) introduced a methodology for integrating facial expression into user profiling to capture the dynamic user preference as well as the static user preference. Hopfgartner and Jose (2010) introduced a semantic user profile construction scheme for a news video recommender system, in which an implicit fingerprint represented by a user’s video interests and degree of concerns is utilized for user profiling. Park et al. (2011) proposed a video recommender system based on tag data aggregations. Because their system is a hybrid system that combines collaborative filtering (CF) with content-based filtering (CBF), it was claimed to address the sparsity problem well. Zhao, Yao, and Sun (2013) proposed a video classification and recommendation methodology based on affective analysis of facial expression.
+
+However, most existing studies have drawbacks. They have the new user problem because they all use rating data for a user profile. Further, such rating data are rather static and inadequate to reflect dynamic and changing user preferences when a user watches a video over a short time period. Although users implicitly express their interests through the changes of the facial expressions every moment they watching a video, this information is ignored when their preferences are predicted.
+
+2.2. Facial expression recognition
+
+A user’s facial expressions reveal his emotion (Fasel & Luettin, 2003). For instance, the upper lip rises in anger or the cheek rises in happiness (Carroll & Russell, 1997). The recognition of facial expressions can be a basis in predicting users’ preferences. Thanks to the development of digital image processing technologies, it is possible to track a face and recognize facial expressions. Accordingly, a variety of studies related to facial expressions have been presented. Previous studies related to facial expressions are broadly classified into those on the recognition of facial action units or muscular activity that produces facial appearance changes and those on facial expression recognition and analysis.
+
+Researchers proposed systems based on a hidden Markov model (Lien, Kanade, Cohn, & Li, 2000). permanent facial features such as brows, eyes, and mouth and transient facial features such as deepening of facial furrows (Tian, Kanade, & Cohn, 2001), dynamic Bayesian network (Tong, Liao, & Ji, 2007), support vector machine and the texture extraction method (Kotsia, Zafeiriou, & Pitas, 2008), 3-D face tracking (Tsalakanidou & Malassiotis, 2010), and support vector machine regression (Savran, Sankur, & Taha Bilge, 2012) for recognition of facial action units. Others researchers proposed systems using brain mapping (Adolphs, Damasio, Tranel, & Damasio, 1996), functional magnetic resonance imaging (Andersen et al., 2001), Gabor wavelets and learning vector quantization (Bashyal & Venayagamoorthy, 2008), local binary patterns (Shan, Gong, & McOwan, 2009), manifold learning methods (Xiao, Zhao, Zhang, & Shi, 2011), and eye tracking (Lischke et al., 2012) for facial expression recognition and analysis. In this study, we extract the values of facial features that are used for dynamic user profile generation and maintenance.]]>
+</section>
+
+
+    <section name="Collaborative filtering with facial expression" category="methods">
+        <![CDATA[
+3. Collaborative filtering with facial expression
+A typical previous online video recommender system recommends a video to a user based on his historical usage or interaction data such as click-through data. Thus, it suffers from the new user problem: It cannot recommend videos to a new user because the new user’s historical data do not exist. The proposed procedure, called facial expression (FE)-based system, follows the basic principle of collaborative filtering (CF), but modifies the data representation phase of the CF-based system. In other words, the FE-based system creates a user profile using dynamic user preferences obtained from changes of the user’s facial expressions captured while watching videos instead of his historical usage or rating data. Subsequently, the FE-based system can recommend videos to new users.
+
+The mechanism behind the FE-based system consists of the four steps. In the first step, it collects a user’s facial expression data while he watches a video. Also collected is the user’s rating on the video after he finishes the video. In the second step, the collected facial expression data are pre-processed and a dynamic user profile is built on each video. Third, the system identifies the user’s neighbors who have exhibited similar facial expression changes. This step is essentially from CF. But the fundamental difference is that the typical CF uses historical usage, purchase, rating, or click-through data while the proposed FE-based system uses facial expression data. In the final step, it predicts a rating on a video that a target user is likely to prefer. The details are as follows.
+
+3.1. Step 1: data collection
+
+Facial expressions consist of facial features including a chin, eyes, eyebrows, a nose, an under lip spots, and others (Fasel & Luettin, 2003). The system collects [x, y]-coordinates of a user’s facial features every moment the user is watching a video. A video is composed of k clips and facial expressions are generated by q facial features at each clip. Let Di,f be [x, y]-coordinates of user i’s facial expressions at clip f in a video. It is defined as follows:
+
+View the MathML source
+Turn MathJax on
+
+where Ti,h,f = [xi,h,f, yi,h,f] for h = 1, 2, …, q denotes the coordinates of facial key point h while user i is watching clip f of a video. Here, x indicates the horizontal position and y the vertical position of each facial feature. Once user i finishes watching video g, i’s rating on video g, denoted by rj,g is collected.
+3.2. Step 2: creation of dynamic user profile
+
+Changes of facial expressions are related to user preferences. Thus, we preprocess the value of facial features to find the user’s feeling as follows. Let di,h,f be the variation of [x, y]-coordinates of user i’s facial feature h from clip f − 1 to clip f. We define the dynamic user profile as the matrix of the variations of [x, y]-coordinates on facial expressions D = (di,h,f), where i = 1, 2, …, m; h = 1, 2, …, q; and f = 1, 2, …, k. Here, m is the total number of users who click through to a video, q is the total number of facial features, and k is total number of the video clips where
+
+View the MathML source
+Turn MathJax on
+
+3.3. Step 3: neighborhood formation
+
+The most important step is to form neighborhood of the target user. The neighborhood is a set of users who are very similar with the target user. Given the matrix of preference, D = (di,h,f) on video g, the similarity between user i and user j on video g, denoted by simg(i, j), is computed as the vector-cosine measure:
+
+View the MathML source
+Turn MathJax on
+
+User i’s neighborhood Ni is the set of n users with the smallest similarity values.
+3.4. Step 4: preference prediction on a video
+
+For each target user i, the system predicts the rating of video g from i  ’s neighbors’ (j∈Ni) ratings on the video. The video preference prediction rating of the target user i for a video g is computed as follow:
+
+View the MathML source
+Turn MathJax on
+
+where rj,g is neighbor j’s rating on video g collected in the Step 1.]]>
+</section>
+
+    <section name="Experiments" category="results">
+        <![CDATA[
+4. Experiments
+4.1. Data set
+
+We collected [x, y]-coordinates of facial features and ratings from 52 subjects (including 23 males and 29 females whose ages are between 20 and 29 at the two different universities in the period from April 4, 2014 to June 19, 2014). We showed 13 footwear advertising videos whose lengths range between 15 and 65 s to the subjects. The facial features were captured through a computer (with an AMD FX-6100 processor and 4GB RAM running 64-bit Windows 7 OS) equipped with a video recording device (developed by a venture firm that was acquired by Intel in 2012), which is a real-time image recognition system that is similar to, but more advanced than, cameras’ face and eye-pupil recognition algorithms. It first detects locations of two eyes, establishes the base point (that is the center between recognized eyes), finds other key points in the face (such as nose, lips, and chins), and calculates their relative distances from the base point. Then, the system traces the movement of facial key points continuously and records their coordinates at every fraction of seconds. The extracted [x, y]-coordinates of facial features include those of eyebrows (16 points), eyes (16 points), nose (7 points), lips (20 points), and chin (5 points). Subjects’ ratings (after videos are watched) were measured over a 5-point Likert scale (1 = strongly dislike, 2 = dislike, 3 = neutral, 4 = like, and 5 = strongly like).
+
+4.2. Experiment design
+
+We employed the leave-one-out cross-validation approach for our test because data set was rather small. We used the mean absolute error (MAE) to measure the accuracy. The MAE is a widely used scale-dependent metrics (Sarwar, Karypis, Konstan, & Riedl, 2001). It is an average of the absolute errors:
+
+View the MathML source
+Turn MathJax on
+
+where n is the number of participants and l is the number of videos. VPPRi,g and ri,g are the predicted and true ratings, respectively. A lower MAE value indicates better prediction.
+For the valuation of the FE-based system, the four experiments were performed. In the first experiment, the accuracy of the recommendation for new users was measured. For this, we used a random recommendation system and an average rating-based system (which uses the average of all other users’ ratings except a target user’s rating for the prediction) as benchmark systems. The use of a random recommendation system as a comparison target is to show that the proposed recommendation method can be beneficial. If the accuracy measures are indifferent between a random recommendation and an articulated recommendation, then the latter is not acceptable no matter what its absolute accuracy measure is. The use of an average rating-based system as a comparison target is to show that the proposed method is better than a simple best-seller approach. Note that the average rating approach is in essence a form of best-seller recommendation algorithm adopted for the online video recommendation problem.
+
+In the second experiment, the accuracy of the recommendation for existing users was measured. For this, we used a typical CF-based system and an average rating-based system as benchmark systems. In the third experiment, we checked if the performance of the FE-based system differs by genders. In the final experiment, we evaluated the effectiveness of the FE-based system measured as the video running time.
+
+4.3. Experiment result 1: new users
+
+To evaluate the recommendation performance for new users, we compared the FE-based system with the random recommendation system and the average rating-based system. Because new users do not have historical data such as click-through values of videos, the CF-based system could not be used.
+
+Several experiments have been performed over the various numbers of neighbors varying from 2 to 15. The average of the MAE for the FE-based system, that for the random recommendation system, and that for the average rating-based system were 0.633, 1.471, and 0.843, respectively. More details are presented in Fig. 1. Moreover, the FE-based system showed improved robustness over the varying neighborhood sizes when they were larger than 7. Accordingly, we find that facial expressions were important elements in recommendation for new users and claim that FE-base system addresses the new user problem to some extent.
+
+Comparison of recommender systems for the new users.
+Fig. 1. 
+Comparison of recommender systems for the new users.
+Figure options
+4.4. Experiment result 2: existing users
+
+To evaluate the recommendation performance for existing users, we compared the FE-based system with the CF-based system, the random recommendation system, and the average rating-based system. Several experiments have been performed over the various numbers of neighbors varying from 2 to 15 like the previous experiment. The experiment results are shown in Fig. 2. The average of the MAE values for the FE-based system, the random recommendation system, the CF-based system, and the average rating-based system were 0.633, 1.471, 0.797, and 0.843, respectively. The FE-based system outperformed other systems in recommending videos for the existing users. However, the performance of the CF-based system was better than that of the FE-based system when the neighborhood size was 5 or smaller. In particular, the performance of the CF-based system was best when neighborhood size is 5. At this time, the MAE for the CF-based system was 0.565. When the number of neighbors is 5 or less, the CF-based system is statistically better than the FE-based system. However, the best value MAE value achieved by the CF-based system is higher than the best MAE value 0.479 achieved by the FE-based system; further the pairwise t-test on the absolute errors from the CF-based system and the FE-based system indicates that the FE-based system at its best is significantly better than the CF-based system at its best.
+
+Comparison of recommender systems for the existing users.
+Fig. 2. 
+Comparison of recommender systems for the existing users.
+Figure options
+4.5. Experiment result 3: genders
+
+We also evaluated the recommendation performance of the FE-based system by genders. Like previous experiments, several experiments have been performed over varying neighborhood sizes. The experiment results are shown in Fig. 3. The average values of the MAE on recommendation to the male and to the female were 0.679 and 563, respectively. That is, the performance of the FE-based system was about 17.1% higher for the female than the male. Intuitively, this result is reasonable because females are known to often express their emotions more openly than males (Mirowsky & Ross, 1995).
+
+Comparison of the recommendation performance by genders.
+Fig. 3. 
+Comparison of the recommendation performance by genders.
+Figure options
+4.6. Experiment result 4: running time
+
+To evaluate the effectiveness of the FE-based system by video running time, experiments have been performed over neighborhood sizes varying from 2 to 8 and various running times. The intuition behind these experiments is that often we do not need the users’ facial expression data over the complete video session. Perhaps facial expression data obtained from, for instance, first 50% (e.g., 20 s) of a video session (e.g., of 40-s length) would be sufficient to predict users’ preference. Thus, we sampled videos having various portions: first 5%, 10%, 15%, 20%, 60%, and 80% of every video. We used these sampled videos as well as the whole videos in our experiments.
+
+As shown in Fig. 4, results obtained with sampled videos containing first 20% video sessions or more were not different from the results with the whole videos, regardless of the neighborhood sizes. The finding has a very significant implication on online video marketing such as video advertisement. If a video or an advertisement runs at least 20% of the total time, a company can figure out users’ preferences on the video or the advertisement. This allows the company to replace the existing video or advertisement promptly.
+
+Recommendation performance by the running time.
+Fig. 4. 
+Recommendation performance by the running time.
+Figure options]]>
+</section>
+
+    <section name="Conclusion" category="conclusion">
+        <![CDATA[
+5. Conclusion
+As the computing technologies advance, various types of information such as user’s facial expression information and historical data can be captured and used in recommender systems. However, existing online video recommender systems utilize only click-through data. As a result, they are not able to identify dynamic user preferences and recommend to new users.
+
+]]><h target="1" match="part">We proposed a procedure using the changes of facial expressions to address these problems. The experiment results are as follows. </h><h target="3" match="part">First, the proposed procedure outperforms other systems in addressing the new user problem. </h><![CDATA[Moreover, the FE-based system exhibits improved robustness compared with the other systems when the neighborhood size is not small. Accordingly, we find that facial expressions are important elements in recommendation for new users. Second, the proposed procedure outperforms other systems when recommending to existing users if the neighborhood size is not small. That is, the CF-based system performs better when neighbor size is small. So, we can judge that click-through data are more proper than facial expression data when recommendations are generated with a small neighborhood size. Otherwise, the proposed FE-base system has advantages over the CF-base system. Third, the performance of the proposed system is better for women than men. We can infer that women reveal their emotion more openly than men. Finally, the performance of the proposed system at running time of 20% or more is same as the performance at 100% of the running time. ]]><h target="4" match="part">So we can judge that the proposed system is very efficient and is possible to identify dynamic user profile not only after but also while a user watches a video.</h><![CDATA[
+
+However, there are a number of limitations. First, the proposed procedure utilizes the changes of facial expressions every moment. But a user may express his emotion through various means such as a voice, a gesture, and others in addition to facial expressions. It would be desirable to augment the facial expressions with other data. Second, the experiments were performed with a rather small data set (with 676 observations). In order to better generalize the findings, we need additional experiments with various other types of videos. Third, the use of customers’ facial expressions without explicit consents can have a legal implication. In fact, some large retailers analyze surveillance videos on store customers for some security purposes, but currently face legal scrutiny due to privacy concerns. Thus, the actual use of the FE-system may need users’ explicit consents that are often difficult to obtain.
+
+Even though the current study applies the use of facial expressions in evaluating users’ video product satisfaction, the same technology can be used for many other purposes. For instance, it can predict if a customer browsing a certain product in a physical store is likely to purchase the product or not. We are currently exploring this idea of customers’ intention prediction in physical stores and in exhibition contexts.]]>
+</section>
+
+</publication>

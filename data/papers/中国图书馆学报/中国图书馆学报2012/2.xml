@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bibliographies>
+<BibliographiesCount>45</BibliographiesCount>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[新版COUNTER的特征及未来发展]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[李洪;]]></FullName>
+<Organization><![CDATA[深圳大学图书馆电子资源部;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[中国图书馆学报]]></Media></Medium>
+<Year><![CDATA[2012]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[COUNTER;电子资源;使用统计]]></Keyword>
+<Keyword Lang="en"><![CDATA[COUNTER.Electronic resources.Usage statistic]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[本文通过对比COUNTER第四版与第三版,发现第四版在如下方面具有很多新特征。在文档结构上,使用一个规范代替原来的两个规范;在术语及测量指标方面,新增金色开放获取、多媒体全文内容单元、记录浏览、结果点击等术语;在数据元素上,新增数字对象标识符、所有权标识符及机构标识符;在使用报告上,新增开放获取文章的使用统计报告、多媒体资源使用报告及基于移动设备的使用报告,并对原有报告做了不少调整;在审核上,新增对SUSHI协议遵循情况的审核。未来的COUNTER将继续探索与SUSHI的结合应用,探索新的期刊测量指标,增加文章级的使用评价指标。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[29-37]]></PageScope>
+<Publisher><![CDATA[中国图书馆学报]]></Publisher>
+<Code><![CDATA[1001-8867]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于共现分析的语义信息检索研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[邱均平;楼雯;]]></FullName>
+<Organization><![CDATA[武汉大学信息管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[中国图书馆学报]]></Media></Medium>
+<Year><![CDATA[2012]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[语义信息检索;本体;共现分析;作者关键词耦合]]></Keyword>
+<Keyword Lang="en"><![CDATA[Semantic information retrieval.Ontology.Co-occurence analysis.Author keyword coupling analysis]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[提高信息检索系统的用户体验度可以从查询优化的算法和增强可视化展示的研究等方面入手。本文利用文献调研、共现分析和构建本体等方法,设计基于共现分析的语义信息检索和流程,并利用武汉大学图书馆的书目检索系统中世界考古类目的数据进行实验分析。经过文献调研发现,目前语义信息检索主要集中在基于本体的查询技术、语义标注问题和语义关系检索等方面的研究,语义信息检索目前只能做到表层相关的检索。构建的基于共现分析的语义信息检索模型包括规范器、分析器和本体构建器三个部分,其中分析器是本模型的核心。经过实验分析发现共现分析可以应用于语义信息检索,并比较得出基于共现分析的语义检索比传统检索更具人性化、引导性。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[89-99]]></PageScope>
+<Publisher><![CDATA[中国图书馆学报]]></Publisher>
+<Code><![CDATA[1001-8867]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[网络资源层次组织规律定量研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[陈翀;罗鹏程;刘晓兵;陆炀;]]></FullName>
+<Organization><![CDATA[北京师范大学管理学院信息管理系;北京大学信息科学技术学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[中国图书馆学报]]></Media></Medium>
+<Year><![CDATA[2012]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[网络资源;层次组织结构;目录树;大众分类]]></Keyword>
+<Keyword Lang="en"><![CDATA[Web resource.Hierarchical organization structure.Directory tree.Folksonomy]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[本文以互联网FTP目录树为对象,从大众构造的层次式结构中揭示管理网络资源时的组织规律。通过考察44,972个软件资源及其在目录树中的位置,得到如下认识:①对于用户查找、浏览资源来说,资源存放在深度为2或3层较适合。②当要管理的资源数量在200以内时,人们可容忍平均1个目录中包含10个左右的软件资源;当资源数量更大时,人们可容忍平均1个目录中包含15个左右的软件资源。③在使用层次式组织结构时,人们会对结构的深度有一个习惯上限,目录结构平均深度一般不多于6层。④人们考虑组织结构时,会在分类体系复杂度和分类精细度之间权衡,在资源量增多时,尽量保证扁形结构。本文揭示了采用层次方式组织资源时的一...]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[72-80]]></PageScope>
+<Publisher><![CDATA[中国图书馆学报]]></Publisher>
+<Code><![CDATA[1001-8867]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[在图书馆设立典籍博物馆的思考]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[张志清;]]></FullName>
+<Organization><![CDATA[国家图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[中国图书馆学报]]></Media></Medium>
+<Year><![CDATA[2012]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[图书馆;典籍博物馆;国家典籍博物馆]]></Keyword>
+<Keyword Lang="en"><![CDATA[The library.The museum of ancient books and records.National museum of ancient books and records]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[典籍博物馆的概念有广义和狭义两种,本文主要从狭义方面对典籍博物馆的概念、功能、与图书馆的关系以及图书馆设立典籍博物馆的意义进行了探讨内容。典籍博物馆与图书馆有着深厚的历史渊源,现实也有共同的基本元素和相似的功能。典籍博物馆在汇聚典籍精品、服务社会大众、提升图书馆精神价值方面具有重要意义。对典籍博物馆的规划建设,需秉持因地制宜,继承传统,发挥专长,办出特色的原则。在图书馆中设立典籍博物馆,既可作为实体,也可作为理念,强调以典籍博物馆功能在图书馆内实现为目的的原则。在此基础上,探讨了国家典籍博物馆的初步规划。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[4-13]]></PageScope>
+<Publisher><![CDATA[中国图书馆学报]]></Publisher>
+<Code><![CDATA[1001-8867]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[RDA与中国:编目的国际化]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[芭芭拉·B·蒂利特;张钰羚;]]></FullName>
+<Organization><![CDATA[美国国会图书馆政策与标准部;RDA联合指导委员会美国国会图书馆;北京大学外国语学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[中国图书馆学报]]></Media></Medium>
+<Year><![CDATA[2012]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[RDA;文献编目]]></Keyword>
+<Keyword Lang="en"><![CDATA[RDA. Cataloging]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[RDA以AACR2为基础,建立在《书目记录的功能需求》(FRBR)和《规范数据的功能需求》(FRAD)概念模型以及《国际编目原则声明》(ICP)之上。RDA的主要目标是成为专为数字环境设计的,用于资源描述与研究的新标准。能对所有内容和媒介进行编目、生成的记录可在数据环境中使用、应用于国际化的编目环境也是其重要目标。推动RDA不断发展的机构包括负责人委员会、出版商小组管理基金会和联合执导委员会(JSC)。JSC的主要工作是制定和维护RDA的内容,也负责RDA元素集合各种值词汇表的开发与维护,以及培训、合作与宣传等。RDA正处于不断的完善和发展阶段,对RDA的完善将是持续性的。期待中国参与到未来R...]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[14-21]]></PageScope>
+<Publisher><![CDATA[中国图书馆学报]]></Publisher>
+<Code><![CDATA[1001-8867]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[论智慧图书馆的三大特点]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[王世伟;]]></FullName>
+<Organization><![CDATA[上海社科院信息研究所;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[中国图书馆学报]]></Media></Medium>
+<Year><![CDATA[2012]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[智慧图书馆;数字图书馆;复合图书馆;图书馆管理;图书馆服务]]></Keyword>
+<Keyword Lang="en"><![CDATA[Smart library.Digital library.Compound library.Library management.Library service]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[智慧图书馆作为未来图书馆的新模式,将成为图书馆创新发展、转型发展和可持续发展的新理念和新实践。本文论述智慧图书馆的三大特点:①互联的图书馆,具体细分为全面感知的图书馆、立体互联的图书馆、共享协同的图书馆;②高效的图书馆,具体细分为节能低碳的图书馆、灵敏便捷的图书馆、整合集群的图书馆;③便利的图书馆,具体细分为无线泛在的图书馆、就近一体的图书馆、个性互动的图书馆。智慧图书馆与数字图书馆、复合图书馆既有联系又有区别。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[22-28]]></PageScope>
+<Publisher><![CDATA[中国图书馆学报]]></Publisher>
+<Code><![CDATA[1001-8867]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[图书馆服务中儿童权利原则研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[范并思;]]></FullName>
+<Organization><![CDATA[华东师范大学信息学系;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[中国图书馆学报]]></Media></Medium>
+<Year><![CDATA[2012]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[公共图书馆;未成年人服务;儿童权利;儿童优先]]></Keyword>
+<Keyword Lang="en"><![CDATA[Public libraries.Service for minors.Rights of children.Putting children first]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[儿童权利理论是公共图书馆未成年人服务的基本理论之一。我国公共图书馆未成年人服务实践中,儿童权利涉及三个主题:①儿童的平等权利,讨论图书馆及其资源对未成年人开放,平等地服务于未成年人的问题;②图书馆服务中的儿童优先,阐述儿童优先原则在服务中的应用,以及未成年人服务安全的问题;③对所有儿童平等服务,讨论开展多样化服务和服务设计与实施中向特殊人群倾斜的问题。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[38-46]]></PageScope>
+<Publisher><![CDATA[中国图书馆学报]]></Publisher>
+<Code><![CDATA[1001-8867]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[美国公共图书馆经费保障制度研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[刘璇;]]></FullName>
+<Organization><![CDATA[杭州师范大学图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[中国图书馆学报]]></Media></Medium>
+<Year><![CDATA[2012]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[美国公共图书馆;经费保障制度;联邦拨款;图书馆法;公共图书馆标准]]></Keyword>
+<Keyword Lang="en"><![CDATA[American public libraries.Funding guarantee.Federal appropriation.Library law.Standards for public libraries]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[经费是公共图书馆生存和发展的基本保障,围绕经费保障问题形成的制度则是公共图书馆生存和发展的基础性制度。美国公共图书馆事业发达的重要基础在于其经费保障制度及其体系的完善。美国通过联邦、州和地方政府多个层面颁布法律、法规和标准来规定对公共图书馆的拨款事项,实现美国公共图书馆经费增长与国家财政支出增长同步,并取得较好的服务效益。但目前尚存在经费在不同级别政府间分配不公等问题。本文系统分析美国各个层面对公共图书馆经费保障制度的立法基础和法律形式,考察其经费保障体系的实践效果,以期为我国图书馆法关于经费问题的理论与实践研究提供参考。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[47-57]]></PageScope>
+<Publisher><![CDATA[中国图书馆学报]]></Publisher>
+<Code><![CDATA[1001-8867]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[面向关联数据的语义数字图书馆资源描述与组织框架设计与实现]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[欧石燕;]]></FullName>
+<Organization><![CDATA[南京大学信息管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[中国图书馆学报]]></Media></Medium>
+<Year><![CDATA[2012]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[语义数字图书馆;关联数据;元数据;本体]]></Keyword>
+<Keyword Lang="en"><![CDATA[Semantic digital libraries.Linked data.Metadata.Ontology]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[本文提出了一个面向关联数据的语义数字图书馆资源描述与组织框架,该框架具有四个层次:元数据层、本体层、关联数据层和应用层,其核心是RDF语义元数据的构建与关联。以图书、情报与档案学领域的数据为例对该框架进行了实现,实现的重点是在本体层和关联数据层,包括相关本体的设计、普通元数据到语义元数据的自动转换、不同数据集间RDF语义链接的建立、关联数据的发布等。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[58-71]]></PageScope>
+<Publisher><![CDATA[中国图书馆学报]]></Publisher>
+<Code><![CDATA[1001-8867]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于自动标引的《中分表》改造及测评研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[何琳;何娟;阎素兰;]]></FullName>
+<Organization><![CDATA[南京农业大学信息管理系;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[中国图书馆学报]]></Media></Medium>
+<Year><![CDATA[2012]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[《中国分类主题词表》;自动标引;自动构建;测评指标]]></Keyword>
+<Keyword Lang="en"><![CDATA[CCT.Automatic indexing.Automatic construction.Testing indicator]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[本文探讨了基于自动标引的《中国分类主题词表》(简称《中分表》)改造的模式、结构以及关键技术。在原《中分表》分类体系的框架之上,收集标引经验库中分类标引和主题标引的双重标引数据及其他相关数据,应用支持度、置信度和相关度等筛选处理方法,最终得出分类号与关键词(串)的最佳对应关系组合。本文从收词量、相符度、专指度、标引深度、主题标引能力和分类标引能力6个方面详细地对改造后的《中分表》进行了测试,结果表明改造后的《中分表》在编制方式、类目设置、收词量、全面性和专指性等方面都具有一定优势。建议在《中分表》的更新改造中,尽量采用立体化的整体结构,保证完备的收词量,进行必要的分级化控制并扩大用户交互。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[81-88]]></PageScope>
+<Publisher><![CDATA[中国图书馆学报]]></Publisher>
+<Code><![CDATA[1001-8867]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[国外协同信息检索行为研究述评]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[吴丹;邱瑾;]]></FullName>
+<Organization><![CDATA[武汉大学信息管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[中国图书馆学报]]></Media></Medium>
+<Year><![CDATA[2012]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[协同信息检索;用户行为;CSCW]]></Keyword>
+<Keyword Lang="en"><![CDATA[Collaborative information seeking.User behavior.CSCW]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[本文以国外期刊发表的协同信息检索行为研究文献为对象,采用综合归纳方法,分析协同信息检索行为研究的进展。研究发现:协同信息检索行为研究主要从理论研究走向应用实践研究;其研究主题呈现一定规律性;研究方法主要采用定量和定性相结合的方法。但协同信息检索行为研究还存在一些问题,其未来发展趋势包括:开展跨学科研究和学科间的合作;通过用户模型形式化地揭示从个人信息检索到协同信息检索的诱发因素;探究影响用户协同信息检索的原因;开发协同检索技术与协同检索系统等。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[100-110]]></PageScope>
+<Publisher><![CDATA[中国图书馆学报]]></Publisher>
+<Code><![CDATA[1001-8867]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[本刊启事]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <Organization><![CDATA[《中国图书馆学报》编辑部;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[中国图书馆学报]]></Media></Medium>
+<Year><![CDATA[2012]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[图书馆古籍;国家图书馆;联系方式;中国图书馆学报;北京西城区;数字对象;中国知网;纸质出版;Identifier;员工心理契约;]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[<正>因国家图书馆南区进行大修施工,《中国图书馆学报》编辑部搬迁至国家图书馆古籍馆院内,所有来函和交流期刊烦请改寄至新的通信地址:北京西城区文津街7号,邮编:100034。其他联系方式不变。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[110]]></PageScope>
+<Publisher><![CDATA[中国图书馆学报]]></Publisher>
+<Code><![CDATA[1001-8867]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[数字化语境下信息科学多元研究范式探析]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[王琳;]]></FullName>
+<Organization><![CDATA[天津师范大学管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[中国图书馆学报]]></Media></Medium>
+<Year><![CDATA[2012]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[信息科学;研究范式;数字化;元理论]]></Keyword>
+<Keyword Lang="en"><![CDATA[Information science.Paradigms.Digitization.Metatheory]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[研究范式是数字化语境下信息科学基础理论研究的重要内容。信息科学是具有多元研究范式的常规科学,不同研究范式之间彼此关联,有可比性。本文在文献调研的基础上论述信息科学三种典型研究范式的基本观点和最新进展。系统/物理范式与信息论和技术传统关系密切,忽视信息用户和理论基础的适用性问题已成为该范式受到争议之所在。认知范式作为系统/物理范式的替代性范式而兴起,其科学共同体的发展趋于成熟。针对认知范式中社会维度的缺失,整体主义认知观等理论模型的提出使认知范式更加完善。领域分析范式重视认识论方法,强调社会文化情景的重要性,提倡从知识领域和话语社群角度开展研究。指出应从元理论层次比较信息科学各研究范式的基本理论...]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[111-120]]></PageScope>
+<Publisher><![CDATA[中国图书馆学报]]></Publisher>
+<Code><![CDATA[1001-8867]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[中国图书馆学会年会创新发展路径探讨]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[霍瑞娟;]]></FullName>
+<Organization><![CDATA[武汉大学信息管理学院;中国图书馆学会;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[中国图书馆学报]]></Media></Medium>
+<Year><![CDATA[2012]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[中国图书馆学会;年会;创新发展路径]]></Keyword>
+<Keyword Lang="en"><![CDATA[Library Society of China.Annual meeting.Innovative development path]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[中国图书馆学会年会是我国图书馆界一年一度的综合性学术活动,在促进学术研究、指导行业发展方面发挥了重要作用。随着社会环境的变化,图书馆承载的社会职能相应改变,学会年会也面临新的挑战。本文对1999年以来召开的年会进行梳理,针对存在的问题,提出新环境下学会年会创新发展的路径:①进一步凝炼业界关注点,实现年会的学术引领和创新发展;②推动行业发展,实现年会学术与实践结合,引领行业风向;③重视合作与交流,增强年会的国内外关注度;④强化年会的职业凝聚力,提高从业人员的职业荣誉感;⑤与相关文化产业链接,实现社会效益最大化。年会发展应保持学术性、大众性和实践性的平衡。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[121-126]]></PageScope>
+<Publisher><![CDATA[中国图书馆学报]]></Publisher>
+<Code><![CDATA[1001-8867]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[作者指南]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <Organization><![CDATA[《中国图书馆学报》编辑部;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[中国图书馆学报]]></Media></Medium>
+<Year><![CDATA[2012]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[图书馆学;栏目设置;学术期刊;稿件类型;注释规范;中文标题;情报学专业;作者英文姓名;引文页码;文献序号;]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[<正>《中国图书馆学报》是图书馆学、情报学专业学术期刊,以交流图书馆学、情报学的研究发现、推动该领域的知识创新为己任,发表图书馆学、情报学及与其密切相关领域任何专题的高层次学术成果。为强化学报的学术性,推进学报的国际化,进一步规范本学科的研究,本刊自2012年起将栏目设置调整为:研究论文、综述评介、探索交流及专题研究等。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[127]]></PageScope>
+<Publisher><![CDATA[中国图书馆学报]]></Publisher>
+<Code><![CDATA[1001-8867]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[OpenCSDB:关联数据在科学数据库中的应用研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[沈志宏;张晓林;黎建辉;]]></FullName>
+<Organization><![CDATA[中国科学院计算机网络信息中心;中国科学院国家科学图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[中国图书馆学报]]></Media></Medium>
+<Year><![CDATA[2012]]></Year>
+<Issue><![CDATA[05]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[关联数据;科学数据;数据记录;数据文件;数据发布]]></Keyword>
+<Keyword Lang="en"><![CDATA[Linked Data.Scientific data.Data records.Data files.Data publishing.]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[结合中国科学院科学数据库项目,以科学数据关联网络OpenCSDB为研究对象,分析关联数据在科学数据库中的应用需求、适用性、实施原则与框架、应用效果以及所面临的新的挑战。研究发现,关联数据机制由于其语义描述能力强、低成本、开放自治的特征,能够很好地满足科学数据库对开放访问机制在包容性、适应性、语义支持以及易推广性的要求,并在科学数据库项目内具有较好的实施可行性。尽管还存在着异构数据库的互操作、科学数据溯源、关联开放数据的访问控制、海量数据搜索排序等挑战,关联数据机制仍不失为科学数据开放访问机制的最佳选择。通过十一五应用效果证明,科学数据关联网络OpenCSDB促进了科学数据的共享,并...]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[17-26]]></PageScope>
+<Publisher><![CDATA[中国图书馆学报]]></Publisher>
+<Code><![CDATA[1001-8867]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[大型文献数字化项目元数据互操作调查与启示]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[宋琳琳;李海涛;]]></FullName>
+<Organization><![CDATA[中山大学资讯管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[中国图书馆学报]]></Media></Medium>
+<Year><![CDATA[2012]]></Year>
+<Issue><![CDATA[05]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[大型文献数字化项目;元数据标准;互操作]]></Keyword>
+<Keyword Lang="en"><![CDATA[Mass digitization projects.Metadata standard.Interoperability.]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[大型文献数字化项目元数据标准的多样性与信息资源需求接口单一性之间的冲突,使得元数据互操作势在必行。通过文献调研、比较研究、案例分析等方法对大学数字图书馆国际合作计划、谷歌图书、欧洲数字图书馆、HaithTrust、美国记忆等八个国内外知名的大型文献数字化项目的元数据互操作情况进行分析,发现映射、集成、协议和API较为常用,注册、转换和关联数据的应用范围相对较小。建议我国大型数字化项目的元数据互操作向细粒度和去格式化的方向努力。图4。表5。参考文献25。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[27-38]]></PageScope>
+<Publisher><![CDATA[中国图书馆学报]]></Publisher>
+<Code><![CDATA[1001-8867]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[我国农村地区公共图书馆建设的诸城模式研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[臧运平;宋桂娟;郑满生;牟肖光;姜仁珍;于良芝;]]></FullName>
+<Organization><![CDATA[青岛农业大学图书馆;山东省诸城市图书馆;南开大学信息资源管理系;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[中国图书馆学报]]></Media></Medium>
+<Year><![CDATA[2012]]></Year>
+<Issue><![CDATA[05]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[农村公共图书馆;诸城模式;社区服务中心]]></Keyword>
+<Keyword Lang="en"><![CDATA[Rural public libraries.Zhucheng Model.Community service center.]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[进入新世纪以来,我国公共图书馆界为解决普遍均等公共图书馆服务的实现方式问题,进行了很多探索,形成了若干基层图书馆建设模式。山东省诸城市于2007年前后参与这一探索过程,推出了依托社区服务平台的农村图书馆建设模式。本研究考察了这一模式的特点,分析了它对于保障城乡普遍均等公共图书馆服务的价值与局限。研究发现,诸城模式继承了以往农村图书馆建设的两大元素:(1)将图书馆学意义上的公共图书馆功能分散在不同的文化设施中;(2)维持图书馆运行的长期任务主要依靠基层政府。诸城模式对以往农村图书馆建设模式的最大创新就是它所依托的社区服务平台。社区服务平台的建设机制改变了诸城农村图书馆的性质,也为它注入了更强的可...]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[4-16]]></PageScope>
+<Publisher><![CDATA[中国图书馆学报]]></Publisher>
+<Code><![CDATA[1001-8867]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[我国文科领域知识扩散之引文网络探析]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[赵星;谭旻;余小萍;闫现洋;叶鹰;]]></FullName>
+<Organization><![CDATA[浙江大学信息资源管理系;浙江大学信息资源管理研究所;西南大学图书馆;西南大学教育学院;南京大学;浙江大学;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[中国图书馆学报]]></Media></Medium>
+<Year><![CDATA[2012]]></Year>
+<Issue><![CDATA[05]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[引文分析;引文网络;知识扩散;h度]]></Keyword>
+<Keyword Lang="en"><![CDATA[Citation analysis.Citation network.Knowledge diffusion.H-degree.]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[以CNKI收录的2001—2010年人文社会科学论文的8,805,762条引文记录为基础数据,构建82个文科领域的引文网络,用于定量刻画我国文科领域的知识扩散,并将其结果可视化。研究结果显示:经济学、教育学、政治学和管理学等学科中的部分领域是重要的知识源;在知识扩散的核心—边缘结构中,2/3的核心节点来源于经济管理学科;图书情报学是15个核心文科领域之一,在21世纪初展现出良好的学术活力。图3。表2。参考文献50。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[59-67]]></PageScope>
+<Publisher><![CDATA[中国图书馆学报]]></Publisher>
+<Code><![CDATA[1001-8867]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[从一般资料标识到内容形式和媒介类型——《ISBD统一版》的新特点]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[王松林;顾犇;]]></FullName>
+<Organization><![CDATA[南京政治学院上海校区军事信息管理系;国家图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[中国图书馆学报]]></Media></Medium>
+<Year><![CDATA[2012]]></Year>
+<Issue><![CDATA[05]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[ISBDs;ISBD统一版;GMD;内容形式;媒介类型]]></Keyword>
+<Keyword Lang="en"><![CDATA[ISBDs.ISBD Consolidated Edition.GMD.Content form.Media type.]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[ISBD系列标准中要求在题名与责任说明项中著录的一般资料标识(GMD),不适应现代文献编目的要求,在国际编目规则第四次专家会议上已遭中国代表的质疑。2011年版的《ISBD统一版》用内容形式和媒介类型替代GMD,这一做法不仅可以改变世界范围内GMD著录不一致的混乱状况,还可为制定基于FRBR的编目条例奠定重要基础。表2。参考文献8。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[103-108]]></PageScope>
+<Publisher><![CDATA[中国图书馆学报]]></Publisher>
+<Code><![CDATA[1001-8867]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[PDA(Patron Driven Acquisitions)辨析]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[卞丽芳;袁润;王正兴;]]></FullName>
+<Organization><![CDATA[江苏大学图书馆;淮海工学院图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[中国图书馆学报]]></Media></Medium>
+<Year><![CDATA[2012]]></Year>
+<Issue><![CDATA[05]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[PDA;文献资源建设;读者服务;图书馆网络化]]></Keyword>
+<Keyword Lang="en"><![CDATA[PDA.Collection development.Reader service.Networking library.]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[从决策概念、图书馆藏书建设的文献选择方法与原理等角度对PDA的中文译名读者决策采购提出质疑,从PDA产生的源流、运行模式等方面分析其功能效用实质。认为PDA从文献使用上看,是先用后买策略;从图书馆工作流程上看,是预流通策略;从供需关系上看,是供需链合作策略;从文献流通、文献服务角度看,数字文献是一种在线即时获取,纸质文献是一种触发优先使用。建议将PDA译为供需互动采购,并从PDA运行现状讨论其在我国图书馆的适用及其借鉴价值。参考文献15。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[109-114]]></PageScope>
+<Publisher><![CDATA[中国图书馆学报]]></Publisher>
+<Code><![CDATA[1001-8867]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[本刊启事]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <Organization><![CDATA[《中国图书馆学报》编辑部;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[中国图书馆学报]]></Media></Medium>
+<Year><![CDATA[2012]]></Year>
+<Issue><![CDATA[05]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[图书馆古籍;国家图书馆;联系方式;中国图书馆学报;北京西城区;数字对象;中国知网;纸质出版;Identifier;员工心理契约;]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[<正>因国家图书馆南区进行大修施工,《中国图书馆学报》编辑部搬迁至国家图书馆古籍馆院内,所有来函和交流期刊烦请改寄至新的通信地址:北京西城区文津街7号,邮编:100034。其他联系方式不变。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[114]]></PageScope>
+<Publisher><![CDATA[中国图书馆学报]]></Publisher>
+<Code><![CDATA[1001-8867]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[2012年中国图书馆年会将在东莞举办]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <Organization><![CDATA[中国图书馆学会秘书处;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[中国图书馆学报]]></Media></Medium>
+<Year><![CDATA[2012]]></Year>
+<Issue><![CDATA[05]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[中国图书馆学会;图书馆法;图书馆事业;全方位展示;文化事业;日至;信息素养教育;学术会议;公共图书馆;文化共享工程;]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[<正>由文化部、广东省人民政府主办,文化部社会文化司、中国图书馆学会、广东省东莞市人民政府等单位共同承办的2012年中国图书馆年会,将于11月21日至24日在广东省东莞市举办。本次年会以文化强国——图书馆的责任与使命为主题,以工作会议、学术会议、展览会三个板块为主,各有侧重,又相互交融,全方位展示近年来]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[126]]></PageScope>
+<Publisher><![CDATA[中国图书馆学报]]></Publisher>
+<Code><![CDATA[1001-8867]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[作者指南]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <Organization><![CDATA[《中国图书馆学报》编辑部;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[中国图书馆学报]]></Media></Medium>
+<Year><![CDATA[2012]]></Year>
+<Issue><![CDATA[05]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[图书馆学;栏目设置;学术期刊;稿件类型;注释规范;中文标题;情报学专业;作者英文姓名;引文页码;文献序号;]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[<正>《中国图书馆学报》是图书馆学、情报学专业学术期刊,以交流图书馆学、情报学的研究发现、推动该领域的知识创新为己任,发表图书馆学、情报学及与其密切相关领域任何专题的高层次学术成果。为强化学报的学术性,推进学报的国际化,进一步规范本学科的研究,本刊自2012年起将栏目设置调整为:研究论文、综述评介、探索交流及专题研究等。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[127]]></PageScope>
+<Publisher><![CDATA[中国图书馆学报]]></Publisher>
+<Code><![CDATA[1001-8867]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[美国公共图书馆史文献评述]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[郑永田;]]></FullName>
+<Organization><![CDATA[华南师范大学图书馆;中山大学资讯管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[中国图书馆学报]]></Media></Medium>
+<Year><![CDATA[2012]]></Year>
+<Issue><![CDATA[04]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[图书馆史;公共图书馆;历史文献;美国]]></Keyword>
+<Keyword Lang="en"><![CDATA[Library history.Public library.History literature.USA]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[公共图书馆史研究有助于我们了解公共图书馆的过去,把握其现在和未来。从五个方面对美国公共图书馆史文献进行评述:美国图书馆学者重视对公共图书馆现状的调研,在十九世纪中期和后期出版了两份具有深远历史意义的调查报告;图书馆史学者注重结合当时的社会经济和文化背景,阐释美国公共图书馆运动的起源与发展动因;虽然公共图书馆通史和断代史的著作较为少见,然而学者关注专史特别是馆史和卡内基图书馆历史的编撰;公共图书馆人物传记领域成就突出,产生了大量具有理论价值与史料价值的研究成果;美国图书馆学者还注重公共图书馆服务研究,在公共图书馆的社区服务、青少年服务、成人服务以及战争服务等研究领域取得了丰硕成果,有力地促进了美...]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[29-38]]></PageScope>
+<Publisher><![CDATA[中国图书馆学报]]></Publisher>
+<Code><![CDATA[1001-8867]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[网络环境下知识组织规范研究与设计]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[王军;卜书庆;]]></FullName>
+<Organization><![CDATA[北京大学信息管理系;国家图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[中国图书馆学报]]></Media></Medium>
+<Year><![CDATA[2012]]></Year>
+<Issue><![CDATA[04]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[NKOS;SKOS;数字图书馆;受控表;本体;分众分类法]]></Keyword>
+<Keyword Lang="en"><![CDATA[NKOS.SKOS.Digital Library.Controlled Vocabularies.Ontology.Folksonomy]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[网络环境下知识组织系统的设计与编制是当前国际图书情报学研究的重点课题。国家图书馆的知识组织规范项目对网络知识组织系统(NKOS)中语义描述、体系结构、编制原则和应用指南等内容进行规范设计和撰写,覆盖了目前数字图书馆应用的主要NKOS类型,包括:分类法、主题词表、本体和分众分类法。整体设计上,将传统知识组织系统和新兴社会化组织工具集成在统一的术语注册与服务框架内,使二者相互补充、相互融合,以克服知识组织工具在使用上的障碍。项目的长远目标是将数字图书馆的知识资源(包括NKOS和数字馆藏的元数据)转换为关联数据传输到互联网上,使数字图书馆成为语义Web的知识关联枢纽。图2。参考文献12。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[39-45]]></PageScope>
+<Publisher><![CDATA[中国图书馆学报]]></Publisher>
+<Code><![CDATA[1001-8867]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[启事]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <Organization><![CDATA[《中国图书馆学报》编辑部;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[中国图书馆学报]]></Media></Medium>
+<Year><![CDATA[2012]]></Year>
+<Issue><![CDATA[04]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[图书馆古籍;国家图书馆;联系方式;中国图书馆学报;北京西城区;数字对象;中国知网;纸质出版;Identifier;员工心理契约;]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[<正>因国家图书馆南区进行大修施工,《中国图书馆学报》编辑部搬迁至国家图书馆古籍馆院内,所有来函和交流期刊烦请改寄至新的通信地址:北京西城区文津街7号,邮编:100034。其他联系方式不变。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[62]]></PageScope>
+<Publisher><![CDATA[中国图书馆学报]]></Publisher>
+<Code><![CDATA[1001-8867]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于计量分析的馆藏资源语义化理论研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[邱均平;余凡;]]></FullName>
+<Organization><![CDATA[武汉大学信息管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[中国图书馆学报]]></Media></Medium>
+<Year><![CDATA[2012]]></Year>
+<Issue><![CDATA[04]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[信息计量学;馆藏资源;语义化]]></Keyword>
+<Keyword Lang="en"><![CDATA[Informetrics.Library resources.Semantization]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[目前的馆藏资源语义化方法存在一定的问题。本文引入信息计量学分析方法,结合语义网的相关理论和方法,构建了基于计量分析的馆藏资源语义化理论模型。通过对信息计量学和语义网进行理论和可视化应用的类比研究,发现:①信息计量学从定义、主要规律、馆藏资源元数据的关系研究到元数据的可视化展示都与语义网的理论、应用非常类似;②基于计量分析的馆藏资源语义化方法在语义关系深度、计算机自动处理程度、可重复性和实用性方面比基于元数据和领域本体的馆藏资源语义化方法更好;③把计量分析方法应用到馆藏资源语义化中,不仅可以提高馆藏资源的应用效率,解决基于元数据和领域本体语义化的不足,还能促进交叉研究和学科发展。图5。表3。参考...]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[71-78]]></PageScope>
+<Publisher><![CDATA[中国图书馆学报]]></Publisher>
+<Code><![CDATA[1001-8867]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于语义的馆藏资源深度聚合研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[贺德方;曾建勋;]]></FullName>
+<Organization><![CDATA[中国科学技术信息研究所;中国科学技术信息研究所信息资源中心;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[中国图书馆学报]]></Media></Medium>
+<Year><![CDATA[2012]]></Year>
+<Issue><![CDATA[04]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[馆藏资源;语义;聚合研究]]></Keyword>
+<Keyword Lang="en"><![CDATA[Library collections.Semantics.In-depth integration of resources]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[网络环境下,图书馆馆藏资源已逐渐转变为以数字图书馆为主体、紧密面向用户需求的多元化知识资源。本文基于OPAC、跨库检索、引证关系和元数据的聚合以及相应的整合工具与方法等多个方面对国内外研究现状进行概述,从三个方面进行研究:①基于概念及概念关系、基于引证关系和基于科研本体等对馆藏资源进行语义聚合;②探讨馆藏资源聚合服务所需要的语义描述框架和可视化展示机制;③面向资源主题、知识深化演化、学术社群或科研决策来进行馆藏资源深度聚合。参考文献23。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[79-87]]></PageScope>
+<Publisher><![CDATA[中国图书馆学报]]></Publisher>
+<Code><![CDATA[1001-8867]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[图书馆学情报学高影响力论文特征及所反映的学科差异分析]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[周晓英;董伟;朱小梅;隋鑫;]]></FullName>
+<Organization><![CDATA[中国人民大学信息资源管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[中国图书馆学报]]></Media></Medium>
+<Year><![CDATA[2012]]></Year>
+<Issue><![CDATA[04]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[图书馆学;情报学;高影响力论文;高被引论文;学科差异]]></Keyword>
+<Keyword Lang="en"><![CDATA[Library science.Information science.High impact papers.Highly cited papers.Discipline difference]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[选取CNKI数据库中图书馆学和情报学被引频次最高的论文各100篇,作为本学科的高影响力论文,分析其外部特征和内容特征。提出了高被引论文新颖度、被引响应时间等概念并加以测度。研究发现:高影响力论文在发表后5—10年间的引用频次相对较高,两个学科的差异不大;具有指导性、方法论价值的论文更有高被引的可能;探索问题广泛、细致、深入的综述性论文有高被引的可能。两学科的差异在于:图书馆学研究内容相对集中,情报学研究跨学科的性质更为明显;图书馆学实践性特征较明显,情报学多体现出纯科学的特征;情报学文献的被引老化时间要长于图书馆学;两学科就共同关注的问题所采取的研究思路和研究角度不完全相同。图6。表2。参考文...]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[99-109]]></PageScope>
+<Publisher><![CDATA[中国图书馆学报]]></Publisher>
+<Code><![CDATA[1001-8867]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[作者指南]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <Organization><![CDATA[《中国图书馆学报》编辑部;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[中国图书馆学报]]></Media></Medium>
+<Year><![CDATA[2012]]></Year>
+<Issue><![CDATA[04]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[图书馆学;栏目设置;学术期刊;稿件类型;注释规范;中文标题;情报学专业;作者英文姓名;引文页码;文献序号;]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[<正>《中国图书馆学报》是图书馆学、情报学专业学术期刊,以交流图书馆学、情报学的研究发现、推动该领域的知识创新为己任,发表图书馆学、情报学及与其密切相关领域任何专题的高层次学术成果。为强化学报的学术性,推进学报的国际化,进一步规范本学科的研究,本刊自2012年起将栏目设置调整为:研究论文、综述评介、探索交流及专题研究等。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[128]]></PageScope>
+<Publisher><![CDATA[中国图书馆学报]]></Publisher>
+<Code><![CDATA[1001-8867]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[2012年中国图书馆年会将在东莞举办]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <Organization><![CDATA[中国图书馆学会秘书处;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[中国图书馆学报]]></Media></Medium>
+<Year><![CDATA[2012]]></Year>
+<Issue><![CDATA[04]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[中国图书馆学会;图书馆法;图书馆事业;全方位展示;公共图书馆;文化事业;日至;信息素养教育;学术会议;文化共享工程;]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[<正>由文化部、广东省人民政府主办,文化部社会文化司、中国图书馆学会、广东省东莞市人民政府等单位共同承办的2012年中国图书馆年会,将于11月21日至24日在广东省东莞市举办。本次年会以文化强国——图书馆的责任与使命为主题,以工作会议、学术会议、展览会三个板块为主,各有侧重,又相互交融,全方位展示近年来图书馆事业发展的成就,打造图书馆事业与相关企业携手发展的平台,向图书馆从业人员、广大社会公众全面展]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[129]]></PageScope>
+<Publisher><![CDATA[中国图书馆学报]]></Publisher>
+<Code><![CDATA[1001-8867]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[关于“十二五”时期我国公共图书馆事业发展的战略思考——《全国公共图书馆事业发展“十二五”规划》解读]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[申晓娟;胡洁;李丹;]]></FullName>
+<Organization><![CDATA[武汉大学信息管理学院;国家图书馆研究院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[中国图书馆学报]]></Media></Medium>
+<Year><![CDATA[2012]]></Year>
+<Issue><![CDATA[04]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[公共图书馆;战略规划;图书馆事业]]></Keyword>
+<Keyword Lang="en"><![CDATA[Public Library.Strategic Plan.Librarianship]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[《全国公共图书馆事业发展十二五规划(》以下简称《规划)》是1949年以来首次由政府主管部门牵头制定的全国公共图书馆事业中长期发展规划。《规划》由发展基础、总体思路、重点任务和保障措施四部分组成,坚持政府主导的原则,基于全面的现实基础分析,提出了包括设施网络建设、文献信息资源保障体系建设、服务能力建设、新技术研发与应用、法制化与标准化建设、人才队伍建设在内的十个战略重点,并提出了一系列具体量化的指标,对于明晰十二五乃至今后更长一个时期我国公共图书馆事业的发展思路具有重要意义。参议文献25。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[4-11]]></PageScope>
+<Publisher><![CDATA[中国图书馆学报]]></Publisher>
+<Code><![CDATA[1001-8867]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[发达国家图书档案事业结盟与合作战略规划综述]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[马海群;]]></FullName>
+<Organization><![CDATA[黑龙江大学信息资源管理研究中心;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[中国图书馆学报]]></Media></Medium>
+<Year><![CDATA[2012]]></Year>
+<Issue><![CDATA[04]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[图书馆;档案馆;合作;战略规划;发达国家]]></Keyword>
+<Keyword Lang="en"><![CDATA[Library.Archives.Cooperation.Strategic planning.Developed countries]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[基于数字环境下图书馆与档案馆在文化遗产保护与继承、公共信息服务提供、政府信息管理等方面职责的一致性,通过战略规划文本的内容,分析国际组织、美国、英国、加拿大等发达国家图书档案事业的结盟、合作、合并态势,综述评价了国外图书档案战略规划及合作的若干经验。主要包括:公共文化服务机构的共同愿景与职责的定位与认知;应对数字技术与文化变革挑战的强烈的职业使命感;内涵丰富且注重实施绩效的规划体系;作为公共文化服务机构的图书馆与档案馆的实质性结盟与合并。国外图书档案事业结盟与合作的经验可供中国借鉴。参考文献44。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[21-28]]></PageScope>
+<Publisher><![CDATA[中国图书馆学报]]></Publisher>
+<Code><![CDATA[1001-8867]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[网络图像检索提问式调整行为研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[曹梅;]]></FullName>
+<Organization><![CDATA[南京师范大学教育技术系;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[中国图书馆学报]]></Media></Medium>
+<Year><![CDATA[2012]]></Year>
+<Issue><![CDATA[05]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[图像检索;提问式;检索需求;用户行为]]></Keyword>
+<Keyword Lang="en"><![CDATA[Image retrieval.Query.Retrieval needs.Users' behavior]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[通过网络图像检索实验,采集用户进行图像搜索任务时的提问式及其变化序列,并进行小规模实证。通过内容编码和统计分析发现:①图像检索提问调整绝大多数与内容调整有关,缩检、扩检、平移和跟随系统相关搜索词是发生最频繁的四类主要提问调整行为,用户在图像检索时表现出从宽泛检索入手,逐步缩小范围的行为趋向;②就图像提问调整模式而言,有四种基本模式和四种混合模式,各有特点;③网络图像检索的演进性偏于一种自演进,而现有图像检索系统对交互式演进的支持明显不足。图1。表2。参考文献7。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[39-48]]></PageScope>
+<Publisher><![CDATA[中国图书馆学报]]></Publisher>
+<Code><![CDATA[1001-8867]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[用户生成内容(UGC)概念解析及研究进展]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[赵宇翔;范哲;朱庆华;]]></FullName>
+<Organization><![CDATA[南京大学信息管理学院;南通大学管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[中国图书馆学报]]></Media></Medium>
+<Year><![CDATA[2012]]></Year>
+<Issue><![CDATA[05]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[用户生成内容;网络信息资源;类型理论;概念解析;研究进展]]></Keyword>
+<Keyword Lang="en"><![CDATA[User-generated content.Online information resources.Genre theory.Conceptualization.Research progress.]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[用户生成内容(UGC)是Web 2.0环境下一种新兴的网络信息资源创作与组织模式。本文对国内外相关研究文献进行了检索和梳理,在类型理论基础上提出了UGC的概念分析框架。从用户的类型与角色(Who)、内容的类型与属性(What)、用户生成内容的动因(Why)以及用户生成内容的模式(How)四个维度及相互之间的联系深入解析UGC概念中最为本质的一系列问题。同时通过关键词分析方法,提炼出UGC研究的焦点和重心,归纳出UGC研究的五个分析单元(用户、内容、技术、组织、社会)、四大视角(资源观、行为观、技术观、应用观)和三个层面(微观层面、中观层面、宏观层面)。试图从理论上规范并完善了UGC研究的思路,...]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[68-81]]></PageScope>
+<Publisher><![CDATA[中国图书馆学报]]></Publisher>
+<Code><![CDATA[1001-8867]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[中文社会科学引文索引(CSSCI)的设计与应用价值]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[苏新宁;]]></FullName>
+<Organization><![CDATA[南京大学信息管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[中国图书馆学报]]></Media></Medium>
+<Year><![CDATA[2012]]></Year>
+<Issue><![CDATA[05]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[CSSCI;索引结构;数据组织;引文分析]]></Keyword>
+<Keyword Lang="en"><![CDATA[CSSCI.Index structure.Data organization.Citation analysis.]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[中文社会科学引文索引(CSSCI)启动于1998年底,首次发布于2000年5月,目前共收录期刊529种,收录来源文献110万余条,引用文献近1千万条,已成为教育部评价人文社会科学研究成果的重要平台。CSSCI包括数据处理、信息检索和统计分析三个子系统,具有控制数据质量、提高检索效率、保存引文分析数据、分析学科研究特征等功能。CSSCI的应用价值包括:借助引文索引数据分析学科研究特征;观察学科的成长性和国际化程度;探究学科研究热点和趋势、发现重要学术论著、构建学术网络等研究。图2。参考文献10。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[95-102]]></PageScope>
+<Publisher><![CDATA[中国图书馆学报]]></Publisher>
+<Code><![CDATA[1001-8867]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[将青少年纳入信息贫困研究视野:来自青少年信息行为研究的证据]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[刘亚;]]></FullName>
+<Organization><![CDATA[南开大学商学院信息资源管理系;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[中国图书馆学报]]></Media></Medium>
+<Year><![CDATA[2012]]></Year>
+<Issue><![CDATA[04]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[信息行为;青少年;信息贫困]]></Keyword>
+<Keyword Lang="en"><![CDATA[Information behavior.Teenagers.Information poverty]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[对青少年信息行为的研究成果进行综述,分析青少年在信息检索技能、信息评价和选择,以及从信息中建构和创新知识方面存在的缺陷。研究发现:青少年虽然生活在信息资源丰富的环境中,但他们并不能有效地利用各种信息资源和信息设备来获取信息和知识以解决学习、生活中的问题;一部分青少年在获取信息和汲取信息价值方面处于劣势;青少年人群中存在着信息贫困,应当将他们纳入信息贫困的研究视野。参考文献94。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[12-20]]></PageScope>
+<Publisher><![CDATA[中国图书馆学报]]></Publisher>
+<Code><![CDATA[1001-8867]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[中国与欧盟、澳大利亚知识管理标准比较研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[徐少同;]]></FullName>
+<Organization><![CDATA[中国人民大学信息资源管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[中国图书馆学报]]></Media></Medium>
+<Year><![CDATA[2012]]></Year>
+<Issue><![CDATA[05]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[知识管理标准;比较研究;中国;欧盟;澳大利亚]]></Keyword>
+<Keyword Lang="en"><![CDATA[Knowledge management standard.Comparative study.China.European Union.Australia.]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[知识管理标准反映了知识管理的实践与认知水平,并为相关活动提供指引。本文以中国、欧盟和澳大利亚的知识管理标准为研究对象,采用比较研究方法,分析它们在内容结构、制定目标、知识及知识管理定义、知识管理活动流程和框架模型等方面的特点,发现知识管理发展有五个共性特征:坚持科学规划和持续改进思路;以资产管理为发展方向;以业务目标为中心;须包含人员、文化、制度和技术等要素;引入资产评估和业务审计方法。针对中国知识管理标准的不足,提出三项建议:深入吸纳知识资产思想;强化与业务活动的集成;采用更加开放互动的方式进行后续完善。图5。表5。参考文献18。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[49-58]]></PageScope>
+<Publisher><![CDATA[中国图书馆学报]]></Publisher>
+<Code><![CDATA[1001-8867]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[1989年以来国内外数字鸿沟研究回顾:内涵、表现维度及影响因素综述]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[闫慧;孙立立;]]></FullName>
+<Organization><![CDATA[南开大学商学院信息资源管理系;工业和信息化部电子科学技术情报研究所网络与信息安全研究部;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[中国图书馆学报]]></Media></Medium>
+<Year><![CDATA[2012]]></Year>
+<Issue><![CDATA[05]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[信息社会;数字鸿沟;信息通讯技术;社会不平等;数字不平等]]></Keyword>
+<Keyword Lang="en"><![CDATA[Information society.Digital divide.ICT.Social inequality.Digital inequality.]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[数字鸿沟自1989年出现以来受到学术界的广泛重视。文本梳理国内外的研究成果,将数字鸿沟研究划分为四代:第一代研究的核心内容是拥有者和缺乏者在接入信息通讯技术(ICT)方面存在的鸿沟;第二代将ICT素养和培训方面的鸿沟、ICT利用水平方面的鸿沟纳入其话语;第三代研究重点放在ICT接入与利用活动之外的信息资源和知识上;最新一代的学术思想则是从社会分化、社会排斥及社会不平等的角度断定不能按照传统的数字鸿沟思维来对待本已在社会上处于劣势地位的群体。表2。参考文献86。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[82-94]]></PageScope>
+<Publisher><![CDATA[中国图书馆学报]]></Publisher>
+<Code><![CDATA[1001-8867]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[开放存取论文下载与引用情况计量研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[牛昱昕;宗乾进;袁勤俭;]]></FullName>
+<Organization><![CDATA[南京大学信息管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[中国图书馆学报]]></Media></Medium>
+<Year><![CDATA[2012]]></Year>
+<Issue><![CDATA[04]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[开放存取论文;引文分析;信息计量]]></Keyword>
+<Keyword Lang="en"><![CDATA[Open access papers.Citation analysis.Informetrics]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[基于中国科技论文在线的论文引用、下载数据,对开放存取论文被引用的年代分布情况、被引频次与下载频次的相关关系进行研究。结果表明:①开放存取论文达到被引峰值的时间在延长,互联网并没有加快开放存取论文的老化,反而有延缓之势;②单篇论文的下载频次与被引频次之间的相关性不显著;③应用性、综述性论文更容易出现高下载低引用现象;④从长期、整体角度来看,开放存取论文的下载频次与被引频次之间呈现正相关趋势;⑤被引频次侧重于反映开放存取论文的内在质量,下载频次则反映外部评价指标(可识别性、可获得性、传播速率等)。图3。表2。参考文献39。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[119-127]]></PageScope>
+<Publisher><![CDATA[中国图书馆学报]]></Publisher>
+<Code><![CDATA[1001-8867]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[DDC与《中图法》组合类目映射探讨]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[贾君枝;郝倩倩;]]></FullName>
+<Organization><![CDATA[山西大学管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[中国图书馆学报]]></Media></Medium>
+<Year><![CDATA[2012]]></Year>
+<Issue><![CDATA[04]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[《中图法》;DDC;组合类目;映射规则]]></Keyword>
+<Keyword Lang="en"><![CDATA[Chinese Library Classification.DDC.Combined category.Regulation of Mapping]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[国内分类法映射研究多关注于间接映射方法的实现,对词表类目复杂语义关系研究较少。当前分类法采用大量的组合类目形式表达一些复杂的概念,由于不同类表之间组合类目的特点及作用不同,导致组合类目之间映射存在一定难度。针对DDC和《中图法》除生物科学以外的理学领域类目,分析了组合类目的分布特点,从语义层将组合类目划分为并列关系、属分关系、限制关系、交叉关系四种类型,总结组合类目的两种基本功能,从等同、包含和交叉三种关系类型研究组合类目直接映射的匹配规则,为进一步构建《中图法》和DDC的自动映射系统提供参考依据。表10。参考文献11。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[63-70]]></PageScope>
+<Publisher><![CDATA[中国图书馆学报]]></Publisher>
+<Code><![CDATA[1001-8867]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[叙词表融合方法研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[吴雯娜;王星;]]></FullName>
+<Organization><![CDATA[中国科学技术信息研究所;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[中国图书馆学报]]></Media></Medium>
+<Year><![CDATA[2012]]></Year>
+<Issue><![CDATA[04]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[叙词表融合;语义关系;概念映射]]></Keyword>
+<Keyword Lang="en"><![CDATA[Thesauri merging.Semantic relationship.Concept mapping]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[多表融合过程中可能产生概念界定不一致,语义关系矛盾冲突、相互缠结的问题,加上多人协同工作模式的复杂性,致使知识体系梳理极为困难。从逻辑角度对概念、词汇及概念间关系进行界定,提出多表融合的技术路线。多表融合以多表概念映射为前提。由于词群构成的复杂性,需要对closeMatch映射进行语义分析,以区分出exactMatch映射。概念合并和新关系生成可能引发多种逻辑问题:关系冲突、等级关系循环、等级关系冗余、兄弟概念互参、上下位概念共参、交叉互参、等级关系多路径。这些逻辑问题可被区分为两大类:逻辑错误、逻辑优化,并进一步影响逻辑问题的解决步骤。讨论了多人协同工作模式下叙词表的数据锁定机制...]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[110-118]]></PageScope>
+<Publisher><![CDATA[中国图书馆学报]]></Publisher>
+<Code><![CDATA[1001-8867]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[图书馆学研究中问题意识摭拾]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[白君礼;]]></FullName>
+<Organization><![CDATA[西北农林科技大学图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[中国图书馆学报]]></Media></Medium>
+<Year><![CDATA[2012]]></Year>
+<Issue><![CDATA[05]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[图书馆学;问题意识;体系研究]]></Keyword>
+<Keyword Lang="en"><![CDATA[Library science.Question awareness.Systematic research.]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[图书馆学研究中的问题意识作为一种重要的思维方式,具有推动和深化研究的作用,是研究的起点和学科发展的生长点。目前,图书馆界整体上问题意识淡薄,研究中存在着许多假问题。对问题应从本体论、价值论、方法论多角度全面深入研究,建立反思、批判、创新的思维方式。体系研究与问题意识研究并不对立,应以问题研究为主,以体系研究为辅,二者缺一不可,相互联系,相互促进。问题意识具有复杂性,提出一个高质量的真问题十分困难。发现问题的方法有:加强知识学习和积累,明确图书馆现实,学会提出问题、解决问题的方法等。图2。参考文献29。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[115-125]]></PageScope>
+<Publisher><![CDATA[中国图书馆学报]]></Publisher>
+<Code><![CDATA[1001-8867]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[内容和媒介类型:RDA与ISBD对比分析]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[胡小菁;]]></FullName>
+<Organization><![CDATA[华东师范大学图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[中国图书馆学报]]></Media></Medium>
+<Year><![CDATA[2012]]></Year>
+<Issue><![CDATA[04]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[RDA;ISBD;内容类型;媒介类型]]></Keyword>
+<Keyword Lang="en"><![CDATA[RDA.ISBD.Content type.Media type]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[比较RDA与ISBD的内容和媒介类型,指出两者的内容类型/限定均在很大程度上源自《RDA/ONIX资源类型框架》,而《RDA中的内容与载体术语》中的宽泛内容构成了RDA内容类型的骨架;两者的媒介类型均依据《RDA/ONIX资源类型框架》的中介工具属性。后组式的ISBD内容形式/内容限定优于先组式的RDA内容类型。在内容部分还需要增加连续性资源的属性。对我国未来编目标准中的内容和媒介类型制订提出四点建议:选用通用术语,内容类型采用后组方式,增加延伸属性容纳连续性资源,出版界沟通协调。表4。参考文献12。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[55-62]]></PageScope>
+<Publisher><![CDATA[中国图书馆学报]]></Publisher>
+<Code><![CDATA[1001-8867]]></Code>
+</Bibliography>
+</Bibliographies>

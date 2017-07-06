@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<publication marker="gai shuangshuang">
+    <journal>International Journal of Information Management</journal>
+    <time>Volume 36, Issue 1, February 2016, Pages 89-96</time>
+International Journal of Information Management
+    <title>Mediation effect of business process and supply chain management capabilities on the impact of IT on firm performance: Evidence from Chinese firms</title>
+    <author>Jianping Peng.</author> Author links open the author workspace.Opens the author workspacea. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace<author>Jing Quan.</author> Author links open the author workspace.Opens the author workspaceOpens the author workspaceb. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace<author>Guoying Zhang.</author> Author links open the author workspace.Opens the author workspacec. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace<author>Alan J. Dubinsky.</author> Author links open the author workspace.Opens the author workspacec. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace
+a
+Sun Yat-Sen Business School, Sun Yat-Sen University, Guangzhou 510275 China
+b
+Franklin P. Perdue School of Business, Salisbury University, Salisbury, MD 21801, USA
+c
+Dillard College of Business Administration, Midwestern State University, Wichita Falls, TX 76308, USA
+Show more
+    <doi>https://doi.org/10.1016/j.ijinfomgt.2015.09.006</doi>Get rights and content
+Highlights
+    <highlight id="1">Motivated by the seeming presence of the productivity paradox in China, this research revisits the question of how information technology (IT) affects firm performance in China.</highlight>
+    <highlight id="2">It aims to find the mediation factors for the relationship between IT capabilities and performance.</highlight>
+    <highlight id="3">We find that a firm’s management capabilities to manage both its internal and external processes fully mediate the impact of IT on firm performance.</highlight>
+    <highlight id="4">The research advances our understanding of the IT-firm performance nexus in China as well as in other developing countries. It provides an avenue for exploring other mediating variables.</highlight>
+    <highlight id="5">Our findings suggest that firms should avoid the fallacy that IT investments are directly responsible for enhancing firm performance.</highlight>
+
+<abstract>
+Abstract
+<h target="1" match="full">Motivated by the seeming presence of the productivity paradox in China, this research revisits the question of how information technology (IT) affects firm performance.</h>  <h target="2" match="part">Leveraging the process-based view of IT, we establish a theoretical framework for the mediation factors for the relationship between IT capabilities and performance.</h> Based on a survey of 127 companies in China, <h target="3" match="full">we find that a firm's management capabilities to manage both its internal and external business processes fully mediate the impact of IT on firm performance. </h> <![CDATA[The two management capabilities in this study are business-process management capability and supply-chain management capability. Our results show that only the coherent integration of IT capability with firm’s ability to optimize business processes and to improve management of supply chains can enhance firm performance. ]]> <h target="5" match="full">Firms should avoid the fallacy that IT investments are solely responsible for better firm performance. </h> <![CDATA[ Based on our findings, we discuss the implications for research and practice.
+]]></abstract>
+    
+    <keywords>IT capability</keywords>
+    <keywords>Business process management</keywords>
+    <keywords>Supply chain management</keywords>
+    <keywords>Firm performance</keywords>
+    <keywords>Mediation</keywords>
+    
+    <section name="Introduction" category="introduction"><![CDATA[
+1. Introduction
+In recent years, Chinese firms have invested heavily in IT. After all, prevalence of information technology (IT) applications provides new opportunities for Chinese firms to improve their management capabilities. A survey by CCW Research (2010) found that IT investments by small and medium-sized enterprises (SMEs) in China approached 200 billion RMB Yuan (approximately US$30 billion); however, the improvements in their operational performance and competitiveness had been minimum. Therefore, a key management issue is whether the so-called “productivity paradox” of information systems, which refers to the contradiction between “the enormous improvements in the underlying technology” and lack of benefits from technology investments (Brynjolfsson & Hitt, 1996), exists in China.
+The business process view of IT argues that much of the business value of IT stems from its complementarities with business processes (Barua, Kroeber, & Mukhopadhyay, 1995). Specifically, IT affects business processes—such as product development, quality management, manufacturing, and supply chain management—that, in turn, affect firm performance. Lewis and Byrd (2003) established a framework to study the mediation effect of business processes on the relationship between IT and firm performance. They argued that IT provides the infrastructure upon which other business functions and processes depend. Recent advancement of information systems (IS) research has identified business process management capabilities as crucial mediators between IT capability and firm performance (Mithas, Ramasubbu, & Sambamurthy, 2008; Mithas, Ramasubbu, & Sambamurthy, 2011). Using game theory, Peng (2009) demonstrated the conditions for the optimal match between IT application level and management capabilities in order for IT to influence performance. As such, too much or too little IT capability is an inefficient use of firm resources.
+Research on the business value of IT in developed countries has reached a certain level of maturity (Constantinides, Chiasson, & Introna, 2012; Grover & Kohli, 2012). Empirical work on this topic in developing countries—such as China—though, is in its nascent stage. Whether findings in a developed-country context are generalizable to a developing-country domain is unknown and may be questionable. After all, differences in the stage of economic development, organizational structures, and culture between developed and developing nations may have an impact on the business value of IT. Sun, Xing, and Wang (2010, p. 397) stated, “Although the issues related to information technology investment and organizational performance have been the focus of attention of academics and practitioners, similar empirical study in China is relatively limited and the results from the few existing studies are inconsistent.” For example, Lin, Madu, Kuei, and Lu (2004) analyzed the return of IT investment in China's manufacturing industry and found that it increases firm performance. In addition, a study of foreign and local electronics firms in Malaysia by Rasiah and Malakolunthu (2009) showed that technology intensity and productivity were positively correlated. However, Zhu (2004) used the internal data of a state-owned commercial bank in China and ascertained that the investment in IT assets has a negative impact on the marginal productivity of the bank. In addition, Li, Feng, and Xie (2003) showed that the impact of IT investment on firm performance is not significant for publicly listed companies in China. Furthermore, Sun et al. (2010) demonstrated that IT investment and organizational performance are negatively correlated for publicly listed companies in the IT industry in China. The foregoing findings exhibit characteristics of the IT productivity paradox. Because China is the largest developing country in the world, research designed to pinpoint the causes for the IT productivity paradox will likely have important implications for companies in China—and possibly for those in other developing countries—as they strive to create business value from their IT investments.
+Motivated by the seeming presence of the productivity paradox in China, this research adopts four new foci in an attempt to address whether and how IT creates business value for Chinese firms. First, it enhances the process-based view of IT (Barua et al., 1995; Soh & Markus, 1995) in which business processes mediate the impact of IT on performance by emphasizing the mediation role of business process management capabilities.
+Second, this research categorizes the concept of business management capability into two distinct types: internal business process and supply chain management capabilities. These two capabilities describe both the internal and external activities of firms. Zairi (1997) defines business process management (BPM) as a “structured approach to analyze and continually improve fundamental activities such as manufacturing, marketing, communications and other major elements of a company’s operation.” Therefore, business process management capability is essential to a company’s operations. Previous studies have often treated BPM as a single component (Mithas et al., 2011), despite the wide coverage of different business processes the concept can convey. We start to address this over-simplification by categorizing business processes into internal processes and external supply chain processes. Supply chain management capability embodies how firms manage their relationships with their suppliers and control the quality in the supply chain. In fact, firms must interact and coordinate with external suppliers and customers for raw material procurement and product distribution. As a result, how they manage the supply chain relationships is critical for business performance. On the other hand, all the other internal business processes are also important to firm performance.
+Third, this research sheds further light on the linkage between IT capability and firm performance. The process-based view proposes that performance differential depends on differences in IT capabilities, not on differences in IT spending (Stoel & Muhanna, 2009). However, empirical test results regarding this linkage are inconsistent. For example, Bharadwaj (2000) showed that firms with higher IT capabilities tend to have better performance. Soto-Acosta and Meroño-Cerdan (2008) found that, although Internet resources are not directly correlated with e-business value, e-business capabilities are key drivers of e-business value. Santhanam and Hartono (2003), however, found no association between performance and IT capability.
+]]> <h target="1" match="full">Finally, the present study should advance understanding of the relationship between IT and firm performance in China.</h> <![CDATA[ The existing research in China has obtained inconsistent results and evidence of the IT productivity paradox (Sun et al., 2010; Zhu, 2004). ]]> <h target="3" match="full">The current study proposes that the impact of IT capabilities on organizational performance is mediated by a firm's internal business process and supply chain management capabilities.</h> <![CDATA[The investigation extends the research of IT business value by examining the issue in a Chinese context. The study’s China-specific findings may well provide a foundation for firms in developing countries vis-à-vis designing and implementing appropriate strategies to maximize return on IT spending.
+
+]]></section>
+
+    <section name="Literature review" category="background"><![CDATA[
+2. Literature review
+Business value of IT has been a popular focus in the MIS literature. For example, Brynjolfsson and Hitt (1996), Dewan and Min (1997), Hitt and Brynjolfsson (1996), Lehr and Lichtenberg (1999), and Siegel (1997) proposed that IT investments create excess return over other types of capital investments in production processes. Baruaet al., (1995), Mooney, Gurbaxani, and Kraemer (1996), Soh and Markus (1995), argued that IT creates business value by improving operational efficiency of intermediary business processes. Bharadwaj (2000), Clemons and Row (1991), Mata, Fuerst, and Barney (1995), Powell and Dent-Micallef (1997), Sambamurthy, Bharadwaj, and Grover (2003) proffered that IT improves firm performance by creating unique, immobile, and path-dependent strategic resources and capabilities. Benaroch and Kauffman (2000), Dos Santos (1991), Sambamurthy et al. (2003), and Taudes, Feurstein, and Mild (2000) averred that the value of IT lies in its ability to provide options and flexibility for firms in increasingly competitive and uncertain market environments. Santhanam and Hartono (2003) promulgated that a company can increase the efficiency of its IT investments by developing IT capabilities. Indeed, they discerned that performance of firms with higher IT capabilities is greater and more sustainable than in those with lower IT capabilities. Using the “prisoner's dilemma” in game theory, Chanchai (2008) posited that IT vendors actually make it difficult for firms to benefit from their IT investments by taking advantage of the dynamic interactions among firms, competitors, and vendors themselves. Byrd and Byrd (2010) showed evidence that different dimensions of IT capability may have different effects on performance measures.
+One of the most popular theories proposed to explain how IT contributes to firm performance is the process-based view (Barua et al., 1995; Soh and Markus, 1995). The view asserts that IT investments create positive impact on performance and productivity through enhancing existing business processes, enabling new business processes, and creating new business capabilities. It postulates that IT has first-order effects on operational-level variables in the functional areas, and these intermediary variables in turn affect higher-level factors, such as productivity and profitability (Barua et al., 1995). Using the concept of IT asset, Soh and Markus (1995) argued that IT investment cannot achieve its desired results if a firm does not manage its IT assets properly and that the impact of IT on firm performance is the result of the interaction between IT and business processes. Hu and Quan (2005) promulgated that information intensities of value chain and products mediate the impact of IT on business processes. Using data collected from 60 business units in 20 large firms, Mitra and Chaya (1996) performed a firm-level analysis of the relationship between IT investment and operational costs and discerned that higher IT investment is usually associated with lower production and operating costs. In sum, the process-based view essentially establishes the mediation effect of business processes on the impact of IT on company performance.
+Mithas et al. (2011) proposed that process management capability, instead of business process itself, mediates the relationship between IT and performance. Process management capability refers to the ability to develop processes with appropriate reach and richness for guiding manufacturing, supply chain, financial, and other important activities (Sambamurthy et al., 2003). Garvin (1991) and Teece, Pisano, and Shuen, 1997 consider process management a source of competitive advantage. The ability to effectively manage processes is essential for organizational survival and success (Kalakota and Marcia 2003; Robinson, Tapscott, and Kalakota, 2000). Researchers have argued that IT is a significant enabler of process management capability owing to its ability to minimize process variability, improve process quality, and enhance process output (Davenport, 1993, 2000; Frei, Kalakota, Leone, & Marx, 1999; Sambamurthy et al., 2003; Srinivasan, Kekre, & Mukhopadhyay, 1994).
+Although implicitly mentioned in prior work, the difference between internal process management capability and external supply chain management capability has not been sufficiently studied (Mithas et al., 2011). The current best practice suggests that traditional inter-firm competition has now expanded into an inter-supply chain competition (Cooper, Lambert, & Pagh, 1997). Yu (2004) ascertained that supply chain management is one of the core capabilities, and a quality supply chain can create competitive advantage. Cachon and Fisher (2000) identified the enabling role of information sharing on supply chain management. Specifically, they found that data accuracy was critical to ensuring efficient forecasting and designing agile supply chain management processes. Although, the importance of both supply chain management and IT has been widely studied, we have found few works investigating the mediation effect of supply chain with regard to the influence of IT on firm performance (Rai, Patnayakuni, & Seth, 2006). In this study, following the process-view literature, we specifically examine the distinct mediation effect of internal business process versus that of supply chain management capability.
+
+]]></section>
+
+    <section name="Hypotheses" category="research model and hypotheses"><![CDATA[
+3. Hypotheses
+As noted earlier, this research examines business process management by dividing it into internal business process and external supply chain management. We adopt the definition from Cooper et al. (1997). Supply chain management is “... an integrative philosophy to manage the total flow of a distribution channel from supplier to the ultimate user.” From a business process perspective, supply chain management refers to managing the relationships with suppliers and ensures the quality of the supply chain (i.e., how to integrate suppliers to achieve supply chain coordination, to reduce inventory and logistics costs, and to improve the quality of the supply chain). On the other hand, internal business process management refers to how functional areas are managed to satisfy customer needs, including process optimization and flexibility, product quality, brand management and marketing, operating cost reduction, cross-departmental collaborations, and problem-solving ability. In other words, it refers to any business processes not related to activities dealing with external supplies and customers (Fig. 1).
+Research model
+Download full-size image
+Fig. 1. Research model.
+]]> <h target="2" match="full">In this study, we examine the mediation effects of management capabilities of both internal business processes and external supply chain on the relationship between IT and performance.</h> <![CDATA[  Based on the foregoing discussion, we offer the following hypotheses:
+H1
+
+Internal business process management capability mediates the impact of IT capability on firm performance.
+
+H2
+
+Supply chain management capability mediates the impact of IT capability on firm performance.
+
+]]></section>
+
+    <section name="Methodology" category="methods"><![CDATA[
+4. Methodology
+4.1. Measurement items
+The four key constructs in this study are IT capability (ITC), internal business process management capability (BPMC), supply chain management capability (SCMC), and firm performance (FP). A 5-point Likert scale was used to assess all scales. Based on Xiao and Xie (2007), ITC was measured with 22 items pertaining to basic IT applications, strategic positioning of IS in the organization, knowledge management, decision support, and man-machine synergy. Employing the work of Peng (2009), BPMC was assessed with nine items that focused on business process execution, business process management, business process flexibility, and customer satisfaction. Based on Lin et al. (2004), SCMC was measured with 25 items tapping supplier relationship management, supplier involvement in business processes and decision-making, and supplier selection. FP was assessed with 13 items focusing on market growth, financial performance, product/service innovations, and company reputation (Chan, Huff, & Barclay,1997). Shown in Table 1 is a sample of measurement items.
+Table 1. Sample items of study variables.
+IT capabilities (ITC)
+Items	Wording
+ITa1	Our company’s core enterprise IT applications are up-to-date when compared to peers
+ITb1	All basic enterprise data of are uniformly codified. There does not exist one object with multiple codes or multiple objects with same code
+ITc1	The information system effectively promotes management for the refinement and optimization of production
+ITd1	The information system effectively promotes management for the refinement and optimization of the operations of business units
+ITe1	IT department is part of the strategic core of our company
+ITf1	End users think that the enterprise information system is easy to use and operate
+Business process management capability (BPMC)
+Items	Wording
+Pa1	Our company passed the ISO audit and obtained qualification
+Pb1	Cross-department business process issues can be easily solved
+Pc1	When abnormal products/services occur, we can quickly identify the reasons and deploy appropriate ways and means to correct the situations
+Pc2	Our customers are satisfied with the business process
+Supply chain management capability (SCMC)
+Items	Wording
+SQM1	We strive to establish long term relationships with suppliers
+SQM2	Zero inventory management and the implementation of total quality management has decreased the number of suppliers
+SQM3	We evaluate selected suppliers in the order of quality, delivery performance, and the price
+SQM4	We select suppliers based on quality rather than price or delivery date
+SQM5	Our company has a comprehensive supplier evaluation system
+SQM6	Our suppliers actively participate in product/service design process
+SQM7	We rely on a few reasonable and reliable suppliers
+SQM8	Our company provides training for suppliers
+SQM9	Our company provides technical assistance to suppliers
+Firm performance (FP)
+Items	Wording
+Per1	Market share growth
+Per2	Income growth
+Per3	Sales growth
+Per12	The company’s reputation in the main user groups
+4.2. Data collection procedure
+We collected the data during the period of September 2009 and February 2010. We distributed the questionnaires in two different ways. First, we gave them on site to two MPM (Masters of Project Management) classes and one MBA class in the Business School in Sun Yat-Sen University in Guangzhou, China. One hundred and fifteen questionnaires were distributed and collected. Second, to reach those who had graduated, eighty-three questionnaires were sent to former EMBA, MBA, and MPM students. Forty-one questionnaires were returned. Eliminating the questionnaires with missing or incomplete data, we obtained a sample of 127 usable questionnaires. Tests for discrepancies (homogeneity of variances and ANOVA) revealed no significant difference (p < .05) between the responses of these two subsamples. Table 2 shows the descriptive statistics of the sample.
+Table 2. Descriptive statistics.
+N	(%)
+Management level
+•
+Top management
+
+•
+Middle level management
+
+•
+Project managers
+
+17
+81
+29	13.4
+63.8
+22.8
+Ownership
+•
+State owned or controlled
+
+•
+Foreign equity participation or controlled
+
+•
+Private owned
+
+59
+41
+27	46.5
+32.3
+21.2
+Total assets (in 00,000 RMB)
+•
+Greater than 40,000
+
+•
+Between 4000 and 40,000
+
+•
+Less than 4000
+
+70
+37
+20	55.1
+29.1
+15.8
+4.3. Results of the Kaiser–Meyer–Olkin measure (KMO) test of sampling adequacy
+and Bartlett’s test of sphericity are portrayed in Table 3. The KMO values for FP, BPMC, SCMC, and ITC are well above 80% (Kaiser, 1970). In addition, the significance of the four approximated Bartlett chi-square statistics approaches 0.000. Thus, the data are relevant and suitable for factor analysis (Bartlett, 1950).
+Table 3. Kaiser–Meyer–Olkin measure of sampling adequacy and Bartlett’s test.
+FP	BPMC	SCMC	ITC
+Kaiser–Meyer–Olkin measure of sampling adequacy	.875	.875	.856	.907
+
+Bartlett’s test of sphericity
+Approx. Chi-Square	894.27	336.04	480.57	857.78
+Degree of freedom	91	21	36	55
+Significance level	.000	.000	.000	.000
+Confirmatory factor analysis (CFA) was conducted on the collected data to construct variables. First, scale purification was undertaken based on the corrected item-total correlation (CITC) (Churchill, 1995). For a particular construct, the CITC score indicates an item's correlation with the sum of the other items in the construct. Theoretically, if all the items for a scale represent a single construct, they should all be highly inter-correlated. Hence, we eliminated any item with a CITC score less than 0.50. Second, individual items in the questionnaire were loaded to generate single variable constructs. Shown in Table 4 through 7 are the factor loadings for the constructs (using principal component analysis extraction method and Varimax with Kaiser Normalization rotation method).
+Table 4. Factor loadings and reliability for firm performance (FP).
+Constructs	Item	Component	CITC	Alpha
+(1)	(2)	(3)	(4)		
+Financial performance (1)	Liquidity	.858	–	–	–	.698	.909
+Cash flow	.731	–	–	–	.743
+ROS	.727	–	–	–	.753
+ROI	.690	–	–	–	.682	.881
+Net profit	.677	–	–	–	.709
+Market growth (2)	Sales growth	–	.890	–	–	.857
+Income growth	–	.843	–	–	.837
+Market share growth	–	.766	–	–	.765
+Innovation (3)	Product/service innovation	–	–	.884	–	.686	.813
+Business model innovation	–	–	.871	–	.686
+Firm reputation	Company reputation	–	–	–	.891	.999	.999
+Eigenvalues after rotation	3.139	2.726	1.856	1.085		
+Cumulative after rotation	28.54%	53.32%	70.19%	80.06%		
+As shown in Tables 4–7, items on each of the four constructs demonstrated sufficient reliability and construct validity. The cumulative model’s explanatory power was 80.06%, 76.70%, 70.85% and 65.35% for FP, BPMC, SCMC and ITC, respectively. Table 8 is the correlation matrix and discriminant validity results.
+Table 5. Factor loadings and reliability for BPMC.
+Constructs	Item	Component	CITC	Alpha
+(1)	(2)	(3)		
+Organizational control (3)	Professionalism	–	–	.945	.999	.999
+Process quality control (1)	Collaborative	.711	–	–	.621	.814
+Advanced	.818	–	–	.683
+Scientific	.826	–	–	.709
+Customer satisfaction (2)	Reliability	–	.693	–	.591	.781
+Flexibility	–	.734	–	.624
+Adaptivity	–	.868	–	.649
+Eigenvalues after rotation	2.231	2.017	1.121		
+Cumulative after rotation	31.87%	60.69%	76.70%		
+Table 6. Factor loadings and reliability for SCMC.
+Constructs	Item	Component	CITC	Alpha
+(1)	(2)	(3)		
+Supplier management (1)	Evaluation system	.609	–	–	.563	.720
+Technical support	.874	–	–	.549
+Detailed description	.579	–	–	.532
+Supplier evaluation (3)	Product design	–	–	.762	.621	.832
+Product plan	–	–	.822	.683
+Continuous improvement	–	–	.779	.709
+Supplier selection (2)	Timeliness of delivery	–	.851	–	.661	.779
+Shipping reliability	–	.854	–	.670
+Product quality	–	.592	–	.528
+Eigenvalues after rotation	2.503	2.075	1.799		
+Cumulative after rotation	27.81%	50.86%	70.85%		
+Table 7. Factor loadings and reliability for ITC.
+Constructs	Item	Component	CITC	Alpha
+(1)	(2)	(3)		
+Basic applications (1)	Technology advancement	.744	–	–	.729	.848
+Technology completeness	.738	–	–	.623
+Technology scalability	.727	–	–	.652
+Technology openness	.555	–	–	.577
+Technology security	.781	–	–	.680
+Data standards	.551	–	–	.530
+Management support (3)	Quality of operations support	–	–	.868	.694	.802
+Operation monitoring support	–	–	.640	.573
+Management support	–	–	.710	.681
+Scope of IS (2)	Strategy support of IT department	–	.687	–	.697	.869
+Range of IT integration		.725		.669
+Ease of use of IS	–	.776	–	.637
+Usefulness of IS	–	.738	–	.718
+Flexibility of IS	–	.810	–	.759
+Eigenvalues after rotation	3.501	3.320	2.328		
+Cumulative after rotation	25.01%	48.72%	65.35%		
+Table 8. Correlation matrix and discriminant validity.
+Mean	Stdev	FP	BPMC	ITC	SCMC
+PF	3.40	0.626	(.724)	–	–	–
+BPMC	3.36	0.628	.497*	(.731)	–	–
+ITC	3.28	0.686	.373*	.548*	(.682)	–
+SCMC	3.40	0.660	.535*	.614*	.485*	(.708)
+Discriminant validity is in brackets.
+
+
+*
+p < 0.01.
+4.4. Data analysis
+]]> <h target="2" match="full">We use two methods to test the mediation effects of internal business process and supply chain management capabilities on the relationship between IT and firm performance.</h> <![CDATA[ First, we use regression analysis and then the procedure offered by Baron and Kenny (1986).
+Regression
+
+The full regression model was as follows:
+(1)FP = α +β1 BPMC +β2 SCMC + β3 ITC + ϵ
+where
+FP = firm performance
+BPMC = business process management capability
+SCMC = supply chain management capability, and
+ITC = IT capability.
+Three sub-models with the following constraints were as follows:
+(2)Model 1 with β1 =β2 = 0: FP = α +β3 ITC + є
+(3)Model 2 with β2 = 0: FP = α +β1 BPMC +β3 ITC + є
+(4)Model 3 with β1 = 0: FP = α + β2 SCMC +β3 ITC + є
+If ITC was significant and positively correlated with firm performance in Model 1, but with the introduction of one or both of the management capabilities variables, the correlation became insignificant. ]]> <h target="3" match="full">This may be an indication that the management capabilities variables mediate the impact of ITC on firm performance.</h> <![CDATA[
+4.5. Baron and Kenny meditation model
+We use the procedure offered by Baron and Kenny (1986) to test the mediation effects. Consider a variable X that is assumed to affect another variable Y. The unmediated model is noted below.
+Unlabelled figure
+Download full-size image
+
+Path C is called the total effect, which may be mediated by a mediating variable M. The mediated model is as follows:
+Unlabelled figure
+Download full-size image
+
+Path c′ is called the direct effect. Complete mediation occurs when variable X no longer affects Y after M has been controlled; so, so path c' is reduced to zero. Partial mediation is when the path from X to Y is reduced in absolute size but is still different from zero after the mediator is controlled. The reduction of the effect of X on Y after controlling M, (c–c'), is called the indirect effect or the mediation amount. The test for the significance of the mediation effect is equivalent to the test for the null hypothesis that such effect is equal to zero (Sobel, 1982).
+
+]]></section>
+
+    <section name="Results" category="results"><![CDATA[
+5. Results
+First, the full and reduced regression models defined by models (1)–(4) were analyzed and results are shown in Table 9. ITC as a single variable is positively correlated with firm performance (Model 1). However, when one or both of the other two management capability variables are introduced into the equation, the coefficients of ITC become insignificant (Model 2, Model 3, and the Full Model). This indicates that the possibility of the impact of ITC on firm performance is mediated through the other variables.
+Table 9. Regression results of full and reduced models.
+Model 1
+β1 = β2 = 0	Model 2
+β2 = 0	Model 3
+β1 = 0	Full model
+β1	–	0.418***	–	0.243**
+β2	–	–	0.463***	0.352***
+β3	0.374***	0.144	0.149	0.070
+R2	0.140	0.262	0.303	0.335
+Adj. R2	0.133	0.250	0.292	0.319
+F	20.202***	21.93***	26.913***	20.673***
+**
+Significant at the 10% level.
+
+***
+Significant at the 1% level.
+
+To confirm the mediation effects, we used the approach proposed by Baron and Kenny (1986). The results are in Table 10. In the first model, firm performance and IT capability are correlated because the coefficient of 0.374 is significant (p < .01). In the second and third models, both business process and supply chain management capabilities are significantly correlated with IT capability (coefficients of 0.548 and 0.485, respectively).
+Table 10. Tests for mediation effects of business processes.
+FP = α + cITC + ϵ
+(1)	M = α + aITC + ϵ
+(M = BPMC)
+(2)	M = α + aITC + ϵ
+(M = SCMC)
+(3)	FP = α + c'ITC + bM + ϵ
+(M = BPMC)
+(4)	FP = α + c'ITC + bM + ϵ
+(M = SCMC)
+(5)
+α	.000	.000***	.000	.000	.000
+c	.374***	–	–		
+a	–	.548***	.485***		
+c'	–	–	–	−.168	−.031
+b				1.013***	.796***
+R2	0.140	.301	0.235	0.291	0.249
+F	20.202***	37.87***	38.42***	26.915***	21.921***
+***
+Significant at the 1% level.
+
+For the final two models, Models (4) and (5) in Table 10, we accounted for endogeneity, in which firms with higher performance might have higher levels of bigger SCMC or BPMC, by employing the two stage least square (2SLS) approach. The 2SLS ensures unbiasedness and consistency of the ordinary least (LS) estimation under the condition of endogeneity. In the first stage, we used SCMC as an instrumental variable (IV) for BPMC, and vice versa. In the second stage, we used the fitted values of BPMC and of SCMC for the fourth and fifth models in Table 10, respectively. The results show the correlations of FP with BPMC and SCMC are positive and significant, but the path c’s—or the correlations of ITC on FP controlling for BMPC or SCMC—are no longer significant. This establishes the total meditation effects of BPMC and SCMC on the relationship between ITC and FP, supporting both hypotheses H1 and H2.
+We further use the method proposed by Sobel (1982) to revalidate the results. We used SmartPLS2.0 to obtain a path analysis diagram depicted in Fig. 2. To test whether the mediation effect of BPMC or SCMC was significant, we calculated corresponding Z-statistics to for the mediation effects of both paths ITC–BPMC–FP (Z = 3.86) and ITC–SCMC–FP (Z = 4.07) and they were significant at 5% level. ]]> <h target="3" match="full">This confirms that both internal business process and supply chain management capabilities mediate the effect of IT capability on firm performance.</h> <![CDATA[
+Path analysis results
+Download full-size image
+Fig. 2. Path analysis results.
+
+]]></section>
+
+    <section name="Discussion" category="discussion"><![CDATA[
+6. Discussion
+Our results revealed that, when IT capability was the sole independent variable, its correlation with firm performance could be positive and significant. When we introduce process management and/or supply chain management capabilities in the model, the correlation disappeared. Various tests validated no direct correlation between ITC and firm performance. Our findings suggest that IT can create business value only through coherent integration of IT capability with a firm's capabilities to optimize business processes and to improve management of its supply chain. This is, in part, consistent with the argument by Cooper et al. (1997) that firms must be concerned with management, coordination, and optimization of supply chains to enhance performance and gain competitive advantage,. How to improve the quality of supply chain and synchronize supply chain seamlessly with business operations is a complex issue. In this situation, IT application can make an impact. IT provides effective coordinating tools for monitoring, managing, and optimizing supply chains. As a result, the integration of supply chain management and IT capability is one of the positive and significant drivers for improving firm performance. The fact that the coefficient of supply chain management capability is larger than that of internal business process management capability in the Full Model validates this argument.
+Despite the plethora of research, the quest for pragmatic ways to harness the business value of IT continues. This search is especially important for developing and emerging countries such as China, as a paucity of empirical work has examined the issue in this context. The present study has implications for both future theory development and management.
+
+6.1. Implications for future research
+]]> <h target="4" match="part">The current investigation provides avenues for further research regarding the IT-firm performance nexus. </h> <![CDATA[ First, although the process-based view calls for the need to examine the mediation effect of intermediate business processes on the impact of IT investment on firm performance, the present study adopted a new approach by promulgating that process management capabilities should be considered. In this study, two such capabilities were specified: internal business process management capability—representing internal operations management—and external supply chain management capability—representing external relationship management. Future research should consider other possible categories of management capabilities, such as customer relationship management capability.
+
+Second, a major limitation of the present investigation is that the data were solely from China. This may reduce the generalizability of the findings regarding other developing countries (because of their different characteristics). Another limitation is that the geographical representation in a Chinese context is constrained, as the data were obtained solely from firms in the highly developed Pearl River Delta area of China. Future research should be conducted in other countries and in the other parts of China to discern the generalizability of this study's findings. In addition to enhancing generalizability of this study, this future research effort can help further confirm the internal and external validities of the instrument used in this study.
+
+6.2. Implications for practice
+Findings from the present study have at least two important practical implications. First, IT capability alone does not directly improve firm performance. This may be the root of the “productivity paradox” in China and may explain why the operational performance and competitiveness of many Chinese companies have not improved despite multi-billion dollar investments in IT systems in recent years. If managers only see a positive association between IT application and firm performance, they could easily be misguided by believing that IT is a panacea for augmenting company performance. This false impression might well result in blindly pursuing a high level IT application, regardless of the operational and environmental conditions. This unrealistic quest for IT systems may cause duplication and waste of resources and eventually foster reduced organizational performance.
+
+Second, IT capabilities must match business processes before they can affect performance favorably. IT investments and applications, if not integrated with both internal business process and external supply chain management capabilities, are likely to represent an inefficient use of company resources. This study's findings demonstrate that IT investments and IT applications create value through other enterprise resources and elements. IT itself cannot directly create business value. IT applications influence firm performance through integration with business functions that improve operational process efficiency and facilitate management of operations of research and design, production, procurement, logistics, sales, and customer service. The optimal level of IT capability should be determined by the firm's objectives and operations. The primary focus of IT application should be on cultivating management talents and improving the quality of management.
+
+]]></section>
+
+    <section name="Conclusion" category="conclusion">
+7. Conclusion
+    <h target="1" match="full">Motivated by the conflicting results of business value of IT research in China, this study proposed a research model to re-examine how IT affects firm performance.</h> <![CDATA[ Conceivably, one of the reasons for prior inconsistent empirical results in China is because IT spending has been used as the main explanatory variable. The present research corrects this misspecification by using IT capability, instead. In addition, this study extends the process-based view of the value of IT by suggesting that in place of the processes themselves, management capabilities of both internal business processes and external supply chain mediate the relationship between IT capability and firm performance.Study results contribute to the continuing theoretical development to explain IT business value in developing countries. Using data collected from 127 firms in China, the results indicate that the business value of IT capability stems from its ability to enhance management capabilities of internal business processes and external supply chain first. The improved management capabilities then lead to improved firm performance.
+
+Improvement in company performance is a process affected by many factors. Study results show that when deliberating IT strategies for improving performance, management should take into consideration both internal business processes and external supply chain management. The viable approach to deploying IT is to make sure that IT capability is aimed at improving the management capabilities of both internal business processes and external supply chain. IT-enabled business process and supply chain efficiency should ultimately lead to improved firm performance.
+
+The present research makes a theoretical contribution to the ongoing efforts to reveal the business value of IT in developing economies. The future research endeavor in this area should take into consideration the impact of IT on business processes when attempting to establish the linkage between IT and firm performance. Future research may also want to consider other mediating factors, such as IT personnel, management support, and organizational culture.
+]]></section>
+</publication>

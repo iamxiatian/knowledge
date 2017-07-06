@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bibliographies>
+<BibliographiesCount>38</BibliographiesCount>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[从认知障碍角度探讨无障碍网络信息环境的设计]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[黄璐;孙祯祥;张家年;]]></FullName>
+<Organization><![CDATA[浙江师范大学教育学院,浙江师范大学教育学院,淮北煤炭师范学院教育系 浙江金华321004,浙江金华321004,安徽淮北235000]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[认知障碍;网络;信息环境;无障碍网络]]></Keyword>
+<Keyword Lang="en"><![CDATA[cognitive disability;network;information environment;accessible network]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[本文从构建和谐信息社会目的出发,分析了认知障碍人群的认知特征及网络需求,并把他们纳入网页设计目标群中,推荐一系列无障碍网页开发流程和无障碍的网页设计,为认知障碍人群创造一个信息公平的无障碍网络环境。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[764-766]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于P2P技术的信息检索]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[赵悦;陈凌晖;]]></FullName>
+<Organization><![CDATA[北京大学信息管理系,北京跟踪与通信技术研究所 北京100871,北京100094]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[信息检索;搜索技术;分布式哈希表]]></Keyword>
+<Keyword Lang="en"><![CDATA[information retrieval;retrieval technology;distributed Hash Table]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[本文从基于P2P搜索的发展动机和原理入手,提出了一种层次化分布式哈希表系统——PDHS模型。该系统按物理网络的远近把节点划分为多个组,使得节点动态加入和退出的影响局限在单个组中,具有良好的稳定性和扩展性,部分查询的性能优越,适合在广域范围部署P2P应用。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[847-850]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于查询语义树的语义查询扩展研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[黄名选;严小卫;]]></FullName>
+<Organization><![CDATA[广西教育学院数学与计算机科学系,悉尼理工大学信息技术学院 广西南宁530023,澳大利亚悉尼]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[查询扩展;信息检索;语义扩展]]></Keyword>
+<Keyword Lang="en"><![CDATA[query expansion;information retrieval;semantic expansion]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[本文主要研究了查询语义树的生成策略、用户查询语义的提取机制,以及查询语义树中语义边界的确定方法。通过查询语义树产生候选扩展词,再计算候选扩展词与所有查询项在初检局部文档集合中的共现度,用以评估扩展词质量,使得扩展词与用户查询所蕴涵的主题具有较强的语义相关性。实验结果表明,与传统向量空间模型检索算法比较,查询性能有明显的改善。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[844-846+832]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于改进的SVM文本分类建模]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[刘秀松;]]></FullName>
+<Organization><![CDATA[山东理工大学图书馆 山东淄博255049]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[云模型;支持向量机;文本分类]]></Keyword>
+<Keyword Lang="en"><![CDATA[cloud model;SVM;text categorization]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[SVM是一种新的分类工具,可是其核函数在数学上必须满足Mercer条件,使得具有良好全局分类性能的Sigmoid函数在SVM中应用受到限制。本文将Sigmoid核函数与云模型相结合,提出一种简单的核函数的实现方法。此方法不仅提高了SVM文本分类能力,而且明显地减少了平均的CPU执行时间。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[841-843]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[范例推理在文本自动分类中的应用研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[耿焕同;李杰;]]></FullName>
+<Organization><![CDATA[南京信息工程大学计算机与软件学院,安徽师范大学计算机系 江苏南京210044安徽师范大学计算机系,安徽芜湖241000,安徽芜湖241000]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[推理;文本分类;聚类]]></Keyword>
+<Keyword Lang="en"><![CDATA[inference;text classification;clustering]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[文本自动分类是文本信息处理中的一项基础性工作。将范例推理应用于文本分类中,并利用词语间的词共现信息从文本中抽取主题词和频繁词共现项目集,以及借助聚类算法对范例库进行索引,实现了基于范例推理的文本自动分类系统。实验表明,与基于TFIDF的文本表示方法和最近邻分类算法相比,基于词共现信息的文本表示方法和范例库的聚类索引能有效地改善分类的准确性和效率,从而拓宽了范例推理的应用领域。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[837-840]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[和谐社会的信息生态构建研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[王伟赟;张寒生;]]></FullName>
+<Organization><![CDATA[铜陵学院,铜陵学院 安徽铜陵244000,安徽铜陵244000]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[和谐社会;信息生态;信息生态系统;生态失调]]></Keyword>
+<Keyword Lang="en"><![CDATA[harmonious society;information ecology;information ecosystem;ecological imbalance]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[党的十六届四中全会提出了构建社会主义和谐社会这一重大论题。本文从信息生态的角度阐述了如何通过构建平衡的信息生态系统来推动和谐社会的建设。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[728-730]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[科学信息开放获取的可持续发展探究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[黄凯文;]]></FullName>
+<Organization><![CDATA[广州中医药大学图书馆 广东广州510405]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[开放获取;学术传播;可持续发展;开放仓储]]></Keyword>
+<Keyword Lang="en"><![CDATA[Open Access;academic communication;sustainable development;open warehouse]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[从开放获取的含义及其技术机制入手,分析我国科学信息开放获取运动的发展现状与存在的问题,探讨我国可持续发展的相应对策。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[760-763]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[信息生态链中的信息流转]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[娄策群;周承聪;]]></FullName>
+<Organization><![CDATA[华中师范大学信息化与信息资源管理研究中心,华中师范大学信息化与信息资源管理研究中心 湖北武汉430079,湖北武汉430079]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[信息生态链;信息流转;模型;理论研究]]></Keyword>
+<Keyword Lang="en"><![CDATA[information ecochain;information circulation;model;theoretical study]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[信息生态链是信息生态系统中不同信息人种之间信息流转的链式依存关系。本文分析了信息生态链中信息流转的方式、模型和效率。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[725-727]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[科技情报工作需要尽快摆脱“非常态”]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[池建文;顾小放;]]></FullName>
+<Organization><![CDATA[中国船舶信息中心,中国船舶信息中心 北京100085,北京100085]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[科技情报;科技情报工作;常态;非常态]]></Keyword>
+<Keyword Lang="en"><![CDATA[STI;STI service;normality;abnormality]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[本文从系统分析的角度,认为我国科技情报工作自20世纪80年代末以来进入非常态。当前国防科技情报工作虽有好转,但尚没有完全摆脱这种状态。文章剖析了导致科技情报工作失常的3个主要原因,指出情报观念的异化是当前的主导原因,并据此提出使科技情报工作摆脱非常态的3个切入点,即在理论和实践上科学界定和准确把握科技情报及其功能定位、科技情报机构职能定位、科技情报系统及工作价值定位3个问题。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[721-724]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[《军事信息资源分类法》应用辨析]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[傅亮;]]></FullName>
+<Organization><![CDATA[国防大学图书馆 北京100091]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[军事信息资源分类法;创新;网络信息资源;分类标引;分类导航]]></Keyword>
+<Keyword Lang="en"><![CDATA[military information resources classification;innovation;network information resources;classified indexing;classified navigation]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[本文基于《军事信息资源分类法》在军事理论科学数字图书馆中的实践应用,针对4个主要创新点,经过统计分析,验证了它的优点和先进性,并指出了不足,提出了改进建议。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[825-828]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[4种期刊评价工具的比较研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[田昊;贾玉文;]]></FullName>
+<Organization><![CDATA[辽宁师范大学管理学院,辽宁师范大学管理学院 辽宁大连116029,辽宁大连116029]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[期刊;比较分析;评价工具]]></Keyword>
+<Keyword Lang="en"><![CDATA[journal;comparative analysis;evaluation tool]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[本文简要介绍了《中文核心期刊要目总览》、《中国科技期刊引证报告》、《中国学术期刊综合引证报告》和中国科学引文数据库这4种目前在国内使用比较广泛的核心期刊评价工具,并从评价方法、来源期刊、学科分类、计量指标和网络服务等5个方面对这4种期刊评价工具进行了比较。在比较分析的基础上探讨了期刊评价工具未来的发展。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[821-824]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[《情报理论与实践》2007年目次索引]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> </Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[目次索引;理论与实践;元数据标准;政策法规建设;网络信息环境;学科化;信息服务创新;知识组织;图书采访;电子资源利用;]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[<正>~~]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[862-864]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[重视“研究方法”的教学——基于中外情报学“研究方法”教学的比较]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[李晓菲;陈欣;徐涓;龙甜恬;]]></FullName>
+<Organization><![CDATA[同济大学经济与管理学院,同济大学经济与管理学院,同济大学经济与管理学院,同济大学经济与管理学院 上海200439,上海200439,上海200439,上海200439]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[情报学;课程设置;方法论]]></Keyword>
+<Keyword Lang="en"><![CDATA[information science;curriculum provision;methodology]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[科学方法是实现科学认识的根本,一个完整的科学认识,必定是科学认识主体的探索性、创造性与科学方法灵活运用的结果,而其中科学方法尤为重要。没有科学方法论的指导,真正的科学发展是不可能实现的。中外情报学教学中关于研究方法的内容设置不尽相同,国外大多将研究方法的教学内容集中设课,而国内的做法基本上是将研究方法的内容分散在情报学的各门课程以及各个教学环节中,做法的差异发人深思。本文试图从中外不同的方法论史观、情报学的综合性学科属性、情报学本身研究方法的不足等3个方面对这种集中与分散的课程设置现象进行讨论。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[816-820]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[h指数评价期刊的有效性分析]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[刘银华;]]></FullName>
+<Organization><![CDATA[上海大学图书馆 上海200444]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[影响因子;分析;期刊;h指数]]></Keyword>
+<Keyword Lang="en"><![CDATA[impact factor;analysis;journal;h-index]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[本文对2003年我国被SCI收录的部分科技期刊的影响因子和h指数排名及其变化情况进行统计分析,结果发现h指数有其独立性,有其特质。在对期刊质量进行评价时,h指数是对影响因子的一种有益补充工具。同时,本文提出一种新的指数k,可以用来分析期刊的发展趋势。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[809-811+815]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[Web环境下联盟型图书馆联合单点登录模型研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[焦允;周九常;]]></FullName>
+<Organization><![CDATA[郑州航空工业管理学院信息科学系,郑州航空工业管理学院信息科学系 河南郑州450015,河南郑州450015]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[图书馆;联盟图书馆;网络环境;单点登录]]></Keyword>
+<Keyword Lang="en"><![CDATA[library;Library union;network environment;single sign-on]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[对Web环境下联盟型图书馆的单点登录模型进行了研究。首先分析了两种主流的单点登录模型,然后对两者取长补短,提出一种新的Web环境下的联合单点登录模型,最后以用户登录、站点间跳转两种典型情况为例论证了该模型的认证过程,为联盟型图书馆知识共享系统的实现提供了有益的补充。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[805-808]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[合并院校图书馆复合型文献信息资源建设调查研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[王湘云;沈辉;杨兆美;丁丽珊;李向玲;]]></FullName>
+<Organization><![CDATA[大理学院图书馆,大理学院图书馆,大理学院图书馆,大理学院图书馆,大理学院图书馆 云南大理671003,云南大理671003,云南大理671003,云南大理671003,云南大理671003]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[图书馆;文献;信息资源整合]]></Keyword>
+<Keyword Lang="en"><![CDATA[library;document;information resources integration]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[通过对大理学院图书馆及部分具有代表性图书馆文献资源建设与利用现状调查,得出复合型图书馆的形成和发展是社会进步的必然。作为复合型图书馆形成要素之一的复合型文献资源建设,是复合图书馆为读者服务的重要的物质基础,其建设质量的优劣将直接影响着教学、科研工作和读者的满意程度。因此,合并院校图书馆如何在复合型图书馆状态下,根据本校特点及发展趋势,开展充分调查研究,制定出一套科学合理的、适合本校发展需要的复合型文献信息资源建设的理论依据和建设体系,使馆藏文献信息资源更好地服务于教学、科研和广大读者,具有重要的现实意义。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[800-804]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[区域图书馆联合体的建设内容探析]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[曹志梅;]]></FullName>
+<Organization><![CDATA[徐州师范大学图书馆 江苏徐州221116]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[图书馆;信息资源;信息共享]]></Keyword>
+<Keyword Lang="en"><![CDATA[library;information resources;information sharing]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[区域图书馆联合体是共处同一区域内、分属不同系统图书馆的信息资源共享新模式。构建区域图书馆联合体,可以发挥不同类型图书馆合作共享后的综合实力,实现优势互补,体现区域特色,促进图书馆事业的区域整体发展。本文拟就信息资源、人力资源、管理资源等对区域图书馆联合体的建设内容作进一步的分析和探讨,以期为区域图书馆联合体的建设提供理论参考依据。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[797-799]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[图书现场采购存在的问题与对策]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[牛振恒;]]></FullName>
+<Organization><![CDATA[安徽科技学院图书馆 安徽凤阳233100]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[图书馆;文献采购;现场采购;分析]]></Keyword>
+<Keyword Lang="en"><![CDATA[library;document purchase;on-the-spot purchase;analysis]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[图书馆图书现场采购已经是大势所趋,但并不是皆大欢喜的最佳方式。文章在分析了图书馆现场采购中存在的不利于馆藏建设的一些问题的基础上,结合实践提出了控制策略。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[794-796]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[用户信息需求的诊断方法研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[赵伯兴;李利方;]]></FullName>
+<Organization><![CDATA[上海大学图书馆,上海大学图书馆 上海200444,上海200444]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[信息用户;信息需求;用户研究;诊断方法]]></Keyword>
+<Keyword Lang="en"><![CDATA[information user;information demand;user study;diagnostic method]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[论文在研究诊断用户信息需求的价值取向、需求内容和需求行为等相关内容的基础上,提出了构建用户信息需求模型、建立知识交流网络、营造信息供需交互的桥梁等诊断用户信息需求的方法。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[791-793+804]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[CNKI“好”资源利用的信息构建影响分析]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[甘利人;刘丽娟;白晨;]]></FullName>
+<Organization><![CDATA[南京理工大学经济管理学院信息管理系,南京理工大学经济管理学院信息管理系,南京理工大学经济管理学院信息管理系 江苏南京210094,江苏南京210094,江苏南京210094]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[数据库;信息构建;信息检索;跨库搜索;CNKI]]></Keyword>
+<Keyword Lang="en"><![CDATA[database;IA;information retrieval;cross database search;CNKI]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[在知识服务向纵深发展的今天,CNKI数据库网站推出了很多好资源,然而这些好资源是否被用户所认识、所利用,应该是CNKI数据库开发商需要关注的。本文试图从信息构建(IA)的视角来考察CNKI数据库网站好资源的利用状况,由此揭示IA对其产生的影响作用。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[778-782]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[Web2.0环境下图书馆信息服务创新之基础探究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[杨思洛;默秀红;]]></FullName>
+<Organization><![CDATA[湘潭大学管理学院,河北政法职业学院图书馆 湖南湘潭411105,河北石家庄050061]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[Web2.0;信息服务;图书馆;创新]]></Keyword>
+<Keyword Lang="en"><![CDATA[Web2.0;information service;library;innovation]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[对Web2.0环境下图书馆信息服务创新从宏观、理论的层次作了较深入的探讨。构建信息服务创新的总体思路模型;阐述信息服务创新的动因;最后,论述Web2.0环境下图书馆信息服务创新的理论基础。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[767-771]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[中文DOI应用现状及建设构想]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[赵蕴华;]]></FullName>
+<Organization><![CDATA[中国科学技术信息研究所 北京100038]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[数字对象唯一标识;唯一标识符;数字期刊]]></Keyword>
+<Keyword Lang="en"><![CDATA[DOI;unique identifier;digital periodical]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[本文阐释了DOI产生的背景以及现阶段DOI在国外应用的状况,详细介绍了西文DOI应用平台CrossRef的工作原理、运营机制及主要功能。从信息资源共享的角度阐述了目前中文DOI存在的主要问题,以及建立中文DOI应用平台的必要性、目的和意义。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[855-857]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[新型搜索引擎畅想]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[黄建年;]]></FullName>
+<Organization><![CDATA[南京财经大学图书馆,南京农业大学人文学院 江苏南京210095,,江苏南京210046]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[搜索引擎;聚类检索;知识发现]]></Keyword>
+<Keyword Lang="en"><![CDATA[search engine;cluster search;knowledge discovery]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[本文认为在网络世界将会出现9种新型的搜索引擎,它们分别是零次文献搜索引擎、潜在文献搜索引擎、知识发现搜索引擎、大型元搜索聚类引擎、专业学术型聚类引擎、学术趋势搜索引擎、概念类比联想搜索引擎、解疑答难型搜索引擎和教学研究平台搜索引擎。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[851-854]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[我国图书馆、情报与档案管理学科的研究现状——基于2000—2006年国家社会科学基金和自然科学基金立项的分析]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[杨荔媛;朱庆华;]]></FullName>
+<Organization><![CDATA[南京大学信息管理系,南京大学信息管理系 江苏南京210093,江苏南京210093]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[图书馆学;情报学;档案学;学科发展;研究现状]]></Keyword>
+<Keyword Lang="en"><![CDATA[library science;information science;archival science;disciplinary development;research status]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[以图书馆、情报与档案管理一级学科2000年以来的国家社会科学基金和自然科学基金项目为研究对象,从项目数量、项目类型、负责人及其单位、项目主题等方面进行了全面系统的比较分析,在此基础上探讨该学科的研究现状,并预测其未来走势,以期能对该学科的研究有一定的参考和启示作用,达到促进学科建设和发展的目的。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[756-759+724]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[政府信息公开的成本效用分析]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[丁波涛;]]></FullName>
+<Organization><![CDATA[上海社会科学院信息研究所 上海200235]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[政府信息公开;成本效用;信息经济学]]></Keyword>
+<Keyword Lang="en"><![CDATA[government information publicity;benefit & cost;economics of information]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[本文采用微观经济学中的成本—效用工具,构造了政府信息公开的成本效用模型,并以此模型为基础,分析了政府信息公开中的信息收费、信息寻租、外部效用和市民的机会成本等问题。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[745-749]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[公共危机信息传递的哲学阐释学基础]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[王伟;靖继鹏;]]></FullName>
+<Organization><![CDATA[吉林大学公共卫生学院医药信息与卫生管理系,吉林大学管理学院信息管理系 吉林长春130021,吉林长春130022]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[公共危机;信息传递;阐释学;危机管理]]></Keyword>
+<Keyword Lang="en"><![CDATA[public crisis;information transfer;hermeneutics;crisis management]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[本文在阐明哲学阐释学基本观点的基础上,对公共危机信息利益相关者进行了分析,运用哲学阐释学理论,着重分析和探讨了公共危机信息传递中基于理解的视域融合及其在危机管理中的应用。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[742-744]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[学习型网络信息素质教育平台的研发]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[彭奇志;]]></FullName>
+<Organization><![CDATA[江南大学 江苏无锡214122]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[信息素质;教育;网络平台;信息系统]]></Keyword>
+<Keyword Lang="en"><![CDATA[information literacy;education;network platform;information system]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[对信息素质网络教育平台进行了系统需求分析,介绍了平台开发技术,探讨了学习理论基础及3种Web教学模式,并设计了4个子系统:信息检索技能子系统、信息意识与道德子系统、信息分析与组织子系统以及平台管理子系统。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[812-815]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[浅析《信息网络传播权保护条例》中有关图书馆数字作品合理使用规范]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[欧宁;真溱;]]></FullName>
+<Organization><![CDATA[中国国防科技信息中心,中国国防科技信息中心 北京100036,北京100036]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[图书馆;数字作品;合理使用;规范]]></Keyword>
+<Keyword Lang="en"><![CDATA[library;digital works;fair use;specifications]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[本文把握著作权法利益平衡的价值精髓,分析了《信息网络传播权保护条例》有关图书馆数字作品合理使用的条款的特点和立法内涵,并从法理学的角度深入研究了这些规定的合理性,力图为图书馆工作者在建设数字图书馆的工作中依法处理版权问题提供一定的参考。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[775-777+771]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[数据挖掘中的隐私保护:法律与技术]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[丁楠;潘有能;]]></FullName>
+<Organization><![CDATA[浙江大学公共管理学院信息资源管理系,浙江大学公共管理学院信息资源管理系 浙江杭州310028,浙江杭州310028]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[数据挖掘;隐私权;技术;法律]]></Keyword>
+<Keyword Lang="en"><![CDATA[data mining;right of privacy;technology;law]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[简要介绍了隐私权与隐私保护,讨论了数据挖掘与隐私权的冲突,并对目前国际上主要的隐私保护条例在数据挖掘隐私保护中的应用进行了探讨,针对我国国情提出了目前应当采取的措施。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[772-774+752]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[试谈著作权本体构建]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[孙丽娜;贾君枝;]]></FullName>
+<Organization><![CDATA[山西大学管理学院,山西大学管理学院 山西太原030006,山西太原030006]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[本体;著作权;权利;合同]]></Keyword>
+<Keyword Lang="en"><![CDATA[Ontology;copyright;right;contract]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[本文以数字化产权本体IPROnto为参照,考虑到我国知识产权法的特点,将著作权本体的构建任务分为三部分,即创作模块、权利模块、行动模块进行阐述,以期设计出适合我国的著作权本体。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[829-832]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[企业反竞争情报的控制分析]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[孙晓军;]]></FullName>
+<Organization><![CDATA[苏州大学社会学院 江苏苏州215123]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[反竞争情报;商业秘密;企业管理]]></Keyword>
+<Keyword Lang="en"><![CDATA[defense competitive intelligence;trade secret;enterprise management]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[本文从反竞争情报的概念出发,简要介绍了合作竞争环境下反竞争情报的特点以及企业开展反竞争情报的必要性,并从控制论的角度对企业反竞争情报进行了简要的分析,希望对企业的反竞争情报工作有所借鉴。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[753-755]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[利用群众智慧的竞争情报含义]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[陈峰;]]></FullName>
+<Organization><![CDATA[中国科学技术信息研究所 北京100038]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[竞争情报;竞争情报价值;企业文化]]></Keyword>
+<Keyword Lang="en"><![CDATA[competitive intelligence;competitive intelligence value;corporation culture]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[能否取得广大群众的理解和支持是能否取得竞争情报预期成效的重要问题。本文从建立接受竞争情报的企业文化、竞争情报需求识别、竞争情报收集、竞争情报价值实现4个方面,介绍了利用群众智慧的竞争情报含义,认为只有充分利用群众智慧才能开展高水平的竞争情报工作。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[750-752]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[企业知识网络探析]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[马德辉;包昌火;]]></FullName>
+<Organization><![CDATA[中国人民公安大学公安情报学系,中国兵器工业集团第210研究所 北京100038,北京100089]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[知识管理;知识网络;社会网络;知识网络能力]]></Keyword>
+<Keyword Lang="en"><![CDATA[knowledge management;knowledge network;social network;knowledge network capability]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[本文从社会经济视角对知识网络的典型观点进行梳理,归纳出知识网络的一般概念并界定了企业知识网络的含义;分析了企业知识网络的特点及其存在形式;并将知识网络视为企业拥有的一项基本的动态能力,能力层面是企业知识网络的本质所在。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[737-741]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[企业协同知识管理框架构建与策略研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[沈丽宁;]]></FullName>
+<Organization><![CDATA[武汉大学信息资源研究中心 湖北武汉430072]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[企业;知识管理;框架;策略;实施流程]]></Keyword>
+<Keyword Lang="en"><![CDATA[enterprise;knowledge management;framework;policy;implementary process]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[首先从现实基础和技术基础两个角度引出企业协同知识管理,分析了它的战略目标定位和基于战略目标的4个构成要素,探讨了企业协同知识管理实施的3个策略,最后提出其实施流程和保障机制。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[833-836]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[试论我国知识型服务业的基础设施建设]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[申静;孙荣;]]></FullName>
+<Organization><![CDATA[北京大学信息管理系,北京大学信息管理系 北京100871,北京100871]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[知识型服务业;知识基础设施;知识管理;中国]]></Keyword>
+<Keyword Lang="en"><![CDATA[knowledge intensive business services;knowledge infrastructure;knowledge management;China]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[通过论述知识型服务业在国家创新体系中的重要地位和作用,阐述了建设我国知识型服务业基础设施的重要性和必要性,并提出了建设框架和发展措施。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[783-786]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[知识审计在企业核心竞争力识别中的应用]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[盛小平;刘泳洁;]]></FullName>
+<Organization><![CDATA[吉首大学信息资源研究所,吉首大学信息资源研究所 湖南吉首416000北京大学信息管理系,北京100871,湖南吉首416000]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[知识审计;核心竞争力;企业;应用研究]]></Keyword>
+<Keyword Lang="en"><![CDATA[knowledge audit;core competence;enterprise;application study]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[知识审计是知识管理战略的第一步,有助于系统地挖掘企业和个人的竞争优势,分析企业在构建核心竞争力方面存在的弱势与威胁,为最终确立企业核心竞争力战略提供必不可少的支撑。本文提出一种基于知识审计的企业核心竞争力识别模型。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[787-790]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[国内外知识管理流程研究述评]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[储节旺;郭春侠;陈亮;]]></FullName>
+<Organization><![CDATA[安徽大学管理学院,安徽大学管理学院,安徽大学管理学院 安徽合肥230039,安徽合肥230039,安徽合肥230039]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[知识管理;知识管理流程;述评]]></Keyword>
+<Keyword Lang="en"><![CDATA[in their viewpoints;concludes that knowledge management process has 5 main steps.The paper further analyzes the characteristics of the different models of knowledge management process both at home and abroad;and gives a comment on them from the following aspects;i.e.organizational environment;level ...]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[知识管理流程已成为知识管理研究的重要领域之一。本文从知识管理的内涵角度论述并比较了国内外知识管理者对知识管理流程的不同理解,通过词频统计出观点中流程环节的数量,总结出知识管理流程的5个主要环节;进一步比较分析了国内外学者各具特色的知识管理流程模型,并从组织环境、知识管理层次、流程构成、知识管理4个方面进行了评析。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[858-861]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[知识计量单元的比较与评价研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[文庭孝;]]></FullName>
+<Organization><![CDATA[中国科学院科技政策与管理科学研究所 北京100080]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[知识管理;知识计量;知识评价]]></Keyword>
+<Keyword Lang="en"><![CDATA[knowledge management;knowledge measure;knowledge evaluation]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[知识计量单元是进行知识计量与评价的基础,知识计量与评价就是要通过对确定有效的知识计量单元进行处理以便对知识进行独立、自由、有效识别、处理与组合,达到知识服务、知识发现和知识创新的目的。随着知识计量与评价的发展,知识计量单元的发展也经历了从文献计量单元到信息计量单元既而到知识计量单元的演变过程。本文从知识计量单元的演变及其关系出发,对3种不同类型的知识计量单元进行了比较与评价。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[731-736]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+</Bibliographies>

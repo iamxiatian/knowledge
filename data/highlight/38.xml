@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<publication marker= "yu miao">
+    <journal>International Journal of Information Management</journal>
+    <time>Volume 36, Issue 3, June 2016, Pages 284-296</time>
+International Journal of Information Management
+    <title> Defining key drivers of online impulse purchasing: A perspective of both impulse shoppers and system users</title> 
+    <author>Ing-Long Wu</author>. Author links open the author workspace.Opens the author workspaceOpens the author workspace
+    <author>Kuei-Wan Chen</author>. Author links open the author workspace.
+    <author>Mai-Lun Chiu</author>. Author links open the author workspace.
+Department of Information Management, National Chung Cheng University, Taiwan
+Show more
+    <doi>https://doi.org/10.1016/j.ijinfomgt.2015.11.015</doi>Get rights and content
+Highlights
+•
+    <highlight id="1">Online impulse purchasing is an important part of online shopping.</highlight>
+•
+    <highlight id="2">Online impulse buyers are both the roles of shoppers and users in a virtual store.</highlight>
+•
+    <highlight id="3">Three concerns arise for individual psychological state, technology use, and trust belief.</highlight>
+•
+    <highlight id="4">This study proposes a model with the three issues, flow, website quality, and trust.</highlight>
+•
+    <highlight id="5">The three issues well predict impulse buying behavior as flow also plays a key mediator.</highlight>
+
+Abstract
+    <abstract>  <h target="1" match="part">With the proliferation of e-commerce, a large part of online shopping is attributed to impulse buying. </h><![CDATA[Hence, there is a particular necessity to understand impulse buying in the online context. Impulse shoppers incline to feel unable to control their tendencies and behaviors from various stimuli. ]]><h target="2" match="part">Specifically, online consumers are both the impulse shoppers and the system users of websites in the purchase process. </h><![CDATA[Impulse shoppers concern individual traits and system users cover the attributes of online stores. Online impulse buying therefore entails two key drivers, technology use and trust belief, and the mediator of flow experience. ]]><h target="4" match="part">Grounding on flow experience, technology-use features, and trust belief, this study proposes a novel research model to examine impulse buying behavior in a complete manner. </h><![CDATA[Data were collected from an online survey. Data analysis considers structural equation modeling technique with formative structure. Empirical results showed that flow experience is an important factor to affect impulse buying from its original drivers. Trust belief is also critical to impulse buying as perceived usefulness is not. Implications for managers and scholars are further discussed.]]></abstract>
+
+Keywords
+    <keywords>Online shopping</keywords>
+    <keywords>Impulse buying</keywords>
+    <keywords>Flow experience</keywords>
+    <keywords>Technology useTrust</keywords>
+    <section name="Introduction" category="introduction">
+        <![CDATA[
+1. Introduction
+Shopping is considered as an important part of our regular life. However, many purchases may be unplanned and even sudden while they are often initiated on the spot and are greatly associated with strong desire and feelings of pleasure and excitement. This kind of purchasing is generally known as impulse buying. ]]><h target="1" match="part">A high proportion of 40% of online consumers considers themselves as impulse shoppers </h><![CDATA[(Verhagen & van Dolen, 2011; Liu, Li, & Hu, 2013). Many online vendors have been attempting to understand online impulse buying for providing greater opportunities to attract and retain customers. Thus, the purpose of this study is trying to answer the question of what are the important contextual drivers that lead to occurrence of online impulse buying.
+In essence, impulse shoppers tend to feel unable to control their tendencies and inherent behaviors from merchandising stimuli of visiting online stores (Wells, Parboteeah, & Valacich, 2011b). ]]><h target="2" match="part">Specifically, online customers are both the impulse shoppers and the system users of websites in the purchase process since the involved task for consumers attempts to perform online shopping through the operations of using a website system. </h><![CDATA[For the impulse shopper perspective, online consumers involve an individual psychological state of sudden and unplanned behavior toward a purchase decision process, which is often obscure and hard to understand (Floh & Madlberger, 2013). For the system user perspective, online consumers is a web system user for performing/interacting with all functions of an e-store in terms of searching and finding relevant product information, accomplishing payment mechanism, and tracking product delivery. Thus, web-technology use and trust belief on e-stores are two important concerns for online impulse buying (Wu, Li, & Fu, 2011; Wu, 2013). These concerns are important to determine consumer’s online impulse buying.
+Further, previous studies have suggested various perspectives to understand online impulse buying behavior. First, some studies have indicated shopping enjoyment as a mediator for the target of online impulse buying behavior from the drivers of a website’s usefulness for shopping task (cognitive) and a website's interaction experience (affective) (Koufaris, 2002; Parboteeah, Valacich, & Wells, 2009). Next, others have emphasized the importance of e-store features (content, design, and navigation) as the antecedents of driving online impulse buying behavior through a mediator of affective perception, shopping enjoyment (Floh & Madlberger, 2013).
+In sum, these studies have similarly focused on consumer’s hedonic value to examine online impulse buying behavior in terms of a relationship structure of considering individual affective perception as an important mediator for achieving this behavior from the drivers of e-store use and trust belief. In fact, individual affective perception is an emotional presentation of a consumer’s psychological state in the online impulse buying. However, these studies are similar in a lack of considering trust belief as an important element in the online impulse buying as it has been widely concerned in terms of virtual stores (Kim, Ferrin, & Rao, 2009; Fang, Chiu, & Wang, 2011). While these studies have extended our knowledge of online impulse buying, they seemed to be either incomplete or fragmental in examining the whole picture of online impulse buying regarding the above argument, that is, online consumes are both the roles of the impulse shoppers and the system users of e-stores in the purchase process.
+Accordingly, the above discussions lead us to propose a complete model with the two issues for the key drivers, technology use and trust issue, and a mediator of psychological state issue, to provide deep insight into the target of online impulse buying behavior. In the psychological state issue, flow experience has been widely used to capture the emotional reactions or motivations of consumers toward online shopping, in general (Lu, Zhou, & Wang, 2009; Lin, Fernandez, & Gregor, 2012). Both intrinsic and extrinsic motivations are usually the major drivers to enable online buying behavior. Thus, intrinsic challenges and external web skills are the key antecedents in formulating flow experience adapted in this study. Further, flow experience is defined as three sub-constructs, concentration, perceived control, and perceived enjoyment (Jiang & Benbasat, 2005; van Noort, Voorveld, & Van Reijmersdal, 2012).
+In the technology use issue, previous studies on this issue have mainly focused on the feelings of user’s interaction with a website, such as pleasantness, visual appeal, navigability, or security (Luo, Ba, & Zhang, 2012; Floh & Madlberger, 2013). These characteristics can be defined as website design. In fact, a post-adoption behavior, perceived usefulness (PU), indicates the extent to which online users believe that shopping productivity will be improved by using a particular website (Shen & Khalifa, 2012). Further, website design (an initial-adoption cognition) has a link to PU (a post-adoption cognition) for their relationship (Gefen, Karahanna, & Straub, 2003a; Wu, 2013). In the trust belief issue, it plays a belief role in enhancing consumer’s willingness to transact with e-vendors (Hu, Wu, Wu, & Zhang, 2010). Many studies have shown the linkage of trust to PU (Gefen, Karahanna, & Straub, 2003b; McCloskey, 2006). Trust belief further defines itself as three sub-constructs, benevolence, competence, and integrity (Wang & Benbasat, 2005; Palvia, 2009).]]>
+</section>
+
+    <section name="lLiterature review and hypotheses development" category="background">
+        <![CDATA[
+2. Literature review and hypotheses development
+Based on the above discussion, Fig. 1 provides a pictorial depiction of this research model. It includes three major components, technology concern, flow experience, and trust belief. Theory of planned behavior (TPB) also provides an overarching theoretical basis to develop the three components, technology use, flow experience, and trust, in this research model as it defines three similar components, attitude, perceived behavioral control, and subjective norm, for a behavior (Ajzen, 1991; Venkatesh, Thong, & Xu, 2012). This can be explained specifically by Decomposed TPB (DTPB) as it further expands the three components for IT usage behavior (Taylor & Todd, 1995; Hsieh, 2015). Attitude is extended to include perceived usefulness and perceived ease of use for a technology-based concern. Perceived behavioral control is expanded to include self-efficacy and self-feelings of resource facilitating conditions for an individual recognition. Subjective norm is decomposed to include peer influence and superior influence for a social exchange or trust belief issue. Based on the description, DTPB implies that attitude in a similarity with a concern of technology use, perceived behavioral control in a similarity with individual state of flow experience, and subjective norm in a similarity with self-recognition of trust belief. The following discusses the theoretical foundations of this model and the development of hypotheses.
+Research model
+Download full-size image
+Fig. 1. Research model.
+2.1. Online impulse buying
+Impulse buying refers to when a consumer experiences a sudden, often powerful and persistent, urge to buy something immediately (Liu et al., 2013). Impulse buying often results from a specific stimulus during the shopping (Floh & Madlberger, 2013). The stimulus can be an actual product or the extrinsic attributes of a product, such as searching mechanisms and product information.
+In general, impulse buying is influenced by a variety of economic position, personality, time pressure, social visibility, location, and even cultural factors (Yu & Bastin, 2010). From a psychological view, impulse buying is sometimes irresistible because the onset of a psychological impulse usually occurs not only spontaneously but also suddenly (Piyush, Bharadhwaj, & Roger, 2010). Often, highly impulsive buyers are more likely to experience spontaneous buying and their shopping lists are more open for unexpected buying purpose (Park, Kim, Funches, & Foxx, 2012). In particular, many studies have emphasized the role of impulsiveness in online buying (Liu et al., 2013; Floh & Madlberger, 2013). Liu et al. (2013) examined how the website features (product availability, visual appeal, and ease of use) influence individual traits (impulsiveness, normative evaluation, and instant gratification) as a mediator to reach the target of an urge to online impulse buying. Floh and Madlberger (2013) proposed a model that the initial drivers of e-store attributes (content, design, and navigation) affect online impulse buying behavior through the mediators of shopping enjoyment and impulsiveness.
+In brief, impulse buying can be described as making a unplanned and sudden purchase decision, which is driven from specific environmental stimuli/cues on the spot, and are accompanied by a strong feelings of pleasure and excitement. In contrast, planned behavior is an intended behavior, which is driven by the formation of cognition-structured intentions, and is likely to be captured through attitude/intentions models, such as Technology Acceptance Model or Theory of Planned Behavior (Verhagen & van Dolen, 2011). This study therefore focuses on the issue of actual behavior rather than that of the behavioral intention in an impulse buying setting.
+There are four distinct types of impulse buying (Madhavaram & Laverie, 2004). First, pure impulse buying is a novelty or escape purchase that breaks a normal buying pattern. Second, reminder impulse buying takes place when a shopper sees a product and remembers that the stock at home is low, or recalls an advertisement or other information about the items. Third, suggestive impulse buying often occurs when an individual sees a merchandise for the first time and visualizes a need for it. Final, planned impulse buying takes place when the shoppers make specific purchase decisions for products/services dependent of price special, couple offers and the like.
+2.2. Flow experience and its antecedents
+Flow experience is defined as a psychological state regarding the holistic sensation that people feel when they act with a deep involvement (Csikszentmihalyi, 2008). With a flow experience, people are deeply involved in an activity that nothing else seems to matter. This experience is characterized by a narrowing of the focus of awareness for filtering irrelevant perception and thoughts out, by a loss of self-consciousness, by a responsiveness to clear targets and unambiguous feedback, and by a sense of emotional control over the environment. Recently, flow experience has been used in the context of computer-mediated environment and recommended as an important metric of online consumer experience (Lee, Kang, & McKnight, 2007; Chang & Wang, 2008). In brief, flow experience indicates a self-feelings of the mood state that an individual particularly obtains from an involvement/interaction of a favorable activity.
+As a valuable latent construct in evaluating impulse buying, several studies have proposed a similar set of flow experience dimensions. Basically, these studies were discussed in terms of two beliefs, cognitive and affective. For instance, Guo and Poole (2009) indicated that enjoyment and concentration are the two key attributes of flow experience in the online shopping. Koufaris (2002) considered shopping enjoyment, perceived control, and concentration as flow experience to explain online unplanned purchases. Jiang and Benbasat (2005) suggested that flow experience is composed of three dimensions: enjoyment, control, and attention focus, for examining virtual product experience in the online shopping. Lee and Chen (2010) found that flow experience can be measured with enjoyment, concentration, time distortion, and telepresence in investigating online consumer behavior. van Noort et al. (2012) explored interactivity in brand websites in terms of considering flow experience attributes, perceived control, attention, curiosity, and interaction, in predicting consumer's cognitive, affective, and behavioral responses.
+As time distortion and telepresence may refer to a self-control belief/perception of an individual in a computer-mediated environment rather than a physical environment, such as shopping website or online game, they are similar to the concept of perceived control of an individual, as clearly defined below (Nah, Brenda, & David, 2011). Curiosity and interaction are similar to enjoyment when both are deeply embedded in a virtual environment, such as shopping website, for the development of user experience. In sum, we defined flow experience in terms of three dimensions, perceived enjoyment, perceived control, and concentration/attention focus.
+Perceived enjoyment refers to the level of intrinsic feelings of pleasure of an individual when interacting with an environment (Park et al., 2012). The emotional response from an activity does not always provide the same experience because it is limited to a person’s perceived belief in different time or situations. In an online context, perceived enjoyment represents the extent to which the activity of shopping on a website is perceived to be enjoyable in its own right, apart from any physical impact that may be anticipated (Parboteeah et al., 2009). Perceived control refers to the level of one’s control over the environment and one’s action. It is similar to Bandura’s self-efficacy and Ajzen’s perceived behavioral control (Ajzen, 1991; Bandura, 1997). It mainly concerns the salient beliefs about presence of control factors, such as self-efficacy, resources, and opportunities, that may facilitate or hinder to engage in a behavior. In an online context, perceived control experiences the feelings of one’s control over the interaction with a website in terms of cognitive resources available for executing shopping activities (Chang & Wang, 2008). Concentration has been cited as a particularly important element of flow experience. For an individual to be in flow experience, they must concentrate on their activity (Csikszentmihalyi, 2008). It also plays a critical role in the online shopping behavior. Many distractions may limit consumer’s concentration since a shopping on a website allows a multi-tasking mechanism to do more than shopping (Guo & Poole, 2009). For example, online consumers can go back and forth between the web stores and their e-mail, or take advantage of download delays to perform other important tasks.
+Further, flow experience construct was defined as a second-order formative structure with the three indicators. We explained this in terms of the four decision rules from Petter, Straub, & Rai (2007). First, the three indicators mainly explain flow experience construct rather than manifest it. Second, the changes in the three indicators intend to cause the change in the explained flow experience construct. Third, with reflective constructs, their indicators are required to covary with one another. However, the three indicators may not have strong correlations with one another, that is, multicollinearity, since they seem to indicate different issues. Finally, flow experience construct is clearly a composite of the three indicators that are different among them. Reflective indicators, however, are interchangeable for sharing a common theme. Prior studies have similarly argued for this formative structure (Drengner, Gaus, & Jahn, 2008; Hausman & Siekpe, 2009). Further, the three first-order indicators were defined as a reflective structure in terms of their measurement items from prior literature, as explained in Research Design Section.
+Further, the antecedents of flow experience are defined as below. Flow experience is a individual sensation to an interaction with external stimuli and is a type of resultant forms. There is a need to understand the fundamentals of flow experience, that is, personal traits, in terms of how flow experience is driven in an activity. Among them, individual skills and challenges are two of the important traits influencing flow experience in a technology-use activity (Hausman & Siekpe, 2009). Skills refer to an individual judgment of one's capability to use a computer (Keller & Bless, 2008). Positive challenges from a task environment encourage the psychological motivation of an individual response to that experience (Thatcher, Wretschko, & Fridjhon, 2008). Basically, the precondition for flow experience is a balance between the challenges perceived in a given situation and the skills a person brings to it (Csikszentmihalyi, 2008). In other words, flow experience occurs when a match between skills and challenges is perceived. The flow experience can also be represented as a channel on a plot of challenge versus skills. In general, a great flow experience requires higher skills and challenges (Kim, Song, Braynov, & Rao, 2005). A mismatch results from depending on whether the challenges of task are too high, or too low, relative to a person’s skills (Csikszentmihalyi, 2008). That is, the flow experience is a dynamic quality. If the challenges of task are too high, the individuals will feel a lack of control over the environment and become anxious and frustrated. On the other hand, if the challenges are too low, the individuals will lose interest and become bored (Kamis et al., 2008; Guo & Poole, 2009).
+The following develops relevant hypotheses for flow experience. In the online shopping, consumers require a good web skills for finding out their real needs from searching or navigating the websites and further, they can experience the challenges of shopping activities especially in the unfamiliar web stores (Teng, 2011). Many studies have contended that a higher level of web skills implies that the websites are easier to use or manipulate, which may cause flow experience, and a higher level of challenges means that consumers perceive that the websites are more useful for finding proper products, which may cause flow experience (Hausman & Siekpe, 2009; Guo & Poole, 2009). A particular study for online consumer behavior reported that the level of web skills and challenges presented by an activity are the important predictors of flow experience (Koufaris, 2002). As online consumers perceive their web skills to be higher, they will be more likely to have positive enjoyment experience to the web store. Similarly, positive challenges from online shopping experience can influence consumer responses with enjoyment to that experience. In addition, other studies have pointed out that the challenges and web skills are particularly important for consumer's flow experience in a mobile commerce context (Ho, 2012; Zhou, 2013). Accordingly, we propose the two hypotheses.
+Hypothesis 1
+
+The level of web skills has positive impact on flow experience.
+
+Hypothesis 2
+
+The level of challenges has positive impact on flow experience.
+
+
+2.3. Technology use and flow experience
+Technology use in this study concerns two elements, website design and PU. A website design plays a vital role in how customers locate various information for online impulse buying online. Ease to access to these information can greatly facilitate information search or navigation capability by consumers and therefore forms their prior expectations. Several studies have shown the direct or indirect effect of website design on online impulse buying (Wells, Valacich, & Hess, 2011a; Verhagen & van Dolen, 2011). Website design is often studied from a usability perspective (Gefen et al., 2003a,b; Luo et al., 2012). Website usability refers to the ease with which customers can navigate through a site in terms of a well-structured visual appeal, a high-speed download, and a information security concern. PU is proposed in the expectation-confirmation model (ECM) as a post-adoption behavior (Bhattacherjee, 2001). It is based on the argument for a confirmation between the expectation and the real performance outcome in terms of using an information system, further leading to a post-adoption behavior to find the usefulness of this system in helping users solve the task. PU has been widely applied to investigate consumer behaviors in e-commerce as a post-adoption behaviors, such as repurchase and recommendation behaviors (Finn, Wang, & Frank, 2009).
+The following develops a hypothesis for the elements of technology use. As website design is usually defined from a usability perspective, the main focus is on designing a user-friendly interface for enhancing customer’s online shopping experience (Luo et al., 2012). This will further make more perceived usefulness for customers to find helpful product information and proper products to purchase (Wells et al., 2011a). A study particularly discussed website characteristics from an environmental psychology perspective to understand consumer’s online impulse buying behavior (Parboteeah et al., 2009). This study first classified website characteristics as two key environmental cues, namely, task and mood-relevant cues, and further proposed that there is a link between the two cues and PU. Task-relevant cues include characteristics, such as navigability and in contrast, mood-relevant cues refer to the characteristics, such as visual appeal, for supporting shoppers to use a website. When the two environmental cues are in a purpose of defining website characteristics, we considered them together as a common term, namely website design. Accordingly, Hypothesis 3 is proposed.
+Hypothesis 3
+
+Website design has positive impact on perceived usefulness.
+
+
+The following develops relevant hypotheses for technology use and flow experience. Researchers have proposed that online flow experience is an affective state experienced by users during navigation of a website (Lu et al., 2009). PU is considered as an important cognitive state in terms of a performance perception after IS usage (Bhattacherjee, 2001). The cognitive state to the environment can thus have a positive/negative effect on the experience of emotional state and would be considered as an important precursor of emotional nature (Kalla & Arora, 2011). Specifically, a study proposed a potential link between PU and flow experience in terms of examining the effect of website characteristics on a consumer’s urge to buy impulsively (Parboteeah et al., 2009). Their link is founded on the argument that affective reactions are experienced only after cognitive reactions have been completed. Accordingly, we propose the following hypothesis.
+Hypothesis 4
+
+Perceived usefulness has positive impact on flow experience.
+
+
+The above literature also further discussed an enhancement of the affective nature of flow experience to encourage the behavior of online impulse buying (Ha & Stoel, 2009; Parboteeah et al., 2009). The rationale behind this is that individuals who are in a good mood are more likely to buy impulsively or to overspend. Other studies have posited that intrinsic enjoyment can strengthen an online shopper’s exploratory behavior such as online browsing, which may increase a consumer's urge to buy impulsively (Koufaris, 2002; Guo & Poole, 2009). Similarly, a positive relationship has been proposed between a consumer's emotional response from the stimulus of online activities, such as perceived enjoyment, and her/his urge to buy impulsively (Xiao & Nicholson, 2013). Thus, Hypothesis 5 is proposed.
+Hypothesis 5
+
+Flow experience has positive impact on online impulse buying.
+
+
+According to technology acceptance model (TAM, Davis, 1989), many studies have proposed that PU has a significant link to the behaviors toward adopting various information systems, such as hedonic information systems (Wu et al., 2011). Hedonic information systems are a pleasure-based information systems for experiencing enjoyment of users, such as impulse buying behavior on web stores. Other studies have shown that PU regarding online product information search is an important antecedent to a consumer’s online shopping behavior (Chea & Luo, 2008). From a psychological perspective, early studies have generally indicated that the cognitive state of an individual to the exposure of an external stimuli such as PU, when interplaying with the affective state to strengthen or weaken it, is possibly related to a consumer’s online impulse buying behavior (Kalla & Arora, 2011). Accordingly, Hypothesis 6 is proposed.
+Hypothesis 6
+
+Perceived usefulness has positive impact on online impulse buying.
+
+
+2.4. Trust and technology use
+The functionality and contribution of a trust can be apparently identified from the economic framework of social exchange (Hong & Cho, 2011; Wu, 2013). Within social exchange, business transactions are usually carried out without explicit contract or control mechanism against opportunistic behaviors. Trust is basically seen as a common mechanism for reducing social complexity and perceived risk of transactions through increasing the expectation of a positive outcome and the perceived certainty regarding the expected behavior of trustees (Kim & Han, 2009). E-commerce is a less verifiable and controllable environment in which online transactions are offered without a physical face-to-face contact and simultaneous exchange of products and money. Without reducing perceived uncertainty from the opportunistic behaviors of e-vendors, online transactions would not be possible between consumers and e-vendors (Hsu, Lin, & Chiang, 2013).
+As trust is conceptualized as a belief structure, several studies have well defined it as a multidimensional construct. Kim and Han (2009) examined the role of trust belief and its antecedents in a community-based knowledge environment and further proposed that trust belief as a second-order construct formed by the three most popular attributes: benevolence, competence, and integrity. As in a study of the trust role in an adoption of online recommendation systems, it suggested that trust belief can be measured by three main dimensions: competence, benevolence and integrity (Wang & Benbasat, 2005). Palvia (2009) found that consumers share individual and sensitive information with a web store only when they feel trusting the site. Further, three key attributes, benevolence, competence, and integrity, are defined as important in establishing trust. As most studies have similarly defined the three key dimensions for trust, this study uses this definition.
+Benevolence is the belief that the trustee will not act opportunistically, even given the chance (Flavian, Guinaliu, & Gurrea, 2006; Pavlou & Fygenson, 2006). Benevolence is also the perception of a positive orientation of the trustee toward the trustor (Wu, 2013). In an online context, benevolence ensures that e-vendors will act fairly and stand behind its product in the exchange, even if new conditions arise (Wu & Tsang, 2008). Competence is the belief in the trustee’s ability to perform as expected by the trustor (Pavlou & Fygenson, 2006). The concept also indicates the degree to which consumers perceive that suppliers are in possession of the required knowledge and skills to complete exchange (Flavian et al., 2006). In an online context, consumers thus believe that e-vendors should be able to help fulfill their needs in the exchange (Wu & Tsang, 2008). Integrity is the belief that trustee will be honest to keep words and to fulfill promises (Flavian et al., 2006). In an online context, integrity indicates the perception of consumers such that e-vendors would provide assurance for keeping their promises to transactions in terms of buying products and personal privacy (Pavlou & Fygenson, 2006).
+Further, we defined trust construct as a formative structure with the three indicators. The decision rules are similar to the previous ones (Petter et al., 2007). The three indicators are used for explaining trust rather than reflecting it. The changes in the three indicators, while defined in a mutually exclusive manner, intend to cause different changes in trust. Trust construct is definitely a composite of the three indicators that are different for each other. Further, the three first-order indicators were defined as a reflective structure in terms of the definition of the measurement items from prior literature, as explained in Research Design Section.
+The following develops relevant hypotheses for trust and technology use. The connection between trust and PU has been widely discussed in the online context (McCloskey, 2006). In particular, a model of trust with TAM was well defined in the online shopping (Gefen et al., 2003a). This model explicitly indicates some relationships between the two concepts such that trust is widely defined with a number of belief attributes, such as institution-base trust and cognition-based trust. Moreover, trust, in general, plays a critical role in determining PU and further, also has a direct effect on online intention to purchase (Gefen et al., 2003b). This is because part of the guarantee that consumers will sense the expected usefulness from the website is based on the sellers behind the website. Thus, Hypothesis 7 is proposed.
+Hypothesis 7
+
+Trust has positive impact on perceived usefulness.
+
+
+Trust should be of greater importance for potential customers because there is greater social uncertainty regarding their interaction with e-vendors in the absence of direct experience (McCloskey, 2006). Hence, trust belief can helps users overcome these concerns and encourage them to continue to use the sites (Kim & Ha, 2009). Specifically, taking part in online transactions where there is uncertainty and information asymmetry requires trust in e-vendors first and creates an important role of trust in determining transaction behaviors (Kim et al., 2009). In sum, trust belief enables/encourages one to engage in an online transaction behavior despite the presence of risk and we suggested a direct link to influence online impulse buying behavior. Accordingly, Hypothesis 8 is proposed.
+Hypothesis 8
+
+Trust has positive impact on online impulse buying.]]>
+</section>
+
+
+
+    <section name="Research design;Hypotheses testing" category="methods">
+        <![CDATA[
+3. Research design
+3.1. Instrumentation
+A survey method was conducted to collect the data. This study used existing validated scales. The instrument contains a two-part questionnaire, as indicated in Appendix A. The first part uses a nominal scale, and second part uses a seven-point Likert scale.
+3.1.1. Basic information
+This part collects basic information about consumer characteristics in online impulse shopping, including gender, age, education level, occupation, income, online shopping experience, and online impulse experience.
+
+3.1.2. Flow experience
+The measuring items for sub-constructs of flow experience, including concentration, perceived control and perceived enjoyment, were adapted from the measurement developed by Koufaris (2002) and Guo and Poole (2009). They contain 4 items respectively.
+3.1.3. Web skills and challenges
+Both web skills and challenges were measured by the items adapted from Koufaris (2002). They comprise 4 items and 4 items respectively.
+3.1.4. Website design and PU
+Website design was measured by the items adapted from Wells et al. (2011a). There are 4 items for the content of response speed, visual appealing, navigability, and security. PU was measured with the items based on Koufaris (2002) and Luo et al. (2012), containing 4 items.
+3.1.5. Trust
+The measuring items for the sub-constructs of trust, benevolence, competence and integrity, were adapted from the measurement developed by Xiao and Benbasat (2007). They contain 4 items, 4 items and 3 items respectively.
+3.1.6. Impulse buying
+Impulse buying was measured by the items adapted from a consideration of both Rook and Fisher (1995) and Parboteeah et al. (2009). 3 items are included for it.
+3.2. Sample design
+This study intends to examine shoppers’ behaviors in online impulse buying. It would be better to define the qualified respondents in this setting. Thus, they were asked to reflect on a recent impulse buying in an online store (within the past three months). The main purpose for this manipulation is to define a clear picture or memory for the respondents to serve as the basis for completion of the survey. This manipulation would assure that all respondents are in a consistent manner in terms of reflecting their perceived experience across the defined constructs in the research model. Without the manipulation, respondents could lose their focus for trying to reflect perceived experience from many different impulse shopping settings in a mixed manner. This manipulation could avoid a bias in the data collection process. Prior studies have proposed a similar approach in order to clearly report respondents' perception of purchase in a particular shopping context (Pizzutti & Fernandes, 2010).
+Online survey is the appropriate method to collect the experience of online impulse shoppers. An online survey has several merits. It is not only consistent with the context of this study (online shopping), but also geographically unlimited, as well as lower survey cost and faster responses (Denscombe, 2006). However, random sampling is always a common problem in an online survey. This is because most sampling procedures are self-selected for an non-probability sampling, such as convenience sampling. This study tries to overcome this problem by drawing participants randomly from various online community sources and different time slots for each community. First, the online survey was placed on several larger online communities simultaneously, including Facebook, Mobile01, Eyny, Pixnet, and Youthwant. Next, this study defined a total of 24 time slots in terms of an one-hour interval as a time slot in a daily basis for each community while all respondents for each time slot would be the potential subjects in this survey. After that, we randomly selected certain time slots from each community in a daily basis to be the response sample. However, we will still not be able to overcome the fact that the respondents were more interested in the research issue than average web users as they were mostly intrinsically motivated to participate this research.
+This study carried out the online survey during the period of May–June in 2012. The procedure would cover a larger and wider variety of data sources and allow the response sample to be more representative for its population. Public notice of the survey questionnaire was published in a number of bulletin board systems and forums. In order to encourage online users with impulse buying experience to complete the questionnaire, there is also a reward system offered for the respondents. We will randomly draw at least 60 participants from the response sample for a reward of 5 US dollars after this survey. These respondents were paid in terms of the identification of their e-mail addresses which were collected during the online survey process. In contrast, previous studies on online survey were often executed in a way of simply placing the questionnaire on the target websites for a period of time and then collected all respondents to be the response sample.
+
+3.3. Scale validation
+Initially, pretest was conducted for the scale. The scale was carefully examined by selected practitioners and academicians, including translation, wording, structure, and content. Their usefully comments would be used to improve the scale for guaranteeing initial reliability and validity in an acceptable level. After the questionnaire was finalized, the online survey was carried out based on the above sampling procedure. All participants are voluntary. A total of 608 respondents were received. 112 were deleted without online impulse buying experience, resulting in a valid sample size of 496. Table 1 shows its demographics. Most respondents are younger shoppers (age 21–30) and are female (70%). In particular, approximately 81% of the respondents think themselves as experienced online impulse buyers.
+Table 1. Demographics of the response sample with online impulse experience, sample size = 496.
+Characteristics	Frequency	Percent (%)
+Gender
+ Male	147	29.64
+ Female	349	70.36
+
+Age (years)
+ <20	140	28.23
+ 20–30 (less than)	267	53.83
+ 30–40 (less than)	74	14.92
+ ≧40	15	3.02
+
+Education level
+ High school	217	43.75
+ College	260	52.42
+ Graduate	19	3.83
+
+Occupation
+ Student	194	39.11
+ Service	94	18.95
+ Manufacturing	39	7.86
+ Government	59	11.89
+ Teacher	55	11.09
+ Soldier	21	4.23
+ Others	34	6.87
+
+Income (monthly, US dollar)
+ <500	205	41.33
+ 500–1000 (less than)	92	18.54
+ 1000–2500 (less than)	89	17.94
+ 2500–3500 (less than)	68	13.70
+ ≧3500	42	8.49
+
+Online experience (years)
+ <1	77	15.52
+ 1–3 (less than)	207	41.73
+ 3–5 (less than)	148	29.84
+ 5–7 (less than)	48	9.68
+ ≧7	16	3.23
+
+Online impulse experience
+ Yes	496	81.57
+ No	112	18.43
+Non-response bias is often a major concern for survey research and we thus tested the non-response bias for the response sample. By considering the late group of respondents as most likely to be similar to non-respondents, a comparison between the early and late group of respondents provides information on non-response bias in the sample (Armstrong & Overton, 1977; Subramani, 2004). Accordingly, we identified the early and late sub-samples as having 375 and 121 respondents, respectively. We used χ2 statistic to test whether there was any difference between the two groups, by examining respondent characteristics, including age, income, and online shopping experience. All of the tests revealed no significant difference at the 0.05 level (χ2 = 1.74, 1.96, and 2.04). The results indicate no systematic non-response bias for the survey data.
+For the sample problem of assuring average web users, we additionally collected half of the online questionnaires by paper and then tests the difference between the online sample and the sample by paper in terms of respondent characteristics. χ2 statistic was conducted for testing their difference. All of the tests indicated no significant difference between the two groups and this problem does not exist in the online sample.
+In addition, common method bias results from the fact that the respondents provide the measures of both explanatory and dependent variables by a common rater (Podsakoff, MacKenzie, Lee, & Podsakoff, 2003). In this study, subjective measures were used for several relationship structures, such as antecedents of flow experience (independent variables) and flow experience (dependent variables). There is a risk for common method bias. Harman’s single factor test is one of the most widely techniques to address the issue of common method variance (Podsakoff et al., 2003). We included all items from all of the constructs in the relationship structure for an unrotated factor analysis to determine whether the majority of the variance cannot be accounted for by one general factor i.e., more than 50% variance accounted for. The factor analysis can extract a number of factors (variables) from all measurement items and indicates the variance accounted for by each of these factors. The results reported the independent and dependent variables extracted as different factors from the analysis. Further, no single factor extracted with the indicated variance accounted for is more than 50%, as reported in Table 2. The first one general factor is flow experience with 22% of variance accounted for. This leads to the conclusion of the inexistence of common method bias.
+Table 2. Results for common method bias by unrotated factor analysis.
+Factor	Eigenvalue	% of variance	Cumulative%
+FE	2.52	22.2	22.2
+PU	2.10	18.5	40.7
+IP	1.91	16.8	57.5
+TR	1.77	15.6	73.1
+WS	1.17	10.3	83.4
+WD	1.16	10.2	93.6
+CH	0.73	6.4	100.0
+3.4. Measurement model
+PLS is a structural equation modeling (SEM) technique that employs a nonparametric and component-based approach for estimation purposes. PLS allows latent variables to be modeled as formative constructs and places minimal demands on sample size and residual distributions (Chin, 1998). Theoretically, the sample size for executing PLS requires 10 times of the number of indicators associated with the most complex construct or the largest number of antecedent constructs linking to an endogenous construct. Moreover, two major variables, flow experience and trust, were defined as a second-order structure with formative indicators. PLS was thus used to analyze this measurement model.
+A second-order formative model can be evaluated by two approaches. First, a model-fit test was examined by two criteria: (1) assessing multicollinearities among the first-order indicators, and (2) inspecting the path weights between the first-order indicators and the second-order construct, although PLS does not allow a model-fit test (Petter et al., 2007). Multicollinearities were assessed using variance inflation factor (VIF) generated by a SPSS analysis. The VIFs are 1.32 (web skills), 1.53 (challenges), 2.92 (perceived usefulness), 1.97 (website design), 2.12, 2.35 and 1.98 (concentration, perceived control, and perceived enjoyment for flow), and 2.06, 1.95 and 2.11 (benevolence, competence, and integrity for trust), well below 10 threshold (Diamantopoulos & Siguaw, 2006). The path weights between the first-order indicators and the second-order construct were all significant, as shown in Fig. 2. Hence, it suggests the acceptance of a second-order formative model. Next, a model fit can be also verified by examining the difference between the observed and the estimated covariance/correlation matrix with χ2 statistic (Hair, Black, Babin, & Anderson, 2010). The implied null hypothesis is that the observed and the estimated covariance matrices are equal, meaning that the model fits perfectly. The evaluation was conducted for both the second-order and the first-order model to show their difference.
+Results of the structural model
+Download full-size image
+Fig. 2. Results of the structural model.
+Value on path: standardized coefficients (β).
+
+Adj. R2: adjusted coefficient of determination, **p < 0.01, *p < 0.05.
+For assuring the correctness of the statistical tests, there are three factors proposed to determine the power of statistical test, alpha level (α), sample size, and effect size (Cohen, 1988). Effect size (w) was calculated in terms of square root of χ2 statistic, as indicated in Cohen (1988). We found that the effect size for the second-order model was found very small in a value of less than 0.1 as the first-order model in a value of more than 0.8 in terms of the conditions of α = 0.05, sample size = 496 for this study. We checked the power table provided by Cohen (1988) and found that the power (less than 20%) to accept alternative hypothesis for the second-order model is quite low, meaning that the model fit is correctly assured. On the contrary, the power to accept alternative hypothesis is quite high (more than 90%), meaning that the model fit is not correctly assured.
+Further, reliability and validity were observed in the measurement model. Both Cronbach’s alpha and composite reliability were used to assess reliability. The accepted values for both are 0.80 or higher (Chin, 1998). Convergent validity and discriminant validity were used to assess validity. Convergent validity was assessed by three criteria: (1) item loading (λ) larger than 0.70 and statistical significance, (2) composite construct reliability for a construct should larger than 0.80 and can be interpreted like a Cronbach’ α coefficient, and (3) average variance extracted (AVE) larger than 0.50 (Hair et al., 2010). Discriminant validity between constructs was assessed using the criterion that the square root of AVE for a construct should be larger than its correlations with all other constructs (Hair et al., 2010).
+Table 3 reports the indices of reliability and convergent validity for the scale. Item loadings are all above 0.7, Cronbach’ α coefficients range from 0.86 to 0.96, composite reliability ranges from 0.82 to 0.96 and AVE ranges from 0.63 to 0.86, which suggests a high level of reliability. In the discriminant validity, the square root of AVE for a construct is above its correlations with other constructs, as shown in Table 4. In addition, Table 5 provides the results of factor analysis with principal component analysis for further validating the measurement model. These results indicate reliability, convergent validity, and discriminant validity in an acceptable level.
+Table 3. Descriptive statistics, reliability and convergent validity, sample size = 496.
+Construct	Items	Mean	S.D.	Item
+loading	Composite
+reliability	AVE	Cronbach’α
+Web skills (WS)	4	5.63	1.22	0.85–0.92	0.82	0.78	0.91
+Challenges (CH)	4	4.60	1.35	0.80–0.94	0.94	0.80	0.94
+Enjoyment (EN)	4	5.67	1.29	0.79–0.93	0.94	0.86	0.96
+Concentration (CO)	4	5.25	1.30	0.76–0.87	0.84	0.63	0.86
+Control (CT)	4	5.39	1.23	0.83–0.89	0.92	0.78	0.91
+Website design (WD)	4	5.51	1.26	0.78–0.91	0.92	0.75	0.89
+Perceived usefulness (PU)	4	5.86	1.19	0.87–0.90	0.93	0.78	0.91
+Benevolence (BE)	4	5.06	1.35	0.74–0.91	0.92	0.86	0.92
+Integrity (IN)	3	4.85	1.32	0.88–0.95	0.95	0.85	0.94
+Competence (CP)	4	5.04	1.34	0.89–0.95	0.96	0.86	0.95
+Impulse purchasing (IP)	3	4.72	1.45	0.78–0.94	0.91	0.76	0.94
+Table 4. Discriminant validity, sample size = 496.
+Construct	WS	CH	EN	CO	CT	WD	PU	BE	IN	CP	IP
+WS	0.88										
+CH	0.23	0.89									
+EN	0.28	0.56	0.93								
+CO	0.24	0.54	0.37	0.79							
+CT	0.31	0.53	0.35	0.24	0.88						
+WD	0.12	0.29	0.22	0.21	0.15	0.87					
+PU	0.23	0.25	0.24	0.23	0.28	0.42	0.88				
+BE	0.15	0.26	0.23	0.39	0.16	0.20	0.36	0.93			
+IN	0.18	0.23	0.29	0.34	0.10	0.11	0.30	0.23	0.92		
+CP	0.07	0.12	0.29	0.35	0.10	0.14	0.33	0.18	0.11	0.93	
+IP	−0.06	0.19	0.55	0.47	0.40	0.05	−0.02	0.15	0.13	0.10	0.87
+Diagonal value: square root of AVE, Non-diagonal value: correlation.
+
+
+Table 5. Factor analysis with principal component analysis, sample size = 496.
+Items	Constructs
+CO	CT	EN	WS	CH	WD	PU	BE	CP	IN	IP
+CO1	0.76	0.19	0.20	0.19	0.26	0.29	0.18	0.05	0.12	0.07	0.07
+CO2	0.80	0.21	0.28	0.19	0.21	0.09	0.13	0.18	0.05	0.09	0.10
+CO3	0.87	0.25	0.19	0.21	0.20	0.13	0.31	0.09	0.13	0.18	0.07
+CO4	0.83	0.13	0.13	0.22	0.11	0.11	0.26	0.12	0.11	0.21	0.09
+CT1	0.05	0.84	0.31	0.24	0.15	0.21	0.18	0.31	0.21	0.28	0.15
+CT2	0.09	0.83	0.26	0.19	0.41	0.18	0.19	0.28	0.19	0.12	0.09
+CT3	0.28	0.88	0.33	0.27	0.28	0.21	0.12	0.23	0.09	0.11	0.07
+CT4	0.31	0.89	0.22	0.13	0.31	0.16	0.16	0.25	0.07	0.17	0.12
+EN1	0.21	0.15	0.83	0.10	0.18	0.21	0.19	0.02	0.31	0.07	0.20
+EN2	0.08	−0.03	0.79	0.21	0.21	0.18	0.21	0.08	0.21	0.16	0.19
+EN3	0.18	0.23	0.80	0.19	0.10	0.12	0.19	0.06	0.20	0.11	0.21
+EN4	0.19	0.36	0.93	0.16	0.19	0.16	0.13	0.12	0.21	0.09	0.23
+WS1	0.13	0.28	0.17	0.87	0.13	0.21	0.21	0.08	0.22	0.17	0.08
+WS2	0.02	0.20	0.21	0.92	0.15	0.19	0.19	0.09	−0.07	0.04	−0.05
+WS3	0.22	0.01	−0.03	0.85	0.18	0.17	0.29	0.12	0.28	0.08	0.09
+WS4	0.07	0.16	0.10	0.88	0.20	0.18	0.30	0.18	0.19	0.16	0.14
+CH1	−0.05	0.32	0.09	−0.03	0.83	0.07	0.13	0.04	0.10	0.12	0.13
+CH2	0.28	0.26	0.13	0.05	0.80	0.12	0.21	0.07	0.21	0.13	0.15
+CH3	0.11	0.15	0.10	0.12	0.91	0.11	0.16	0.08	0.26	0.08	0.24
+CH4	0.35	0.02	0.11	0.19	0.94	0.09	0.25	0.12	0.09	0.06	0.29
+WD1	0.17	0.12	0.15	0.08	−0.06	0.80	0.28	0.19	0.13	0.19	0.07
+WD2	0.26	0.14	0.11	0.12	0.20	0.91	0.31	0.30	0.03	0.19	0.11
+WD3	0.09	0.06	0.23	0.09	0.24	0.78	−0.05	0.19	0.08	0.16	0.17
+WD4	0.31	0.18	0.26	0.11	0.13	0.86	0.21	0.14	0.11	0.21	0.13
+PU1	0.19	0.16	0.21	0.13	0.12	0.07	0.88	0.21	0.10	0.31	0.16
+PU2	0.20	0.09	0.09	0.08	0.19	0.16	0.90	0.08	0.14	0.27	0.20
+PU3	0.23	0.17	0.23	0.07	0.16	0.22	0.89	0.18	0.12	0.08	0.18
+PU4	0.19	0.23	0.07	0.12	0.23	0.21	0.87	0.19	0.10	0.11	0.18
+BE1	0.24	0.33	0.13	0.21	0.13	0.14	0.12	0.74	0.06	0.21	0.19
+BE2	0.31	0.16	0.21	0.17	0.16	0.02	0.15	0.91	0.09	0.11	0.22
+BE3	0.15	0.09	0.19	0.23	0.09	0.12	0.07	0.88	0.04	0.18	0.18
+BE4	0.06	0.31	0.17	0.21	0.21	0.14	0.18	0.79	0.07	0.09	0.17
+CP1	0.13	0.23	0.14	0.14	0.23	0.08	0.16	0.13	0.91	0.10	0.16
+CP2	0.18	0.10	0.31	0.18	0.20	0.07	0.19	0.12	0.89	0.08	0.21
+CP3	0.06	0.09	0.21	0.18	0.19	0.16	0.07	0.18	0.93	0.14	0.17
+CP4	0.18	0.18	0.19	0.09	0.11	0.32	0.08	0.09	0.95	0.02	0.19
+IN1	0.02	0.10	0.21	0.11	0.28	0.20	0.31	0.16	0.08	0.93	0.05
+IN2	0.18	0.08	0.25	0.18	0.23	0.28	0.26	0.22	0.12	0.88	0.08
+IN3	0.09	0.22	0.23	0.19	0.35	0.26	0.36	0.19	0.18	0.95	0.16
+IP1	0.23	0.11	0.21	0.09	0.13	0.18	0.09	0.18	0.08	0.06	0.94
+IP2	0.22	0.08	0.09	0.08	0.18	0.09	0.14	0.17	0.18	0.09	0.78
+IP3	0.34	0.02	0.08	0.12	0.08	0.18	0.13	0.14	0.21	0.25	0.83
+
+4. Hypotheses testing
+A structural model was built to examine the correlative relationships among the constructs in this research model. Generally speaking, there are two steps used to evaluate the structural model. First, we estimated path coefficients and their statistical significance. In path analysis, PLS uses either a bootstrapping or jackknife approach to test statistical significance (t-values) of the path coefficients. This study used the bootstrapping approach to find path coefficients, statistical significance, and relevant parameters, including means, standard errors, item loadings, and item weights. Goodhue, Lewis, and Thompson (2007) suggested that 500 re-samples are sufficient for the general sample size. As this study has collected a larger sample size of 496, we considered to use 1000 resamples for this analysis. Second, the adjusted coefficient of determination (R2) for endogenous variables was calculated to assess the predictive power of the structural model. The coefficient of determination obtained from PLS analysis was similar to that found in multiple regression analysis. Fig. 2 shows the results of the structural model analysis.
+When the results were obtained from the perspective of statistical significance, the predictive ability could vary with a large range of possible values, such as ±20%. This study considered a difference between statistical significance and practical significance to assure the correctness of the statistical estimation. The decision for assuring the correctness is with a statistical power of more than 80% for most statistical inference (Cohen, 1988). There are three factors, as indicated above, affecting statistical power, alpha level (α), sample size, and effect size. The real effect size (f2) calculated for a pair of dependent-independent variables in the research model in terms of considering the concept of testing null hypothesis of regression coefficient of an independent variable equal to zero (Cohen, 1988). In this study, we check the power table provided by Cohen (1988) with the conditions of α = 0.05, sample size = 496, and effect size (λ, a transformation from f2) > 16 as this study consists of a sample size of 496 and effect size is always larger than 16 for all the pairs of dependent-independent variables. The results shows that the statistical power for all the pairs in the research model are higher than 80%.
+For the components of flow experience, web skills and challenges were indicated as important antecedents of flow experience (β = 0.313 and 0.550). They were positively related to flow experience. Hypothesis 1 and 2 are thus supported. For the components of technology use, website design showed a significant impact on PU (β = 0.466). Hypothesis 3 is thus supported. PU played a critical role in determining flow experience (β = 0.214). Hypothesis 4 is thus supported. Alternatively, flow experience reported a significant influence on impulse buying (β = 0.468). Hypothesis 5 is thus supported. In contrast, PU revealed no significance in influencing impulse purchase (β = 0.09). Hypothesis 6 is not supported. For the component of trust, trust was an important precursor of PU (β = 0.352) and impulse buying (β = 0.406). Hypothesis 7 and 8 are thus supported.
+Further, the three variables, web skills, challenges, and PU, jointly explained 55.2% of variance in flow experience (Adjusted R2 = 0.552). The two variables, website design and trust, together explained 57.9% of variance in PU (Adjusted R2 = 0.579). The three antecedents as identified as the main contribution to this research, flow experience, PU and trust, jointly explained 63.2% of variance in impulse buying (Adjusted R2 = 0.632). Next, flow experience and trust were defined as a second-order construct with formative indicators in this study. For the flow experience, the weights for concentration, perceived control and perceived enjoyment were all significant (W = 0.459, 0.204 and 0.494) and indicates each of the sub-constructs as an important component in explaining the main construct. For the trust, the weights for benevolence, competence and integrity were all important for explaining the main construct (W = 0.415, 0.366 and 0.339).
+In addition, flow experience is considered as a mediator to the influence of impulse buying from the antecedents of web skills and challenges. We can confirm the argument by examining the difference between the original model (Model 1) against a competing model (Model 2) that is formed to add two extra paths directly from the two antecedents to impulse buying. Accordingly, the f2 statistic ([R2(Model 2) − R2(Model 1)]/[1 − R2(Model 1)]), which is based on the difference in R2 between the two models, was used to assess their effect size (Cohen, 1988). With a PLS analysis, the R2 for Model 1 is 0.656 as compared to Model 2 with 0.625. The f2 statistic is computed for a value of 0.09 where 0.02, 0.15, and 0.35 have been suggested as small, medium, and large effects (Chin, Marcolin, & Newstead, 2003). Next, the two extra path coefficients are insignificant at the level of 0.05. Thus, the examination is insignificant in their R2 difference. This indicates a full mediating role of flow experience in achieving impulse buying.]]>
+</section>
+
+    <section name="Findings and discussions" category="results">
+        <![CDATA[
+5. Findings and discussions
+As online impulse buying is an individual behavior which may importantly involve cognitive, trust, affective moods. This study thus integrates the two key drivers, technology use and trust belief, with a mediating role of flow experience to understand online impulse buying in a complete manner. The following discusses main findings, theoretical and practical implications, research limitation, and future research.
+
+5.1. Main findings
+In the flow experience, the two individual traits for online activities, web skills and challenges, are both positively related to flow experience. The importance of web skills for online shoppers is consistent with earlier studies in computer self-efficacy for computer users (Koufaris, 2002). This may indicate a difference of consumer's identification between the context of online and traditional shopping. Consumers are reasonably considered as the shoppers for executing the task of purchasing products/services in both the contexts of online and traditional shopping. However, there is a noticeable barrier to reach flow experience, while it is an important stimulus for staying impulse buying, without an individual self-cognition of web skills. Positive challenges, such as searching products/services with higher quality and lower cost, from the online shopping experience can influence consumer’s emotional responses to that experience. The more confident and comfortable consumers feel with the online shopping experience, the more likely it is that they will enjoy it. Furthermore, if online shoppers enjoy their shopping experience in terms of a self-confidence in using web skills to meet various challenges presented by shopping tasks, they may engage in more positive feeling about shopping for leading to more impulse buying. Next, flow experience plays an important mediating role in affecting online impulse buying from the important drivers. In practice, flow experience needs to be nurtured from their precursors before it can exert its influential power as the precursors cannot indicate their direct effect on online impulse buying.
+In the technology use, website design, as most earlier studies, has a significant impact on PU. This indicates that website design with a user-friendly manner is still important as a precursor for further using the website in enhancing consumer’s online shopping productivity. Furthermore, we found that a consumer's belief about usefulness of an online store to purchase products/services may not importantly determine their impulse buying. However, it plays a critical role in affecting flow experience and in turn, impulse purchase in the shopping process. The reasons behind this may be explained below. Today, as consumers understand the importance of usefulness of an online store in finding proper products/services by providing effective navigation and searching mechanism, however, they may focus more on enjoyment of flow experience by using shopping websites in the initial stage than on building behaviors to purchase products impulsively. PU refers to a focus of cognitive state in an individual's mind when interacting with the stimulus of a web store. After a flow experience on using the web store, consumers may construct their affective state in an emotional response to the flow experience for further buying things impulsively. As a result, PU would not have a direct effect on behavior to purchase impulsively. The findings indicate an important evidence of the mediating role of flow experience in the occurrence of impulse buying through the initial driver of PU.
+
+In the trust belief, PU and online impulse buying are both positively determined by consumer’s trust on e-vendors. The reasons behind this may be discussed as below. Trust still plays a critical role in building consumer’s confidence to ensure that they gain the expected useful products/services in their interactions with online stores as trust allows consumers to become vulnerable to e-vendors. In the meantime, trust would provide a positive belief to being truthful and competent to carry out online transactions, for consumers. This would further generate the willingness of consumers toward carrying out online impulse buying behavior. As discussed above, few studies have proposed to include trust belief in understanding impulse buying behavior, an unplanned behavior, as it is different from general online shopping, a planned behavior. The exploration of planned behavior usually considers a mediating role of behavioral intention to actual behavior through the initial driver of trust belief. The empirical result shows a direct influence of trust belief on impulse buying behavior and is different from the result of planned behavior.
+
+Next, the following discusses the formative construct of flow experience and trust. Flow experience addresses an individual affective and cognitive state as involving in online shopping activities. Concentration, perceived control, and perceived enjoyment correspond to the important attributes of pleasure and dominance derived from environmental psychology and intend to explain or forming flow experience. Trust is seen as a common mechanism for reducing social complexity and perceived risk of online transactions through increasing the expectation of a positive outcome and perceived certainty regarding the expected behavior of e-vendors. Benevolence, competence, and integrity indicate the important attributes of social exchange theory for online exchange and are the major indicators in forming trust belief.
+
+5.2. Implications
+Some theoretical implications are particularly noted from the findings. We approached this study from an integrated manner for considering three major issues, flow experience, website use, and trust belief. These major issues shows significant effect on online impulse buying in either an integrated or an individual manner. In particular, when trust plays a critical role in influencing impulse buying, it is a new knowledge added to the body of e-commerce. Next, there are some major differences between this study and previous studies. Although some previous studies have considered shopping enjoyment, a part of flow experience, as a mediator in an association with PU to influence impulse buying, however, these studies have lacked a concern of exploring the antecedents for driving flow experience and a concern of considering both website design (an initial-adoption cognition) and PU (a post-adoption cognition) for website usage. These concerns would possibly enhance the predicted power of impulse buying. Other previous studies have only considered website characteristics, such as e-store features, website quality, and online browsing, as the important antecedents of impulse buying. They are incomplete for fully understanding the nature of impulse buying. Finally, This study explores flow experience of using website, a complicated psychological concept, in terms of defining it as a second-order formative construct comprising three independent indicators for a better understanding of its role in website usage. In sum, these issues would provide a new thinking for carrying out this type of research.
+
+Several important practical implications also arise from the findings. As online consumers assume the dual nature of the shoppers and the users of web stores, the design of web stores may importantly concern the features of user interface, navigational structure, and product information for consumers to search proper products for their needs. These features should further be able to present a cognitive sense of usefulness by consumers in terms of effectiveness and efficiency in their online shopping process. As flow experience is a key determinant of online impulse buying, online retailers may be able to design more effective web stores to enhance consumers with a high flow experience in terms of the guidance of the three major concerns. Specifically, to achieve the goal, the first needs to emphasize a user-friendly interface design for encouraging online impulse shoppers in developing their own product-finding processes easily and conveniently. The design features would intend to enhance consumer’s computer self-efficacy or web skills of using websites. The second is to design a flexible and traceable navigational structure for browsing web pages in an association with a highly effective search engine for creating an atmosphere of the challenges in impulse shopping activities. The third is related to content of web stores in terms of providing rich product information and a variety of product categories for consumers to feel useful in an attempt to promote online impulse buying.
+
+Moreover, trust belief for e-vendors is also important for determining flow experience and impulse buying. This implies that communication channels can be improved as consumers are able to first form a belief state of favorable feelings toward e-vendors. The efforts from online stores may focus on two possible ways. The first may consider sending a signal/advertising message in both the physical and virtual manners to build a consumer’s recognition of the sellers. The second may perform a survey research to understand real requirements of consumers to reduce the gap between the sellers and the buyers. The third may conduct a forum on social communities for exchanging ideas between sellers and buyers for a purpose of building reputation and electronic word-of-mouth. Besides, a customer relationship management (CRM) program intends to build a long-term relationship with customers in an attempt to enhance trust belief to e-vendors.
+
+5.3. Future research and limitations
+Further subsequent research can be done based on this foundation. This research can be extended to consider additional behavior-based drivers, such as culture and personal traits, to understand online impulse buying. Other technology-based concepts, such as IS success model (DeLone & McLean, 2003), can be used as alternatives to extend the present study. Although this research has produced some interesting results, a number of limitations may be inherent in it. First, a limitation may be the sampling procedure employed in this study for an online survey. However, we have dedicated our effort to place the questionnaire on several larger online communities simultaneously to cover a larger/wider variety of data sources for being more representative in the response sample. Next, approximately 70% of the respondents are female. The results may not reflect properly the regular population distribution of gender and may cause a potential bias against the current findings. However, in fact, women are more likely to do online shopping than men and this would, in essence, reflect the actual situation.]]>
+</section>
+
+    <section name="Conclusions" category="conclusion">
+        <![CDATA[
+6. Conclusions
+There is a high proportion of consumer’s online impulse buying experience (81.57%) found in this survey for the importance of conducting the type of research. ]]><h target="5" match="part">In general, the overall theoretical model is well supported by the empirical data regarding the two major drivers, technology use and trust belief, and the role of mediator, flow experience, with a prediction power of 63.2%. </h><![CDATA[Previous studies have lacked a consideration of flow experience as an important mediator for well achieving impulse buying from the defined drivers. Further, web-technology use has been simply using website design for the belief of initial adoption cognition and in fact, a consideration of the belief of post adoption cognition, PU, is more important in effectively determining online impulse buying. Besides, trust belief fails to be treated as a major concern for deciding whether online consumers are willing to shop in e-stores. Importantly, an integration of these issues in this study provides a complete and useful guidance for impulse buying in e-retailing. This is the major contribution of this study in the theoretical aspect.
+
+]]><h target="4" match="part">In practice, managers of e-vendors should consider the three key issues, flow experience, website use, and trust belief, for effectively guiding the design of websites. </h><![CDATA[These concerns for website design would encourage online impulse buying behavior of consumers in a way of both cognitive and affective manners or in a way of both individual psychological state and outer operational environment, as discussed above. The present guidance for online store design imposes on a concrete and complete consideration for practitioners. In contrast, research on the design of physical stores has been discussed in Park, Kim, & Forney (2006).]]>
+</section>
+
+    <section name="Appendix A. : Questionnaire" category="appendix">
+        <![CDATA[
+Appendix A. : Questionnaire
+Part I: basic information
+Gender: □Male □Female
+
+Age: □<20 years old □21–30 years old □31–40 years old □41–50 years old □>51 years old
+
+Education level: □High school □College □Graduate □Doctorate
+
+Occupation: □Student □Service □Manufacturing □Government □Teacher □Military service □Others
+
+Income (NT dollar): □<10000 □10000–30000 □30000–50000 □50000–70000 □>70000
+
+Online shopping experience: □<1 years □1–3 years □3–5 years □5–7 years □>7 years
+
+Online impulse experience: □Yes □No
+
+Part II: research model
+Flow experience (FE)
+Concentration (CO)
+1.
+When I browse shopping websites, I concentrate fully on the activity (CO1).
+
+2.
+When I browse shopping websites, I am not aware of distractions (CO2).
+
+3.
+When I browse shopping websites, I don't think about other things (CO3).
+
+4.
+When I browse shopping websites, my attention is focused on activity (CO4).
+
+
+Control (CT)
+1.
+When I browse shopping websites, I feel in control (CT1).
+
+2.
+When I browse shopping websites, I don't feel confused what to do (CT2).
+
+3.
+When I browse shopping websites, I don't feel frustrated what to do (CT3).
+
+4.
+When I browse shopping websites, I feel calm what to do (CT4).
+
+
+Enjoyment (EN)
+1.
+Browsing shopping websites is fun to me (EN1).
+
+2.
+Browsing shopping websites is one of my favorite activities (EN2).
+
+3.
+Browsing shopping websites is enjoyable to me (EN3).
+
+4.
+Browsing shopping websites would make me feel good (EN4).
+
+
+Web skills (WS)
+1.
+I know how to find what I want with a search engine (WS1).
+
+2.
+I know how to find what I want on shopping websites (WS2).
+
+3.
+I know how to solve it when I have a problem about using shopping websites (WS3).
+
+4.
+I am skilled at using shopping websites (WS4).
+
+
+Challenges (CH)
+1.
+Using shopping websites challenges me (CH1).
+
+2.
+Using shopping websites challenges me to do the best of my ability (CH2).
+
+3.
+Using shopping websites provides a good test of my skills (CH3).
+
+4.
+Using shopping websites would stretch my capabilities to the limits (CH4).
+
+
+Website design (WD)
+1.
+Think that shopping websites take very little time to respond my actions (WD1).
+
+2.
+Think that shopping websites are visually appealing (WD2).
+
+3.
+Think that my navigations with shopping websites are clear and understandable (WD3).
+
+4.
+Think that the information I provides during online transactions will not reach inappropriate parties (WD4).
+
+
+Perceived usefulness (PU)
+1.
+Using shopping websites enables me to find the products easily I am looking for (PU1).
+
+2.
+Using shopping websites enables me to access a lot of products information (PU2).
+
+3.
+Product information on shopping websites is clear and understandable (PU3).
+
+4.
+Using shopping websites enables me to accomplish transactions quickly (PU4).
+
+
+Trust (TR)
+Benevolence (BE)
+1.
+If required help, shopping websites would do their best to help me (BE1).
+
+2.
+Shopping websites consider consumers' interests when problems arise (BE2).
+
+3.
+Shopping websites try to understand my needs and preferences (BE3).
+
+4.
+Shopping websites would concern my well-being (BE4).
+
+
+Competence (CP)
+1.
+Shopping websites have provided good customer service (CP1).
+
+2.
+Shopping websites have provided good knowledge about product information (CP2).
+
+3.
+Shopping websites have the expertise to understand my needs and preferences (CP3).
+
+4.
+Shopping websites are like a real expert in assessing product information (CP4).
+
+
+Integrity (IN)
+1.
+Think that shopping websites are trustworthy (IN1).
+
+2.
+I think that shopping websites are truthful in their dealings with consumers (IN2).
+
+3.
+I think that shopping websites keep promises to their consumers (IN3).
+
+
+Impulse purchasing (IP)
+1.
+When shopping on websites, I often have the idea “buy now, think about it later” (IP1).
+
+2.
+When shopping on websites, I often buy things according to how I feel at the moment (IP2).
+
+3.
+When shopping on websites, I often buy things without thinking (IP3).]]>
+</section>
+
+</publication>

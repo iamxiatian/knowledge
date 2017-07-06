@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<publication marker="zhouzhichao">
+    <journal>International Journal of Information Management</journal>
+    <time>Volume 36, Issue 6, Part A, December 2016, Pages 1042-1052</time>
+    <title>Enterprise social networking: A knowledge management perspective</title>
+    <author>Matti Mäntymäki.</author> Author links open the author workspace.Opens the author workspaceOpens the author workspacea. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace<author>Kai Riemer.</author> Author links open the author workspace.Opens the author workspaceb. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace
+a
+Turku School of Economics, University of Turku, FI-20014, Finland
+b
+The University of Sydney Business School, H69—Economics and Business Building, NSW 2006, Australia
+Show more
+    <doi>https://doi.org/10.1016/j.ijinfomgt.2016.06.009</doi>Get rights and content
+Highlights
+    <highlight id="1">We examine the uses and value of Enterprise social networking (ESN).</highlight>
+    <highlight id="2">We employ a mixed methods approach.</highlight>
+    <highlight id="3">Obtaining ideas through participating work discussions is the chief source of value.</highlight>
+    <highlight id="4">ESN facilitates interactions and offers a space for knowledge creation.</highlight>
+Abstract
+    <abstract><![CDATA[Employees’ sustained knowledge contributions and their engagement in the platform is needed to materialize the organizational benefits from enterprise social networking (ESN). This paper adopts a knowledge management perspective on ESN. ]]><h target="1" match="full">Through a mixed methods approach we examine how employees use ESN and the value of these uses.</h><![CDATA[ With a qualitative content analysis we identify five uses of ESN, problem solving, ideas and work discussion, events and updates, task management, and informal talk. With a survey we further show how these uses drive value of ESN. ]]><h target="3" match="full">The results demonstrate that generating and obtaining new ideas for work by participating in discussions and finding solutions for work-related problems are the key sources of value.</h><![CDATA[ The results further show that the socially and work-oriented ESN uses are closely intertwined. Hence, the informal discussions in ESN are a lubricant for more utilitarian uses that should not be crowded out from the platform. Finally, we theorize that a specific advantage of ESN over information repositories and discussion forums is how ESN enables users to meet their social and work-related goals simultaneously. Our study offers a granular view of ESN use and guidance for developing organizational ESN policies.]]></abstract>
+Keywords
+    <keywords>Enterprise social networking</keywords>
+    <keywords>Enterprise 2.0</keywords>
+    <keywords>Social media</keywords>
+    <keywords>Social software</keywords>
+    <keywords>Mixed methods</keywords>
+    <keywords>Knowledge management</keywords>
+    <section name="Introduction" category="introduction">
+        <![CDATA[
+1. Introduction
+Enterprise social networking (ESN) holds great promises for organizations. According to a McKinsey report (2012), effective use of social technologies can result in 20–25% improvement in knowledge worker productivity. A study by Forrester Research in an organization of 21,000 employees with 7000 Yammer users found a return on investment of 365% on an investment in an ESN platform over three years (Dodd, 2011). Given the prevalence of project work and cross-functional cooperation in today’s knowledge economy, ESN promises to contribute to knowledge management (see von Krogh, 2012), increase employee performance (Kuegler, Smolnik, & Kane, 2015), and hence play a strategic role in a company’s IT portfolio (Karoui, Dudezert, & Leidner, 2015). Against this backdrop, the widespread adoption of ESN by organizations is hardly surprising.
+ESN are web-based platforms that allow people to (1) communicate messages with specific coworkers or broadcast messages to everyone in the organization; (2) explicitly indicate or implicitly reveal particular coworkers as communication partners; (3) post, edit, and sort text and files linked to themselves or others; and (4) view the messages, connections, text, and files communicated, posted, edited and sorted by anyone else in their organization at any time of their choosing (Leonardi, Huysman, & Steinfield, 2013).
+Prior work argues that ESN can bring substantial benefits to knowledge management through increased vertical and horizontal communication (Davison, Ou, Martinsons, Zhao, & Du, 2014), enhanced knowledge transfer (Leonardi & Meyer, 2015), increased social capital (Kline & Konstanze, 2013), and the faster integration of new employees (Leidner, Koch, & Gonzalez, 2010). Since any organizational benefits will materialize only through individuals’ sustained use of the platform (DeLone & McLean, 1992), it is essential to ensure that ESN is valuable for the individual user. Consequently, in order to ensure the active use and contributions of individuals to ESN as a public information good (Fulk, Heino, Flanagin, Monge, & Bar, 2004), it is important to understand how employees use ESN and what constitutes an ESN’s value for its users. Consequently, we examine ESN usage forms (in short: uses) and their value for personal knowledge management (Bhatt, 2002; Razmerita, Kirchner, & Nabeth, 2014). Personal knowledge management refers to a collection of processes that an individual needs to carry out in order to gather, classify, store, search, and retrieve knowledge in his or her daily activities (Razmerita et al., 2014, p. 77).
+Prior research suggests that ESN use can improve the accuracy of people’s metaknowledge (knowledge of “who knows what” and “who knows whom”) at work (Leonardi, 2015), reduce knowledge stickiness (ensure that knowledge is shared) (Leonardi & Meyer, 2015), increase individuals’ social capital (Riemer, Finke, & Hovorka, 2015) and as a result improve employee performance (Kuegler et al., 2015). However, empirical studies that focus on employee use of ESN remain scant (El Ouirdi, El Ouirdi, Segers, & Henderickx, 2015). In particular, the relationship between different uses and the perceived value of the ESN platform is not well understood (Mäntymäki & Riemer, 2014).
+Consequently, this study identifies and empirically investigates different uses of ESN, and examines how these contribute to the perceived value of the ESN platform for personal knowledge management. In doing so, the study contributes to the literature on employee use of ESN for knowledge management (El Ouirdi et al., 2015; Leonardi & Meyer, 2015; Razmerita et al., 2014) and more generally to research advancing the conceptualization and empirical measurement of information technology use (Benbasat & Barki, 2007; Burton-Jones & Straub, 2006).
+Due to the dearth of prior research and a lack of prior theory on the value of ESN use for personal knowledge management, we adopt a mixed methods approach. We first employ a communication genre analysis of three large samples of ESN communication messages to derive initial usage scenarios. We then use the usage scenarios as the basis for developing our measurement of ESN use. Next, we validate the measurement with data collected from 233 active ESN users and derive four usage forms that focus on work-related activities, namely problem solving, ideas and work discussion, events and updates, and task management, as well as one form of use focusing on casual interaction with colleagues, informal talk. Finally, we use partial least squares (PLS) to examine the extent to which these forms of use contribute to the value of ESN for personal knowledge management.
+Our results show that the facilitation of new idea generation and the further development of those ideas through discussions with colleagues are the key source of value of ESN for personal knowledge management. The results also imply that non-work-related interactions with colleagues have a positive effect on more utilitarian uses of ESN.
+
+The paper proceeds as follows. We begin with a review of prior ESN research before we present the qualitative pre-study, instrument development and instrument testing. The next section contains the theoretical underpinnings of the research model and hypotheses. After that, we present the results from testing the research model, before we present and discuss the key findings of the study and outline our contributions to IS theory and practice. We conclude by discussing the limitations of the study and proposing directions for future research.]]>
+    </section>
+    <section name="Background" category="background">
+        <![CDATA[
+2. Background
+ESN refers to a set of technologies that include the foundational features associated with social network sites but which are implemented within organizations, sanctioned by management, and have the ability to restrict membership to certain members of a specific organization (Ellison, Gibbs, & Weber, 2015).
+ESN can be viewed as a subset of the Enterprise 2.0 phenomenon (McAfee, 2009), which refers to the application of social software more generally (von Krogh, 2012), such as social networking sites, blogs, wikis, microblogging or social bookmarking services (Razmerita et al., 2014), in an organizational context. Today’s ESN applications, such as Yammer, Chatter, Jive or IBM Connections resemble social network sites in that they are aggregations of different tools (Smock, Ellison, Lampe, & Wohn, 2011) including wikis, instant messaging, and microblogging. Because the body of literature focusing specifically on employee use of ESN for personal knowledge management is very small, we also draw on the literature on the use of social media in the workplace more generally.
+Recent research offers initial empirical evidence that ESN use is positively associated with employee performance (Riemer et al., 2015). Riemer et al. (2015) found that individuals draw social capital and associated benefits from their use of ESN in day-to-day work. Further research found that ESN can help overcome the challenges associated with organizational knowledge sharing, such as locating of expertise, motivation to share knowledge and developing and maintaining social ties with knowledge bearers (Fulk and Yuan, 2013). According to Ellison et al. (2015) ESN can improve knowledge sharing in distributed multinational organizations through increased social capital, support for relationships and interactions, content collapse, and network interactions. The transparency of other people’s interactions in ESN further helps knowledge seekers to obtain interpersonal and knowledge-related material, which they use to facilitate their interaction with knowledge sources. Hence, ESN can reduce knowledge stickiness (Leonardi & Meyer, 2015). As a result, ESN among other social media applications are superior to traditional knowledge management systems in addressing these challenges as they blend the communal and the connective sharing of knowledge (Fulk & Yuan, 2013).
+ESN enables knowledge management with diverse benefits depending on the level of control (individualistic/collectivistic) and the level of interaction with respect to content creation (Razmerita et al., 2014). Tools emphasizing individuals in control of content creation such as microblogs and social network sites allow people to effectively manage tasks and interactions. Tools with a collective focus, such as content communities and wikis, offer a higher level of interaction in content creation (Razmerita et al., 2014). Interactive content creation in turn can increase diversity of knowledge and thus contribute to the externalization of knowledge, learning, and knowledge creation (Nonaka & Von Krogh, 2009).
+As a result, the use of ESN creates the opportunity to transform knowledge sharing in the workplace from an intermittent, centralized knowledge management process into a continuous online knowledge conversation between strangers that results in unexpected interpretations and re-uses, and dynamic emergence (Majchrzak, Faraj, Kane, & Azad, 2013).]]>
+    </section>
+    <section name="Measuring ESN use" category="methods">
+        <![CDATA[
+3. Measuring ESN use
+3.1. Identifying use cases with communication genre analysis
+]]><h target="2" match="part">We employ a mixed methods approach that consists of a qualitative pre-study and a survey. We first classified a large sample of ESN communication messages to identify different uses of ESN. Based on the results of the qualitative content analysis, we then developed the measurement instrument to be used in the survey part of the study.</h><![CDATA[
+
+According to Venkatesh, Brown, and Bala (2013, p. 16) a mixed methods approach is used to “provide a holistic understanding of a phenomenon for which extant research is fragmented, inconclusive, and equivocal”. In addition, a “mixed methods approach will be a powerful mechanism [to] interject context into a research inquiry” (Venkatesh et al., 2013, p. 16). Since prior research on the employee use and value of ESN is scant, our contextual anour results demonstrate that the unique valued theoretical understanding of the ESN phenomenon remains in a nascent stage. Hence, a mixed methods approach was considered appropriate for the aim of this study.
+In the first stage of the study, we employed genre analysis to classify a set of 5906 messages exchanged in three organizations that use Yammer. Yammer is Microsoft’s ESN platform and a leader in the ESN market with 500,000 user organizations. Two of the organizations were from Australia, one a branch of a large international professional services company, the other a large bank; the third organization was the German branch of a large international IT consulting firm.
+
+We employed genre analysis to classify the ESN messages. Genre analysis is an instrument for eliciting the communication practices of a social group: “in identifying and labelling genres we try to capture the gestalt of the various components of the communicative act” (Kwasnik & Crowston, 2005, p. 80). Communication genres are “socially recognized types of communicative actions […] that are habitually enacted by members of a community to realize particular social purposes” (Yates, Orlikowski, & Okamura, 1999, p. 84). Genres develop over time as a response to recurring communication situations (Orlikowski & Yates, 1994). Conceptually, a genre is a class of communicative events; and communication events are instantiations of a genre (Swales, 1990). Hence, communicative purpose is the primary criterion by which to identify communication genres (Askehave & Swales, 2001). As a result, genre analysis is an appropriate technique to identify different uses of ESN.
+Each company ESN data set was analyzed by one primary researcher, with a second researcher acting as a discussant who independently engaged with the data. Each message was interpreted in the context of its conversation thread by assigning it to one of many genres codes that label a particular message in the ESN space according to the reason for posting it. Thus, the genre codes emerged through constant iteration. In each case, an initial set of genres was first discussed and agreed upon and further messages successively coded. Whenever a new genre candidate occurred it was compared to the existing genres. If it did not match these genre codes, we created a new code. Consequently, all previously coded messages were reviewed and recoded with the new set of genres. During the coding process, genre codes were frequently merged or split to reflect emerging interpretations. The result of this genre analysis was a set of around twenty sub genres that were grouped to form nine use cases. In total, 7053 genre codes were assigned. Table 1 summarizes the coding results.
+Table 1. Summary of coding results.
+Total Rank	Company1	Company2	Company3
+% of codes (n = 1419)	Rank	% of codes (n = 2166)	Rank	% of codes (n = 3468)	Rank
+Work Discussion	1	40.0	1	41.3	1	38.3	1
+Input Generation	2	10.4	4	13.5	2	13.2	3
+Problem-solving	2	16.9	2	10.9	3	12.0	4
+Social Praise	3	6.6	6	7.9	5	13.3	2
+Status Updates	4	13.9	3	5.0	7	3.0	7
+Informal Talk	5	9.9	5	4.4	8	5.7	6
+Event Notifications	6	0.4	8	8.5	4	1.7	8
+Idea Generation	6	0.0	9	5.8	6	11.6	5
+Task Management	7	1.6	7	2.2	9	0.2	9
+Since our aim was to further investigate the role of different ESN uses within a survey, we combined the use cases that had similar content in order to obtain a set of potential constructs that are distinct from one another. Hence, we decided to combine Input Generation and Idea Generation as well as Status Updates and Event Notifications, and Social Praise and Informal Talk. As a result, we ended up with six use cases that are described in the following.
+
+3.1.1. Work discussion
+People use ESN to discuss work-related matters but also other topics of general interest such as politics and sports. These discussions often lead to long conversational message exchanges. Therefore, in terms of the number of appearances, these discussions make up the largest share of messages identified in the analysis. We classified discussions into two use cases, one containing the work-related discussions and the other focusing on the non-work-related informal discussions. The first category, Work Discussion thus contains messages related to expressing opinions on current work activities, corporate matters or industry-related news.
+
+3.1.2. Informal talk
+In addition to work-oriented discussions, people use ESN to discuss and voice their opinions on general affairs such as news and topics of interest such as sporting events and hobbies. Thus, the messages classified into the Informal Talk category differ in content but not form from work discussions. Furthermore, informal talk is directed at maintaining interpersonal relationships and building social cohesion rather than contributing to work activities.
+
+3.1.3. Ideas and input generation
+This use case captures all messages that generate new ideas or new input for users of the network. This is done in two ways. Firstly, users share various forms of external input with the wider group, such as links to articles, studies or files. These are unsolicited messages posted to no one in particular, but based on the belief that the input will be useful for others. Secondly, users sometimes post requests for input and ideas regarding a product or project specified by the message sender. This solicits input and ideas from others and can result in brief message exchanges and occasionally in more extensive brainstorming discussions. The focus in each case is on providing and obtaining new inputs for personal knowledge management.
+
+3.1.4. Problem solving
+Users frequently draw on the ESN to ask others for help by outlining a specific problem or by asking others to find a resource or expert able to solve a problem. Compared to the messages classified into Ideas and Input Generation, these problems are generally very specific and directly associated with the sender’s day-to-day work. In turn, other users provide a solution, ask for more background information, discuss the problem, provide access to a resource (such as a document), offer their experiences, best practices, or the contact details of experts. By doing so, the problem is often solved quickly—indicated by the sender thanking those who provided responses.
+
+3.1.5. Updates and events
+People use ESN to notify other users about what they are working on, what is happening in their work environment and also about upcoming events. By doing so users create awareness in others about what is going on and at the same time present themselves and their projects and activities to the user group. Moreover, they promote events, interest others in joining events or simply share information on events that they think are of wider interest. Specifically, users mostly send simple status update messages into the message stream and do not necessarily solicit any reply messages. Compared to Ideas and Input Generation and Problem-solving, messages in this category are not directed at solving any specific problem or generating ideas.
+
+3.1.6. Task management
+ESN are also used to co-ordinate work tasks that require input from several people, sometimes in a particular sequence. Task Management captures those messages in which users report their progress with a specific task and/or ask about their colleagues' progress in a focused and quite team-specific way.
+
+3.2. Instrument development
+We used the six use cases as a basis for developing instruments to measure ESN use. We followed Moore and Benbasat’s (1991) and Davis’s (1989) suggestions for new scale development and conducted the scale development in three stages: item creation, scale development and instrument testing.
+At the item creation stage, we developed a list of preliminary items covering the use cases identified from the qualitative pre-study. This list was presented to a group of active Yammer users and a group Yammer development team employees for feedback. Finally, we presented the list of measurement items to a group of three senior IS and marketing scholars for comments and revisions.
+For scale development, we undertook a series of Q-sorting exercises. The purpose of the Q-sorting was first to ensure that the items measured their intended use cases and did not overlap with other use cases and second that we ensured construct validity. We recruited a group of active Yammer users (3) and a group of IS scholars (3) to sort the items into categories based on the similarities and differences among them.
+In the first stage of sorting, the sorters were asked to group the items in the most appropriate way. We then asked the sorters to name the groups they had created and elaborate on any challenges they had with grouping items. Based on the results of the sorting and the feedback from the sorters, items were refined and a few clearly overlapping ones removed. This approach allowed obtaining the construct names and meanings from several individuals, which reinforces construct validity. In the second stage of the sorting exercise, we presented the sorters with the constructs and their definitions and asked them to group the items. The lowest value for Cohen's kappa was 0.841, which supported proceeding onto the instrument testing stage.
+
+Instrument testing was undertaken with a pilot survey distributed to 51 Yammer users, in order to check the internal consistency of the newly developed constructs. The items were measured on a five-point scale anchored from Never to Very Often (Schriesheim & Schriesheim, 1978). The Cronbach's alphas for the newly developed constructs exceeded 0.7 and thus exhibited good internal consistency.
+Based on the work of Zeithaml (1988) and Sirdeshmukh, Singh, and Sabol (2002), we conceptualized the dependent variable, value, as the evaluation of the benefits of using an ESN for obtaining, processing and distributing work-related information when compared against the respective costs and adopted the measurement from Fulk et al. (2004). In contrast to Fulk et al. (2004), we employed multi-item measurement to incorporate value perceptions related to discussing and sharing work-related information. The items measuring value were measured on a 10-point scale anchored from ‘Not at all’ to ‘Totally’. Finally, we included gender, age and line management responsibility as control variables. The final list of measurement items is presented in Table 2.
+Table 2. The Survey instrument.
+Item	Measurement
+I&I1	I read my colleagues' postings to find pieces of information useful for my work.
+
+I&I2	I read the information posted on Yammer to get new ideas for my work.
+
+I&I3	I use Yammer to see my colleagues' opinions on topical work-related matters.
+
+I&I4a	I use Yammer to look for work-related information.
+
+WD1	I use Yammer to discuss matters related to the company.
+
+WD2	I use Yammer to express my opinions on topical work-related matters.
+
+WD3a	I participate in brainstorming discussions on Yammer.
+
+PS1	I use Yammer to ask my colleagues to suggest ideas for the tasks I am involved in.
+
+PS2	When I encounter a problem in my work, I use Yammer to ask for help from my colleagues.
+
+PS3	When I encounter a problem in my work, I use Yammer to outline my problem.
+
+Manag1	I use Yammer to ask my colleagues about the tasks they are working on.
+
+Manag2	I use Yammer to be informed about the progress of my colleagues’ tasks.
+
+Manag3	I use Yammer to inform my colleagues when I have finished a task.
+
+E&U1	I use Yammer to inform my colleagues about forthcoming events, such as training, workshops, etc.
+
+E&U2	I use Yammer to inform my colleagues about forthcoming events I intend to participate in.
+
+E&U3	I use Yammer to notify my colleagues about what is happening in my work environment.
+
+E&U4	I use Yammer to receive information about forthcoming events, such as training, workshops, etc.
+
+E&U5a	I use Yammer to give my colleagues updates on the things I am working on.
+
+E&U6a	I use Yammer to see what my colleagues are currently working on.
+
+Talk1	I use Yammer to post things I found funny or entertaining.
+
+Talk2	I use Yammer to discuss matters of general interest such as politics, economy, society or sports.
+
+Talk3	I use Yammer to read amusing things posted by my colleagues.
+
+Talk4a	I use Yammer to praise my colleagues for their good work.
+
+VALUE1	Think about how valuable Yammer has been in helping to discuss work-related information. Given the time and effort you have invested in using it, to what extent do you think Yammer is worth it?
+
+VALUE2	Think about how valuable Yammer has been in helping to obtain work-related information. Given the time and effort you have invested in using it, to what extent do you think Yammer is worth it?
+
+VALUE3	Think about how valuable Yammer has been in helping to share work-related information. Given the time and effort you have invested in using it, to what extent do you think Yammer is worth it?
+a
+Omitted from the measurement based on exploratory factor analysis.
+
+3.3. Data collection
+After instrument development, we proceeded to the main data collection stage to test the instrument with a larger sample. Data was collected with an online questionnaire from five Australian organizations that have adopted, and actively use Yammer as part of their day-to-day work practices. Two organizations were global professional services companies, one a large national telecommunications company and two were medium-sized companies operating in the business-to-business market. In total 258 respondents completed the survey. After screening 233 usable and complete responses were retained for further analysis. The average age of the respondents was 38. In total 41.6% of the respondents were female and 51.9% of the respondents had started working at their current company after 2009. Lastly, 38.2% of the respondents had line management responsibility.
+
+3.4. Instrument testing
+For instrument testing, we employed an exploratory factor analysis (EFA) (Costello & Osborne, 2005). The results of the EFA are presented in Appendix A. Maximum likelihood estimation and direct oblimin rotation was used as advised by Fabrigar, Wegener, MacCallum, and Strahan (1999) and Costello and Osborne (2005). In contrast to orthogonal rotation methods such as Varimax, direct oblimin rotation is an oblique rotation technique and does not assume that factors are uncorrelated (Ford, MacCallum, & Tait, 1986). Since the use scenarios represent different ways of using the ESN, it is conceptually plausible to assume that they may be correlated. Five factors with eigenvalues greater than 1 (Fabrigar et al., 1999) emerged from the factor analysis. We considered items with loadings exceeding 0.5 on one factor and cross-loadings below 0.3 in the EFA to represent sufficient convergent and discriminant validity for further analysis (Hair, Black, Babin, & Anderson, 2014). As is evident from Table 2 and Appendix A, seven items were omitted from further analysis because they did not fulfil the criteria.
+Ideas and input and work discussion loaded on the same factor, while other use cases emerged from factor analysis as separate factors. As a result, we identified five distinct forms of ESN use, (1) obtaining ideas and participating in work discussions, (2) obtaining solutions for work problems, (3) managing and coordinating tasks with colleagues, (4) giving and receiving updates on events and topical issues in one's work environment, and (5) informal talk. The research constructs with definitions are presented in Table 3.
+Table 3. Constructs and definitions.
+Construct	Definition
+Value (Fulk et al., 2004; Razmerita et al., 2009; Zeithaml, 1988)	The evaluation of the benefits of using an ESN for obtaining, processing and distributing work-related information when compared against the respective costs.
+
+Ideas & work Discussion	ESN use to obtain ideas and participate in work-related discussions.
+
+Problem solving	ESN use to obtain solutions for work problems.
+
+Task management	ESN use to manage and co-ordinate tasks with colleagues.
+
+Events & updates	ESN use to give and receive updates on events and topical issues in one's work environment.
+
+Informal talk	ESN use for discussions related to matters of general interest that are note related to work, such as sports, news, and politics.]]>
+    </section>
+<section name="Research model and hypotheses" category="research model and hypotheses">
+    <![CDATA[
+4. Research model and hypotheses
+4.1. Theoretical underpinnings
+Our dependent variable is the value that ESN holds for an individual’s personal knowledge management, i.e. obtaining, processing, and distributing work-related information when compared against the respective costs such as time and effort invested in using the system (Fulk et al., 2004; Razmerita, Kirchner, & Sudzina, 2009; Zeithaml, 1988).
+A core premise in psychology is that human agents tend to act towards outcomes that they value (Lawler & Porter, 1967; Porter, 1961). Furthermore, according to cognitive dissonance theory people strive for consistency between their beliefs, attitudes, and behaviors (Festinger, 1957). Hence, from a theoretical standpoint, it is theoretically well conceivable that increased ESN use is positively associated with the increased value perceived by the user.
+From an economics perspective, public goods theory (Samuelson, 1954; Stiglitz, 1999) further supports this argument. According to public goods theory the information posted and stored in a knowledge repository, such as an ESN, represents a public information good (Fulk et al., 2004) that is available for all ESN users. The value of a public information good is in turn dependent on the contributions of individuals (see Chai & Kim, 2012; Wasko & Faraj, 2005). Individuals are more likely to contribute to a public information good if they perceive its content to be valuable (Fulk et al., 2004). As a result, to promote sustained usage and active contributions to a platform, it is essential to understand how different ESN uses contribute to value.
+In addition to being valuable for obtaining, processing, and distributing work-related information, enterprise social media tools such as ESN enable social and hedonic uses that are not directly work-related (cf. Ali-Hassan, Nevo, & Wade, 2015). The socially and hedonically oriented uses of ESN, such as casual conversations with colleagues, can lubricate other social interactions, reinforce perceptions of social capital (Ali-Hassan et al., 2015; Kwahk & Park, 2016), and thus ultimately lead to increased utility-oriented ESN usage.
+4.2. Hypotheses
+A key difference between ESN and traditional knowledge management systems and corporate intranets is that ESN naturally facilitate the posting of information in an unsolicited way, as well as commenting on the documents and the contributions of other users (Majchrzak et al., 2013). The ensuing user narratives amend the existing content and documents, and help to contextualize the information, which in turn can enhance the creation of both explicit and tacit knowledge (Alavi & Leidner, 2001). As a result, ESNs can have a positive influence on the organization's collective transactive memory (Choi, Lee, & Yoo, 2010; Trier & Richter, 2015) and spur the serendipitous discovery of new information (Zhao & Rosson, 2009).
+For individual users, work-related discussions with colleagues and using ESN to obtain new ideas represent a form of online brainstorming (Hymes & Olson, 1992). Thus, ESN for these purposes can support innovating and co-operation with colleagues (Mäntymäki & Riemer, 2014) and thus improve one’s job performance.
+As a result, it is plausible to assume that use of ESN for obtaining ideas and participating in work discussions is positively associated to the value of the platform.
+H1
+
+The use of ESN to obtain ideas and participate in work-related discussions has a positive effect on the value of the ESN.
+
+
+In addition to using ESN to discuss broader work-related topics and obtaining new ideas for work, ESN can be used for solving immediate, specific, and clearly articulated problems. This typically takes place by posting the problem and asking for replies and solutions from other users (Beck, Pahlke, & Seebach, 2014).
+This practice amounts to a form of ad-hoc, internal crowdsourcing. Crowdsourcing is generally described as a “web-based activity that harnesses the creative contributions of a diverse large network of individuals (the crowd) through an open call requesting for their participation and contributions” (Stewart, Lubensky, & Huerta, 2010). This internal crowdsourcing not only helps to solve the specific problem at hand but also makes locating knowledge and connecting knowledge seekers with knowledge contributors more effective (Beck et al., 2014; Leonardi, 2015). Hence, problem solving as a form of ESN use can support knowledge transfer (Tsai, 2001), and thus benefit the organization as well as the individual (Felin & Hesterly, 2007). As a result, we associate ESN use for problem solving with a user’s value perceptions.
+H2
+
+The use of ESN to obtain solutions for work problems has a positive effect on the value of the ESN.
+
+
+Social technologies such as ESN can contribute directly to the processes of horizontal and vertical communication within organizations (Davison et al., 2014). In ESN users can communicate by posting updates and reacting and commenting on other users’ updates, as well as by using the instant messaging features for private conversations. Since many activities in knowledge work require collaboration with other people and/or are dependent on others’ input, ESN communications can be an effective means to manage and co-ordinate tasks that include multiple contributors. This benefit of ESN relates to what Majchrzak et al. (2013) refer to as ‘triggered attending’, staying informed yet passive until one’s input is needed. As a result, we reason that using ESN for task co-ordination affects the value of ESN.
+H3
+
+The use of ESN to manage and co-ordinate tasks with colleagues has a positive effect on the value of the ESN.
+
+
+One purpose of ESN communications is to update other users in the network about what is going on in the workplace environment. In doing so the users actively engage in the creation of awareness (Dourish & Bellotti, 1992). Awareness in a distributed work context is defined as “an understanding of the activities of others, which provides a context for your own activity” (Dourish & Bellotti, 1992, p. 107); it “involves knowing who is ‘around’, what activities are occurring, who is talking with whom; it provides a view of one another in the daily work environments” (Dourish & Bly, 1992, p. 541). While awareness emerges naturally and is usually taken for granted in traditional co-located and face-to-face contexts (Gutwin & Greenberg, 2002), in technologically mediated environments, information about others, their activities, context, etc. is not immediately present (Scupelli, Kiesler, Fussell, & Chen, 2005). A lack of such information is viewed to create the co-ordination problems typically seen in distributed work (Rennecker, 2005). Thus, we argue that providing and receiving brief updates on topical issues is positively associated with value.
+H4
+
+The use of ESN to give and receive updates on events and topical issues in one's work environment has a positive effect on the value of the ESN.
+
+
+People further use ESN as a way to manage, interact, and keep track of their social relationships for both personal and professional purposes (Razmerita et al., 2014). Thus, it is plausible to assume that alongside work-related communication, people use ESN for casual conversations with their colleagues. Through these conversations, people establish and people maintain interpersonal relationships, learn what is important in the organization, and how others interpret and talk about matters of interest.
+As a result, the casual, non-work related discussions and interactions can help people to build common ground (Clark & Brennan, 1991), mutual knowledge (Cramton, 2001), cognitive social capital (Nahapiet & Ghoshal, 1998), and social ties between employees with different backgrounds and interests (Kwahk & Park, 2016). By facilitating these interactions and making people’s connections and prior interactions visible to one another, ESN acts a ‘social lubricant’ for interpersonal relationships (Leonardi & Meyer, 2015).
+Against this backdrop, it is not surprising that social and hedonic uses of enterprise social media can have a positive influence on users’ perceptions of social capital, and that social capital has a positive influence on employees’ job performance (Ali-Hassan et al., 2015; Riemer et al., 2015). As a result, it is plausible to assume that the informal discussions with colleagues on ESN lubricate social interactions and hence have a positive effect on the more work- and utility-oriented uses of ESN.
+H5
+
+The use of ESN for informal talk has a positive effect on using ESN to obtain ideas and participate in work-related discussions.
+
+H6
+
+The use of ESN for informal talk has a positive effect on using ESN to obtain solutions for work problems.
+
+H7
+
+The use of ESN for informal talk has a positive effect on using ESN to manage and co-ordinate tasks with colleagues.
+
+H8
+
+The use of ESN for informal talk has a positive effect on using ESN to give and receive updates on events and topical issues in one's work environment.
+
+
+The resulting research model is presented in Fig. 1.
+Fig. 1
+Download high-res image (234KB)Download full-size image
+Fig. 1. The research model.]]>
+</section>
+    <section name="Empirical research" category="results">
+        <![CDATA[
+5. Empirical research
+5.1. Measurement
+After establishing measurements for the use scenarios, we analyzed the research model using partial least squares (PLS) structural equation modeling. We adopted PLS due to its three advantages over covariance-based methods (e.g., LISREL): (1) PLS maximizes the explained variance of endogenous variables in the structural model (Chin, 1998), which enables us to understand the amount of variance explained in the constructs, (2) PLS does not make distributional assumptions about the data (Ahuja & Thatcher, 2005; Chin, 1998) and (3) is particularly suitable for the earlier stages of theory development and exploratory research (Hair, Ringle, & Sarstedt, 2011).
+We used three criteria to evaluate convergent validity: (1) all indicator factor loadings should be significant and exceed 0.70 (Chin, 1998); (2) composite reliabilities should exceed 0.70 (Fornell & Larcker, 1981); and (3) the average variance extracted (AVE) by each construct should be greater than the variance due to measurement error (AVE > 0.50) (Fornell & Larcker, 1981). Item loadings and cross loadings with means and standard deviations are presented in Table 4.
+Table 4. Item loadings and cross-loadings.
+MEAN	S.D.	Age	Events & updates	Gender	Informal talk	Line manager role	Task
+management	Problem solving	Ideas & work discussion	Value
+Age	38.260	9.760	1.000	−0.084	0.122	−0.153	−0.132	−0.117	−0.078	−0.135	−0.069
+Gender	1.580	0.494	0.122	−0.184	1.000	−0.206	−0.055	0.040	−0.252	−0.315	−0.331
+E&U1	2.350	1.150	−0.059	0.912	−0.156	0.395	−0.086	0.525	0.512	0.591	0.484
+E&U2	2.080	1.117	−0.035	0.888	−0.134	0.468	−0.038	0.526	0.550	0.590	0.426
+E&U3	2.330	1.114	−0.126	0.849	−0.158	0.439	−0.022	0.625	0.602	0.619	0.557
+E&U4	2.430	1.147	−0.062	0.861	−0.194	0.403	−0.061	0.484	0.465	0.597	0.486
+Talk1	1.890	0.977	−0.184	0.498	−0.187	0.930	0.044	0.427	0.492	0.527	0.447
+Talk2	2.250	1.075	−0.109	0.366	−0.200	0.874	0.094	0.386	0.373	0.491	0.415
+Talk3	2.010	1.050	−0.117	0.441	−0.168	0.891	0.049	0.290	0.521	0.546	0.416
+Line manager	1.610	0.484	−0.132	−0.058	−0.055	0.069	1.000	0.087	0.018	−0.063	0.003
+Manage1	1.850	1.019	−0.093	0.614	−0.053	0.419	0.009	0.904	0.454	0.461	0.424
+Manage2	2.020	1.058	−0.126	0.523	0.047	0.351	0.130	0.927	0.373	0.348	0.384
+Manage3	2.370	1.140	−0.104	0.560	0.135	0.350	0.110	0.914	0.449	0.333	0.346
+PS1	2.370	1.140	−0.140	0.595	−0.276	0.487	0.047	0.480	0.885	0.682	0.601
+PS2	2.440	1.113	−0.036	0.542	−0.255	0.464	−0.024	0.399	0.949	0.675	0.620
+PS3	2.260	1.057	−0.039	0.548	−0.162	0.471	0.028	0.407	0.928	0.636	0.574
+I&WD1	3.240	1.122	−0.084	0.545	−0.195	0.409	0.071	0.407	0.577	0.812	0.617
+I&WD2	2.810	1.190	−0.131	0.511	−0.189	0.374	−0.016	0.368	0.553	0.773	0.564
+I&WD3	2.910	1.212	−0.110	0.622	−0.322	0.523	−0.110	0.344	0.608	0.914	0.603
+I&WD4	2.750	1.256	−0.125	0.610	−0.308	0.578	−0.073	0.333	0.645	0.859	0.604
+I&WD5	2.690	1.232	−0.125	0.616	−0.319	0.574	−0.142	0.335	0.680	0.884	0.586
+Value1	5.970	2.434	−0.085	0.481	−0.305	0.418	−0.003	0.376	0.543	0.585	0.927
+Value2	5.800	2.534	−0.033	0.549	−0.345	0.462	0.004	0.396	0.649	0.699	0.965
+Value3	5.990	2.619	−0.081	0.567	−0.294	0.471	0.006	0.434	0.654	0.707	0.960
+All item loadings exceeded 0.7 and were significant at the 0.001 level. Furthermore, the AVEs, composite reliabilities and Cronbach's alphas presented in Table 5 below show that the constructs exhibit good convergent validity.
+Table 5. AVEs, composite reliabilities and Cronbach's alphas of the constructs.
+AVE	Composite Reliability	Cronbach's Alpha
+Events & updates	0.771	0.931	0.901
+Informal talk	0.807	0.926	0.880
+Task management	0.837	0.939	0.903
+Problem-solving	0.849	0.944	0.910
+Ideas & work discussion	0.722	0.928	0.903
+Value	0.904	0.966	0.947
+We examined the discriminant validity at both item and construct level. For the item-level discriminant validity, we examined the item cross-loadings. As can be seen from Table 4, all items load higher on their intended construct than on any other construct. With respect to discriminant validity at construct level, we examined whether the square root of AVE for each construct was higher than the correlation between it and other constructs (Fornell & Larcker, 1981). Table 6 shows that all construct pairs met this requirement. Hence, we concluded that our measures exhibit good discriminant validity at both item and construct level.
+Table 6. Correlations between constructs (bolded items in the main diagonal square roots of AVEs).
+Age	Events & updates	Gender	Informal talk	Line manager	Task management	Problem
+solving	Ideas & work discussion	Value
+Age	n/a								
+Events & updates	−0.084	0.878							
+Gender	0.122	−0.184	n/a						
+Informal talk	−0.153	0.486	−0.206	0.898					
+Line manager role	−0.132	−0.058	−0.055	0.069	n/a				
+Task management	−0.117	0.620	0.040	0.411	0.087	0.939			
+Problem-solving	−0.078	0.610	−0.252	0.515	0.018	0.465	0.921		
+Ideas & work discussion	−0.135	0.685	−0.315	0.580	−0.063	0.421	0.722	0.850	
+Value	−0.069	0.562	−0.331	0.475	0.003	0.424	0.650	0.701	0.951
+To ensure the reliability of the measurement, we addressed the potential concern for common method bias (Podsakoff & Organ, 1986). First, we applied Lindell and Whitney (2001) marker variable approach and selected a theoretically unrelated variable, a qualitative overload from Ahuja and Thatcher (2005) to serve as a marker variable. The highest correlation between the marker variable and our constructs was 0.074 (problem-solving) and hence the shared variance between the marker variable and Problem-solving was 0.055, respectively. Thus, we concluded that common method bias is unlikely to distort the interpretations.
+We also tested for multicollinearity among the constructs in the model by calculating the variable inflation factors (VIFs). According to Thatcher and Perrewé (2002), when VIFs exceed 10, multicollinearity biases the result. The results indicated that all of the VIFs were lower than 3, with the highest VIF being 2.23. Our analysis therefore indicated that multicollinearity did not influence the results.
+5.2. Results
+We next analyzed the structural model to examine the significance and strength of hypothesized relationships. Bootstrapping with 5000 subsamples was employed to obtain t-values for the standardized path coefficients. A 2-tailed t-test was used to calculate the significance of the path coefficients. The results from testing the hypotheses are presented in Fig. 2.
+Fig. 2
+Download high-res image (391KB)Download full-size image
+Fig. 2. Results.
+Altogether, the model yielded an explanatory power of 56.0 percent for the dependent variable, value. Out of the eight hypothesized relationships, seven were statistically significant. Ideas & work discussion was the principal predictor of value, followed by Problem solving, thus supporting H1 and H2. Moreover, aligned with H3, Task management exerted a statistically significant, albeit small, effect on value. Contrary to H4, Events & updates did not contribute to value. Informal Talk had a positive influence on all other ESN uses, and hence, H5, H6, H7, and H8 were supported.
+
+We used respondent age, gender and line manager role as control variables. Male respondents considered ESN slightly less valuable than females and gave lower scores to Problem solving, Informal talk as well as Ideas & work discussion, but higher scores to Task management. Lastly, respondents in a line manger role gave Ideas & work discussion lower scores than those without such a role. ]]>
+    </section>
+    <section name="Discussion" category="discussion">
+        <![CDATA[
+6. Discussion
+6.1. Key findings
+The study empirically identified a set of ESN uses and examined their relative effects in predicting the value of ESN for personal knowledge management.
+
+First, our results show that people value ESN as a space for sharing ideas and information. In doing so, ESN helps to fulfil the information needs of users in a self-organized and conversational manner. This aspect of the ESN use was clearly observable in the qualitative pre-study, whereby users post unsolicited information for each other.
+
+Hence, ESN as a self-organizing social and information space works similarly to a market for information and ideas rather than as a work tool serving a predefined task. In this respect, ESN differs from traditional groupware systems (Fjermestad & Hiltz, 1998; Zigurs & Buckland, 1998), which are typically developed using structured information needs analysis and planning approaches (e.g. Dorner, Gorman, & Calvert, 2014). ESN can create value for innovation by helping people to address and elaborate unstructured, ill-defined problems. Against this backdrop, it is likely that the performance impact of ESN is stronger on non-routine than routine tasks (Kuegler et al., 2015).
+Second, our results show that informal discussions in ESN have a strong positive association with the more utility-oriented uses of ESN. This supports Jarrahi and Sawyer (2013) who have argued that a key benefit of social technologies such as ESN is that they support informal interactions and the building of social connections across organizational boundaries. In doing so, the social and hedonic uses of ESN help to build a common ground between users and hence contribute to the building of social capital (Ali-Hassan et al., 2015; Makkonen & Virtanen, 2015; Nahapiet & Ghoshal, 1998; Wasko & Faraj, 2005) and shared cognition (Cannon-Bowers & Salas, 2001) that in turn are important to build and sustain a public information good. In other words, without such informal conversations the community from which individuals derive informational value might not emerge and exist in the first place.
+6.2. Implications for research
+As the value of a public information good is dependent on individuals’ contributions (Fulk et al., 2004) and the benefits from IT investments typically materialize through sustained use (Bhattacherjee, 2001), understanding the relationship between value and different ESN uses at an individual level benefits both IS research and practice. In particular, our findings contribute to the nascent research on the individual-level ESN use and value for personal knowledge management (Razmerita et al., 2009, 2014; von Krogh, 2012). In addition, by identifying a set of concrete ESN uses our study adds to prior research on affordances of ESN (Fulk & Yuan, 2013; Majchrzak et al., 2013) and use of social media in an organizational context (Ali-Hassan et al., 2015).
+]]><h target="4" match="part">First, our results demonstrate that the unique value of ESN for an individual stems from its abilities to facilitate the generation of new ideas though interactions with colleagues. Thus, in addition to improving connective knowledge sharing by making people’s interactions and connections visible to others (Leonardi, 2015), our results suggest that ESN can become valuable for communal knowledge sharing by offering a space for crowdsourcing ideas and insights.</h><![CDATA[ In other words, ESN facilitates continuous sharing of information formally and informally. These ‘knowledge conversations’ (Majchrzak et al., 2013) in turn are essential for knowledge creation. Knowledge creation can be understood as the interplay of individuals interacting in a collective place (Razmerita et al., 2014). Interactions in turn are a key building block of organizational knowledge creation (Bhatt, 2002). Taken together, our study shows that by offering a common space for discussing new ideas and supporting interaction between individuals (Leonardi & Meyer, 2015), ESN can contribute to the transferability of knowledge (Grant, 1996), which helps transform personal knowledge into organizational knowledge (Nonaka & Von Krogh, 2009).
+Second, by identifying five different dimensions of ESN use and examining their effect on value for personal knowledge management the present study responds to the calls for enriching the conceptualization of IT use (Benbasat & Barki, 2007; Burton-Jones & Straub, 2006) and advances the understanding of how people use social media tools in the workplace (Ali-Hassan et al., 2015; Kuegler et al., 2015). To this end, our results show that the social and utility-oriented goals are closely intertwined in ESN use. This aligns with Yates and Orlikowski (1992) who maintain that organizational communication has multiple, also other than task-oriented or work-related, functions. Compared to traditional, strictly work-oriented knowledge management systems, ESN are malleable technologies (Richter & Riemer, 2013) that offer superior support for multifinality (Köpetz, Faber, Fishbach, & Kruglanski, 2011), i.e. meeting users’ different, sometimes even conflicting, goals simultaneously. This can be valuable in sustaining active use and knowledge contributions and ultimately ensure the value of the platform as a public information good.
+6.3. Implications for practice
+Our study has implications for organizations considering whether to adopt ESN, as well as organizations seeking to maximize return on their existing ESN investment. In addition, our results offer insight for ESN developers wishing to design features and functionalities that create value for their customers.
+
+]]><h target="3" match="full">First, our results show that obtaining and generating ideas for one's work and engaging in discussions with colleagues are the primary contributors to value.</h><![CDATA[ Thus, in order to turn ESN into an organizational asset, we recommend creating organizational ESN policies and guidelines (Vaast & Kaganer, 2013) that encourage and support the attempts of users to innovate (Ahuja & Thatcher, 2005) with ESN.
+In addition to formal policies and guidelines, management support, public recognition and incentives could be used to support the generation of ideas and the offering of input, thus further nurturing ESN’s knowledge-related value. ESN developers could also direct their efforts towards features that support the brainstorming and refining of ideas.
+
+Second, our study offers information about the social aspects of ESN use that can be beneficial when designing and implementing organizational ESN policies. Our results point to the importance of informal discussions as being a social lubricant (Leonardi & Meyer, 2015) for the more utility oriented forms of ESN use. In doing so, our study adds to prior research that has argued that the awareness of others’ profiles and prior interactions acts as a social lubricant for interpersonal relationships (Ellison, Steinfield, & Lampe, 2011) and enhances knowledge transfer between employees (Leonardi & Meyer, 2015).
+Through this social lubrication, socially and even hedonically oriented ESN uses can be important for building social capital and maintaining connections between users. Thus, these informal discussions should not be categorically discarded and banned from an ESN as merely noise or digital clutter. We thus advise organizations to not only tolerate but to encourage non-work related discussions as a basis for relationship and network building within an ESN.
+
+6.4. Limitations and future research
+Our study is subject to a number of limitations. First, our study focused on only one ESN system. Additionally, the qualitative data was collected from three organizations and the survey data from five organizations. Due to these limitations in generalizing the results, we suggest future research with a broader coverage as well as studies within only one organization to obtain in-depth understanding of the contextual aspects of ESN use.
+
+Second, we adopted a cross-sectional research design for the quantitative part of the study. Due to this limitation, this part of the study offers only a snapshot of ESN use at a certain point in time. Hence, future research could adopt a longitudinal design and focus on investigating the changes in the patterns of how people use, and create value from ESN.
+
+Third, when conceptualizing our dependent variable, we deliberately focused on the utilitarian aspects of value. At the same time, we do recognize that ESN use might also provide enjoyment or enhance one's social relationships (Kuegler et al., 2015) and can thus be associated with hedonic (Davis, Bagozzi, & Warshaw, 1992) and social value (Kankanhalli, Tan, & Wei, 2005) in its own right. Hence, to look at the concept of value more broadly, we suggest researchers consider the hedonic and social aspects of value such as enjoyment, building one's professional reputation or enhanced well-being in the workplace.
+Fourth and finally, we examined only ESN uses that were positively related to value. Future research could identify ESN uses that have a negative impact on value.]]>
+    </section>
+
+Acknowledgement
+This work was supported by Academy of Finland (grant 257412) awarded for project “Digital Engagement: Uncovering the Customer Value of Social Media”.
+</publication>

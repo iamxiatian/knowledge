@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<publication marker="zhouzhichao">
+    <journal>International Journal of Information Management</journal>
+    <time>Volume 36, Issue 4, August 2016, Pages 635-644</time>
+    <title>A fad or future of IT?: A comprehensive literature review on the cloud computing research</title>
+    <author>Merve Bayramusta.</author> Author links open the author workspace.Opens the author workspacea. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace<author>V. Aslihan Nasir.</author> Author links open the author workspace.Opens the author workspaceOpens the author workspaceb. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace
+a
+Siemens AS, Corporate Technology, Development Center, 41480 Kocaeli, Turkey
+b
+Department of Management Information Systems, Bogazici University, Hisar Campus B Block, R. Hisarustu Bebek, 34342 Istanbul, Turkey
+Show more
+    <doi>https://doi.org/10.1016/j.ijinfomgt.2016.04.006</doi>Get rights and content
+Highlights
+    <highlight id="1">We’ve examined the development and evolution of cloud computing research through the content analysis of articles, which were published between 2009 and 2014.</highlight>
+    <highlight id="2"><![CDATA[The results indicate that the majority of the cloud computing research is about the “cloud computing adoption” (19%), and “legal & ethical issues” of cloud computing (15%).]]></highlight>
+    <highlight id="3"><![CDATA[“Benefits & challenges of cloud computing” (5%) and “energy consumption dimension of cloud computing” (4%) are the least attention-grabbing themes in the literature.]]></highlight>
+    <highlight id="4">Finally, it is found that the majority of the articles were published by engineering, information systems or technical journals. This topic is generally ignored by the managerial journals even though the impact of cloud computing on organizations is immense.</highlight>
+Abstract
+<abstract><![CDATA[Cloud computing is now a global trend and during the past decade, has drawn attention from both academic and business communities. Although the evolution of cloud computing has not reached the maturity level, there is still adequate research about the topic. ]]><h target="1" match="part">The main purpose of this paper is to examine the development and evolution of cloud computing over time. A content analysis was conducted for 236 scholarly journal articles, which were published between 2009 and 2014 in order to (i) identify the possible trends and changes in cloud computing over the six years, (ii) compare publishing productivity of journals about the cloud computing subject, and (iii) guide future research about cloud computing.</h> <h target="2" match="full">The results show that the majority of the cloud computing research is about “cloud computing adoption” (19%), and it was followed by the “legal and ethical issues” of cloud computing (15%).</h><![CDATA[It is also found that “cloud computing for mobile applications” (6%), ]]><h target="3" match="full"><![CDATA[“benefits & challenges of cloud computing” (5%) and “energy consumption dimension of cloud computing” (4%) are the least attention-grabbing themes in the literature.]]></h> However, “cloud computing for mobile applications” and “energy consumption dimension of cloud computing” themes have become popular in the last two years, so they are expected to be trendy topics of the near future. <h target="4" match="full">Finally, another finding of this study is that the majority of the articles were published by engineering, information systems or technical journals such as “IT Professional Magazine”, “International Journal of Information Management” and “Mobile Networks and Applications”. It seems as if this topic is generally ignored by the managerial and organizational journals even though the impact of cloud computing on organizations and institutions is immense and is in need of investigation.</h></abstract>
+Keywords
+    <keywords>Cloud computing</keywords>
+    <keywords>Content analysis</keywords>
+    <keywords>Trend analysis</keywords>
+    <section name="Introduction" category="introduction">
+        <![CDATA[
+1. Introduction
+The development of the Internet and subsequently the WWW has placed pressure on organizations to review their business functions (CRM, Sales, BPM etc.). IT infrastructure models themselves have also evolved, most recently from Enterprise to Cloud Computing. There are five stages in this evolution representing different infrastructure elements; namely, Stage 1: General-Purpose Mainframe and Minicomputer Era, Stage 2: Personal Computer Era, Stage 3: Client/Server Era, Stage 4: Enterprise Computing Era and Stage 5: Cloud and Mobile Computing Era (Laudon & Laudon, 2014, p. 197–200). Cloud Computing started in the 2000s as the last stage of IT infrastructure evolution which refers to a computing model where organizations or individuals obtain computing power and software solutions over the Internet or other networks (Laudon & Laudon, 2014, p. 200).
+Although cloud storage sounds like something related to weather fronts, it actually refers to saving data to a remote database, which is maintained by third parties, instead of hard drive or local storage device (Wu, Zhang, Lin, & Ju, 2010). Cloud computing was first introduced with the creation of the ARPANET to allow people to benefit from resources in different time zones (Leiner et al., 1997). Sultan (2013, p. 810) stated that “Cloud Computing is a model of delivering a range of IT services remotely through the Internet and/or a networked IT environment”. Depending on the National Institute of Standards and Technology, Wu et al. (2010, p. 151) defined cloud computing as “a model for enabling convenient, on demand network access to a shared pool of configurable computing resources (e.g., networks, servers, storage, applications, and services) that can be rapidly provisioned and released with minimal management effort or service provider interaction”. In an earlier study, Vouk (2008) stated that cloud computing embraces cyberinfrastructure, and builds upon decades of research in virtualization, distributed computing, grid computing, utility computing, and, more recently, networking, web and software services. In a report from Gartner Inc. (2012), it is forecasted that, cloud services revenue will reach nearly $207 billion by the end of 2016. In today’s global cloud computing market Amazon is the largest player, but it is challenged by Microsoft Azure and Google Cloud Storage, also Microsoft offers Hotmail and OneDrive and Google offers Gmail and Google Drive as free cloud services for consumers (Euromonitor International, 2012, p. 68).
+Some scholars and practitioners in the ICT industry see similarities between cloud-base services and bureau computing. Wu et al. (2010) mentioned that the fundamental ideas for cloud storage are related to past service bureau computing paradigms and to those of application service providers and storage service providers of the late 90s. However, the authors believe that the economic situation and the advent of new technologies have triggered strong interest in the cloud storage provider model (Wu et al., 2010). Back in the 1970s, bureau computing providers ran enterprise software on their mainframe or minicomputers, and sold these applications to customers as a service. Nevertheless, according to Steve McCarthy from UXC Connect (2014), there are significant differences between cloud and bureau computing; and he continued that “with bureau you were tied into a single supplier and their applications. With cloud, you have a world of choice”. Sharing resources is a similar concept between cloud computing and bureau computing, however the early-generation storage service providers ran into some problems like network costs and customers concerns over sharing the computing infrastructure with other similar businesses (Toigo, 2009). Today, cloud computing offers a better customer experience and unlike the old bureau services, applications and services can be obtained from multiple providers (Toigo, 2009).
+As an advantage of better customer experience, the cloud computing adoption supports organizations to concentrate on their own businesses. All IT operations will be handled by experts in cloud service providers, and organizations do not need to deal with a redundant load of IT operations. Although deploying software out in the cloud has significant benefits like; cost reduction, mobility and collaboration; risks that will affect all levels of computational ecosystem should be considered additionally (Hayes, 2008 p. 9). Likewise, Rimal, Jukan, Katsaros, and Goeleven (2011) mention that there are several issues with the cloud such as security, availability, scalability, interoperability, service level agreement, data migration, data governance, trusty pyramid, user-centric privacy, transparency, political and legal issues, business service management etc. In their study, Wu et al. (2010) listed ten crucial common denominators which foster the value of cloud computing as follows: elasticity, automatic, scalability, data security, performance, reliability, ease of management, ease of data access, energy efficiency, and latency. In addition, Rimal et al. (2011) contended that the biggest challenge of cloud computing is the lack of a de facto standard or single architectural method, which can meet the requirements of an enterprise cloud approach. In their study, Rimal et al. (2011) stated that the architectural requirements of cloud computing are classified according to the requirements of cloud providers, the enterprises that use the cloud, and end-users. The authors proclaimed that from the provider’s perspective, highly efficient service architecture to support infrastructure and services is needed in order to provide virtualized and dynamic services; whereas from the enterprise’s perspective, a QoS-enabled, secure and scalable system is needed (Rimal et al., 2011). Furthermore, the authors pointed out that from the user’s perspective, the fundamental requirement is a simplified interface with adaptability and self-learning capability that should focus transparent pricing and metering. Similarly, Singh et al. (2012), proposed an integrated co-innovation and co-production framework to get cloud vendors, cloud partners, and cloud clients to work together based on seven principles, namely: cloud ecosystem enablement, cloud infrastructure and its management, service-orientation, cloud core on provisioning and subscription, compostable cloud offerings, cloud information architecture and management, and cloud quality analytics. Furthermore, in a white paper prepared by Oracle (2012, p. 8), it is stated that there are some architectural principles and guidelines that should be followed in order to achieve success in cloud computing; these principles are listed as follows:
+•
+Cloud interfaces and formats must conform to relevant industry standards.
+
+•
+The system must present only the information (interfaces etc.) necessary to perform each specific function.
+
+•
+The architecture should provide monitoring of all aspects of resource usage for the various dimensions required by both the Cloud consumer and provider.
+
+•
+Any cloud provider's claims of reliability, availability, security, and performance must be verifiable.
+
+•
+Availability should not be limited by inevitable hardware failures.
+
+•
+Robust identity domain separation—consumers of the system have no exposure to the consequences of other consumers' use of the system.
+
+•
+Transparent architecture and control—consumers have visibility into the design and operation of the system.
+
+•
+Improved productivity—deliver an order of magnitude improvement over current levels of efficiency and productivity experienced in traditional IT environments.
+
+•
+Assured data protection—consumers are assured of compliance with data privacy standards and regulations, have confidence that removal of data is absolute.
+
+•
+Automate operations—consumers’ runtime of business process services and platform services involves minimal manual operations.
+
+
+According to Yoo (2011, p. 406), cloud computing has four key concepts which are; service oriented architecture/thin clients, delivery models for cloud computing, virtualization and deployment strategies.
+1.1. Service oriented architecture/thin clients
+In the early stages of the IT infrastructure evolution, consumers had to purchase software and computing power as products, but nowadays cloud computing reconceptualizes software and computing power which are purchased as services on an as-needed basis (Yoo, 2011, p. 407). The cloud computing is based on service-oriented architecture (SOA) and virtualization of hardware and software which enable the cloud’s reusability and extensibility (Zhang, Zhang, Fiaidhi, & Chang, 2010). Unlike distributed computing such as grid computing, which connects remote computers geographically into a single network to combine processing power and create virtual supercomputers, cloud computing is easily configurable by end users. Google’s Gmail and Microsoft’s Hotmail, for example, host their email applications and data in datacenters. Therefore, consumers who access e-mail through these web-based services do not need to run an email program or store their messages locally (Yoo, 2011, p. 407).
+1.2. Delivery models for cloud computing
+Due to the change from enterprise computing to cloud computing, organizations and individuals need to develop new skills and competences. As the usage of cloud computing services increases, organizations start to investigate how to adapt their business structure to a cloud computing model. This model includes three different types of services (Sultan, 2013, p. 810; Fouquet, Niedermayer & Carle, 2009, p. 31):
+Infrastructure as a Service (IaaS); focuses on hardware and IT infrastructure management which includes storage and processing capabilities. Amazon Elastic Compute Cloud (EC2) is the well-known example for IaaS. Also virtual harddisks that can be accessed from different virtual machines can be given as another example.
+Platform as a Service (PaaS); concentrates on middleware which provides development tools and hosting options for cloud clients to manage their own applications. PaaS gives end users control over application design, but not control over physical infrastructure like when a cloud operator offers an API which can be used by an application developer. Microsoft Azure and Google App Engine are the well known examples for PaaS.
+Software as a Service (SaaS); includes software applications which support business related processes like customer relationship management, supply chain management or enterprise resource planning. SaaS does not give end users control over application design. Gmail, Google Docs, Salesforce.com are well known examples for SaaS.
+1.3. Virtualization
+In the past, network costs created obstacles for cloud storage vendors. Today, network connectivity is faster, cheaper and more secure after the virtualization technology is started to be used in corporate data centers (Toigo, 2009).
+Machine virtualization, allows the computing power of a physical machine to be divided into multiple virtual machines by hosting multiple and heterogeneous operating systems on the same hardware, and additionally hypervisor manages virtualization by running on the physical host to achieve this emulation (García-Valls, Cucinotta, & Lu, 2014, p. 726). According to Dhar (2012, p. 674), “Virtualization hides the physical characteristics of a computing platform from users, creates a simulated computer environment showing another abstract computing platform such as an operating system, a server, a storage device or network resources”. Modern virtualization techniques allows cloud computing to transfer virtual machine instances from one server to another which has more space, whereby the ability to reallocate storage and computing power increases the flexibility and scalability of computing operations (Yoo, 2011, p. 407). In other words, as stated by Rimal et al. (2011), virtualization in the cloud comprises server virtualization, client/desktop/application virtualization, storage virtualization, network virtualization, and service/application infrastructure virtualization.
+1.4. Deployment strategies
+According to the way that the cloud provides service to users, cloud deployment strategies change. There are three types of deployment method (Naghavi, 2012, p. 602):
+1.4.1. Public Cloud
+Resources are owned and managed by third party providers who share these resources with the customers. It offers easy resource management, scalability and flexibility. Amazon’s Web Service and Google’s App Engine are well known examples.
+
+1.4.2. Private Cloud
+The computing infrastructure is dedicated to a particular organization that resources are owned and managed by the organization. These clouds are more secure but also more expensive.
+
+1.4.3. Hybrid Cloud
+This technique integrates both the public and the private cloud. For instance, in a Hybrid Cloud deployment, critical services with security requirements may be hosted on private clouds while the other services may be hosted on public clouds.
+
+]]><h target="1" match="part">The main purpose of this paper is to examine through the literature the development and evolution of cloud computing over time. A content analysis was conducted for 236 scholarly journal articles, which were published between 2009 and 2014 in order to (i) identify the possible trends and changes in cloud computing over the six years, (ii) compare publishing productivity of journals about the cloud computing subject and (iii) guide future research about cloud computing.</h>
+    </section>
+    <section name="Research methodology" category="methods">
+        <![CDATA[
+2. Research methodology
+2.1. Content analysis
+There has been a remarkable increase in cloud computing research over the years, and it continues developing to satisfy the businesses’ needs. The content of articles that are published in scholarly journals can give an idea about the change in research and themes about cloud computing. This study provides a content analysis of research articles, which were published over six years, to understand the evolution of cloud computing. “Content analysis is a research method that uses a set of procedures to make valid inferences from text” (Weber, 1990, p. 117). The purpose of this study is; to set light on the progress of cloud computing in academic research.
+Fig. 1 illustrates the content analysis process. As a first stage, the texts are identified and samples are selected. Second stage includes the unit specification of analysis. Coders identify the theme categories and determine the category scheme as the third stage. In the fourth stage, judges select the final categories from the category scheme. Afterwards, reliability analysis is conducted to find out the agreement level of the judges as the fifth stage. Finally, last stage includes the analysis of collected data.
+Fig. 1
+Download full-size image
+Fig. 1. The content analysis process.Source: Nasir (2005, p. 444).
+2.2. Selecting sample
+The study’s sample contains 236 cloud computing research articles published from 2009 to 2014. Two databases were scanned through the library search facilities. Table 1 shows the details of these databases which include journals with different disciplines. The study sample consisted of articles from scholarly journals, which contain the “Cloud Computing” phrase in the title of the articles that
+Table 1. Databases and scopes.
+Database	Scopes
+ABI/INFORM Complete	ABI/INFORM Complete is a business research database which was launched in the early 1970s. It includes all content found in ABI/INFORM Global, ABI/INFORM Dateline, and ABI/INFORM Trade and Industry. It also includes ABI/INFORM Archive, which offers a deep backfile of many of the most important business journals of the last century.
+
+Emerald	Emerald is a global publisher linking research and practice to the benefit of society. The company manages a portfolio of nearly 300 journals and over 2350 books and book series volumes, as well as providing an extensive range of online products and additional customer resources and services.
+Source: Based on our investigation in ABI/INFORM and Emerald Databases.
+
+2.3. Specifying the unit of analysis
+“Word”, “Word sense”, “Sentence”, “Theme”, “Paragraph”, and “Whole text” are generally used in content analysis literature to determine the basic unit of test to make a classification (Weber, 1990). The unit of analysis in this content analysis is chosen as the “Theme” of articles.
+
+Titles and abstracts of all 236 articles were reviewed to determine the theme to find out what was studied in these selected papers. These articles were categorized in order to:
+•
+identify the main themes that were examined in the cloud computing literature,
+
+•
+determine the distribution of cloud computing themes over years, and
+
+•
+illustrate the distribution of cloud computing articles in different journal disciplines.
+
+
+2.4. Determining the category scheme
+In content analysis, the central idea is the identification of the categories. In this study, a new category structure was developed specifically for this research. Two coders, an instructor and master’s student in the department of Management Information Systems, were trained to analyze the list of themes. The coders independently aggregated the 236 articles into a smaller number of categories. They were trained to group the articles that were related in scope and create whatever number of categories they wished. The master student generated 15 categories, while the instructor generated 12 categories. As a result, 27 categories were collected from coders at this stage.
+
+2.5. Selection of final categories
+In this stage, researchers evaluated all 27 categories which were developed by the coders in previous stage and decreased the final category to 10 themes. Table 2 lists the final theme categories.
+Table 2. Final list of theme categories.
+Theme categories
+1. Conceptualization & Evolution of Cloud Computing
+2. Benefits & Challenges of Cloud Computing
+3. Technical Dimension of Cloud Computing
+4. Cloud Computing Adoption
+5. Legal & Ethical Dimension of Cloud Computing
+6. Organizational Dimension of Cloud Computing
+7. Economic Dimension of Cloud Computing
+8. Application of Cloud Computing in Different Sectors
+9. Cloud Computing for Mobile Applications
+10. Energy Consumption Dimension of Cloud Computing
+Source: Based on our investigation in ABI/INFORM and Emerald Databases.
+
+Each theme is listed respectively with the related description:
+1.
+“Conceptualization & Evolution of Cloud Computing” category contains articles which investigate the definition, education and development of cloud computing by emphasizing what a cloud computing is.
+2.
+“Benefits & Challenges of Cloud Computing” category includes articles which aim to outline the benefits and drawbacks of cloud computing. Mostly system integrity, data integrity, reliability and robustness are examined in these articles.
+3.
+“Technical Dimension of Cloud Computing” category contains articles which examine the architectural design and services of cloud computing like IaaS, PaaS, SaaS solutions.
+4.
+“Cloud Computing Adoption” contains articles that study how to adapt the cloud computing to current business solutions.
+5.
+“Legal & Ethical Dimension of Cloud Computing” includes articles which investigate the privacy and security problems, policy implications and ethical issues of cloud usage for organizations and individual cloud users. Additionally, articles which examine the current laws and regulations about cloud computing usage are also included in this category.
+6.
+“Organizational Dimension of Cloud Computing” contains articles about the organizational and managerial perspectives and issues of cloud computing.
+7.
+“Economic Dimension of Cloud Computing” includes articles which examine the cost efficiency and financial benefits or drawbacks of cloud computing in comparison with current infrastructure solutions.
+8.
+“Application of Cloud Computing in Different Sectors” contains articles which investigate the effect of cloud computing on different sectors such as manufacturing, healthcare, agriculture, education, government, library etc.
+9.
+“Cloud Computing for Mobile Applications” contains articles that analyze the relationship of cloud and mobile applications while the global trend shifts to mobile.
+10.
+“Energy Consumption Dimension of Cloud Computing” contains articles that analyze the fast growth of computer power consumption, energy-efficient computing, and the energy use of cloud systems.
+
+2.6. Reliability analysis
+Reliability is crucial to determine the quality of the research. According to Neuendorf (2002, p. 10) at least two judges should be used when human coders are used in content analysis. In this study, reliability analysis was conducted with judges to place the 236 articles into same categories. Two judges worked independently and assigned each article to one of the 10 theme categories that fit best to its content. Each article is placed only in one theme category.
+A number of different measures can be used to examine the agreement that is achieved by judges. Percentage match is one way to identify the reliability. The agreement level between the two judges was determined by calculating the number of themes that were assigned to the same category.
+
+Table 3 shows the pair wise judgement percentage agreements. According to Zimmer and Golden (1988, p. 292), the probability by chance alone of two judges assigning 236 themes to the same category when there are 10 categories, can be calculated by using the formula for a binomial probability. This formula is:
+P (k successes) = [N!/(k! × (N − k)!)] × [pk × (1 − p)N−k]
+When this formula is applied, the probability that two judges will assign a theme to the same category by chance will be p = 1/10 = 0.1 and N = 236 themes, the probabilities of 215 matches can be represented as follow:
+Judges A and B: P (215) = [236!/(215! × 21!)] × [(1/10)236 × (9/10)21] = 5.8043 × 10−208
+
+Table 3. The percentage agreement of judges.
+Judges	Number of Matching
+(out of 236)	Percent Matching
+A and B	215	91%
+Source: Based on our investigation in ABI/INFORM and Emerald Databases.
+
+Two judges achieved a satisfactory level of interjudge reliability of 91% and that exceeded the 85% coefficient agreement recommended by Kassarjian (1977). The percentage agreement for reliability usually receives criticism from several researches due to its inadequacy (Grayson & Rust, 2001; Rust & Cooil, 1994). The reason for this criticism is that “simply using percentage agreement between judges is not so good because some agreement is sure to occur, if only by change, and the fewer the number of categories, the more random agreement is likely to occur, thus making the reliability appear better than it really is” (Grayson & Rust, 2011, p. 71). Therefore, for the robustness of reliability of this study, Cohen’s kappa is calculated:
+Percent of overall agreement Po: 0.911015.
+
+Fixed-marginal kappa: 0.898911.
+
+Free-marginal kappa: 0.901128.
+
+If the result of Cohen’s kappa are closer to 1, that indicates a higher agreement between the judges. Therefore, the results of reliability analysis indicated that the categories were clearly be defined and can be used in the study with little or no ambiguity. The results of the article theme analysis are presented in category level and explained in the following section.]]>
+    </section>
+    <section name="Research findings" category="results">
+        <![CDATA[
+3. Research findings
+The results of the research over the past six years are illustrated in Fig. 2 which shows the number of articles that were published in each year. Over the 236 articles, 11 articles were published in 2009 as a start. In 2010, there was a great increase that the total number of articles reached to 29. One year later, a short fall happened in 2011 with 24 articles. In 2012, the article number changed significantly and achieved 49. Nevertheless, most of the researches were done in 2013 and 2014 with 61 and 62 articles respectively. Table 4 shows the change of article numbers per year. It is evident that in recent years the amount of research increased significantly.
+Fig. 2
+Download full-size image
+Fig. 2. Number of articles per year.Source: Based on our investigation in ABI/INFORM and Emerald Databases.
+Table 4. Number of articles per year.
+Year	Count of Article
+2009	11
+2010	29
+2011	24
+2012	49
+2013	61
+2014	62
+Total	236
+Source: Based on our investigation in ABI/INFORM and Emerald Databases.
+
+3.1. Theme analysis
+The results of the theme analysis are illustrated Fig. 3 with respect to the ten different theme categories. The figure shows the percentage of articles by themes for 236 articles. ]]><h target="2" match="full"><![CDATA[It is comprehensible that, “Cloud Computing Adoption” (19%) and “Legal & Ethical Dimension of Cloud Computing” (15%) have been prevalent themes over the six years.]]></h><![CDATA[ Besides, “Conceptualization & Evolution of Cloud Computing” (14%) and “Technical Dimension of Cloud Computing” (13%) themes nearly catch the leader themes among 236 articles. Although, “Application of Cloud Computing in Different Sectors” (10%) and “Organizational Dimension of Cloud Computing” (8%) themes do not have significant effect rather than first four themes, there are incontrovertible number of articles in these categories. Meanwhile, “Cloud Computing for Mobile Applications” (6%) and “Economic Dimension of Cloud Computing” (6%) are also equally studied themes in the literature. ]]><h target="3" match="part"><![CDATA[Finally, “Benefits & Challenges of Cloud Computing” (5%) and “Energy Consumption Dimension of Cloud Computing” (4%) are the least attention-grabbing themes in the literature.]]></h><![CDATA[ Table 5 shows the detailed information of Fig. 3 with the total article numbers per themes.
+Fig. 3
+Download full-size image
+Fig. 3. Percentage of articles by theme.Source: Based on our investigation in ABI/INFORM and Emerald Databases.
+Table 5. Number of articles per theme.
+Theme	Frequency of Article	% of Article
+Cloud Computing Adoption	45	19%
+Legal & Ethical Dimension of Cloud Computing	36	15%
+Conceptualization & Evolution of Cloud Computing	32	14%
+Technical Dimension of Cloud Computing	30	13%
+Application of Cloud Computing in Different Sectors	25	10%
+Organizational Dimension of Cloud Computing	20	8%
+Cloud Computing for Mobile Applications	15	6%
+Economic Dimension of Cloud Computing	14	6%
+Benefits & Challenges of Cloud Computing	11	5%
+Energy Consumption Dimension of Cloud Computing	9	4%
+Grand Total	236	100%
+Source: Based on our investigation in ABI/INFORM and Emerald Databases.
+
+Table 6 illustrates the frequency of articles that were classified into ten theme categories for each year to identify the possible change and trends. In 2009, “Conceptualization & Evolution of Cloud Computing” category was the most analyzed title with the number of 5 over 11 total articles. Because the cloud computing concept was newly introduced, this result was expected. Most of research were related with the definition, evolution and clarification of the cloud computing concept. In 2010, “Conceptualization & Evolution of Cloud Computing” and “Legal & Ethical Dimension of Cloud Computing” were the mostly studied topics whit having 10 and 7 articles respectively over 29 total articles. While the evolution of cloud usage continued, researchers started to examine the privacy and security issues of cloud computing.
+Table 6. Theme analysis of 236 articles for each year.
+Theme	2009	2010	2011	2012	2013	2014	Total
+Cloud Computing Adoption	0	2	6	7	15	15	45
+Legal & Ethical Dimension of Cloud Computing	0	7	4	6	10	9	36
+Conceptualization & Evolution of Cloud Computing	5	10	4	8	3	2	32
+Technical Dimension of Cloud Computing	3	1	3	8	5	10	30
+Application of Cloud Computing in Different Sectors	1	1	1	7	8	6	24
+Organizational Dimension of Cloud Computing	1	2	2	5	6	4	20
+Cloud Computing for Mobile Applications	0	0	1	1	6	7	15
+Economic Dimension of Cloud Computing	0	4	2	3	3	2	14
+Benefits & Challenges of Cloud Computing	1	1	1	3	1	4	11
+Energy Consumption Dimension of Cloud Computing	0	1	0	1	4	3	9
+Grand Total	11	29	24	49	61	62	236
+Source: Based on our investigation in ABI/INFORM and Emerald Databases.
+
+After two years, researchers understood the new concept of the cloud and started to seek how to adopt their solutions to cloud computing. Therefore in 2011, the leading theme category was “Cloud Computing Adoption” with 6 articles over 24 total articles. In 2012, adoption of cloud computing was extended to different sectors and new case studies were published whereby 7 articles over 24 were categorized under “Application of Cloud Computing in Different Sectors” theme. Although cloud computing adoption and application of cloud computing in different sectors themes had a huge portion of the total articles, “Conceptualization & Evolution of Cloud Computing” and “Technical Dimension of Cloud Computing” categories lead the research themes with 8 articles each over 49 total articles.
+In 2013, “Legal & Ethical Dimension of Cloud Computing” and “Organizational Dimension of Cloud Computing” themes increased significantly with 10 and 6 articles respectively over 61 total articles. Even so, “Cloud Computing Adoption” was the prevalent research theme in all categories with 15 articles over 61 total articles. During 2013 and 2014, there was a significant increase for “Cloud Computing for Mobile Applications” and “Energy Consumption Dimension of Cloud Computing” themes and these topics were started to be analyzed by researchers. Nevertheless, the “Cloud Computing Adoption” theme was not affected negatively from these new concepts and still be the most studied theme with 15 articles over 62 total articles in 2014. “Technical Dimension of Cloud Computing” theme followed the cloud computing adoption with 10 articles in 2014. These trends of themes can be examined deeply in Fig. 4.
+Fig. 4
+Download full-size image
+Fig. 4. Theme analysis of 236 articles over years.Source: Based on our investigation in ABI/INFORM and Emerald Databases.
+Fig. 5 illustrates the change of each theme over time. “Cloud Computing Adoption” had a great climb up between 2009 and 2014 years. Plenty of case studies were conducted to investigate the cloud computing adoption; hence this theme became so popular in academic research and continued its increase. The result was a little bit different in “Legal & Ethical Dimension of Cloud Computing” that, in 2009 and 2010 there was a flow up, but in 2011 it witnessed a flow down because researchers ignored privacy and security issues and most of the studies were still conducted about cloud computing adoption. In 2012, it started to get attraction from researchers again and continued its increase during 2013–2014.
+Fig. 5
+Download full-size image
+Fig. 5. Change and trend analysis of themes over years.Source: Based on our investigation in ABI/INFORM and Emerald Databases.
+Although “Conceptualization & Evolution of Cloud Computing” was the most popular theme in 2009, it started to decrease over six years. This result was expected because cloud users learned clearly what a cloud is, and started to change their research scope to cloud computing solutions. Hence, there was a significant increase in “Technical Dimension of Cloud Computing”, “Application of Cloud Computing in Different Sectors” and “Organizational Dimension of Cloud Computing” themes over six years. The trend changed from concept and evolution of cloud computing to how to use cloud computing and how to adapt the cloud models to current solutions.
+Since 2013, the global trend shifts to mobile applications and green computing. Thus, there was a remarkable increase for “Cloud Computing for Mobile Applications” and “Energy Consumption Dimension in Cloud Computing” themes during 2013 and 2014. It is inevitable that, future cloud computing research will have to include these topics to chase the new trends.
+Finally, there was a smooth flow for “Economic Dimension of Cloud Computing” and “Benefits & Challenges of Cloud Computing” themes that number of articles were close for each year.
+3.2. Journal analysis
+The results of the journal analysis over the past six years are illustrated in Fig. 6 which shows the number of articles that were published in each journal. This figure only contains the journals that published more than two articles about cloud computing. The rest of the journals which publish equal or less than two articles were grouped into one group and named as “Other”. According to the journal analysis results; “IT Professional Magazine” and “International Journal of Information Management” journals published 19 and 12 articles respectively during 2009–2014 and reach to highest share among 236 articles. Furthermore, “Mobile Networks and Applications”, “Association for Computing Machinery. Communications of ACM” and “The Computer Journal” journals shared third place in the list with 8 articles each.
+Fig. 6
+Download full-size image
+Fig. 6. Number of articles per journal.Source: Based on our investigation in ABI/INFORM and Emerald Databases.
+Table 7 illustrates the number of articles in detail that were published in each journal over the six years. Even though “IT Professional Magazine” is the first journal that gave a place to cloud computing research, it is seen that in recent years, “International Journal of Information Management” and “Mobile Networks and Applications” are the two journals that heavily concentrated on cloud computing research.
+Table 7. Journal analysis of 236 articles for each year.
+Journal	2009	2010	2011	2012	2013	2014	Total
+IT Professional Magazine	5	5	1	2	4	2	19
+Inter. Jour. of Information Management	0	1	0	1	4	6	12
+Mobile Networks and Applications	0	0	1	0	3	4	8
+Communications of the ACM	1	4	1	1	0	1	8
+The Computer Journal	0	1	1	1	0	5	8
+Journal of Network and Systems Management	0	0	1	2	1	2	6
+Inter. Jour. of Management and Information Systems	0	2	1	2	0	0	5
+Computing. Archives for Informatics and Numerical Computation	0	0	1	0	2	1	4
+Journal of Enterprise Information Management	0	3	0	0	1	0	4
+EDUCAUSE Review	3	1	0	0	0	0	4
+Information Systems Frontiers	0	0	0	2	0	2	4
+Inter. Jour. of Innovation, Management & Technology	0	0	0	2	2	0	4
+Journal of Computer Science and Technology	0	1	0	1	0	2	4
+Transactions in GIS	0	0	1	1	0	1	3
+Inter. Jour. of Parallel Programming	0	0	0	0	0	3	3
+Inter. Jour. of Business and Social Science	0	0	0	1	0	2	3
+Computer Networks	0	0	0	0	0	3	3
+The Journal of Systems and Software	0	0	0	0	3	0	3
+OCLC Systems & Services	0	1	0	0	2	0	3
+Transforming Government: People, Process and Policy	0	2	0	0	0	1	3
+Communications of the IBIMA	0	0	1	0	2	0	3
+Strategy & Leadership	0	1	0	2	0	0	3
+Other	2	7	15	31	37	27	119
+Total	11	29	24	49	61	62	236
+Source: Based on our investigation in ABI/INFORM and Emerald Databases.]]>
+    </section>
+    <section name="Discussion and conclusion" category="conclusion">
+        <![CDATA[
+4. Discussion and conclusion
+The evolution of computing platforms over the last 50 years has been dramatic. Most recently this evolution has seen a shift from Enterprise to Cloud computing which has been reflecting business needs (Himanshu, 2014; Laudon & Laudon, 2014; Wang, 2013). Wang (2013) contended that cloud computing has achieved great progress in recent years and it is expected to continue its growth. Furthermore, some scholars assert that cloud computing provides a paradigm shift of business and IT infrastructure (Himanshu, 2014; Rimal et al., 2011). However, there are several issues related with cloud computing, and Singh, Mishra, Ahmad, Sagar, and Chaudhary (2012) summarized these issues as security, privacy, reliability, legal issues, open standard, compliance, freedom, and long-term viability. It is not only the business world that concentrates on cloud computing but also the academic world pays great attention to this hot topic. There is a growing body of literature and diversified research topics about cloud computing; therefore, it will be beneficial to have an in-depth analysis of vast amount of papers published up to now. The purpose of our study is to identify the trends and patterns of cloud computing over time and shed light to the future of cloud computing research. The content of articles, which were published in academic journals, were analyzed to understand the benefits, challenges and risks of cloud computing. Review of these articles provides the necessary outputs to see the change in cloud computing usage.
+In initial years, researchers were curious about the definition and development of cloud computing and investigated how the new computing infrastructure could be applied to current solutions. During the first three years, most of the articles were concentrated on the conceptualization and evolution of cloud computing. This can be considered as the dawn of cloud computing to enlighten all users. When the definition became clear, the technical dimensions of cloud computing like architectural designs and services started to be analyzed deeply. Some of the academic articles gave information about IaaS, PaaS and SaaS solutions. Thus, for the last three years, cloud users started to seek how to use cloud computing rather than understanding what cloud computing is.
+
+Since the 2000s, researchers have examined cloud computing delivery models and investigated the benefits and risks of cloud usage. Most of the researchers agreed that cloud computing creates a significant benefit to organizations for cost reduction. According to the European Commission’s survey in 2011, the adoption of cloud computing has enabled 80% of organizations to reduce costs by 10–20% (European Commission, 2012). On the other hand, some researchers were against it. According to the successfully implemented cloud solutions, cloud computing could be more expensive in the short-term because building a high speed Internet infrastructure was not easy to handle. According to an online survey that Forrester and Juniper Networks conducted in 2012, 58% of the companies who joined the survey indicated that cloud services had to upgrade their networking hardware (Hesseldahl, 2012). Although cost efficiency affects the cloud computing adoption positively in the long-term decisions, organizations should also investigate their short-term returns to decide if their investment is acceptable for the company. Because of these reasons, a significant number of the academic researches mentioned the economic and organizational dimensions of cloud computing.
+Furthermore, over the six years articles were highly concentrated on the legal and ethical dimension of cloud computing. Sharing an organization’s private data with third parties would be crucial for cloud usage. In some circumstances, cloud consumers even might not be informed that the confidential documents have been released. Because of these leakage possibilities in cloud, most of the potential cloud users prefer well-established and large companies as a cloud provider like Microsoft, Amazon, Google, IBM etc. However, loss of privacy is not only a problem for organizations; individuals can also be a victim of the cloud cyber-attack. The most recent example of this is the hack of Apple’s Cloud services which leaked out user’s personal photographs to the public in 2014. In addition, Amazon Web Services have gone down several times because of an attacker and Dropbox’s sharing services were hacked because of a security hole (Neumann, 2014, p. 26). These are some examples which indicate why some of the researchers concentrate on the investigation of privacy, security, laws, regulations, related policy implications and ethical issues of cloud computing in their articles.
+Although there were so many researches during 2009–2014 about different dimensions of cloud computing (like evolution, technical, legal, economic), the maximum number of researches were concentrated on cloud computing adoption. As a first step of adoption, organizations had to note the risks of cloud usage and decide wisely to achieve a successful adoption process. Therefore, organizations started to analyze the ways of adopting the cloud computing model in their current solutions. After this adoption process, systems should continue giving access smoothly to its users. These reasons indicated why most of the researchers examined the cloud computing adoption in their articles.
+
+Apart from this theme analysis over cloud computing, journal analysis also contributed to make inferences about the future of cloud computing articles. ]]><h target="4" match="part">According to the results, mainly computer technology, engineering and related journals focus on cloud computing research.</h><![CDATA[ The research established there is a shortage of articles published in business journals which needs to be rectified.
+
+In conclusion, the results of the content analysis indicated the trends and patterns of cloud computing during 2009–2014 and in the future, these academic researches may help cloud computing to reach its maturity level. However, this study has a limitation in that we obtained articles by using only two mainstream databases. The research would be enhanced by expanding the number of databases accessed.]]>
+    </section>
+</publication>

@@ -92,3 +92,11 @@ javaOptions in Universal ++= Seq(
   "-J-Xmx8G"
 )
 
+
+initialCommands in console +=
+  """
+    |import better.files.File
+    |import scala.xml.XML
+    |import xiatian.knowledge.highlight.Highlight._
+    |
+  """.stripMargin

@@ -1,0 +1,294 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<publication maker="liu bin">
+    <journal>International Journal of Information Management</journal>
+    <time>Volume 36, Issue 1, February 2016, Pages 25-34</time>
+International Journal of Information Management
+    <title>Information security risk analysis model using fuzzy decision theory</title>
+    <author>Ana Paula Henriques de Gusmão.</author> Author links open the author workspace.Opens the author workspaceOpens the author workspace<author>Lúcio Camara e Silva.</author> Author links open the author workspace.Opens the author workspace<author>Maisa Mendonça Silva.</author> Author links open the author workspace.Opens the author workspace<author>Thiago Poleto.</author> Author links open the author workspace.Opens the author workspace<author>Ana Paula Cabral Seixas Costa.</author> Author links open the author workspace.Opens the author workspace
+Management Engineering Department, Universidade Federal de Pernambuco, P.O. Box 7462, 50722-970 Recife, PE, Brazil
+Show more
+    <doi>https://doi.org/10.1016/j.ijinfomgt.2015.09.003</doi>Get rights and content
+Highlights
+    <highlight id="1">A risk analysis model for information security was proposed.</highlight>
+    <highlight id="2">The model is based on fuzzy decision theory.</highlight>
+    <highlight id="3">A taxonomy of events and scenarios using ETA methodology was developed.</highlight>
+    <highlight id="4">Alternatives can be ranked based on the criticality of the risk.</highlight>
+    <highlight id="5">The model provides information regarding the criticality causes of attacks.</highlight>
+    <highlight id="6">Results show that deliberate external database attack is the most risky alternative.</highlight>
+
+    <abstract><![CDATA[
+Abstract
+]]><h target="1" match="full">This paper proposes a risk analysis model for information security assessment, which identifies and evaluates the sequence of events – referred to as alternatives – in a potential accident scenario following the occurrence of an initiating event corresponding to abuses of Information Technology systems. </h> <h target="2" match="full"> In order to perform this evaluation, this work suggests the use of Event Tree Analysis combined with fuzzy decision theory. </h> <h target="3;4;5" match="part;part;part"> The contributions of the present proposal are: the development of a taxonomy of events and scenarios, the ranking of alternatives based on the criticality of the risk, considering financial losses, and finally, the provision of information regarding the causes of information system attacks of highest managerial relevance for organizations. We included an illustrative example regarding a data center aiming to illustrate the applicability of the proposed model. </h> <![CDATA[ To assess its robustness, we analyzed twelve alternatives considering two different methods of setting probabilities of the occurrence of events. ]]><h target="6" match="full">Results showed that deliberate external database services attack represent the most risky alternative. </h>
+</abstract>
+
+    <keywords>Information security</keywords>
+    <keywords>Risk analysis</keywords>
+    <keywords>Fuzzy decision theory</keywords>
+    
+    <section name="Introduction" category="introduction"><![CDATA[
+1. Introduction
+According to Kiyomoto, Fukushima, and Miyake (2014), Information Technology (IT) systems consist of computing resources and networks, which support the performance of critical functions in organizations. Moreover, IT systems have improved how business is executed, making organizations more dependent on their computer systems (Magklaras & Furnell, 2002).
+However, despite the benefits and advantages of IT systems, many issues regarding IT infrastructure exhibit security flaws that render them susceptible to abuse.
+
+Security abuses, according to Bojanc & Jerman-Blazic (2008), are related to technical failures, system vulnerabilities, human failures, fraud, and external events. Financial losses are often a consequence of security abuse (Sun, Srivastava, & Mock, 2006). Rasheed (2014) reported many companies identifying security concerns as the remaining barrier to adopting cloud computing services and Brender and Markov (2013) claim that those risks need to be carefully evaluated before any engagement in this area. Thus, the IT industry has provided a variety of security tools (e.g., anti-virus and firewalls) that help users and system administrators prevent, detect, and counteract IT abuse, according to Magklaras and Furnell (2002).
+Information security has become crucial to the survival of institutions. Thus, several security solutions have been developed to minimize risks that endanger organizations’ operations and to maintain the confidentiality, integrity, and availability of information. These solutions mainly focus on analysing vulnerabilities and threats to the IT systems and deciding what countermeasures reduce risk to an acceptable level (Feng, Wang, & Li, 2014). However, these solutions are not simple tasks due to the complex and dynamic environment.
+This same assessment is pointed out in Feng and Li (2011), in which information system security (ISS) risk analysis is a difficult task and involves uncertainty, which is considered to be the main factor that influences the effectiveness of the ISS risk assessment. However, these authors also argued that several existing approaches for ISS risk analysis have some difficulties in dealing with the uncertainty. To overcome this problem, considering the uncertainty inherent to the context, this paper developed an approach that combines decision theory and fuzzy logic by incorporating the vision of the work developed by Shamala, Ahmad, and Yusoff (2013), which not only identified and ranked potential systems vulnerabilities but also identified and monitored specific threat levels of deliberate and external data center attacks.
+Therefore, the objective of this paper is to assess the risk, which is the first step in the risk management methodology for information technology systems (NIST, 2002). The risk assessment, in turn, encompasses nine primary steps: System Characterization, Threat Identification, Vulnerability Identification, Control Analysis, Likelihood Determination, Impact Analysis, Risk Determination, Control Recommendations, and Results Documentation. The event tree analysis (ETA) methodology in this paper will support the step of System Characterization through the identification of the vulnerabilities of the organization and consequently, the potential accidents and possible scenarios. The Risk Determination step will be supported by decision theory and fuzzy logic through determination of the chances of occurrence and judgments about these elements. Thus, this article proposes the use of specific methodologies in crucial stages of risk assessment in information security. Both mathematical rigor, which is necessary to ensure the robustness of the model, and the judgments of those involved in the process, given the subjective characteristic of the types of assessments made, are considered in this model. In this way, this new approach of dealing with information security in IT systems enables managers to better understand the problem by estimating the level of threat that is likely to originate from a particular scenario in an uncertain environment.
+The first section of the paper discusses information security risks in IT systems. Then, a discussion follows of the existing methodologies on information security and the background information necessary to develop the proposed approach. Next, we introduce the methodology and present a real case illustrating how the methodology validates the proposed approach. Finally, the discussion turns to limitations of the research, suggested further studies and concluding remarks.
+
+]]></section>
+    
+    <section name="Background" category="background"><![CDATA[
+        
+2. Background
+2.1. Information security risk analysis
+This section presents a brief summary of related works in information security risk management models. The necessity of information security in organizations has increased as huge changes in structure and type of information technologies implemented have generated greater risk (Shamala et al., 2013). As a result, several risk management frameworks and methodologies in information security literature have been developed.
+Lo and Chen (2012) compared the advantages and disadvantages of qualitative and quantitative methods used in risk assessment. Quantitative methods, while providing higher accuracy with respect to risk assessment, have the disadvantage of difficulty of obtaining data. On the other hand, the qualitative method, i.e., working with judgments, intuition and experience, provides subjective assessments that are questionable in most cases. In this sense, much research has been done on fuzzy methods intended to diminish the subjective nature of qualitative risk assessments (Liu, Dai, Wang, & Ma, 2005; Wang, Chao, Lo, Huang, & Younas, 2007).
+According to Paula and Vignon-Davillierb (2014), most traditional security risk management approaches involve the identification of information assets, followed by the identification and evaluation of risks with respect to those assets. Silva, Gusmao, Poleto, Silva, and Costa (2014) developed an approach that encompasses failure modes and effects analysis (FMEA) and fuzzy theory, and which analyses five dimensions of information security: access to information and systems, communication, infrastructure, security management, and security information systems development. Magklaras and Furnell (2002) proposed an approach that estimates the level of threat likely to originate from a particular insider by introducing a threat evaluation system based on certain profiles of user behavior. Considering the Computer Crime and Security Survey of the Computer Security Institute (Power, 2001), which reports that 49% of the respondents faced IT security incidents due to the actions of legitimate users, Magklaras and Furnell (2002) presented a new, innovative approach of dealing with insiders that abuse IT systems. However, their focus is only to identify possible internal threats. External factors and even other internal factors, dissociated from human actions, are not considered. The same focus is given in Schultz (2002) and Theoharidou, Kokolakis, Karyda, and Kiountouzis (2005).
+Feng and Li (2011) proposed an Information Systems Security (ISS) risk assessment model based on the improved evidence theory. The advantages of the model related by the authors are: the model is based on evidence theory, which can effectively model the uncertainty involved in the assessment process; the model provides a new way to define the basic belief assignment through a fuzzy measure, which allows it to deal with fuzzy evidence found in the ISS risk assessment; the model provides a method of testing the evidential consistency, which can reduce the uncertainty derived from the conflicts of evidence provided by experts. The difficulty with relation to the use of this model resides in experts’ judgment elicitation.
+In contrast, Shamala et al. (2013) proposed a conceptual framework of information structure for Information Security Risk Assessment (ISRA) that supports organizations in making security-planning decisions and enables managers to design precise plans for the ISRA process. This framework clarifies the general view of information flow, types of information to collect, and requirements to be met before any risk assessment is conducted. Nevertheless, this work does not propose any new risk analysis methodology based on the comparisons made among six methodologies of ISRA. Recognizing this weakness, the authors assure that they will conduct further research based on quantitative and qualitative methods to make the infrastructure more complete and detailed for information security assessment in all types of organizations.
+Feng et al. (2014) proposed a Security Risk Analysis Model (SRAM) based on Bayesian networks and ant colony optimization. This model deduces the occurrence probabilities and consequence severities of security risks and then calculates the vulnerability propagation paths using ant colony optimization to provide guidance for developing security risk treatment plans. However, as reported by the authors, the treatment of uncertainty should be considered by the SRAM in future works: introducing fuzzy sets into the model for example. This concern results because, for many, security risk analysis is quite complex and full of uncertainty (Alter & Sherer, 2004).
+Also, according to Bojanc and Jerman-Blazic (2008), some researchers, like Anderson (2001), Anderson and Schneier (2005) and Schneier (2004) have realized that information security is not a problem that only technology can solve and have tried to include an economic point of view. In this way, which is different from other methodologies, the proposed model aims to evaluate the consequence of each of the alternatives of potential threat in terms of financial loss, since this is generally used and perceived by decision makers, considering the different possible events (possible nature of these threats). ]]><h target="3" match="full">For the evaluation of the scenarios, the use of ETA methodology is proposed and the evaluation of the alternatives is based on decision theory and fuzzy logic. </h> <![CDATA[These concepts are briefly introduced in the following sections.
+2.2. A review on event tree analysis methodology
+According to Clifton and Ericson (2005), ETA is an analysis technique for identifying and evaluating the sequence of events in a potential accident scenario following the occurrence of an initiating event.
+Bidder et al. (2014) describes ETA as a diagrammatical representation of the ‘system’, whereby the system includes the combination of equipment and actions required to obtain data for the purposes of the study. These authors conclude that event trees are usually constructed horizontally, starting on the left with the initiating event.
+ETA has been used for this purpose in many different contexts, including animal behaviour (Bidder et al., 2014), natural disasters (Rosqvist et al., 2013), gas accidents (Brito & Almeida, 2009; Ferdous, Khan, Sadiq, Amyotte, & Veitch, 2009), underwater tunnel excavation (Hong, Lee, Shin, Nam, & Kong, 2009) and the release of hazardous materials (Vílchez, Espejo, & Casal, 2011), among others.
+In this study, ETA is applied to prevent a system failure owing to the invasion of a data center, through the analysis of results propagated from the risk associated with critical events. Eventually, ETA is used as a guide to guarantee system data center safety by superimposing additional safety measures that correspond to risk components identified during analysis.
+
+In an information security context, users may understand how to protect the system against potential security threats, thus providing the foundation to determine information security policy (Chen & Zhao, 2013). One way to solve this problem is using ETA, which is a very powerful tool for identifying and evaluating all system consequence paths that are possible after an initiating event occurs and identifies the consequences that may result following the occurrence of a potentially dangerous event (Andrews & Dunnet, 2000).
+Also, the definition of risk by NIST (2002) – “risk is a function of the likelihood of a given threat-source’s exercising a particular potential vulnerability, and the resulting impact of that adverse event on the organization” – emphasizes the importance of characterization of events, which are responsible for accidents related to IT security. Thus, the use of ETA, a methodology already established and traditionally used in different contexts for identifying and evaluating the sequence of events in a potential accident scenario, is justified.
+Table 1 show the steps to develop an ETA.
+Table 1. Steps to develop an event tree analysis.
+Activities	Description
+1st step—identify the accident scenarios	Perform hazard analysis on the data center to identify existing system hazards and accident scenarios.
+2nd step—identify the initiating events	Refine the hazard analysis to identify the significant initiating event in the data center accident. The initiating event includes invasion through internal or external access.
+3rd step—identify the pivotal events	Identify the source of the fault occurrence in the invasion of the data center.
+4th step—build the event tree diagram	Construct the logical event tree diagrams, starting with the initial events, then the pivotal events and ending with the outcome of each path.
+5th step—identify the outcome risk	Assess the risk for each outcome path in the event tree diagram.
+2.3. Fuzzy decision theory
+Risk quantification and assessment models predominantly use probability models, which are the fundamental basis for informed decision making related to risk in many areas. However, a probability model built upon classic set theory may not be able to describe some risks in a meaningful and practical way (Shang & Zakir, 2013). ]]> <h target="2" match="part"> In this sense, many authors (Mokhtari, Ren, Roberts, and Wang, 2012) propose the application of fuzzy logic and fuzzy set theory, introduced by mathematician Lotfi A. Zadeh in 1965, to risk management. Rommelfanger (2003) also argues that the acceptance of decision models can be increased by using fuzzy utilities and fuzzy probabilities because normative decision theory is hardly used in practice to solve real life problems.
+With the publication of the paper “fuzzy sets” by Zadeh in 1965, fuzzy sets theory started to be considered as a new way for modelling more realistic decision models, making it feasible to model vague data as precisely as possible. Consequently, some fuzzy elements have been proposed for use in decision models: fuzzy acts, fuzzy events, fuzzy probabilities, fuzzy utilities values, and others. However, many of these fuzzy elements are not applied in practice, either because they are not known to the public or because they are of little use for real problems (Rommelfanger, 2003).
+In this paper, the use of fuzzy expected values (FEV), as discussed by Rommelfanger (2003), is proposed to define the risk expected of each act-event associated to information security management.</h> <![CDATA[ In this sense, the applicability of two fuzzy elements is recognized:
+Fuzzy probabilities: P˜j=P˜(sj)={(p,μPj(p))|p∈[0,1]}, Watson, Weiss, and Donell (1979); Dubois and Prade (1982); Whalen (1984).
+Fuzzy utility vales (consequences): U˜ij=U˜(ai,sj)={u,μUij(u)|u∈U}, Jain (1976), Watson et al. (1979); Yager (1979); Rommelfanger (1984), Whalen (1984).
+Where ai represents the actions and sj represents the possible nature states (possible scenarios). As in Rommelfanger (2003), how to obtain (fuzzy) utility functions is not discussed. It is assumed that the decision maker or an expert knows the utility function u = u(gij). Then, the fuzzy results are mapped in the fuzzy utilities U˜ij={u(g),μG˜ij(g)|g∈G} or alternatively the expert specifies directly utility values U˜ij={u,μU˜ij(u)|u∈U}, where U is the possible set of crisp utility values. 
+2.3.1. Fuzzy expected values (FEV)
+As discussed in Rommelfanger (2003), assuming that each real number a can be modelled as a fuzzy number like:
+(1)Aˆ={(x,μAˆ(x))|x∈R}withμAˆ(x)={1ifx=a0else
+
+Each act-event combination ( ai, sj) is valued by a fuzzy interval:
+(2)
+
+The membership function of U˜ij is a polygon presented in Fig. 1.
+Membership function of U˜ij
+Download full-size image
+Fig. 1. Membership function of U˜ij.
+This membership is proposed considering that an approximation of a fuzzy set can be constructed by using few α-cuts. And so, for:
+
+α=1:μU˜ij(u)=1,u has the highest chance of belonging to the set of utility values associated with the act-event combination (ai, sj).
+α=λ:μU˜ij(u)≥λ, the decision maker or the expert is willing to accept u as an available value for the time being. A value u with μU˜ij(u)≥λ has a good chance of belonging to the set of utility values associated with the act-event combination (ai, sj). Corresponding values of u are relevant for the decision.
+α=ϵ:μU˜ij(u)<ϵ,u has only a very little chance of belonging to the set of utility values associated with the act-event combination (ai, sj). The expert is willing to neglect the values u with μU˜ij(u)<ϵ.
+    Then, considering that the expert specifies the priori probabilities p(sj), j = 1, 2, …, n, the expected value of each alternative ai can be calculated as:
+    (3)
+    where
+    (4)E_iα=∑j=1nu_ijα×p(sj),α=ϵ,λ,1
+    (5)E¯iα=∑j=1nu¯ijα×p(sj),α=1,λ,ϵ
+    
+    2.3.2. Ordering of fuzzy preferences
+    The expert must identify each act-event combination that generates the best result. After calculating the expected values, the expert must compare the fuzzy sets and construct preference ordering. This identification step gains significance when fuzzy sets are used in the classical model.
+    
+    Different concepts for comparing fuzzy sets and for constructing preference orderings have been proposed and can be divided into old proposals (Jain, 1976; Dubois & Prade, 1980, 1983; Dubois & Prade, 1983; Adamo, 1980) and recent proposals (Abbasbandy & Hajjari, 2009; Chen & Sanguansat, 2011; Nejad & Mashinchi, 2011; Nesseri et al., 2013; Destercke & Couso, 2014). To illustrate the increasing interest on the issue, Bortolan and Degani (1985) present a literature review and test the indexes of nine proposals; sixteen years later Wang and Kerre (2001a,b) counted thirty five methods.
+    Most of the concepts are based on defuzzification, meaning that each fuzzy set is compressed into a single, crisp, real number. In other words, Ekel and Schuffner Neto (2006) pointed out that the ordering of fuzzy quantities is about converting a fuzzy quantity into a real number and then basing the comparison of fuzzy quantities on that of real numbers.
+    Some shortcomings can be cited regarding these methods: the spreads of the fuzzy sets are neglected in the defuzzification process (Rommelfanger, 2003); each individual conversion approach pays attention to one unique special aspect of fuzzy quantity (Ekel & Schuffner Neto, 2006), the defuzzification methods may produce different rankings for the same problem (Cheng, 1998), and choices that appear inconsistent with intuition can occasionally result (Ekel, Pedrycz, & Schinzinger, 1998); finally the majority of the methods assume an obligatory distinction among the alternatives, which is not natural because the uncertainty of information leads to decision uncertainty regions (Ekel & Schuffner Neto, 2006).
+    In order to avoid these shortcomings, Rommelfanger (2003) suggested the use of ρ-preference and ϵ-preference as alternatives for constructing preference orderings using the following concepts.
+    A fuzzy set B˜ is preferred to a fuzzy set C˜ on the ρ-level, ρ∈[0,1], written as B˜>ρC˜, if:
+    •
+    ρ is the least real number, such that: Inf Bα≥SupCa for all α∈[ρ,1] (6)
+    •
+    and for at least one α∈[ρ,1]the inequality (6) holds in the strict sense.
+    where the ρ-level-sets of B˜ and C˜ are defined as:
+    Bα={x∈X⋮μB˜(x)≥a}
+    Cα={x∈X⋮μC˜(x)≥a}
+    
+    Fig. 2 presents an example where B˜>ρC˜ .
+    Membership function of the sets B˜ e C˜; ρ-preference
+    Download full-size image
+    Fig. 2. Membership function of the sets B˜ e C˜; ρ-preference.
+    In cases where the ρ-preference relation does not lead to a preference ordering of the given alternatives, the ϵ-preference relation is more appropriate and suitable because ϵ-preference is weaker than the ρ-preference. For more details, see Rommelfanger (2003).
+    On the ϵ-level, ϵ∈[0,1], a fuzzy set B˜ is preferred to a fuzzy set C˜, written as B˜>ϵC˜, if:
+    •
+    ϵ is the least real number, such that: Sup Bα≥SupCa and Inf Bα≥InfCa for all α∈[ϵ,1] (7)
+    •
+    and for at least one α∈[ϵ,1] one of these inequalities holds in the strict sense.
+    
+    Fig. 3 presents an example where B˜>ϵC˜.
+    Membership function of the sets B˜ e C˜; ϵ-preference
+    Download full-size image
+    Fig. 3. Membership function of the sets B˜ e C˜; ϵ-preference.
+    
+    ]]></section>
+    
+    <section name="Information security risk assessment proposed model;Illustrative example" category="results"><![CDATA[
+    3. Information security risk assessment proposed model
+    The proposed information security model includes four phases (Fig. 4): expert identification, determination of scenarios and events, fuzzy evaluation and ordering.
+    Steps of the proposed model
+    Download full-size image
+    Fig. 4. Steps of the proposed model.
+    The aim of the proposed model is to evaluate the consequence of each alternative in terms of financial loss, an easily perceived variable, considering the different possible scenarios (possible nature states). As outlined in Section 2, the alternatives detailed below represent a potential accident regarding information security in the proposal.
+    3.1. Expert identification
+    The first step consists of expert identification. The expert is the person, or group of people, who, based on experience, is able to identify: the vulnerabilities of the organization, and consequently the potential accidents; possible scenarios; the chances of occurrence, and judgments about each of these elements.
+    
+    According to Purba (2014), an expert is someone with multiple skills who understands the working environment and has substantial training in and knowledge of the system being evaluated. The question to be answered is how to select an expert with these aforementioned skills.
+    Three indicators recommended by Cooke et al. (2008), namely: the number of scientific publications, recommendations from a wide range of experts, and experiences of previous similar studies, can be used to properly select the experts who have the expertise, which is most relevant to the system being evaluated. Similarly, Ramzali, Malasani, and Ghoudousi (2015) take into consideration professional position, length of experience, education level, and age in order to select an expert.
+    In line with the previous recommendations, the expert selected for this study is a senior academic, with more than 20 years of experience time. She holds a Ph.D. degree in Information Systems, has published eleven papers in this field and her age is between 40 and 49 years. She also has experience as a consultant on IS to companies in the private sector.
+    
+    3.2. Definition of events and scenarios
+    ]]> <h target="3" match="full"> The development of a taxonomy of events and scenarios is done using the ETA methodology presented in the previous section. </h> <![CDATA[The methodology ETA is developed to represent the issues related to assessing the information security risk, their vulnerability and consequences (see Fig. 5).
+    Event tree analysis for the data center invasion (attack)
+    Download full-size image
+    Fig. 5. Event tree analysis for the data center invasion (attack).
+    For the construction of the ETA, this paper considers several characteristics identified in different papers. According to Feng et al. (2014), in information systems, security risks are caused by various interrelated internal and external factors and could be derived from viruses, worms, hackers, and crackers (Grant, Edgar, Sukumar, & Meyer, 2014). Insider threats include inappropriate usage of devices, network data breaches, laptop loss/theft, lack of education (Sarkar, 2010), lack of experience, deliberate damage, spam, hoaxes, and phishing (Grant et al., 2014). External security threats are represented as accidental damages (Grant et al., 2014)
+    Once the information security ETA is constructed, it serves as a tool for risk evaluation based on decision theory and fuzzy logic.
+    
+    3.3. Fuzzy assessment of potential accidents and ordering
+    The starting point for use of the fuzzy decision theory approach to the assessment of potential accidents is the construction of a matrix, where the rows represent the alternatives (e.g., potential accident regarding information security in data center services) and the columns the possible scenarios. For each cell of the matrix, the expert uses fuzzy logic to define the financial losses stemming from combinations of these variables (alternatives × scenarios). The expert also provides the probability of each scenario considering the different means of occurrence. These a priori probabilities (p(sj)), are represented by π(q) in the application.
+    It is then possible to calculate the FEV, using the Eq. (3), and ordering the potential accidents in accordance with the procedure presented by Rommelfanger (2003) as discussed earlier.
+    
+         
+    4. Illustrative example
+    This section presents an example that illustrates the applicability of the proposed model. This application is based on a real context. Although real data, regarding the information required, have not been used, the data, which used to give an overview of the model, are nevertheless realistic.
+    
+    Following the steps of the proposed model (Fig. 4), explained in Section 3, the information required (realistic data) was provided by an expert in the security risk to information area, based on his judgment and expertise. She focused on the risks of using a data center as measured against her perception of the vulnerabilities of its services. This encompasses a growing number of managed nodes in heterogeneous environments scattered over many locations.
+    In this application, the expert also provided a preliminary summary of the main characteristics of the data center’s services, as shown in Table 2.
+    Table 2. Data center services.
+    Services	Description
+    Website	A hosting service that allows people or companies to store their information, pictures, videos or any other content on online systems accessible via the web.
+    E-commerce	A service providing a technical platform with secure payment methods, purchasing and large database backend, supporting the sale of products and services through the Internet.
+    Database-as-a-service	A service that hosts databases in the cloud, and a viable option for businesses developing bespoke web based applications.
+    In the following step of the proposed model, an ETA analysis was developed, based on the expert’s knowledge, as described in the Fig. 5, to provide definition of events and scenarios regarding the data center’s invasion.
+    Given the difficulty of attributing a numerical value to potential accidents, and the uncertainties involved, we propose the use of fuzzy numbers, more specifically of triangular fuzzy numbers. The triangular fuzzy numbers, presented in Table 3, are determined according to a five-point linguistic scale (very low, low, moderate, high and very high) to represent the financial consequences of each alternative concerning each state of nature.
+    Table 3. Verbal scale regarding monetary range.
+    Linguistic terms	Fuzzy number	Values	Unit
+    Very low	Triangular	(100;150;200)	Thousands U$
+    Low	Triangular	(250;350;450)	Thousands U$
+    Moderate	Triangular	(350;600;800)	Thousands U$
+    High	Triangular	(650;1000;1300)	Thousands U$
+    Very high	Triangular	(1000;1600;2000)	Thousands U$
+    The use of triangular membership functions in this paper is justified because of its simplicity and applicability to the present context (Pedrycz, 1994). In the literature, triangular fuzzy numbers are represented by a triple (a; m; b), where a and b mean the lower and upper bounds of a fuzzy set and the parameter m means a modal (typical) value of this set (Kaufmann and Gupta, 1988).
+    According to information obtained from the expert, the financial loss, resulting from a data center invasion, may range from US$ 100,000.00 to US$ 2000,000.00. Thus, the verbal scale covers this range. However, it should be noted that the proposed model allows variations in the magnitude of values in line with the context to be analysed.
+    
+    To proceed to a fuzzy assessment of potential accidents, it is necessary to calculate the expected value of each alternative with regard to risk. To do this, it is necessary to first define the nature states and the alternatives (act-event combinations). Then, the evaluation of alternatives from the expert must be obtained using fuzzy logic and the priori probabilities (p(sj)), represented by π(θ) in this illustrative example because nature states are represented by θ and priori probability by π in decision theory.
+    Thus, the nature states (θ), which are the possible result scenarios (nature state) of a data center’s invasion (shown in Fig. 5), were defined as: data dissemination (θ1), data modification (θ2), data loss or destruction θ3 and service interruption (θ4).
+    <6>The alternatives (act-event combinations) were constructed grouping each data center service (website (W), e-commerce (EC) and database (DB) with two failure modes (internal (I) and external (E) access) and the two possible origins (accidental (A) and deliberate (D)), resulting in twelve alternatives (Table 4).
+    Table 4. Expert’s elicitation evaluation.
+    Alternatives (Ai)	
+    θ1	
+    θ2	
+    θ3	
+    θ4
+    W/I/A(A1)	H	VH	M	L
+    W/I/D (A2)	L	M	M	H
+    W/E/A(A3)	L	VL	VL	VL
+    W/E/D(A4)	M	M	VH	VH
+    EC/I/A(A5)	M	L	VL	L
+    EC/I/D(A6)	VL	VL	L	L
+    EC/E/A(A7)	M	L	M	M
+    EC/E/D(A8)	L	H	M	VH
+    DB/I/A(A9)	H	VH	VH	M
+    DB/I/D(A10)	VH	M	H	VH
+    DB/E/A(A11)	L	M	M	L
+    DB/E/D(A12)	H	VH	H	VH
+    Table 4 shows the expert’s evaluation concerning each pair of alternatives and state of nature. This evaluation was performed by means of a 5-point linguistic scale ranging from very low (VL) to very high (VH).
+    The expert’s judgments about the financial losses of the alternatives (potential accidents: act-event combination) for each nature state (possible scenario) are presented in Table 5.
+    Table 5. Decision matrix.
+    Alternatives (Ai)	
+    θ1	
+    θ2	
+    θ3	
+    θ4
+    W/I/A(A1)	(650;1000;1300)	(1000;1600;2000)	(350;600;800)	(250;350;450)
+    W/I/D (A2)	(250;350;450)	(350;600;800)	(350;600;800)	(650;1000;1300)
+    W/E/A(A3)	(250;350;450)	(100;150;200)	(100;150;200)	(100;150;200)
+    W/E/D(A4)	(350;600;800)	(350;600;800)	(1000;1600;2000)	(1000;1600;2000)
+    EC/I/A(A5)	(350;600;800)	(250;350;450)	(100;150;200)	(250;350;450)
+    EC/I/D(A6)	(100;150;200)	(100;150;200)	(250;350;450)	(250;350;450)
+    EC/E/A(A7)	(350;600;800)	(250;350;450)	(350;600;800)	(350;600;800)
+    EC/E/D(A8)	(250;350;450)	(650;1000;1300)	(350;600;800)	(1000;1600;2000)
+    DB/I/A(A9)	(650;1000;1300)	(1000;1600;2000)	(1000;1600;2000)	(350;600;800)
+    DB/I/D(A10)	(1000;1600;2000)	(350;600;800)	(650;1000;1300)	(1000;1600;2000)
+    DB/E/A(A11)	(250;350;450)	(350;600;800)	(350;600;800)	(250;350;450)
+    DB/E/D(A12)	(650;1000;1300)	(1000;1600;2000)	(650;1000;1300)	(1000;1600;2000)
+    The definition of prior probability, π(θ), takes into account expert experience or past data regarding data centre attacks. It was assumed that the expert is risk neutral regarding financial aspects. To assess the robustness of the proposed model, we analyze two methods of setting π(θ): the first method uses laplace criteria and the second uses an expert’s experience.
+    According to Eq. (3), the fuzzy expected value (FEV), presented in Table 6, were calculated using these different methods. In the first column, the probabilities were defined using the laplace criteria, considering π(θ1)=π(θ2)=π(θ3)=π(θ4)=0.25 and in the second column the probabilities were elicited from the expert, π(θ1)=0.28,π(θ2)=0.22,π(θ3)=0.14,π(θ4)=0.36. The correspondent triangular fuzzy numbers are shown on Figs. 6 and 7.
+    Table 6. Fuzzy expected value (FEV).
+    Alternatives (Ai)	FEV (laplace criteria)	FEV (expert’s elicitation)
+    W/I/A(A1)	(562.5; 887.5; 1137.5)	(541; 842; 1078)
+    W/I/D (A2)	(400; 637.5; 837.5)	(430; 674; 882)
+    W/E/A(A3)	(137.5; 200; 262.5)	(142; 206; 270)
+    W/E/D(A4)	(674; 1100; 1400)	(675; 1100; 1400)
+    EC/I/A(A5)	(237.5; 362.5; 475)	(257; 392; 513)
+    EC/I/D(A6)	(175; 250; 325)	(175; 250; 325)
+    EC/E/A(A7)	(325; 537.5; 712.5)	(328; 545; 723)
+    EC/E/D(A8)	(562.5; 887.5; 1137.5)	(622; 978; 1244)
+    DB/I/A(A9)	(750; 1200; 1525)	(668; 1072; 1372)
+    DB/I/D(A10)	(750; 1200; 1525)	(808; 1296; 1638)
+    DB/E/A(A11)	(300; 475; 625)	(286; 440; 576)
+    DB/E/D(A12)	(825; 1300; 1650)	(853; 1348; 1706)
+    Triangular fuzzy numbers of alternatives—laplace criteria
+    Download full-size image
+    Fig. 6. Triangular fuzzy numbers of alternatives—laplace criteria.
+    Triangular fuzzy numbers—experts’ elicitation
+    Download full-size image
+    Fig. 7. Triangular fuzzy numbers—experts’ elicitation.
+    Table 7 summarizes the rankings provided by the two methods. These rankings were defined in accordance with the procedure presented by Rommelfanger (2003).
+    Table 7. Alternatives ranking.
+    Alternatives (Ai)	Ranking (laplace criteria)	Ranking (expert’s elicitation)
+    W/I/A(A1)	4th	6th
+    W/I/D (A2)	5th	7th
+    W/E/A(A3)	10th	12th
+    W/E/D(A4)	3rd	3rd
+    EC/I/A(A5)	8th	10th
+    EC/I/D(A6)	9th	11th
+    EC/E/A(A7)	6th	8th
+    EC/E/D(A8)	4th	5th
+    DB/I/A(A9)	2nd	4th
+    DB/I/D(A10)	2nd	2nd
+    DB/E/A(A11)	7th	9th
+    DB/E/D(A12)	1st	1st
+    ]]> <h target="6" match="part"> Thus, as a result of the application of the model, alternative A12 (Deliberate External Database Attack) represent the need for increased levels of awareness for both scenarios.</h> <![CDATA[ Using the laplace criteria, alternatives A9 and A10 have a similar risk. On the other hand, it is important to say that alternative A10 was the second most risky using the expert elicitation, as well as for laplace criteria. Another important result is that alternative A3—accidental external website attack was the least risky alternative for both methods.
+    
+   ]]></section>
+    
+    <section name="Discussion" category="discussion"><![CDATA[
+    5. Discussion
+    In this study, a model for information security risk management was formulated and illustrated by means of an illustrative example developed in a data center. This model makes a contribution to information security practices by addressing some critical aspects; evaluation and analysis of possible scenarios, origins and potential failure modes.
+    
+    ]]> <h target="3" match="full">The ETA methodology was used to identify the alternatives of interest, which were defined from the taxonomy of events and scenarios and thereafter, a risk assessment analysis was conducted.</h> <![CDATA[
+    
+    It is well known that the knowledge of a single expert is often used when the ETA methodology is used because, in most cases, data collection is either difficult or very expensive. Although, multiple expert knowledge can provide more reliable information for an observation (e.g., the probability of an event) than the knowledge a single expert, expert judgments are qualitative/linguistic in nature and may suffer from inconsistency if a lack of consensus among various experts arises. Moreover, Ferdous et al. (2009) claim that the classical probabilistic framework is not very effective at dealing with vague or incomplete/inconsistent concepts.
+    Similar papers have used only one expert’s knowledge to provide value judgments that represent the expert’s perceptions and/or preferences. For instance, the aforementioned study by Ferdous et al. (2009) provides evidence obtained from two unbiased and independent experts, resulting in two different evaluations. Taking into consideration this work, we performed two evaluations in our application as well: one using Laplace criteria, and the other using an expert’s judgment. Furthermore, Garcez and Almeida (2014a,b) explore a risk measure of underground vaults that considers the consequences of arc faults using a single expert́s a priori knowledge.
+    Accordingly, it is worth stating that the probabilities of the events of the ETA are not defined in this paper. Thus, less information is required from the expert. On the contrary, the expert provided the evaluations concerning each pair of alternatives (potential accidents: act-event combination) for each state of nature (possible scenario). This evaluation was performed by the expert who used a 5-point linguistic scale ranging from very low (VL) to very high (VH) regarding monetary range.
+    
+    Still, by means of elicitation procedures, the expert also provided the prior probability π(θ) of each state of nature (and not the probability of an event). It is worth saying that these prior probabilities, which are defined by the expert and those deriving from Laplace criteria, were used with a view to illustrating the model and its accuracy.
+    The illustrative example, which considers financial aspects, shows that although there are differences between the probabilities for both methods of analysis, the importance of the alternatives remains basically the same, which demonstrates the robustness of the proposal and context. A reason for this difference; however, may be because the four states of nature are very common as information security issues.
+    
+    Moreover, the top two potential problems arise from deliberate actions, instead of accidental actions, which justifies increased efforts in the internal monitoring of the activities of the organization, since the consequences derived from these deliberate actions are usually more damaging.
+    
+    Also, it should be noted that according to Dzazali, Sulaiman and Zolait (2009) twenty-five percent of information security incidents originated from within organizations, 15% originated from the outside, and 11% were from a mixture of internal and external sources. However, according to Magklaras and Furnell (2002), the great majority of abuse originates from external factors. Therefore, the aim of the proposed model is not to establish the origins of incidents, but to provide a general assessment of the organization regarding information security, thereby enabling information security policies to be prioritized.
+    
+    ]]></section>
+    
+    <section name="Conclusions" category="conclusion"><![CDATA[
+    6. Conclusions
+    ]]><h target="1;2" match="part;part"> This paper proposes an information security risk model using fuzzy decision theory, which encompasses four phases: expert identification, determination of scenarios and events, fuzzy evaluation, and ordering. </h> <![CDATA[The paper aims to evaluate the consequence of each alternative in terms of an easily perceived variable – financial loss – considering the different possible states of nature (scenarios). ]]><h target="3;4" match="part;part"> To achieve this goal, this work described a taxonomy of events and scenarios using the ETA methodology, which served as the basis for the risk analysis and led to awareness concerning the threat level of deliberate and external data center attacks. Then, this paper ordered each alternative based on the criticality of the risk. </h> <![CDATA[
+    
+    ]]><h target="5" match="full"> Despite its conceptual nature, the main contribution of this paper is the ability to provide an organization with information regarding the causes of information system attacks of highest managerial relevance.</h> <![CDATA[ Although this paper focuses on the application of the model to assess the risk of information security in a data center, it is not restricted to this area. The model could be used in other areas where information security policies must be prioritized and also be applied in a private or public organization.
+    
+    For future work, application of the model to a private/public organization and the use of a multicriteria approach in order to include other criteria such as service availability are recommended. This can be done using the method proposed in , which is based on constructing and analyzing payoff matrices reflecting effects that can be obtained for different combinations of solution alternatives and states of nature or scenarios and allows one to speak about the evaluation of the particular mono-criteria as well as aggregated multi-criteria risks. Another subject for future research is to provide solutions to minimize potential losses.
+    
+    For future work, the use of a multidimensional risk analysis (de Almeida et al., 2015) in order to include other criteria and to obtain a broader view, is recommended. Ekel, Martini, and Palhares (2008), for example, propose a method which is based on constructing and analyzing payoff matrices reflecting effects that can be obtained for different combinations of solution alternatives and states of nature or scenarios and allows one to speak about the evaluation of the particular mono-criteria as well as aggregated multi-criteria risks. Another subject for future research is to provide solutions to minimize potential losses.
+    Finally, another perspective is the analysis of risk in the view of multiple experts. The context of information security is complex. Thus to be able to draw on the combined knowledge of multiple experts is appropriate in order to harness as much human expertise as possible and increase the robustness of how estimates are made.
+    
+    ]]></section>
+    
+</publication>

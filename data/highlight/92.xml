@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<publication marker="wang xueyan">
+    <journal>International Journal of Information Management</journal>
+    <time>Volume 36, Issue 4, August 2016, Pages 626-634</time>
+    <title>Development of function-based classification model for electronic records</title>
+<author>Umi Asma’ Mokhtar.</author> Author links open the author workspace.Opens the author workspaceOpens the author workspaceZawiyah M. Yusof. Author links open the author workspace.<author>Kamsuriah Ahmad.</author> Author links open the author workspace.<author>Dian Indrayani Jambari. </author>Author links open the author workspace.
+Universiti Kebangsaan Malaysia, 43600 Bangi, Selangor, Malaysia
+Show more
+    <doi>https://doi.org/10.1016/j.ijinfomgt.2016.04.009</doi>
+Highlights
+    <highlight id="1">Development of function-based records classification from context level to decomposed diagram using IDEF0 tool.</highlight>
+    <highlight id="2">Consist of three level diagram mainly in creating records process.</highlight>
+    <highlight id="3">Case study was taken from Malaysian legal records.</highlight>
+    <highlight id="4">Classification perspectives from Information Science and Archival Science using function-based approach.</highlight>
+    <highlight id="5">Experts validation on the proposed model.</highlight>
+    <abstract> 
+<![CDATA[
+Classification is central for effective and efficient records management. However, it has not been addressed accordingly since records management initiative has not received priority despite of its importance in the current information-based world. This study has attempted to propose a function-based classification for managing electronic records at public agencies in Malaysia. ]]><h target="3" match="part">The study was initiated by conducting a case study at the Department of Syariah Judiciary Malaysia which serve as a snapshot study.</h><![CDATA[ It is a requirement to carry out the snapshot study as the information gathered is useful for proposing a functional model to be used by the public agencies in the country. A function-based classification model is then proposed since it could ease the process of classifying records for retrieval, appraisal and disposal. Function-based classification is depicted since it provides context for records rather than content other than support proactive management of records.]]><h target="5" match="part">The development of model is derived from Integration Definition for Function Modelling (IDEF0) technique and validated by experts academically and professionally. The proposed model is comprehensive, consistent, relevant-scope, customise, and flexible.</h> </abstract>
+     <keywords>Records management</keywords>
+     <keywords>Function-based records classification</keywords>
+     <keywords>Legal records</keywords>
+     <keywords>Experts validation</keywords>
+     <keywords>Malaysia</keywords>
+     <section name="Introduction" category="introduction">
+     <![CDATA[
+1. Introduction
+Classification is the arrangement of information items into manageable and logical categories. Records classification (RC) is different from library classification (Pearce-Moses & Davis 2008). Librarians classify materials from many different sources by subject into a single system, collecting related materials together for convenient access. On the contrary, records managers do not re-organise records, but maintain the original order abiding by the theories of provenance and respect des fonds. Such an approach is to ensure that the evidentiary value of records is preserved and the structure or functions of records remain intact.
+This study adopts function-based classification (FBC) as suggested by Orr (2005), the National Archives of Australia (2003), and Mitchell (2003) because it is more stable compared with subject-based classification. FBC could also ease the process of classification and retrieval; provides context for records rather than content (Robinson, 1999; International Standard Organization, 2001;Library and Archives Canada 2006;National Archives of Australia, 2003;Shepherd & Yeo 2003) and could aid appraisal and disposal activities and support the proactive management of records (Bantin, 2002;National Archives of Australia, 2003).]]></section>
+<section name="The development of a functional model for the study;Experts validation" category="results">
+      <![CDATA[
+2. The development of a functional model for the study
+A model is a substitute for a real system, used when it is easier to work with a substitute than the actual system (Ford 2009). A model is more abstract than the system it represents, eliminates unnecessary detail, and focuses on the most important or related elements within the system (Hillston 2003).]]><h target="4" match="part"> The model presented in this paper has been developed both from records management (RM) principles and archival science theory.</h><![CDATA[ RM principles are focused on the management of current records, from creation to maintenance. The primary purpose of RM is to help organisations organise records for retrieval and storage, and to protect them from misuse.]]><h target="4" match="part"> Since this study focuses on classification and its application to current records, the RM principles of respect des fonds and provenance are noted, along with a brief reference to archival science theory.</h><![CDATA[ Examples of other studies that have adopted the same theoretical foundation are Orr (2005), Xie (2007), Foscarini (2009), and Krahn (2012).
+]]><h target="1" match="part"><![CDATA[The proposed model, later referred to as the Records Classification Model (FRCM), focuses on the first phase of recordkeeping functional requirements, namely ‘Create’. The main concern when creating records, from the RM perspective, is to ensure that records are created in context by ensuring its metadata, management of aggregations, and classification tools. The creation of records requires a disposition schedule, capture methods, metadata elements, forms and structure, and technology solutions. Records are controlled through processes such as registration, classification, selection, access rules, authorising use, disposition, transfer, removing, destruction and administration of records systems. Therefore, the classification of records occurs at the ‘Create’ phase, which is the focal interest of this study.
+
+A number of existing resources can be used to guide good RM. These include ICA, MoReqs, and InterPARES, all of which address the management of records from creation until disposal. None of these resources includes a method to conduct functional modelling, and none focuses solely on the classification of records.]]></h><![CDATA[ Therefore, a new model is proposed for the following reasons:
+i.
+To date, there is no model for the classification of records in Malaysia; and
+
+ii.
+There is a need to classify records in Malaysia by function because records are acquired and described in context in natural relationship between the creator and its creation (Cook 2007).
+
+Moreover, the classification of records by function has been widely adopted by many countries including the US, Canada, UK, New Zealand, Australia, and China, and Malaysia (paper records only).
+
+The development of the proposed model (FRCM) has been achieved using a tool (IDEF0) that consists of Node Index, Context Diagrams, and Decomposed Diagrams. The FRCM is a foundation guideline designed to identify functions in organisations for the purpose of classifying records. It is not a classification scheme; however, the development of a classification scheme can be referred from this model.
+
+2.1. ICAM (Integrated Computer Aided Manufacturing) Definition for Modelling (IDEF0)
+IDEF0 has been used to produce a functional model of the FRCM. A functional model is a structured representation of the functions and activities within the modelled system or subject area (Federal Information Processing Standards Publication, 1993). The model was developed using the Concept Draw PRO software. ]]><h target="1" match="part">The IDEF0 model has been constructed level by level, beginning with the node index, followed by the context diagram (A-0). Levels are then decomposed to more detail diagrams (A0, A1 and A2).</h><![CDATA[ IDEF0 consists of inputs, controls/constraints, outputs and mechanisms (‘ICOM’). Definitions for these terms are provided by IDEF0 (2010).
+Input is defined as information or objects that originate outside the main activity being modelled and result in output, or the outcomes of an activity. Activities have control/constraint on processes.
+i.
+Control/constraint is a form of input, seldom changing, may direct or affect activities associated with a process.
+
+ii.
+Mechanisms are the resources and tools required to complete the process.
+
+
+2.2. Node index for the design of a Records Classification Model (FRCM)
+The development of the FRCM was completed by constructing a node index. A node index is used as a guide or index to list the related functions, which are then drawn in the context diagram. The context diagram is the highest level diagram and is made up of all inputs, controls/constraints, outputs and mechanisms. The node index provides a quick index for locating details within the hierarchical structure of diagrams, as shown in Fig. 1.
+Fig. 1
+Download full-size image
+Fig. 1. Node index.
+Fig. 1 depicts the FRCM that consists of two core processes involved in classifying records: (i) create documents and (ii) capture/save documents. The first process is document creation. The attributes of a document are composed of records elements derived from archival science theory and constructed using IT tools to become electronic documents or records. The first process produces outputs including classification framework and design. This is because the process of classification should occur when documents are created. The second process is about capturing and saving documents into the system, to describe them as records and circulate them for use.
+Fig. 2 is a summary of the FRCM with the aim of facilitating an understanding in visualising the complex process.]]><h target="2" match="part"> It comprises the context diagram (A) decomposing the processes into three further levels in separate diagrams (B).</h> It begins with a node index that acts as a road map to the flow of processes. The node index shows the processes and their outputs. The context diagram, labelled in box A, shows the management of records creation at the highest level. The diagram is simple however; it is difficult to understand its function without decomposing their processes into different levels. <h target="2" match="part">Box B consists of three levels of processes, described in Figs. 4–6.</h><![CDATA[
+Fig. 2
+Download full-size image
+Fig. 2. Summary of Functional Model—Records Classification Model.
+Fig. 3
+Download full-size image
+Fig. 3. Context Diagram (A-0).
+Fig. 4
+Download full-size image
+Fig. 4. First level (A0).
+Fig. 5
+Download full-size image
+Fig. 5. Second Level (A1).
+Fig. 6
+Download full-size image
+Fig. 6. Third level (A2).
+The first level describes in detail the content of the context diagram. It depicts both processes involved, namely the creation of documents and capture/save of documents. The creation and capture/save documents steps are further broken down into second and third levels.
+
+The second level depicts the process for creating documents. Once the document is created or received, all details such as information about its author, actions involved in creating the document, contents, structure and context are composed into descriptions of documents. A document produced is not only about its contents, but comes together with its descriptions. The descriptions of documents are presented in a structured form, normally known as metadata. All information such as inputs, constraints, and mechanisms needed while creating a document will be gathered to form a classification framework and design.
+
+The third level shows simpler processes involved in the capture/save documents. The classification occurs at the beginning of documents creation. The documents retrieved are captured, while the documents created are saved. Both have similar function which is to save the document into the system. Then, the documents are assigned and described either document or records, and then distributed or used. The classification of documents allows documents that have been received or captured and identified as records to be assigned classification codes from the classification scheme; for these codes to be added the identifying metadata; for registration numbers to be assigned to documents based on the registration scheme; and for these numbers to be added to the identifying metadata. All of the outputs from the second and third levels are depicted in the box B.
+
+The FRCM explains all the processes involved, as pictured in boxes A, B and C. Although boxes C and D are not explained, they relate to the processes included in those three boxes. Box D shows the arrows from the box D to box C, addressing the business activities and sets of guidelines and procedures are the inputs of classification framework. The existing sources of guidelines and procedures are US DoD 5015.2-0, MoReqs, NOARK, UK National Archives Requirements, National Archives of Australia’s Specifications and New Zealand’s System Standard. On the other hand, the box E shows arrows out from box C to box E. The classification design should include all elements from the classification framework and design the flow of classification to provide for the business classification scheme, thesaurus and metadata.
+
+A classification scheme is established from an analysis of business activities (included in classification framework), based on RM principles. The classification process establishes that a document has been selected for incorporation into the records of the creator and places it in relation to the business process of which it is a part of an action that generated it. It may also relate to the administrative structure where the record is created. The classification scheme results in the creation of aggregations of records in series and classes of records that may be subject to further processes. These processes and matters are usually identified through new metadata such as classification codes, registration numbers and inherited metadata, as well as the name of the creator, any copyright or intellectual rights, and the name of the primary responsible office, any access restrictions, access privileges, any vital record code, and any planned disposition.
+
+2.3. Context diagram for records classification model
+Diagram A-0 decomposes the single process ‘Manage Records Creation’ as depicted in Fig. 3 into its major sub-processes. In addition to its top and sub-level processes, the diagram also shows inputs, controls, outputs and mechanisms. The purpose of this process is to manage records created by a business or the government in a systematic manner, thereby preserving information appropriate to support its mission and business needs.
+The process of ‘Manage Current Records’ reflects the fact that most people in organisations engage in the first of three major activities involved in RM, namely creation. The two later activities, namely maintenance and disposition, are carried out by a limited number of personnel, including records managers, who are assigned this responsibility. The maintenance and disposition of records are outside the viewpoint and scope of the model.
+
+The three inputs that support the process of ‘Manage Current Records’ are information, author and action.
+i.
+‘Information’ is analysed data. It may consist of important or mundane data or a combination of both. The value of information is determined from its contents. The content of the information should include its intention, evidence, purpose, story, course of action, or reasons to show what the information is about. Information may also have categories of security level.
+a.
+It is important to analyse and understand information in order to correctly determine the appropriate level of security required. The level of security can then be included in the ‘Description of Documents’
+
+b.
+The explanation of risks and categories of information is defined by the National Institute of Standards and Technology (NIST). There are twelve categories of information with three levels of security: low, medium and high as listed in Table 1.
+Table 1. Categories of information level from high to low.
+Level	Information Type
+High	Investigation, intelligence-related and security information
+Mission-critical information
+Life-critical information
+Medium	Information about persons
+Financial, budgetary, commercial, and trade secret information
+Agency internal information
+Other federal agency information
+New technology or controlled scientific information
+Operational information
+System configuration management information
+Low	Public information
+Other information
+
+ii.
+‘Authors’ are the creators of records. Authors are accountable to ensure that the information in records is correct, valid and not fabricated. Details of authors, such as name, date of creation or ID that can help to identify the author is important to record. It can help to establish that records that have been created are authentic.
+
+iii.
+‘Action’ is important for FBC and can help to determine how to classify the records. FBC can capture the context in which information is created. The action of creating the information should be identified to describe the context of that information. Actions can have semantic relationships with other actions, and a collection of actions may relate to each other in many ways. These relationships become important, in the creation of classification schemes, when considering the distinction between functions and processes. For example, a plaintiff may file a case for divorce into the case file system. The action is divorce, but under Syariah law there are many types of divorce including fasakh, takhliq, khuluq, li'an, and talaq (Women’s Centre for Change 2014). The word divorce on its own does not identify which divorce the plaintiff would get. Therefore, action has a level of abstraction, and relates to other actions in the form of subtype, super type relationships. This form will break down the abstraction of actions to become more specific.
+
+
+These inputs act as a source and result in the production of another set of information used to create, capture/save and describe documents. There are two outputs:
+i.
+‘Create documents’. Electronic documents contain indexing information known as metadata. Metadata is used to index and categorise the document, to allow for indexed storage, thereby allowing for easier and more precise retrieval of the document. The creation of electronic documents incorporates indexing and categorisation along with other information such as the type of document, the date the document was created and filed, and other information depending on the exact document types and indexing requirements. Therefore, the ‘Create document’ output consists of identifying and analysing processes to produce a defined electronic document types and document groups, classification framework, and classification design.
+
+ii.
+‘Capture/save documents’. Electronic documents are captured or saved in a folder structure defined by the first output. In this process, documents are not only categorised for searching and retrieval purposes but also to accommodate the principles of RM for classification throughout the records life cycle. Documents (electronic and paper) can either be records or non-records, particularly in the US. Documents are assigned as records, based on their value, use, and life cycle.
+
+
+Mechanisms associated with the ‘Manage Current Records’ process are essentially the resources that are required to complete the process of maintaining, controlling and selecting records. It may include people with particular skills and tools such as IT physical facilities and infrastructure, people with particular skills includes records managers, or any personnel who handle records in the organisation.
+
+The parenthesis markings at the arrow heads of controls and mechanisms in Fig. 3 indicate that these apply to lower levels on the model but are not shown on those diagrams to reduce clutter.
+The controls or constraints for the model are represented in the form of guidelines, mandates and functions, laws and regulations (Franks, 2013;InterPARES2, 2008), de jure standards (Franks, 2013), and organisational structures (DoD, 2003). A de jure standard is a standard ‘concerning law’ usually endorsed by a formal standards organisation. The process for creating de jure standards is complex and rigid, requiring a stamp of approval and periodic audits. De jure standards like those created by IEEE and ISO are commonly referred to as consensus standards. These normally do not have any significant legal weight. True legal standards such as those created by Occupational Safety and Health Administration (OSHA) are different from consensus standards. In this model, de jure standards control the process of classification because government documents or records are official and in accordance with the law.
+The outputs from Context Diagram (A-0) will be further explain in First, Second, and Third Level diagrams. The First Level Diagram (A0) describes two outputs from ‘Manage Current Records’, which are the ‘Create’ and ‘Capture’. The descriptions are made at basics levels explaining what are the outputs produced from ‘Create’ and ‘Capture’ processes. The processes occur during ‘Create’ are break-down into the Second Level (A1). The A1 describes processes involved in creating documents and they are (i) Make/Receive, (ii) Gather Requirements for Defining Documents, (iii) Create Classification Framework, and (iv) Classification Design. On the other hand, the processes occur during ‘Capture’ are explained in the Third Level (A2), which consists of three (i) Capture, (ii) Save and (iii) Assign Records.
+
+]]><h target="1" match="part">2.4. Decomposed diagram from the context diagram (A-0): first level</h><![CDATA[
+The lower levels of the model in Diagram A0 in Fig. 4 shows the decomposed functions as specific processes. They reveal the processes involved in managing records after being created. Records Creation sub-processes are broken down into: ‘Create Documents’ (A1) and ‘Capture/Save Documents’ (A2). Each sub-processes work is inter-related and occurs in sequential order. ‘Implementation guidelines’ define how records are created.
+Implementation guidelines are represented as the four controls described in context diagram A-0 (Fig. 3). They consist of guidelines describing the creator’s mandates and functions; laws and regulations; standards (de jure); and organisational structure. All of these guidelines are important to be analysed to form a RC system.
+Documents are also assigned a records retention schedule to ensure they are kept for as long as required. Examples of legal records are bills of sale, business permits, claims and litigations, contracts, copyrights, correspondence-legal, deeds/titles, leases, licenses, mortgages, notes receivable, patents, stocks and bonds, and trademarks. All of these records, except leases (10 years), notes receivables (10 years) and trademarks (149 years), are to be kept permanently. The retention schedule for all records is determined by the National Archives of Malaysia.
+
+2.4.1. Process 1: ‘Create Document’
+The output from the ‘Create Documents’ process is the creation of ‘Documents’, ‘Description of Documents’, ‘Classification Framework’ and ‘Classification Design’.
+
+The first output is ‘Document’. A document serves to establish one or several facts, and can be relied upon as proof thereof. In general, documents function as evidence of intentions, whereas records function as evidence of activities.
+
+The second output is ‘Description of Documents’, which contains a description of the document created, which is important as the evidence of activities to support business needs. The description consists of metadata. At this point, the metadata facilitates searching and retrieval of documents.
+
+The third output is ‘Classification Framework’. A framework is defined as a real or conceptual structure intended to serve as a support or guide for the building of something that expands the structure into something useful (Rouse 2005). The ‘Classification Framework’ provides the elements needed to construct a classification design. This is further explained in Fig. 6. The terms classification framework means that an IT developer should acknowledge that the classification of a record begins when it is created. The framework is a guideline, to classify the document and it becomes a control for the process ‘Capture/Save Documents’.
+The fourth output is ‘Classification Design’. A design is a plan produced to show the look and function or workings of an object before it is built or made. This study focuses on FBC which includes functions, actions, and processes as part of the design. The design of a RC scheme should take into account the records life cycle, metadata, any litigation to which the organisation has been subject, the structure of the organisation, its business activities and processes, available technologies, and tools. The ‘Classification Design’ will become an input for ‘Capture/Save Documents’ process.
+
+IT developers usually plan all the processes at the analysis phase. At this point, the processes such as creation of documents, classification, disposal, searching, and reporting should be defined in the analysis phase. Similarly with RC, the process should be identified as early as documents are created.
+
+2.4.2. Process 2: ‘Capture/Save Documents’
+The output from the ‘Capture/Save Documents’ process is the capture of documents into a system used to manage them appropriately over time. The capture of documents as records requires the application of ‘descriptions of records’ and ‘records profile’ as the records are captured. This fixes the records within a business context and establishes management control. The timeframe of records availability is determined by the records retention schedule. ‘Descriptions of records’ and ‘records profiles’ provide information about who created and captured the record, when and what business purpose, content, appearance, structure and technical characteristics of the records.
+
+The inputs for the ‘Capture/Save Documents’ process are the ‘Records Profile’ and ‘Classification Design’. The ‘Records Profile’ is captured to prepare records for transfer and might include any of the elements such as Archival or filing date; Draft or version number; Expression of the archival bond (via classification code, file identifier, record item identifier, dossier identifier); Name of the author or creator; Indication of or reference to copyright or other intellectual rights; Name of the handling office; Name of the office of primary responsibility; Indication of any technical changes to the records; Indication of any annotations; Access restriction code; Access privileges code; Vital record code; Planned disposition; Indication of the record(s) transferred; Name of the person effecting the transfer; Name of the entity to whom the records are transferred; Date/time of the transfer (InterPARES2, 2008).
+The record profile consists of plans for the systematic generation of data entry forms designed to contain the attributes of records that attest to their identity and integrity, and which are generated when users create, send and/or close records, are updated when users subsequently modify or annotate completed records, and remain inextricably linked to the records for the entire period of their existence while in the custody of the creator (InterPARES2, 2008).
+All the extrinsic and intrinsic elements of records are incorporated to form the records profile. A key requirement for a records profile is to ensure that records are authentic, trustworthy and reliable. Without these criteria, records may not be valid as evidence to protect organisations from risks that may damage its business function, mission or reputation.
+
+The example of a records profile from InterPARES1 shows both extrinsic and intrinsic elements. A ‘Record Profile’ used to identify, authenticate, and contextualised information and the people, processes and system that create, maintain and use it. It allows users to control, manage, find, understand and preserve information over time. A records profile is usually associated with the metadata of records. The elements that make up a records profile are depicted in Table 2 (InterPARES1, 2002).
+Table 2. Records profile elements.
+Intrinsic Elements	Extrinsic Elements
+Presentation features: Text, graphic, image, sound, layout, fonts, colours, hyperlinks, graphic attachment, sample rate of sound files, files resolution, and maps scale.	Name of author; name of originator; chronological date; name of place of origin of record-keeping name of addressee (s); name of receiver (s); indication of action or matter; description of action or matter; name of writer; corroboration; attestation; and qualification of signature
+Electronic signature: electronic seal, authentication certificate of trusted third party, digital time-stamp, special sign
+The ‘Capture/Save Documents’ process produces two outputs, namely the ‘Described Records’, and ‘Records Circulated/Used’.
+
+The first output is ‘Described Records’. ‘Described Records’ is a process used to describe information so that people will know what it is about, understand their context and purpose, and can find easily whenever needed.
+
+The second output is ‘Records Circulated/Used’ where records are ready to be used and circulated. This process involves some form of transfer of the records for public or private use. Records that have been classified (from the ‘Capture/Save’ process) are distributed for easy retrieval, effective management, and reliability. This process provides overall control and co-ordination of the transfer of completed records to the recordkeeping system.
+
+2.5. Decomposed diagram for records classification model: second level
+The second level describes the process of creating and classifying records. Fig. 5 depicts in detail each process that occurs in the ‘Create Documents’ process that results in the creation of a description of records, and consists of four sub-processes: ‘Make Documents’ (A1), ‘Gather Requirements for Defining Documents’ (A2). ‘Create Classification Framework' (A3), and ‘Design Classification’ (A4)
+2.5.1. Process 1: ‘Make/Receive Documents’
+The process of ‘Make/Receive Documents’ means that information is received from a system, it is not necessarily created in that system. Documents may be regarded as received if they have gone through a digitizing process. The process ‘Make/Receive Documents’ means that information is created from desktop applications, workflows, websites, databases, imaging system or business system. The document is created electronically, together with its description of information, author and action. At this point, the basic metadata for electronic documents are gathered. This basic metadata will be further expanded in the next process of ‘Gather Requirements for Defining Documents’.
+
+2.5.2. Process 2: ‘Gather Requirements for Defining Documents’
+Requirements gathered to define electronic document types are obtained from a systematic analysis of an organisation’s business needs, legal and regulatory obligations, and broader community expectations, as well as an assessment of the organisation’s exposure to risk if these evidential requirements are not addressed. These requirements influence the type of records to be kept as evidence of business activity and how such records are to be maintained. Some requirements are stated explicitly in laws, regulations and other instruments of authority, while others are implied by the environment in which the organisation operates. The steps to gather the requirements are:
+
+Step 1: Discovering the department’s main activities to identify the functions of an organisation and conduct a rigorous analysis of its business functions and activities. The idea is to extract a list of activities that the department carries out, later translated into document groups for each section of the department. For example judges’ records and notebooks, lawyers’ records, case records, cost assessments, and consultation records.
+
+Step 2: Understanding basic principles of classifying records. A class is referred to as a class of records, based on functions. Five principles to guide classification (Schellenberg, 1956; Orr, 2005) are listed below:
+i.
+Classes of records should be established only after records are created.
+
+ii.
+Each level in a classification should be consistent, (‘Thus, if the primary classification is by functions, all headings at that level should be functions’)
+
+iii.
+Class titles should be chosen with care to reflect clearly the functions, activities or transactions
+a.
+Classes should be mutually exclusive
+
+b.
+If titles are unclear or if classes are not mutually exclusive, scope notes (filing instructions) should be used. Separate classes should be created for facilitative/administrative and substantive or core business functions.
+
+
+iv.
+Important records relating to policies, procedures or classes should have separate classes, which should be broken-down in sub-classes. If this cannot be done these records should be flagged
+
+v.
+Classifications schemes should be periodically reviewed and kept up-to-date
+
+
+Step 3: Defining Record Types for Each Record Class (Group)
+i.
+Classification by function is based on the context of a record’s creation and use, rather than on the content of the record itself. Thus, the record will be classified according to why it exists.
+
+ii.
+The number of classification levels (usually three) required for classifying and titling records and other business information must be decided, as this will affect the depth of detail in the classification tool and the degree of training that will be required by users.
+
+iii.
+The terms used in the organisation’s business classification scheme form the basis for the terms used in the classification tool. These terms will need to be assessed for their suitability to be used as terms to support titling.
+
+
+Step 4: Defining Descriptions of Documents for Each Record Type
+i.
+Defining Descriptions of Documents for Searching and Retrieval Method
+
+ii.
+Defining Descriptions of Documents for the Legal Syariah Records
+
+iii.
+Using Mandatory Fields to Define Descriptions of Documents
+
+iv.
+Specifying Descriptions of Documents Field Types
+
+
+Step 5: Analysing Each Part of the Form to Derive Descriptions of Documents
+i.
+About Author
+
+ii.
+About the Case About the Defendants/Plaintiffs/Witness List/Attorney/Judge
+
+iii.
+Describing the Case and Court Minutes
+
+iv.
+Describing the Cause
+
+v.
+About the Cost Assessment
+
+vi.
+Description of Order
+
+vii.
+Description of Judgement
+
+
+Records have categories such as vital, important, useful, and non-essential. The vital category has a catastrophic impact and the level of security is high. The impact to organisations is lessening for categories important, useful and non-essential. The example for this model is court records. There are four categories of Syariah cases such as ‘Mal’, ‘Criminal’, ‘Faraid’, and ‘Appeal’. Court records have eight types: indexes, orders, judgements, case files, witness lists, attorney records, and police records. Further explanation of each type is explained in Table 3.
+Table 3. Description of court records types.
+Type	Description
+Index	List of surnames litigants, plaintiffs and defendants. Usually is brief and incomplete
+Court minutes	All actions of the courts are briefly recorded by the clerk in the minutes. The full range of court activities will fall within the recorded minutes
+Order	Orders of the courts are recorded by law in most jurisdictions for future reference
+Judgement	When the judgment is given by the court, the case is closed, but the clerk is required to make an extensive minute entry with abridgement of the case and its resolution in a special book of judgements
+Case file	Case files are among the valuable of all court records because they contain original copies of evidence, writs, testimony, subpoenas, and publications. Therefore case files are considered complete. In these files, will be found details that are not recorded in the minutes, orders or judgements. Case files may contain one document or hundreds
+Witness list	Witness books and lists show the names of witness and the amounts received in payment
+Attorney record	Data concerning syariah lawyer
+Police records	Police is called upon to perform some service such as official writs, summons, and subpoenas and must execute all final judgements of the courts
+Step 6: Identify Supporting Records
+
+Documents such as letters, reports, notices, and applications (related).
+
+The output of ‘Gather Requirements for Defining Documents’ is ‘Descriptions of Documents’. The documents are defined in ‘Create Documents’ process.
+
+2.5.3. Process 3: ‘Create Classification Framework’
+The ‘Classification Framework’ serves as the foundation for developing an actual system. The process of developing the framework requires input from standards, policies, and requirements (organisations and functional). These are the basic attributes that need to be identified at the early stage of development. Standards for managing records in Malaysia that may influence or should correspond with the development of RC system include: standards produced by the National Archives, MS ISO 16175-2 (2011), organisational procedures, and policies and guidelines provided by the government of Malaysia. All related standards, procedures, policies and guidelines should be summarised and included in the framework in either narrative or graphical form. The scope of this requirement will depend on their relevance, suitability and the needs of the organisation. The functional requirements of systems should also be taken into consideration to ensure that they comply with standards for recordkeeping systems, such as MS ISO 16175-2. The development of a classification framework must be aligned with an organisation’s needs, any relevant legislation, and business or functional needs. The failure to address correctly any of these attributes may affect to the development of the classification model.
+
+2.5.4. Process 4: ' Classification Design’
+The ‘Classification Design’ process is more detailed than the framework. Design is a process that combines sources from internal knowledge and analytical ability to produce a structured plan. ‘Classification Design’ is made up of inputs from the records profile with reference to the ‘Classification Framework’.
+
+The ‘Classification Design’ process consists of a relationship in which a thing or idea is linked or associated with something else, for example the connections between function, activity and process. A connection also describes the arrangement and relationship of actions that link one thing to another. The connection is presented in the form of a class and activity diagram to show a collection of functions and processes of classification. The diagram is a graphical representation of the workflow associated with activities and actions. Functions that are used to group related records are presented in the form of a class. For example, legal records are a class of records. The legal records class will decompose to legal records type, for example a case file or court minutes. Each case file will include various transactions such as publications, summons, or writs records. All of these processes will be presented in a class diagram, and be decomposed into an activity diagram to detail each process.
+
+An example of ‘Classification Design’ is by using a folder structure. It is created in a hierarchical structure, containing different levels of the organisation’s documents and records, categorised based on the organisation’s functions. The folder structure is used as a document repository to store the organisation’s electronic documents and records. The folder must meet requirements of records functions and suit the organisational structure. The outputs are the ‘Classification Scheme’ and ‘Described Records’.
+
+2.6. Decomposed diagram for records classification model: third level
+The ‘Capture/Save Documents’ process is a guideline process to produce ‘Capture’, ‘Save’, ‘Describe Records’, and ‘Assign Records’. The flow, inputs and outputs of the classification process are depicted in Fig. 6 This process is a unified approach that can cater for all types of record including accounting, corporate, personnel, insurance,
+legal, payroll, and taxation.
+
+2.6.1. Process 1: ‘Capture’
+This step is essential to manage records and capture them into a system that will appropriately manage and support their use over time. The capturing process includes the application of metadata as the documents are captured, establishing management control over them. Moreover, the process allows the documents to be retrieved, accessed and managed over time.
+
+2.6.2. Process 2: ' Save’
+The ‘Save' step is applicable for documents that are created from a system, instead of being received. The function of ‘save’ is similar to ‘capture’ as it allows the document to be managed, used, and maintained over time.
+
+2.6.3. Process 3: ' Assign Records’
+In this process, documents and records are identified either as document or records. The identification is referred from US perspective as documents and records are different. Both documents and records are ready to be used and circulated.
+
+3. Experts validation
+Experts in the area of RC were selected to represent both the theorists (academicians) and professionals (practitioners). The experts were selected based on their experience in the classification field. According to Hillston (2003), the expert validation is an ideal approach by referring the ‘experts’ with respect to the system. This approach has been adopted in many researches in validating the contents and the requirements process (Beecham, n Hall, Britton, Cottee, & Rainer, 2005; Mathew et al., 2011).]]><h target="5" match="part"><![CDATA[ Validation process is conducted on the FRCM based on eight criteria which are the description of contents, scope, consistency, meaning and comprehensiveness, ease of use, tailoribility, sequence of process and overall impression.]]>
+Criteria	Detail
+Description	Experts agree that the FRCM able to accommodate with organisation’s specific needs, identify and prioritise the processes involved based on the descriptions given. Also, the explanation and descriptions of the FRCM is done clearly
+Scope	The completeness of the FRCM is viewed from its identified components of processes, inputs and outputs concerning with the RC. The FRCM includes all the FRCM relevant process of classification with each process relates to the classification activities. The FRCM also provides an appropriate flow of input and output for developing a classification system
+Model consistency	Experts agree that the descriptions of each level within the FRCM are consistently done in reference to the processes contained in the diagrams. Also, the key processes outlined in the FRCM are relevant to the classification process and the sequence order of process in each diagram is appropriately arranged</h>
+<h target="1" match="part">Model comprehensiveness	Experts agree that each process composed in the FRCM is easy to understand and able to help practitioners understand better from the context diagram into decomposed levels, and the model is presented clearly to help understanding the process and flow of each process with ease</h><h target="5" match="part"><![CDATA[Ease of use	The ease of use aspect referred to the application, utilisation, deployment, and reference. Experts conclude that the FRCM would not be applied, utilised and deployed easily due to real-world constraints and problems. The theoretical aspect that support for classification process is crucial in determining the records authenticity and trustworthiness. In practice, classification needs pragmatic approach ranging from work experience, classification skill, policy, legislation, standards and training. Also, the analysis of the functions at particular organisation needs to be conducted, and this task is meticulous as evident from the interview at NAM. This criterion becomes a challenge in classification area
+Tailoribility	The FRCM can be customised by removing or adding new process according to organisation’s needs. Also, the activities outlined the FRCM are generalizable and likely to be applicable to most companies
+Sequence of process	From theoretical side, the processes stated in the FRCM represent all processes for classification. The FRCM also complied with all processes guided from official documents and international standards, and is flexible in implementation
+Overall	The FRCM is useful for the IT department to continue developing classification system. It is suggested that the FRCM should be used together with other guidelines such as international and national standards to ensure the references made in developing the classification system are extensive. IT department needs to continue developing the classification by using this model as basic guidance. It is also useful for the research community to continue developing this model. Moreover, the FRCM is important as a foundation guidelines for each level of knowledge to develop classification system and this could contribute to the body of knowledge and enrich the literature in RC]]></h></section>
+<section name="Conclusion" category="conclusion">
+<![CDATA[
+4. Conclusion
+The proposed model describes a process that focusses only on the creation of records, and the capture or saving of those records after they have been classified. The model proposed a more methodical way to assign classification and other metadata terms in the profile of a record and that the record then be saved into a folder-based structure that aligns with the organisation’s classification scheme. In some respects, the model describes how this process works now with most digital recordkeeping systems, whereby a user completes a metadata form before the records is saved into the system. The model can be used in organisations that have no current methodology to ensure that records are adequately described before they are saved and/or disseminated across the organisation.]]></section>
+</publication>

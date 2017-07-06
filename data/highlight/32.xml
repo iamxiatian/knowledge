@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<publication>
+    <journal>International Journal of Information Management</journal>
+    <time>Volume 36, Issue 6, Part B, December 2016, Pages 1306-1319</time>
+International Journal of Information Management
+    <title>Make your travel smarter: Summarizing urban tourism information from massive blog data</title>
+    <author>Hua Yuan</author>. Author links open the author workspace.Opens the author workspaceOpens the author workspacea. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace
+    <author>Hualin Xu</author>. Author links open the author workspace.Opens the author workspacea. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace
+    <author>Yu Qian</author>. Author links open the author workspace.Opens the author workspacea. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace
+    <author>Yan Li</author>. Author links open the author workspace.Opens the author workspaceb. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace
+a
+School of Management and Economics, University of Electronic Science and Technology of China, Chengdu 611731, China
+b
+<![CDATA[School of Management, China University of Mining & Technology (Beijing), Beijing 100083, China]]>
+Show more
+    <doi>https://doi.org/10.1016/j.ijinfomgt.2016.02.009</doi>Get rights and content
+Abstract
+    <abstract>  <![CDATA[In this work, we propose a research framework to help people summarize tourism information, such as popular tourist locations as well as their travel sequences (routes), for a previously unknown city from massive travel blog with the objective of providing users with better travel scheduling. To do this, we first crawl the massive travel blogs for a targeted city online. Then, we transfer the textual contents of these blogs to a series of word vectors to form the initial data source. Next, we implement the frequent pattern mining method on the data to identify the city's popular locations by their sequenced co-occurrences among the usual tourism activities, which can be visualized into a word network. Finally, we develop a max-confidence based method to detect travel routes from the network. We illustrate the benefits of this approach by applying it to the data from a blog web-site run by a Chinese online tourism service company. The results show that the proposed method can efficiently explore the popular travel information from massive data.]]>
+    </abstract>
+    
+
+Keywords
+    <keywords>Blog mining</keywords>
+    <keywords>Geographic term</keywords>
+    <keywords>Tourist location</keywords>
+    <keywords>Word network</keywords>
+    <keywords>Travel route</keywords>
+    <section name="Introduction" category="introduction">
+        <![CDATA[
+1. Introduction
+With the prosperity of tourism and Web 2.0 technologies, most tourism websites such as tripadvisor.com and ctrip.com enable consumers to exchange information and opinions about tourism destinations, products and services in the form of blog (Pan, MacLaurin, & Crotts, 2007). This has led to a massive archive of travel blogs that contain valuable information from which potential tourists are likely to learn efficient travel experiences.
+However, Web 2.0 technology enables people with various background to become online writers. As a result, the task of exploring information from online documents may become more difficult when faced with the phenomenon of so-called information overload (Park & Lee, 2008) and data sparsity (Popat, Balamurali, Bhattacharyya, & Haffari, 2013), referred to the difficulty a person will have in understanding an issue and making decisions in the presence of overly abundant and various information.
+In recent times, much attention has been drawn to the great needs for research of smart tourism (Gretzel, Sigala, Xiang, & Koo, 2015). Obviously, some new technologies, such as data mining (Olmeda & Sheldon, 2002), can be useful for extracting information from massive online contents automatically and then for helping people make more efficient and economic travel decisions (Majid et al., 2013). However, literature reviews indicate that research so far has focused on information about tourist sites mined from online multimedia, such as travel photos (Lu, Wang, Yang, Pang, & Zhang, 2010; Vu, Li, Law, & Ye, 2015), Check-in data (Lu, Chen, & Tseng, 2012), and GPS data (Zheng, Zhang, Xie, & Ma, 2009) rather than textual contents. This is largely because the natural language processing (NLP) method is involved in text mining and the correlation analysis knowledge in NLP is typically complex. For example, the documents in traditional NLP are usually represented by a vector space model (Salton, Wong, & Yang, 1975), in which, the position information of words in documents is lost (Soucy & Mineau, 2005; Turney & Pantel, 2010), and all the terms in a document are assumed statistically independent (Robertson, 2004). However, not all the words in a blog are necessarily independent variables (Yang & Wilbur, 1996). Therefore, a lot of noisy results would be generated while the traditional NLP methods are introduced directly in blog mining, especially in terms of correlation analysis.
+Inspired by the formation of blog contents, we notice that tourism blogs (in paragraph) are always organized according to a topic, for example, a tourist site. If a tourism topic is discussed in blog text, a set of local things having strong correlation with the topic may also be mentioned and recorded. For instance, if people talk tourism about New York, then hot tourism areas such as Manhattan could be mentioned with a very high probability. Here, we call Manhattan as a local feature of topic New York. Further, if Manhattan becomes the topic of a piece of blog, then Wall Street may be involved as a hot local feature associated to it. Along this line, there may exist some spacial semantic hierarchies among massive tourism terms (Kuipers, 2000), in which, a higher level thing always acts as a topic in blog contents while the lower level things associated to it may recorded nearby in the same contents as its local features. In addition, those locations or features close to each other geographically can be clustered into a tourism area (Ye, Xiao, Lee, & Xie, 2011).
+However, the distributions of topic words as well as their local features in blogs, which are contributed by ordinary users, are not well-organized as they should be according to their appropriate semantic relations. Therefore, a tourism blog summarization system could be faced with two technical challenges: first, how to mine the true topic(s) from a piece of blog text efficiently; second, how to identify the true local features for each mined topic, i.e., identify the master–slave (dependency) relationships between pairs of words.
+In this paper, we propose a research framework that can summarize the valuable information like popular locations, tourism areas (clusters of popular locations), and trip routes (travel sequences of popular locations), about a specific city from massive archives of tourist blogs. There are three main steps in this process:
+•
+First, the frequent pattern mining method is introduced to mine a city's tourism profile to help potential tourists understand the tourism information for the city as a whole. The main contents of the profile are the popular sites (i.e., the sites mentioned frequently by independent bloggers at a frequency bigger than a given threshold) as well as their correlations (i.e., the geographical relation between two locations that had been visited by tourists successively). In addition, the correlations are visualized as a network (See Fig. 1(a)).
+An example of tourism areas and routs mining from word network
+Download high-res image (129KB)Download full-size image
+Fig. 1. An example of tourism areas and routs mining from word network.
+•
+Then, a max-confidence based method is proposed to partition all the attractions into groups to form a set of tourism areas according to their relative geographical position. The term of a tourism area refers to an area in which a few geographically closer locations are contained (In Fig. 1(b), if sites “A” and “B” are frequently mentioned simultaneously, then they may be close to each other in geography, and therefore, they can be grouped into the same tourism area).
+•
+Finally, the popular travel sequences of the sites within an area, as well as their popular local features are extracted. For example, “a2” of location “A”, “b1, b2” of location “B”, and “c1” of location “C” in Fig. 1(c). This information would help potential tourists make better decisions in travel route planning, especially, when the potential tourist is limited by time, stamina (physical strength), or both.
+
+The summary and data visualizations will potentially supplement the existing online information so that a user will have enriched understanding of the interconnections among the places of interest. The rest of this paper is organized as follows. Section 2 presents the related work. Section 3 sketches out the research framework. Section 4 shows the experimental results. Section 5 discusses some problems about the method. This paper is concluded in Section 6.]]>
+</section>
+
+    <section name="Related work" category="background">
+        <![CDATA[
+2. Related work
+2.1. Blog mining
+In blog mining, we note that the basic technology used in online text processing is text mining (Cao, Duan, & Gan, 2011; Ghose & Ipeirotis, 2011), in which three main tasks are involved: feature extraction, words correlation analysis and text visualization.
+•
+Feature extraction
+
+
+In a general text mining task, a text or document is always represented as a bag of words (BOW) (Gabrilovich & Markovitch, 2005), is used to derive insights from user-generated contents. BOW primarily originated in the computer science literature (Hu & Liu, 2004; Pang & Lee, 2008). The BOW representation raises two problems: (1) the feature space has a high dimensionality, and (2) not all the words in a document can be used as the key features.
+In literature, feature selection is an important technology used to deal with these problems (Liu, Liu, Chen, & Ma, 2003). It is a process that chooses a subset from the original feature set according to certain criteria. The selected features should retain the original meaning and provide a better (usually more efficient and precise) understanding of the data. There are lots of feature selection metrics that assess the representativeness or importance of different document features, as exemplified by term frequency (TF), term frequency and inverse document frequency (TF-IDF), document frequency (DF), information gain (IG), mutual information (MI), chi-square statistic (χ2), and term strength (TS) (Boley et al., 1999; Pantel & Lin, 2002; Roussinov & Chen, 1999). Both the strength and the weakness of these metrics are summarized in the following Table 1.
+Table 1. Metrics used in feature selection.
+Metric	Strength	Weakness
+TF	Simple in calculation	No order information; Prefer to high frequency terms
+TF-IDF	Simple in calculation (Joachims, 1997)	No order information; Inefficiency for high frequency terms in long documents. (Manning & Schütze, 1999)
+IG	Good in classification (Liu et al., 2003; Yang & Pedersen, 1997)	Depends much on training data set. (Lee & Lee, 2006)
+MI	Low complexity (Estevez, Tesmer, Perez, & Zurada, 2009)	Has bias on rare terms; Sensitive to critical value. (Kalousis, Prados, & Hilario, 2007)
+χ2	Good in classification (Liu et al., 2003; Yang & Pedersen, 1997)	Defects for low-frequency terms. Depends much on training data set.
+TS	Independent of predefined information	Complex in calculation. (Liu et al., 2003)
+The theoretical basis of these six methods is sound, but their performance on feature selection is different. Both χ2 and IG often achieve better accuracy than MI and TF-IDF (Yang & Pedersen, 1997). However, the IG is suspected having poor performance on skewed text corpora (Mladenic & Grobelnik, 1999). It has been seen that TF is an efficient and simple algorithm for matching words to documents. Furthermore, encoding TF is straightforward, making it ideal for forming the basis for more complicated algorithms and query retrieval systems (Berger, Caruana, Cohn, Freitag, & Mittal, 2000). In this work, we adopt the metric of TF to measure the importance of a tourism location (represented by a geographical term) as well as its local features.
+•
+Words correlation analysis
+
+
+Words correlation analysis tries to look through a corpus for the clusters of words and to group them together by a process of similarity or relevance, for example, frequent pattern (FP) mining and further, co-expression analysis.
+
+Frequent patterns are itemsets, subsequences, or substructures that appear in a data set with frequency no less than a user-specified threshold. Based on the frequency of a pattern, there are scalable methods that have been developed for analyzing correlations between items (Figueiredo et al., 2011; Kim, Park, Lu, & Zhai, 2012; Matsuo & Ishizuka, 2003). Wu, Zhu, Liu, and Xia (2012) think that Cosine method is one suitable method for measuring the concurrence of two events. However, all these studies show that frequent pattern is not so effective in analyzing correlation among items in data sets with skewed support distributions. As mentioned before, skewed distributed words in blogs are inevitable. For example, the term of a popular destination may be much more frequent in a corpus than that of its local features. Thus, both interesting and noisy local features may be caused by analyzing word correlations with a low frequency threshold. To address this problem, co-expression analysis is introduced to measure the correlation of words in a pattern (Figueiredo et al., 2011; Rokaya, Atlam, Fuketa, Dorji, & Aoe, 2008). The MI and χ2-test methods show some advantages in co-expression analysis. However, the MI has inferior performance due to a bias favoring rare terms (Kalousis et al., 2007), and χ2-test is a supervised process with an inefficient expert annotation process.
+In very recent times, topic model such as Latent Dirichlet Allocation (LDA) (Blei, Ng, & Jordan, 2003) is introduced in text mining for correlation analyzing because it is based on the intuition that documents are represented as mixtures over latent topics where topics are associated with a distribution over the words of the vocabulary. However, from the end users’ perspective, it is hard to understand why the topic models perform as they do, and information-theoretic similarity measures do not fully align with humanistic interpretation of the topics (Murdock & Allen, 2015).
+To make the information summarization process more efficient and precise, in this work, we use the FP mining method to obtain the frequent 2-itemsets and further adopt the new maximum confidence to measure the correlation of two words in a frequent pattern. Essentially, the co-expression analysis method based on maximum confidence can address the issue caused by skewed distribution of words.
+•
+Text visualization
+
+
+In the area of information visualization, researchers have developed various visualization approaches to text analysis. Based on the type of information being visualized, these systems can be classified into two categories: metadata-based and content-based text visualization (Viégas, Golder, & Donath, 2006; Wang & Sumiya, 2013).
+Metadata-based text visualization focuses on visualizing the metadata of text documents. However, it does not work well for documents with little metadata, which gives rise to content-based text visualization. Based on the information being visualized, there are two types of content-based text visualization (Liu et al., 2009). The first type focuses on depicting document relationships (Stasko, Görg, & Liu, 2008), whereas the second one illustrates text content at the word or phrase level (Don et al., 2007). Some researchers use TF-IDF based keywords to efficiently create compact visualization of a document (Viégas et al., 2006).
+Additionally, understanding what tourist bloggers are saying about tourist sites requires an examination of the connections or relationships between various shared elements in their writing, and these connections may be represented as a network of links (Watts, 2004). However, there are few frameworks available that examine the connection among a set of tourist sites from a network point of view (Baggio, Scott, & Cooper, 2010). Based on the results of words correlation analysis, we present a method in this study to visualize all the selected 2-itemsets into a word network.
+2.2. Tourism related data mining
+Exploring popular spots and detecting travel paths are involved in mining tourism information from massive data. A popular tourism spot is a highly desirable (known to most people) travel destination or a spectacular tourist attraction in an area. A travel path, it has both macro and micro meanings, depending on the different geographical levels of tourist attractions involved. The macro level information of tourism guides people to distinguish one area from another (Zheng et al., 2009). On the contrary, the micro level information shows the detailed travel path within an area from one spot to another, for example, the popular trajectories in an area (Orellana, Bregt, Ligtenberg, & Wachowicz, 2012). In this work, our concern is both the common tourism topics (tourism areas) and the local features in a set of blog document. Moreover, in our framework, the local features include all the things associated with a tourist site (i.e., food, shopping, etc.), which is more than those focused in literature.
+With the widespread use of miniaturized GPS devices (i.e., cell phones), lots of geographic information may be recorded in some online images and trajectories. This facilitates people to implement mining methods to detect various tourism information, especially the travel path (Yuan, Qian, Yang, & Ren, 2014; Zheng, 2015). The most popular method used in these mining tasks is clustering, i.e., Mean-shift, density-based, and HITs (Cheng, Chen, Huang, Hsu, & Liao, 2011; Kurashima, Iwata, Irie, & Fujimura, 2010; Majid et al., 2013; Zheng et al., 2009), due to its better efficiency.
+To date, Internet blogs have important implications for both destination marketers and customers that have been overlooked by researchers (Pan et al., 2007). Some researches have been focused on mining tourism blogs for better travel information understanding (Choi, Lehto, & Morrison, 2007; Law, Rong, Vu, Li, & Lee, 2011), successful decision-making (Pan et al., 2007; Sharda & Ponnada, 2008) and personalized recommendation (Hao et al., 2010; Majid et al., 2013). However, few research have been conducted on mining tourism information of tourist locations and their travel sequences from text content. In this study, a text-mining based method is proposed to derive travel locations and their interesting local features in a city from massive online documents. Moreover, the travel sequences (routes) are also extracted as valuable information, which may be helpful for a potential tourist for better travel planning.]]>
+</section>
+
+    <section name="Method" category="methods">
+        <![CDATA[
+3. Method
+3.1. Research questions
+Although varied information, such as places (locations), routes, time, and hotels, should be gathered online for better tour planning, the primary goal is about targeted places selection because it heavily impacts the other travel tasks such as trip route planning, hotel choice and traffic scheduling. In addition, tourism in urban areas is a spatially selective activity with tourist nodes or precincts clustered unevenly throughout a city (Shoval, McKercher, Ng, & Cooper, 2011). Therefore, potential tourist may want to primarily draw the following information from the others experiences:
+•
+How are the popular tourism things distributed geographically?
+
+•
+How can I schedule a wonderful trip in a tourism area?
+
+
+The first question is about tourism resource profiling, which tries to sketch out the travel profile of a destination city as a whole. The second question distinguishes the popular tourism locations as well as their popular local features and their correlations. Moreover, the information answering the second question is extracted online and is about how other tourists planned their trip routes and how to schedule an efficient travel route.
+
+In this paper, the attraction-terms-based “word network” is generated to answer the first question. Then the network is separated into a set of tourism areas according to their geographical relationships, and further travel sequences within these areas are explored to answer the second question. The answers provided by our framework may help potential tourists make better decisions about where to go and how to travel in a city.
+
+3.2. Research framework
+The research framework operates in three main phases. The first phase, data collection, is the preparation of the data set for information retrieval. The second phase, word network construction, is used to present the correlations of terms in all the word vectors and visualize them in a word network. The last, tourism information detection, detects the tourism areas and the popular travel routes in each area. The whole process is shown in Fig. 2 and the details of each method are specified in the following Sections 3.3–3.5 respectively.
+The research framework
+Download high-res image (733KB)Download full-size image
+Fig. 2. The research framework.
+3.3. Data collection
+Focus on text materials and thus three main tasks of blog extraction, document word segmentation, and word vector generation are necessary for data collection.
+
+3.3.1. Blog extraction
+In the blog extraction task, the web crawling technology is used to obtain a large set of user-generated tourist blogs from tourism websites for conversion into a data set.
+
+For data collection, there are two ways: first, some tourism websites have organized their blog documents according to city category/channel. People can crawl the blogs directly from the specific category/channel for the targeted city(s); second, if the system had crawled all the data as a whole, or crawled data from a non-professional website for tourism, then query key words (i.e., city names) can be used to select an appropriate sub-set of blog documents for the targeted city. Note that, noise may be a big problem for such a method. For example, a blog mentioned word “Beijing” may have no relation with tourism in Beijing city. To deal with the noise documents, if there are lots of precision key words obtained previously, then the table of key words can be used to construct a document classifier to wipe the noise documents, thus the analysis results may be more precise. Otherwise, the frequency (distribution) of words may be an efficient tool under the situation of Big (blog) Data.
+
+The initial data set of crawled blogs for the targeted city is called as B.
+3.3.2. Document word segmentation
+In classic document related information retrieval tasks, the BOW model is used in data preprocessing for the natural language processing. A text (such as a sentence or a document) is represented as the bag of its words, disregarding grammar and even word order, but keeping multiplicity. In general, word segmentation is used to do the work. Word segmentation usually involves the tokenization of the input text into words at the initial stage of text analysis for a natural language processing task (Gao, Li, Huang, & Wu, 2005). In this work, we focus on the problem of dividing a string of written language into component units.
+However, a long document tends to generate a high dimension word vector. Implementing frequent pattern mining on a data set composed of such vectors would result in a huge number of patterns, and most correlations hidden in these patterns would be irrelevant or hard to explain. Fortunately, we notice an important unit of “paragraph” in peoples’ writing behavior. A paragraph is a self-contained unit of a discourse in writing and deals with a particular point or idea.1 Whatever topic (or city) an author writing about, “paragraph” helps separate ideas and lets the reader know when the author changes sub-topics. Thus, the function of a paragraph is to mark a pause, setting the paragraph apart from what precedes it (Bringhurst, 2004). Along this line, we assume that,
+•
+Most bloggers would like to talk about different tourism topics in different paragraphs. Therefore, the tourism locations with very high relevance tend to be involved in the same (or adjacent) sub-topic(s).
+
+•
+If two locations are involved in the same topic, they may be similar (for comparison purposes) or be geographically close to each other (for relevance purposes).
+
+
+In this work, all blogs in B will be divided into paragraphs, and each of the paragraph will be subdivided further into words to form a word vector. For example, a paragraph of blog text extracted from www.tripadvisor.com for the Central Park in New York City is as:
+b ={“We visited Central Park by taking a carriage ride. It was $50 plus tip for a 25-minute or so ride. Really pretty park to enjoy the nice fall weather. BTW, the Metropolitan Museum nearby is a paradise of art.”},
+then, word segmentation would change b into an initial set of words:
+b ={“We” “visited” “Central Park” “by” “taking” “a” “carriage ride” “.” “It” “was” “$50 plus” “tip” “for” “a” “25-minute” “or” “so” “ride” “.” “Really” “pretty” “park” “to” “enjoy” “the” “nice” “fall weather” “.” “BTW” “,” “the” “Metropolitan Museum” “nearby” “is” “a” “paradise” “of” “art” “.”}.
+3.3.3. Word vector generation
+Following word segmentation, data cleaning is then necessary because not all the components are useful for the study. Here, the framework takes on the task of judging the usefulness of a component unit generated by the segmentation process. In general, the noise phrases, stop words, and meaningless symbols are removed (Stavrianou, Andritsos, & Nicoloyannis, 2007). In addition, since the goal of a potential tourist's search is to find out the popular tourism attractions and their correlations, we notice that, in tourism blogs, almost all instances of these two tourist things are presented in the form of nouns. Therefore, the non-nouns in each paragraph content can be removed. The sample blog text in Section 3.3.2 can be refined as follows by the data cleaning method:
+(1)b={“CentralPark″,“carriageride″,“tip″,“25−minute″,“ride″,“park″,“fallweather″,“MetropolitanMuseum″,“art″}
+
+Different from the usual item set in data mining, if all the words keep their position order in b, we call b a word vector. Assume that the i-th paragraph bi can be used to generate a word vector of bi = {bi1, …, bij, … } where bij is an item of b, then all the word vectors compose a transactional data set:
+(2)B={b1,b2,…,bi,…}.
+
+Since the locations in a city are represented with some geography related terms in blogs, a geographical attraction term table (ATT) is needed in tourism information mining. In real application, an ATT can be extracted temporarily from an official travel guide, such as www.nycgo.com, or provided by a creditable third party, for example maps.google.com.
+Next, we filter out the geographical terms in vector bi by intersecting it with a given ATT, so that we can obtain the locations that the blogger described in the i-th paragraph:
+(3)bGi=bi∩ATT.
+
+For sample blog text b, assuming ATTNY ={ “Wall st.”, “Time square”,“Central park”, “Metropolitan museum”… } is an ATT for New York City, with relation (1), we can obtain a set of geographical terms by calculating b ∩ ATTNY ={“Central park”,“Metropolitan Museum”}.
+Obviously, bGi is also a word vector and it may have much smaller dimensions in comparison with what bi has (generated by all the nouns in bi). For all the paragraphs in B, a new transactional data set can be formed as:
+(4)BG={bG1,bG2,…,bGi,…}.
+
+Since bGi is generated by a blog paragraph, i.e., bi, the locations involved in it are expected to be geographically relevant. For example, the “Central park” and “Metropolitan Museum” in the sample blog text b may have correlation in a tourism. Specifically, the frequent patterns in BG indicate the common and frequent concerns of all the bloggers.
+3.4. Word network generation
+The frequent pattern mining method is introduced in this work to explore the correlations among the popular tourism sites in a city, and all the mined correlations will be presented within a word network.
+3.4.1. Frequent pattern mining
+In general, frequent patterns are itemsets that appear in a data set with frequency no less than a threshold. Here, the frequency of a pattern fp with respect to data set BG is defined as the proportion of vectors (transactions) in BG which contains the item-set fp. It is known as support in data mining and measured by function supp(fp).
+The objective of frequent pattern mining in this framework is as follows: given a database BG and a user predefined minimum support of mini _ supp, all the patterns that are frequent with respect to mini _ supp are discovered.
+Let FP(n)(BG) denote all the mined frequent n-itemset in BG. Accordingly, FP(1)(BG) represents the set of popular locations and FP(2)(BG) represents the set of frequent (popular) correlations among these popular locations. In other words, the data mining tasks in this framework focus on mining the frequent 1- and 2-itemset in BG. For example, in the New York City related tourism blogs, if we find that both values of supp(“Central park″) and supp(“Metropolitan museum″) are bigger than the threshold of mini _ supp, then we can say “{Centralpark}” and “{Metropolitan museum}” are frequent 1-itemset in FP(1)(BG). Moreover, if these two terms appeared in the same paragraph frequently than the threshold, then 2-itemset {“Central park”,“Metropolitan museum”} is an element of FP(2)(BG).
+3.4.2. Word network generation method
+Using the mined frequent patterns, we can generate a word network of G = (V, E), in which, the nodes are frequent location terms and edges are term correlations:
+(5)V=FP(1)(BG),andE=FP(2)(B).
+
+Note that, to keep the complete correlations, the edges in E are generated with data set B. For example, assume the following correlations are mined from New York tourism blogs:
+FP(1)(BG)={“Wallst.″,“Timesq.″,“Centralpark″,“Metro.museum″}
+FP(2)(B)={“Centralpark″“Metro.museum″},{“Centralpark″“Tip″},{“Centralpark″“Carriageride″},{“Timesq.″“Wallst.″}
+
+Then, we can generate a word network as shown in Fig. 3. First, the 4 items in FP(1)(BG) are drawn as network nodes. Then, the four itemsets in FP(2)(B) are connected with a line. To that end, two leaf nodes of “Carriage ride” and “Tip” are added since they have frequent relations with the node in FP(1)(BG), i.e., “Central park”. Isolation nodes (or sub-network) are allowed in the method.
+An example for word network generation
+Download high-res image (91KB)Download full-size image
+Fig. 3. An example for word network generation.
+To facilitate calculation, the size of node b ∈ V can be weighted with its support of supp({b}) and the width of edge (bu,bv)∈E with w(bu,bv)=supp({bu,bv}). Obviously, for any edge (bu,bv), w(bu,bv)≥mini_supp holds true. Therefore, such a word network will potentially supplement the existing online information, for example, the interconnections among the places of interest and the popularity of the alternative places.
+3.4.3. Strength of network analysis
+Understanding the shape and behavior of social world requires an examination of the connections or relationships between elements and these connections may be represented as a network of links (Watts, 2004). In this work, word network is used to visualize the relative travelling relationships between any two travel things.
+Based on the generated network, some extra refined information can be provided to readers to help scheduling a potential travel event since the word network has a strength to show some “travel semantic” based on the relationship between tourism words. For instance, if the size of nodes and width of lines in a network are set as a value to denote the frequency of the attractions and travel paths respectively, then a simple decision strategy can be implemented according to the popularity of each tourism things. For example, once a person finishes visiting the Central Park, based on the word network in Fig. 3, Metropolitan museum is the best choice for the next visit because the connection between these two locations is very strong according to the suggestion from the experienced people (bloggers).
+Another strength is that the network can help local traversal search in analyzing the correlation between two words.
+
+3.5. Tourism area information detection
+Based on the structure of word network, in the following, an efficient method is proposed and then applied in an experiment conducted on the network for detecting the information of a tourism area.
+3.5.1. Max-confidence
+Ideally, we can expect that the frequent 2-itemsets in BG represent some popular correlations between locations. However, the support of words in blogs is really askew-distributed because some aspects are common (popular) topics for bloggers while some others are not (Jo & Oh, 2011).
+The skewed distributions of these words may reflect a master–slave relationship between itemsets which can be used to reveal some interesting semantic information. In the following, we introduce the concept of Max-confidence (MC) to identify such an interesting relationship between two terms. Given a frequent 2-itemset {b1, b2}, the metric of max-confidence is defined as (Wu, Chen, & Han, 2010):
+(6)θ{b1,b2}=supp({b1,b2})min{supp({b1}),supp({b2})}=max{Pr(b2|b1),Pr(b1|b2)}.
+
+Further, b1 and b2 are called two adjacent or interdependent tourism attractions in travel activities, if
+(7)θ{b1,b2}≥θ0whereθ0∈[0,1].
+
+For example, in blogs related to Disney Park tourism, it can be expected that supp(“Disney park″) ≫ supp(“castle″) > mini _ supp while the word of “castle” is strongly dependent on the topic of “Disney park”. The attachment of “castle” to “Disney park” can be measured with the max-confidence as θ{“Disneypark″,“castle″}=supp({“Disneypark″,“castle″})supp(castle).
+Without loss of generality, if condition (7) and supp({b1}) ≥ supp({b2}) are satisfied, then item b2 is called the dependent node and item b1 is called the master node of b2. Accordingly, “Disney park” is one master node of “castle” if θ{“Disneypark″,“castle″}≥θ0.
+In literature, it has been argued that Cosine(b1, b2) is a suitable method for measuring the concurrence of two events of “b1” and “b2” (Wu et al., 2012), but it is not so effective for analyzing items’ correlation in data sets with skewed support distributions. However, Wu et al. (2010) show that max − confidence may be more efficient than Cosine in evaluating the relationship of dependency between any two attraction terms.
+3.5.2. Tourism area detection
+A tourism area can be deemed as a natural area that consists of some popular tourism sites, as well as the local features associated with these sites. In tourism blogs, these locations have strong relationships with each other and have been visited frequently (thus have been mentioned in blogs frequently) by tourist bloggers. From the perspective of blogging, a tourism area also can be deemed as a “topic” in a blog and the associated locations can be deemed as its local “features”.
+We can detect the tourism areas from the word network G by dividing it into a set of subgraphs where each subgraph represents a specific tourism “topic”. In this way, the tourism area detection method is equal to the process of network decomposing, which can be simplified to computing and checking the value of θ(u,v), where (u,v)∈E. The following codes in Algorithm 1 show the skeleton of the tourism area extraction process.
+Algorithm 1
+
+Tourism Area Extraction Algorithm
+1:	Input: Word network G = (V, E), threshold of θ0 ∈ [0, 1.0];
+2:	Output: A set of tourism areas A;
+3:	for k = 1 to |E| do
+4:	 Get two nodes of uk and vk from ek=(uk,vk);
+5:	 if ek ∩ V = ϕ  or  θ{uk,vk}<θ0 then E ← E \ {ek};
+6:	 end if
+7:	end for
+8:	for i = 1 to |V| do
+9:	 Traverse the whole subgraph Gui=(Vui,Eui) beginning with node ui;
+10:	 wGui=Σjsupp(uj) where uj∈Vui;
+11:	 A←(Gui,wGui);
+12:	 V=V\Vui;
+13:	end for
+14:	return A;
+
+
+Given a network G = (V, E), the method goes through four phases:
+•
+Firstly, each edge ek ∈ E picked up to check whether ek has common node(s) with V and whether the two nodes in ek have a dependent relationship (Line 3–7);
+•
+Secondly, starting from node ui ∈ V, its subgraph Gui is traversed according to the correlations in E, in which, ui should be involved (Line 9).
+•
+Thirdly, calculate the total weights, i.e., wGui, of Gui (Line 10), and then put (Gui,wGui) into A as a detected area (Line 11).
+•
+Finally, remove all the nodes in Vui (Line 12) because they already belong to a certain area, and repeat the second step until V is empty.
+
+Another important problem in real application is how to help a tourist make better choice among all these detected areas. The rational answer depends on an individual's interests. However, for ordinary tourists, one possible optimized choice lies in the comparison of the popularity of these areas. We define the popularity of a tourism area A as:
+(8)wA=Σisupp(ui),whereui∈A,
+
+In fact, wA represents the popularity as indicated by voting for the area by the experienced tourists (bloggers). So, the simplest (but efficient) recommendation strategy for the information of potential tourists (blog readers) may be promoting the areas with top value of popularity, i.e., wA. Line 10 in Algorithm 1 is used to calculate the total weights of the detected subgraph.
+3.5.3. Local trip route detection
+If potential tourists do not have enough interest, time or physical strength to traverse all the popular places within an area, a feasible way for them to decide what to do is to select some popular locations and the associated local features visited intensively. Then, the problem is how to plan a feasible and fruitful trip within a selected tourism area according to others’ experiences.
+
+As we know, if bloggers mention locations “B” and “A” successively and frequently in a tourism area, then the sequence of “A–B” (or “B–A”) may be an efficient travel route in this area, and more importantly, it could interest potential tourists at a relative low risk. Finding out the popular travel routes within a tourism area requires analyzing the correlation between popular locations as well as the correlations between popular locations and their local features. This analysis provides useful ideas for the task of popular trip and routes detection: with very high threshold of max-confidence, we can find out the relationship of dependency and co-occurrence between any two attractions.
+Given two attractions of b1 and b2, the travel sequence of “b1 − b2” is called a popular trip route if:
+•
+{b1, b2} ∈ FP(2)(B); and
+•
+θ{b1,b2}≥θ0′, where θ0′≥θ0 can be set with a relative high value.
+
+Conveniently, the method in Algorithm 1 can be used in routes extraction with a relative high threshold value of max-confidence. Note that, using the measure of max − confidence, travel route detection is also a process of exploring more detailed tourism information - from the city (tourism profile) to its local areas (tourism areas) and then the detailed path (travel sequence of attractions).]]>
+</section>
+
+    <section name="Experiments and results" category="results">
+        <![CDATA[
+4. Experiments and results
+4.1. Data summary
+The targeted tourist city in this experimental application of the framework is Beijing in China, and the tourism blogs were extracted from the www.qunar.com (NASDAQ market code: QUNR), one of the most popular travel platforms in China whose mission is stated as “smart your travel”.
+Altogether, 998 valid blogs (pure pictures blogs were removed) posted from 03-01-1999 to 06-01-2014 in the “tourism tips” channel were collected via a web crawling tool. Table 2 summarizes the characteristics of the experiment data set.
+Table 2. Data set used in the experiments.
+Items	Statistical description
+# of Users	980
+# of Blogs presented	998
+Average length of Blog	3087 words
+Total # of Nouns	997,847
+Total # of tourism attraction terms	93,968
+In addition, we extracted the tourism attractions from www.tripadvisor.com to form the attraction term table (ATT). For the city of Beijing, the attraction extraction page in www.tripadvisor.com looks like Fig. 4 and there are totally 1234 geographical locations (tourist sites) extracted.
+Web page for attraction term extracted from tripadvisor
+Download high-res image (218KB)Download full-size image
+Fig. 4. Web page for attraction term extracted from tripadvisor.com.
+4.2. Popular tourism locations
+At the initial stage, the word segmentation method is introduced to tokenize the blog text into words and, further, a special data set of tourism attraction terms is filtered out from the nouns according to the ATT. The frequency of attraction terms is sorted in Fig. 5.
+Frequencies of attraction terms in tourism blogs of Beijing city
+Download high-res image (129KB)Download full-size image
+Fig. 5. Frequencies of attraction terms in tourism blogs of Beijing city.
+Similar to the systems characterized by short texts, such as micro-blogs (Cui, Zhang, Liu, Ma, & Zhang, 2012), the frequency of terms for tourism attractions to their corresponding ranks follows the common power-law distribution. This characteristic illustrates that, the distribution of the attraction terms in Beijing tourism blogs is unbalanced. A few attractions are very popular (mentioned frequently by bloggers) while the others are not. Moreover, the frequencies of the top ranked terms are almost equal to each other (see the upper left corner in Fig. 5). This characteristic shows that the popularity of the most popular attractions in Beijing are similar.
+In real world, the popular tourism sites (attractions) are the places that most tourists have seen or visited, so that their representative terms in blogs are frequently mentioned by many different bloggers (Cui et al., 2012). Therefore, the top frequent terms of attractions can be viewed as the popular tourism sites voted by the bloggers. For Beijing city, the top 40 attraction terms mentioned in blogs are shown in Fig. 6. There is a significant turning point on the curve for the “Monument of the Heroes”. Thus we can take the attractions whose term frequency is bigger than that of “Monument of the Heroes” as the popular attractions in Beijing city.
+Top frequent attraction terms
+Download high-res image (287KB)Download full-size image
+Fig. 6. Top frequent attraction terms.
+4.3. Tourism experiences extraction from blog data
+4.3.1. Word network: correlations between popular attractions
+By setting the support count threshold as mini _ supp = 10, at last, 163 attractions (their distribution is shown in Fig. 7(a)) and 2295 correlations are generated among them from the Beijing tourism blogs. Further, using these terms as network nodes and the correlations as edges, we can sketch out a popular travel profile in Beijing (Fig. 7(b)) which is an aggregation of all the experiences provided by various bloggers.
+Tourism attractions in Beijing
+Download high-res image (3MB)Download full-size image
+Fig. 7. Tourism attractions in Beijing.
+In Fig. 7(b), each node represents a popular attraction, and the node size shows its frequency (the larger the node size is, the more popular the location is). The lines show that there exists some relationships between connected nodes. Obviously, Fig. 7(b) can be seen as the tourism profile of Beijing described by the previous tourists. By comparing the blog documents in the massive data set, our framework allows the blog readers who knew previously nothing about the tourism in Beijing to obtain a clear profile of the city.
+4.3.2. Tourism area: loose correlations between attractions
+For tourists who knew nothing about Beijing previously, our framework provides information on popular attractions in the tourism blogs that is for deciding “where to go” in Beijing when they seek help on the Internet. In addition, potential tourists need more accurate information that would help them in scheduling an efficient and convenient route to reach these attractive places.
+Complex network theory has shown (Newman, Barabási, & Watts, 2006) that there exists some close linkages of “small world” effect among a set of nodes if a network has a high value of clustering coefficient. The clustering coefficient of the word network in Fig. 7(b) is about 0.69. The high clustering coefficient of the network shows that some attractions (nodes) within the network have a very close correlation in tourists’ previous travel activities. It indicates that these attractions in Bejing can be organized into a travel package to be visited conveniently or simultaneously.
+Given a set of attractions within the travel route, their geographical accessibility under constraints of limited resources (time, cost, etc.) is another important consideration in people's trip route planning. To obtain the information through semantic means, we should infer the closeness of attractions according to the bloggers’ tourism experiences by checking whether the terms of these attractions are recorded and discussed in a very close position (the same or nearby paragraphs) in blog texts, or in the context of the same travel route.
+
+One possible partition of tourism areas in Beijing is shown in Fig. 8(a) which clusters the popular attractions into six groups with the measure of max − confidence = 0.5. To verify the results, we distribute the popular attractions in each area on the city map of Beijing (Fig. 8(b)). As we can see, the attractions clustered in a semantic way according to their positions in blog texts also have geographical dependency on each other (i.e., they have frequently been visited together by the bloggers). This correlation means these popular attractions can be packed into one travel plan.
+Top tourism areas in Beijing
+Download high-res image (2MB)Download full-size image
+Fig. 8. Top tourism areas in Beijing.
+Obviously, the results in Fig. 8(a) show more clear information than that in Fig. 7(b). For a potential tourist, the results provide the information about the attractions that can be visited together.
+Further, if potential tourists have limited time to visit all the attractions, the core attractions (attractions with a very high value of support) within an area are the primary choice. For each area, the core attractions are presented in Table 3.
+Table 3. Tourism areas in Beijing.
+Tourism area	Key attractions
+A	Tiananmen Square, Changan Street, The Palace Museum
+B	Houhai; Shichahai; Nanluoguoxiang
+C	National Stadium; Olympic Park; Water Cube
+D	Lama Temple; Guo Zi Jian; Andingmen
+E	Badalin National Forest Park (The Great Wall)
+F	Peking University; Summer Palace; Old Summer Palace
+4.3.3. Trip routes and local features: tight correlations between attractions
+With a relative high value of max − confidence in calculations, potential tourists can obtain the popular trip routes (certain frequent travel sequences between attractions) for detected tourism area. Fig. 9 shows the popular trip routes detected in each tourism area in Beijing (The dependency between attractions are set as max − confidence = 0.8). As we can see, only the attractions with very high dependency have been retained in the same travel package to form a trip route.
+Identified popular trip routes
+Download high-res image (1MB)Download full-size image
+Fig. 9. Identified popular trip routes.
+However, obtaining information about trip is far from sufficient for planning an efficient itinerary. More detailed information about what special scenic spots (local features) are associated with each attraction along a certain trip route is very helpful. For example, when bloggers write about tourist attraction b1, some of them tend to also review a nearby scenic spot (denoted by b2). In such cases, the appearances of scenic spot (supp({b2})) are totally dependent on the times that both the attraction and the scenic spot (supp({b1, b2})) are reviewed together. That is to say, the scenic spot has a strong relation with the attraction. If somebody seeks information about the attraction, then the scenic spot is necessary information associated with it and should also be provided. To meet this requirement, more geographical terms (may be not so popular) are needed. Here, we can probe the dependent relationship between a popular attraction and some scenic spots (deemed as local features) by calculating the value of θ{b1,b2}.
+Fig. 9 shows the results of associating some popular scenic spots (small red nodes) with each attraction in the popular trip routes in each area (The dependency between popular attractions and their popular scenic spots are max − confidence = 0.8).
+4.4. Result validation
+An important problem in result validation is the lack of ground truth for the Beijing tourism information. Alternatively, we believe local travel experts could check the results and confirm them. Therefore, we design a questionnaire-based method to validate the analysis results.
+
+The survey consists of two steps. In the first step, all the experts were asked to rank top-10 popular tourism areas from 22 candidates. At the second step, the experts were required to identify the famous attractions for the mined areas A – F. To avoid the selection bias of personal preferences, two rules are introduced in the survey:
+•
+All the experts were told clearly to select the clearly “famous” tourism areas and attractions rather than their personal favorites;
+
+•
+If one area or attraction was voted “famous” by more than 50% of the experts, then it is deemed as a “right” result.
+
+
+Taking all the results annotated by the local travel experts into consideration, four possible results for method comparison may generate as shown in Table 4.
+Table 4. Possible results in tourism attraction extraction.
+Annotated by experts	Not annotated by experts
+Extracted by method	A	B
+Not extracted by method	C	D
+In literature of information retrieval, the precision (also called positive predictive value) is the fraction of retrieved instances that are relevant. Accordingly, the precision of the comparative method in tourism attraction extraction can be defined as:
+(9)precision=NumberofattractionsinANumberofattractionsin(A+C)
+
+The survey lasted 2 weeks and 30 valid questionnaires were generated by 30 independent experts. Let MC denote the method proposed in this work, the comparison between the results extracted by MC and the results annotated by local experts are summarized in Table 5. We can see that the average precision of the presented method is 0.7736 when MC = 0.8. The accuracy is increased to 0.8679 when MC is raised to 0.9.
+Table 5. Precision of MC method for area A to F.
+MC value	A	B	C	D	E	F	Average
+0.8	0.8772	0.5882	0.8000	0.7143	0.2857	0.8462	0.7736
+0.9	0.9500	1.0000	1.0000	1.0000	0.3333	0.8462	0.8679
+Further, taking the “right” results annotated by the local experts as the benchmark, we conducted a series of comparison experiments on the same blog data set by three other feature extraction methods, i.e., TF, MI and LDA. The results are shown in Fig. 10. The accuracy of our method is superior to that of any compared method comprehensively.
+Precision comparison with TF, MI and LDA
+Download high-res image (183KB)Download full-size image
+Fig. 10. Precision comparison with TF, MI and LDA.]]>
+</section>
+
+    <section name="Discussion" category="discussion">
+        <![CDATA[
+5. Discussion
+5.1. Implications
+Our experimental results hold managerial insights for both the tourism blog readers and the industry.
+
+Planning a trip to a previously unknown destination city is a happy but worrisome task for ordinary people because it is a complicated job to figure out “where to go” (decision-making on tourism attractions) and “how to play” (decision-making on tourism cost and time). An important channel to gain rational information is learning travel tips from the experienced people who published tourism blogs online. However, when exploring useful information from such a massive data on the Internet, blog readers will suffer from the problem of information overload. For this problem, selective reading is very efficient, but can lead to misunderstandings. Our framework presents an efficient method to extract valuable information from the massive travel blog archives to help potential tourists schedule their own travel plans based on the experiences shared online by other tourists.
+
+In addition, the tourism industry would also gain managerial insights from the results presented through our framework. Online tourism blogs have become an important resource for information sharing because they provide valuable information for new customers from a lot of experienced tourists. Specifically, the blog contents have a big impact on potential tourists’ selecting of attractions and planning trips, which would further affect word-of-mouth promotion of tourism in a city (Litvin, Goldsmith, & Pan, 2008). So, learning about tourist experiences from the tourist blog contents would help the tourism industry optimize their tourism products and adjust their CRM strategies.
+5.2. Limitations/future work
+Similar to any other business intelligence method, the proposed framework has some limitations.
+
+First, the framework does not consider preferences of different individual tourists but propose large group of people interests. This poses a risk for the acceptance of the system by different group of users. In the future work, such risk can be minimized partly as follows:
+•
+First, all the bloggers could be clustered into groups according to their preferences so that the people in the same sub-group may have similar tourism interests;
+
+•
+Then, the whole blog data could be segmented into sub-sets according to their authors group information. On each sub-set of the blog data, the method proposed in this paper can be implemented to summarize the tourism information respectively.
+
+•
+For a potential user of this system, she/he can select and read the information having high relevance to her/his personal tourism interest.
+
+
+Second, we deem tourism blog writing as a kind of scene recall, which means we make a relatively idealistic assumption about the accuracy and reliability of tourist bloggers’ writing. We assume the geographically close attractions would be visited and then mentioned in blogs in the same context. In fact, if a significant number of bloggers record the names of attractions and their travel routes too casually, then, we may not obtain the most reliable results for potential tourists to use. So far, to the best of our knowledge and from the results of our testing experiments on blogs about tourism in cities, such as Beijing, Hongkong, London and Paris, our assumptions basically hold true. To answer the doubts about our assumptions theoretically, in future, we would like to conduct empirical studies to test the assumptions.
+
+Another question concerns the source of ATT. In this study, we only employed the attraction terms from the www.tripadvisor.com, which may not be complete. In future work, we would introduce multiple sources, such as googlemaps maps.google.com and official websites featuring local tourism guides to form the table of attraction terms.]]>
+</section>
+
+    <section name="Conclusion" category="conclusion">
+        <![CDATA[
+6. Conclusion
+Potential tourists seeking useful information from the massive data crawled from the Internet will suffer from the problem of information overload. In this work, we propose a research methodology to help potential tourists learn about tourism experiences for their chosen destination city from massive tourist blog data, so that they can schedule a travel plan efficiently and then travel smartly.
+
+To that end, our framework first crawls tourism blog contents for a certain city from tourism website and divides the content into semantic word vectors as a data source. By collecting the attraction terms of the city, we extract popular attractions and their travel correlations from the data source. Then we construct a word network based on the correlations between popular tourism attractions. This lets us detect the tourism areas and popular trip routes for the specific city by setting the value of max − confidence from a loose one to a relatively tighter value. Finally, we illustrate the benefits of this approach by applying it to a Chinese online tourism blog data set.
+The results of experimental application of our framework to selected cities show that the proposed method can be used to explore the tourism locations and their frequent travel sequences from massive tourist blog archives efficiently. Our future work will be about constructing a set of trip route recommendation policies to help potential tourists schedule their travel plans for destination city more efficiently.]]>
+</section>
+
+Acknowledgments
+The work was partly supported by the National Natural Science Foundation of China (71271044/U1233118/71490720/71572029). Yan Li was supported in part by NSFC (No. 71502170).
+</publication>

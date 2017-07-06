@@ -1,0 +1,841 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bibliographies>
+<BibliographiesCount>50</BibliographiesCount>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于美国对华技术管制清单的专利分析——以数控系统领域为例]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[祝捷频;赵蕴华;]]></FullName>
+<Organization><![CDATA[中国科学技术信息研究所;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[11]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[数控系统;出口管制;专利质量;核心技术;技术竞争;技术保密]]></Keyword>
+<Keyword Lang="en"><![CDATA[CNC export control list patent quality core technology technological competition technical security]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[数控系统作为高端制造的关键技术,发达国家一直进行着技术管制,通过专利数据可以分析出技术的竞争力,近年来中国的专利数量已经赶超发达国家,但专利的质量却不及发达国家,本文主要分析技术管制清单及其变化,并提出一个研究方法,即通过分析该领域专利数据的分析中美两国技术竞争力,然后结合专利数据分析管制原因。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[46-53]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于德温特专利引文网络的技术演进路径研究——以太阳能电池技术为例]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[范维熙;费钟琳;]]></FullName>
+<Organization><![CDATA[南京工业大学经济与管理学院;江苏省科技政策思想库;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[11]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[德温特专利;引文网络;技术演进;太阳能电池]]></Keyword>
+<Keyword Lang="en"><![CDATA[Derwent Innovations Index citation network technological evolution solar cell]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[阐述了基于德温特专利数据实现技术演进路径的识别原理、分析思路和实现方法。根据德温特专利数据的结构特点,采用C#编程对专利数据进行处理;采用Ucinet软件实现专利引文网络的构建;利用pajek软件的spnp算法提取技术演进路径。还以太阳能电池技术为例,提出了技术发展阶段和专利引文网络构建技术演进路径的新思路,通过识别并绘制其技术演进路径,更准确地挖掘该技术未来发展趋势,既丰富了预测技术未来发展趋势的方法体系,也可为企业制定技术发展战略提供参考。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[62-66]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[突发事件网络舆情社会影响研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[方付建;]]></FullName>
+<Organization><![CDATA[中南民族大学公共管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[11]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[突发事件;舆情;网络舆情;社会影响;暴力事件]]></Keyword>
+<Keyword Lang="en"><![CDATA[emergencies public opinion network public opinion social effects violence incident]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[为分析突发事件网络舆情的社会影响,以系列砍人事件为案例,在概念界定基础上,将网络舆情的社会影响分解为正向影响与负向影响、强影响与弱影响、态度影响与行为影响等形态,指出网络舆情社会影响的发生是不同群体谋求报复最大化或损伤最小化等理性计算的结果,认为突发事件网络舆情社会影响的呈现会带来族群裂痕、事件类化、行为同化等负面后果,提出应通过政府微型治理、媒体审慎报道、民众自我反思等方式消解其负面影响。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[14-17]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[社会化媒体环境下危机事件非对称性现象分析]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[姜金贵;沈丹薇;宋艳;]]></FullName>
+<Organization><![CDATA[哈尔滨工程大学经济管理学院;哈尔滨工程大学灾难与危机管理研究所;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[11]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[社会化媒体;危机事件;非对称性]]></Keyword>
+<Keyword Lang="en"><![CDATA[social media crisis event asymmetry]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[社会化媒体时代的到来,不仅仅是一种技术的更新,还极大地改善了信息的传播环境。社会化媒体环境下,危机事件呈现出易受民众关注、易异变、传播效果放大等新特性,需要进行深入研究。从社会化媒体环境下危机事件传播的新特性出发,探讨社会化媒体环境下的危机事件在危机事件类型、参与主体、发表渠道、民众抗争措施4个方面的非对称性现象,并分析了社会化媒体下危机事件发展各阶段非对称性现象的表现。最后,为政府避免社会化媒体环境下危机事件非对称性,有效控制危机事件事态提出相应对策。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[25-28]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[网络谣言信息情绪化传播行为的意愿研究——基于社会热点事件视角]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[姬浩;苏兵;吕美;]]></FullName>
+<Organization><![CDATA[西安工业大学经济管理学院;西安交通大学管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[11]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[社会热点事件;网络谣言信息;情绪化传播行为]]></Keyword>
+<Keyword Lang="en"><![CDATA[hot-events internet rumor information emotional spreading behavior]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[针对社会热点事件网络谣言信息传播行为,从犯罪心理学角度出发,运用犯罪学领域中和技术和威慑理论,分析网络环境下,人们对网络谣言信息情绪化传播时对中和技术的运用,以及正式惩罚和非正式惩罚在规范网络谣言信息情绪化传播行为中的作用。在此基础上,提出研究假设,运用结构方程模型(SEM)方法构建理论模型,实证分析人们信息网络情绪化传播行为的动机。结果表明:中和技术理论与社会热点事件网络谣言信息情绪化传播意愿正相关,会增强人们对社会热点事件网络谣言信息情绪化传播的意愿,正式惩罚、非正式惩罚和羞愧惩罚有显著负相关,会在一定程度上约束人们社会热点事件网络谣言信息情绪化传播行为的意愿。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[34-39+28]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[政务微博群的网络结构对传播效果的影响研究——政务微博话语权研究系列之十二]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[梁芷铭;]]></FullName>
+<Organization><![CDATA[钦州学院法律与公共管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[11]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[政务微博群;网络结构;传播效果;上海发布;社会网络分析;多元统计方法]]></Keyword>
+<Keyword Lang="en"><![CDATA[government microblogging group network structure the dissemination effect Shanghai Release SNA multivariate statistical method]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[目前对于微博的研究,无论是针对企业微博还是政务微博或者个人微博,都主要集中于个案研究,鲜见对于有核心主题的微博帐号群研究。采用社会网络分析法和多元统计方法,针对上海发布政务微博群展开了网络结构分析,继而分析了网络结构对传播意愿和传播能力的影响,得出了政务微博群管理的针对性结论。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[40-45]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于PEST模型的美国CCS技术环境研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[邱洪华;陈娟;]]></FullName>
+<Organization><![CDATA[湘潭大学知识产权学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[10]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[碳捕捉与封存技术;PEST模型;环境研究;CO2排放]]></Keyword>
+<Keyword Lang="en"><![CDATA[carbon capture and storage technology PEST model environment study CO2emissions]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[在全球变暖步伐不断加快、环保意识不断提升的背景下,如何降低全球碳排放量变得十分迫切。碳捕捉与封存技术(Carbon Capture and Storage,简称CCS技术)通过对碳的捕获、存储能有效阻止CO2向大气排放,具有较大的碳减排潜力,受到了许多国家的青睐。美国作为煤炭燃烧的大国,十分重视对CCS技术的研发。基于PEST分析模型从政策、经济、社会、技术等方面对美国CCS技术发展环境进行全面地分析,进而探讨对我国CCS技术发展的有益启示。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[116-122+115]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于HHM的公共危机事件网络舆情风险管理研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[兰月新;董希琳;邓新元;潘樱心;何永红;]]></FullName>
+<Organization><![CDATA[中国人民武装警察部队学院,灭火救援技术公安部重点实验室;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[10]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[公共危机;网络舆情;风险管理;HHM;AHP;风险评级]]></Keyword>
+<Keyword Lang="en"><![CDATA[public crisis network public opinion risk management HHM AHP risk rating]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[分析公共危机事件网络舆情风险因素,构建网络舆情风险管理的HHM框架,确定重要风险场景,重点研究官方行为——舆情热度风险场景,并将HHM框架转换为指标体系,应用AHP法和ABC法进行风险量化和评级,为政府公共危机事件网络舆情风险管理提供参考。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[33-38+77]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[从信息公开到数据开放的全球实践——兼对上海建设“政府数据服务网”的启示]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[张毅菁;]]></FullName>
+<Organization><![CDATA[上海图书馆<上海科学技术情报研究所>;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[10]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[信息公开;数据开放;政府数据网站]]></Keyword>
+<Keyword Lang="en"><![CDATA[information disclosure open data government data website]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[随着大数据时代的来临,拥有丰富公共数据的各国政府开始从信息公开走向数据开放。作为一种新的理念和实践,数据开放要求政府更加重视数据的搜集、公布、开放和运用。本文在阐明信息公开和数据开放的区别与联系的基础上,系统介绍了全球在数据开放浪潮中的实践经验,以期给正在建设中的上海政府数据服务网带来有益的启示和借鉴。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[175-178+183]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于DEA和外部认可的中文军事信息网站效率评价]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[杨选辉;葛伟;]]></FullName>
+<Organization><![CDATA[南昌大学信管系;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[10]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[军事网站;数据包络分析(DEA);指标体系;网站效率;网站评价;效率评价]]></Keyword>
+<Keyword Lang="en"><![CDATA[military websites Data Envelopment Analysis(DEA) index system website efficiency website evaluation efficiency;evaluation]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[从投入产出的角度构建了中文军事信息网站效率评价的指标体系,运用数据包络分析法的C2R评价模型,对我国16个主要的军事信息网站进行了定量分析,结果表明:其中11个军事网站为DEA相对有效,另外5个军事网站为相对非有效;军事信息网站的效率与页面平均大小、页面标签率、网页更新率等紧密相关,与网站连通率、网页易到达率、链路完整性等基本无关。此外,对相对非有效的网站进行了有效性改进空间分析,根据结果给出了提高网站效率的有效建议。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[184-189]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于随机森林的分类器在犯罪预测中的应用研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[孙菲菲;曹卓;肖晓雷;]]></FullName>
+<Organization><![CDATA[中国人民公安大学反恐怖学院;中国人民公安大学犯罪学学院;中国人民公安大学侦查学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[10]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[随机森林;机器学习;分类器;犯罪预测;决策树;数据挖掘]]></Keyword>
+<Keyword Lang="en"><![CDATA[random forest machine learning classifier crime prediction decision tree data mining]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[犯罪预测一直是公安部门亟待解决的突出问题。基于随机森林这种模型组合分类器,结合机器学习技术在犯罪预测中的应用现状,提出了一种用于预测犯罪的新的分类方法,并通过模拟实验来展示这种分类方法比一般的随机森林分类会有更高的可信度。创新之处在于提出的这种随机森林分类器的每一棵树都是退化的决策树,并且根据在线学习的结果在下一轮的分类中选择区分度更高的决策树。最终给出一个应用于犯罪预测的较为成功的分类器的思路和模式,得出准确有效的预测结论。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[148-152]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[维护科技安全的情报预测研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[胡雅萍;刘千里;潘彬彬;]]></FullName>
+<Organization><![CDATA[南京大学信息管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[情报预测;技术监测;监测指标;科技安全;全源情报;预测流程]]></Keyword>
+<Keyword Lang="en"><![CDATA[intelligence forecasts technology monitoring monitor index S&T Security all-source intelligence forecasts process]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[国际竞争的深入使科技安全成为摆在每个国家面前的重要课题,完整高效的科技安全情报体系是确保科技安全的重要保障。重点探讨在维护国家科技安全领域中情报的作用,在归纳总结科技领域情报预测作用的基础上,得出维护科技安全,情报预测需要从全源监测视角构建、情报源的深度挖掘以及完善的预测流程三个方面入手,并提出相应的对策建议。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[8-12+7]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于专利信息分析的创新技术预测方法综述]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[旷景明;兰小筠;]]></FullName>
+<Organization><![CDATA[中南大学医药信息系;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[专利分析;专利地图;创新预测;TRIZ理论;引文分析]]></Keyword>
+<Keyword Lang="en"><![CDATA[patent analysis patent map innovation forecasting TRIZ citation analysis]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[专利信息包含着技术创新和发展的相关数据,是企业创新活动非常有价值的信息资源。专利分析是企业创新技术预测管理的有效工具。较为全面地综述了目前国内外基于专利引文分析、基于专利网络分析、基于关键词专利地图和基于TRIZ理论的创新预测研究方法及其应用进展,并在此基础上综合比较了这些方法的优势和操作的局限性,以期指导有效地利用专利分析工具来促进企业技术创新的研究活动。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[33-39+50]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于专利的大数据技术发展情报分析及战略研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[李鹏飞;卢瑾;辛一;]]></FullName>
+<Organization><![CDATA[西安邮电大学经济与管理学院;陕西省科学技术信息研究所;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[大数据技术;专利分析;SooPAT检索;专利法律状态;IPC分类]]></Keyword>
+<Keyword Lang="en"><![CDATA[big data technology patent analysis SooPAT retrieval patent legal status IPC classification]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[利用佰腾网中国专利数据库,SooPAT新世界搜索数据库分别对关于大数据的中国和世界的专利进行检索,通过对中国及世界主要国家的专利申请量趋势、申请人区域分布、专利法律状态构成、专利分类技术IPC分类下的统计比较,分析大数据技术的发展研究现状,预测大数据技术未来发展,对中国大数据技术发展战略提出建议。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[45-50]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于专利分析的转基因农作物技术布局态势研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[赵霞;王玉光;胡瑞法;]]></FullName>
+<Organization><![CDATA[北京理工大学图书馆;北京理工大学国家经济安全研究中心;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[转基因农作物;专利分析;专利计量;DII;专利技术生命周期]]></Keyword>
+<Keyword Lang="en"><![CDATA[genetically modified crop patent analysis patentometric DII patent technology life cycle]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[以DII数据库为统计源,对1993-2013年间转基因农作物技术研究的专利文献进行统计分析,利用Thomson Data Analyzer(TDA)和SPSS软件对数据清洗和挖掘,给出转基因农作物专利的整体发展态势、核心专利申请国家和机构力量分布和比较、专利技术生命周期分析以及技术热点研究情况。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[51-55+92]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于g指数和共现指数的研究热点及合作团体分析]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[汤强;王亚民;赵艳;]]></FullName>
+<Organization><![CDATA[西安电子科技大学经济与管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[词频;g指数;共现指数;研究热点;合作群体;3D打印]]></Keyword>
+<Keyword Lang="en"><![CDATA[g-index co-occurrence index hotspots of subject co-authorship group 3D-printing]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[分析了基于关键词词频和g指数的研究方法的优缺点。在此基础上,提出了基于共现指数的研究热点分析和合作群体分析的方法,并利用CNKI数据库,选择3D打印技术领域为研究对象,进行实证研究。通过实证研究,找到了热点关键词的聚焦领域。对于合作网络研究,发现了领域内的合作团体,并找出了各合作团体的核心人物。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[72-75]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于ESI科学家计量方法的重新评估]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[杨毓丽;单承伟;张苏;]]></FullName>
+<Organization><![CDATA[大连理工大学图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[ESI;合著者;贡献率;总被引频次;篇均被引频次]]></Keyword>
+<Keyword Lang="en"><![CDATA[ESI co-authors contribution total citations citations per paper]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[以ESI排名前5位的经济学家为统计对象,通过选择六种作者贡献率分配算法,对5位经济学家论文总数、总被引频次排名和篇均被引频次三个指标进行了重新评价。研究结果表明:从总被引频次来看,除了Harmonic counting和FLAE排名一致外,其他几种算法的排名完全不同,而且排名的差异非常大。从篇均被引频次来说,六种计量方法排序结果完全一致。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[76-82]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[论替代计量学在图书馆文献服务中的应用]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[余厚强;邱均平;]]></FullName>
+<Organization><![CDATA[武汉大学信息管理学院;武汉大学中国科学评价研究中心;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[替代计量学;图书馆文献服务;文献计量学;科学评价;文献检索;智能推荐]]></Keyword>
+<Keyword Lang="en"><![CDATA[altmetrics library literature service bibliometrics scientific evaluation literature retrieval intelligent recommendation]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[在线科研环境催生的替代计量学正在科学界引起广泛而深刻的变革,论述了替代计量学对图书馆在科学交流中角色的影响,分析了替代计量学用于图书馆文献服务的三大功能,探讨替代计量学全面应用到图书馆面临的三大挑战,最后指出图书馆要利用好这个机遇,继续提高图书馆文献服务质量,扩大图书馆在科学生态系统中的影响力。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[163-166+172]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[面向学术领域的新型社交平台:科研社交网络]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[夏秋菊;栗文超;薛晶晶;焦坤;唐蓓;]]></FullName>
+<Organization><![CDATA[上海工程技术大学图书馆;上海航天精密机械研究所信息档案处;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[科研社交网络;学术交流;e-science;知识发现;学术网络服务;聚类分析]]></Keyword>
+<Keyword Lang="en"><![CDATA[research networking systems academic communication e-science knowledge discovery academic network services;cluster analysis]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[利用科学计量和可视化方法,通过对科研社交网络进行调研、关键词分析、统计、聚类、可视化展示,对科研社交网络进行内容分析。依据分析结果,科研社交网络可分为三个主题:科研社交网络分析工具、科研社交网络平台、科研类数据库,并对各主题内容和作用进行阐述,最后对我国构建科研社交网络提出了技术、资源和管理方面的建议。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[167-172]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[《情报杂志》]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> </Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[情报杂志;情报学领域;中文核心期刊;新作者;情报研究;为己;彩色封面;应用研究;全年订费;通讯地址;]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[<正>《情报杂志》(月刊)是由陕西省科学技术信息研究所主办的我国情报学领域的学术性刊物,是中文社会科学引文索引(CSSCI)来源期刊、全国中文核心期刊、RCCSE核心期刊及人大复印报刊资料重要转载来源期刊。《情报杂志》立足情报学领域,兼顾理论研究与应用研究,以鼓励原创和培养新作者为己]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[208]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[我国竞争情报搜集研究热点的可视化分析]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[胡逸宬;陈峰;]]></FullName>
+<Organization><![CDATA[中国科学技术信息研究所;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[竞争情报;竞争情报搜集;文献计量;可视化]]></Keyword>
+<Keyword Lang="en"><![CDATA[competition intelligence competitive intelligence gathering bibliometric analysis visualization]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[基于CNKI、万方和维普三个数据库,对我国竞争情报搜集研究领域的期刊论文进行了文献计量,并采用社会网络分析法,构建了论文著者和关键词的共现网络,进行了可视化分析。指出主要的研究热点集中在以下几个方面:竞争情报源研究、搜集的合法性研究、搜集系统研究以及搜集方法研究。最后对今后该领域可以做的工作进行了简要展望。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[17-21+82]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于FVIKOR的企业竞争情报评价及应用]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[沈平康;江文奇;]]></FullName>
+<Organization><![CDATA[南京理工大学经济管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[企业竞争情报;指标体系;三角模糊数;模糊VIKOR]]></Keyword>
+<Keyword Lang="en"><![CDATA[enterprise competitive intelligence index system triangular fuzzy number fuzzy VIKOR]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[科学有效的企业决策需要有效的情报支撑,如何评估并优选多条情报是提高企业竞争能力的有效途径。针对模糊环境下的竞争情报评估问题,首先将其转换为多准则决策问题,从内容性、可用性、成本投入三个维度构建评价指标体系;其次,将评价矩阵转化为由三角模糊数构成的决策矩阵,并阐述其运算规则;再次,运用模糊VIKOR方法对竞争情报进行综合评估并排序;最后,通过实例验证了该方法的有效性和可行性。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[22-26+88]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于专利分析的替代性技术识别研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[娄岩;张赏;黄鲁成;苗红;]]></FullName>
+<Organization><![CDATA[北京工业大学经济与管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[替代性技术;技术识别;专利分析;核心性;相似性]]></Keyword>
+<Keyword Lang="en"><![CDATA[alternative technology identification of technology patent analysis core feature similarity]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[替代性技术识别是企业进行技术战略选择的基础。目前,对替代性技术识别的研究多集中于定性分析,很少采用定量方法,利用专利文献与技术的关联关系进行替代性技术识别的研究少之更少。笔者在总结了替代性技术特征的基础上,构建了替代性技术识别方法框架,从核心性和相似性两个视角,综合利用文本挖掘、德温特手工代码共现、应用功效矩阵等方法逐层递进式识别替代性技术。以基带芯片技术为研究对象,进行实际论证,验证了该方法的可行性。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[27-32]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[专利与技术标准融合的陷阱及其规避]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[郭秋萍;赵静;朱明珠;]]></FullName>
+<Organization><![CDATA[郑州航空工业管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[专利;技术标准;技术陷阱;专利权滥用;技术壁垒]]></Keyword>
+<Keyword Lang="en"><![CDATA[patent technology technical standards technical standards traps patent abuse technical barrier]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[专利与技术标准的融合使专利技术能够借助技术标准的特殊地位得到更广泛的应用,同时也使某些技术标准借助专利保护实现事实上的垄断。专利与技术标准的融合是经济发展的必然要求,也是必然趋势,在这种趋势下必然出现技术陷阱问题,即技术标准中专利权滥用。从专利与技术标准的关系出发,分析在专利技术与技术标准融合趋势下,技术标准中专利权滥用的多种形式,从企业竞争力及发展的角度,提出规避陷阱的措施。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[40-44+99]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[国际科技人才成长特征及演变规律分析——基于文献计量的分析]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[张莉;朱庆华;徐孝娟;]]></FullName>
+<Organization><![CDATA[南京大学信息管理学院;江苏开放大学;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[科技人才;成长轨迹;文献计量分析;人才培养;人才政策]]></Keyword>
+<Keyword Lang="en"><![CDATA[science and technology talent development track bibliometric analysis personnel cultivation talent policy]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[依据ESI及WoS数据库中的数据,以物理学、计算机科学两个学科领域为代表,将高被引论文作者的论文产出、所属机构、机构间流动、国家间流动及学科变动等职业生涯轨迹标识作为测度指标,探索国际科技人才在成长过程中所呈现的特征及演变规律,为国家制定人才政策、促进人才成长提供决策参考。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[64-71]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于动态网络分析的LTE TDD技术专利分析]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[翟东升;孙武;张杰;赵京;]]></FullName>
+<Organization><![CDATA[北京工业大学经济与管理学院;北京工业大学机械工程与应用电子技术学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[07]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[专利技术;LTE TDD;动态网络分析;元矩阵;动态网络指标;ORA]]></Keyword>
+<Keyword Lang="en"><![CDATA[patent technology LTE TDD Dynamic Network Analysis meta matrix dynamic network metrics ORA]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[移动通信LTE TDD技术是我国拥有自主知识产权的TD-SCDMA技术的长期演变技术。将以LTE TDD技术为研究对象,检索LTE TDD技术相关专利,对其进行专利申请分析。同时提出了动态网络分析方法并建立专利数据元矩阵,利用动态网络分析工具ORA对专利信息进行挖掘,以期研究LTE TDD技术产业现状与我国企业所面临的问题。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[63-69+43]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[新科研影响力评价指标分析]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[陈福佑;杨立英;]]></FullName>
+<Organization><![CDATA[中国科学院大学;中国科学院文献情报中心;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[07]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[Integrated Impact Indicator;期刊影响因子;Percentile Rank;科研评价]]></Keyword>
+<Keyword Lang="en"><![CDATA[Integrated Impact Indicator Journal Impact Factor Percentile Rank Scientific Evaluation]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[新科研影响力评价指标I3反映引文偏态分布的集中优势,它是使用等级加权算法的绝对值评价指标。详细介绍I3原理和算法,并分析这种评价指标区别于期刊影响因子的优点,同时指出它存在的问题和改进思路。实证分析表明,I3在期刊评价和科研人员评价中反映评价对象引文偏态分布的集中趋势。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[81-85+62]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[合著网络中的社会资本及其影响分析——以情报学领域为例]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[程莉;吴广印;王鑫;]]></FullName>
+<Organization><![CDATA[中国科学技术信息研究所;北京万方软件股份有限公司;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[07]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[合著网络;社会资本;论文产出;社会网络分析;相关性分析;情报学]]></Keyword>
+<Keyword Lang="en"><![CDATA[co-authorship network the social capital output of papers social network analysis Correlation analysis information;science]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[合著作为一种广泛社会现象,有学者认识到了合著数量对论文产出的影响。基于社会资本理论的视角,在分析合著网络中社会资本的内涵、类型的基础上,从结构、关系、认知三个维度研究社会资本对论文产出行为的作用机制。并以情报学领域合著网络为例进行了实证分析,发现:结构维社会资本变量、关系维社会资本变量直接与论文产出变量相关,认知维社会资本变量通过其他两维变量间接影响论文产出行为。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[86-90+49]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[科学研究中的迟滞承认现象研究进展]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[张丽华;张志强;]]></FullName>
+<Organization><![CDATA[中国科学院兰州文献情报中心;中国科学院大学;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[07]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[迟滞承认;科学中的睡美人;早熟发现;抵制发现]]></Keyword>
+<Keyword Lang="en"><![CDATA[delayed recognition sleeping beauty in science premature discoveries resisted discoveries]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[迟滞承认是指那些最初未受重视或未被使用,但是随后被认为很重要的论文,一般依据论文发表之后的被引频次进行界定。该现象主要与科学家共同体对科学发现的抵制、科学发现所发表的期刊质量以及科学家在科学共同体中的学术地位有关,而迟滞承认论文的唤醒主要受其沉睡时长、沉睡程度、所处科研环境以及论文的唤醒者影响。在界定标准、机制、应用研究与预测方面迟滞承认现象有待于进一步深化与拓展。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[97-102+75]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[共词网络的结构与演化:概念与理论进展]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[张斌;]]></FullName>
+<Organization><![CDATA[武汉大学信息资源研究中心;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[07]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[共词网络;共词分析;拓扑结构;社区识别;网络演化;增长动力学]]></Keyword>
+<Keyword Lang="en"><![CDATA[co-word network co-word analysis topology structure community detection network evolution growth dynamics]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[共词网络方法在知识网络研究中应用普遍。首先回顾了共词分析和共词网络之间的联系与区别;然后从共词网络的拓扑结构、社区识别及其演化、增长动力学以及改造共词网络这4个方面对相关研究进行梳理和总结;最后从方法和内容两个方面指出了当前研究的不足和未来的研究重点。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[103-109]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[将共链分析拓展到URL共现分析——基于比价返利行业的实证研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[毛彦妮;]]></FullName>
+<Organization><![CDATA[武汉大学信息管理学院;南京财经大学国际经贸学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[07]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[网络计量学;URL共现;共链分析;比价返利]]></Keyword>
+<Keyword Lang="en"><![CDATA[Webometrics URL co-occurrence co-link analysis price rebate]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[基于URL共现数据与共链数据相似的结构和功能,提出将共链分析拓展为URL共现分析,并在我国比价返利行业进行实证研究,从格局总体分析、识别主要竞争对手和细粒度竞争格局分析三个角度分析,结果发现URL共现分析和共链分析一样可以揭示行业竞争格局。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[110-114]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于LDA模型的科技期刊主题演化研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[李湘东;张娇;袁满;]]></FullName>
+<Organization><![CDATA[武汉大学信息管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[07]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[LDA模型;科技期刊;主题演化;主题稳定性]]></Keyword>
+<Keyword Lang="en"><![CDATA[LDA model scientific journal topic evolution topic stability]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[提出一种基于LDA(Latent Dirichlet Allocation)潜在语义模型、全面研究科技期刊主题演化过程的方法。该方法根据科技期刊的特点引入时间因素,使用困惑度确定最优主题数目,通过LDA主题提取结果及JS散度,实现主题在强度和内容两方面的演化研究,并对不同时间窗口的主题稳定性做出相应分析。实验结果表明该方法可以较好地分析某一特定科技期刊的主题随时间的强度演化规律以及主题内容的演化趋势。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[115-121]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[跨学科研究的文献计量及可视化分析]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[薛晓丽;武夷山;]]></FullName>
+<Organization><![CDATA[中国科学技术信息研究所;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[07]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[跨学科研究;文献计量;共现网络;可视化]]></Keyword>
+<Keyword Lang="en"><![CDATA[interdisciplinary research bibliometric analysis co-occurrence network visualization]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[以2004-2013年Web of Science数据库中跨学科研究论文作为数据源,运用文献计量法分析了跨学科研究论文国别分布、机构分布以及各国跨学科研究涉及的学科领域分布,并通过建立学科共现网络分析了四大主流研究机构跨学科研究的特色,最后从时间演化的角度探讨了近十年来跨学科研究热点及研究前沿。通过研究发现近十年跨学科研究论文产出主要集中在欧美国家,中国排名第十位,且各国对不同学科领域的交叉研究各有侧重。跨学科研究机构以高校为主,四大主流研究机构或多或少都涉及到医学、卫生保健领域跨学科研究,但面向的学科各有不同。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[122-127]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[知识获取的对数透视原理分析——以数据挖掘领域为例]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[江雪琴;张志平;李琳娜;]]></FullName>
+<Organization><![CDATA[中国科学技术信息研究所;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[07]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[对数透视原理;数据挖掘;知识获取;文献使用率]]></Keyword>
+<Keyword Lang="en"><![CDATA[logarithmic perspective data mining knowledge acquiring document utilization ratio]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[布鲁克斯认为用户获取知识的过程遵循对数转换机制。为探究这一理论的一般表现形式,将引文作为主要研究对象,分别从时间、学科对数据挖掘领域的引用文献进行对数规律探析,再从该领域文献的被引用情况,探讨文献使用率问题。结果表明,引文在时间轴上具有明显对数函数关系,本学科或相关度高的学科(领域)文献被引用的比重较高。而经对数转换的文献使用率,能够更好地揭示科研成果在后期科研工作中发挥的作用。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[156-160]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于术语原形化的英文同义词群构建方法研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[张冰;常春;]]></FullName>
+<Organization><![CDATA[中国科学技术信息研究所;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[07]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[同义词群构建;术语原形化;叙词表;词形还原;词干提取;缩略语]]></Keyword>
+<Keyword Lang="en"><![CDATA[construction of synset term normalization thesaurus lemmatization stemming acronym]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[介绍了词干提取和词形还原两种词形规范方式以及基于规则和基于词典的两种词形规范实现方法,阐述了基于术语原形化的同义词群构建的基本原理,同时对术语原形化的基本处理方式、通过单词字顺排序构建同义词群以及原形化过程中的排序和词性等问题进行了分析和论述,最后指出对缩略语需进行特殊处理,并针对原形化方法的不足之处提出辅以人工判断和其他同义词获取方法的必要性。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[171-175]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[农业技术扩散中信息资源获取模式研究——基于社会网络视角]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[旷浩源;]]></FullName>
+<Organization><![CDATA[湖南农业大学教育学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[07]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[农业技术扩散;信息资源;社会网络;信息引进;信息推介;评价信息;价格信息]]></Keyword>
+<Keyword Lang="en"><![CDATA[agricultural technology 's diffusion information resource social network information introduction information recom-;mendation evaluation information price information]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[社会结构中的社会网络概念是以关系为中心取向的,基于社会网络视角中关系这一核心概念,来探讨农业技术扩散过程中信息资源获取模式,把嵌入社会网络当中的农村社区的社会关系类型细分为四个维度,把信息资源按农业技术扩散过程中农户需求层次分为四种类型。以实际案例剖析方式总结分析了农业技术扩散过程中信息资源获取的四种模式。在农业技术扩散前期,信息引入可以利用生成性弱关系和先赋性强关系互动,以守门人导入的模式引入;技术外围信息可以通过生成性弱关系以宣讲会模式传播扩散而获得。在农业技术扩散中期,技术评价信息可以通过生成性强关系以大户效应模式传播扩散而获得。在农业技术扩散后期,市场信息可以通过生成性...]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[194-198+193]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[关于日本大学图书馆对社会开放的思考]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[吴翔;]]></FullName>
+<Organization><![CDATA[福建中医药大学思想政治理论课教学科研部;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[07]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[大学图书馆;日本;社会开放性]]></Keyword>
+<Keyword Lang="en"><![CDATA[university libraries Japan openness to society]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[从日本大学图书馆地域开放的历史条件、日本大学图书馆地域开放的现状、校外人员对日本大学图书馆利用等的角度介绍了日本大学图书馆对外开放的实际情况,最后对中国大学图书馆开放提出思考。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[199-201]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[《情报杂志》]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> </Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[07]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[情报杂志;情报学领域;中文核心期刊;新作者;办刊风格;学术造假;情报研究;彩色封面;应用研究;全年订费;]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[<正>《情报杂志》(月刊)是由陕西省科学技术信息研究所主办的我国情报学领域的学术性刊物,是中文社会科学引文索引(CSSCI)来源期刊、全国中文核心期刊、RCCSE核心期刊及人大复印报刊资料重要转载来源期刊。《情报杂志》立足情报学领域,兼顾理论研究与应用研究,以鼓励原创和培养新作者为己任;坚持严谨求实的办刊风格,崇尚科学,鼓励创新,倡导学术争鸣,抵制学术造假。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[208]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[2014年增刊征稿通知]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <Organization><![CDATA[《情报杂志》编辑部;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[07]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[学术论文;在线系统;情报杂志;学术交流;http;正刊;]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[<正>尊敬的作者:为了满足广大作者发表学术论文、进行学术交流的愿望,编辑部决定在2014年12月出版增刊一期,要求如下:一、所投论文内容同《情报杂志》正刊,不得超出其范围。二、论文一律通过本刊在线系统投稿(http://www.qbzz.org/)。三、投稿前必须认真阅读本刊投稿须知,严格按投稿须知中的相关要求]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[208]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[“棱镜门”事件的竞争情报含义解析]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[陈峰;]]></FullName>
+<Organization><![CDATA[中国科学技术信息研究所;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[07]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[竞争情报;美国;“棱镜”计划项目]]></Keyword>
+<Keyword Lang="en"><![CDATA[competitive intelligence America NSA PRISM program]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[军事和国家安全领域情报工作的理念和做法被民口情报借鉴移植转化、影响推动民口情报发展一直贯穿人类情报发展的历史。基于军事和国家安全情报、竞争情报的共性要义,从情报本性、情报和认知的重要性、开展情报工作的主体、情报工作的推动等8个方面,研究总结美国棱镜国家情报监听项目暨棱镜门事件的竞争情报含义,并给出对加强我国竞争情报工作的启示。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[12-15]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[中国燃料电池领域专利情报对比分析]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[吴红;董坤;付秀颖;]]></FullName>
+<Organization><![CDATA[山东理工大学科技信息研究所;山东佰腾信息科技有限公司;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[07]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[燃料电池;专利情报;专利分析]]></Keyword>
+<Keyword Lang="en"><![CDATA[fuel cell patent intelligence patent analysis]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[采用对比分析法,从时间序列趋势、研发领域、创新质量、法律状态、专利主体、同族专利多维度,对SIPO公布的燃料电池领域发明专利进行对比分析。研究发现:日本善于通过申请核心专利和布置外围专利获取竞争优势,美国重视技术的原创性和基础专利的研究,中国虽然专利申请量增长迅猛,但在创新质量和产业化运用方面仍与日美存在较大差距。研究认为,完善专利促进政策,加强对核心专利的深入研究,形成攻防体系,是提升竞争力、谋求更好发展的必由之路。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[33-37]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[国际移动支付领域专利技术态势研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[张云;袁顺波;苏保朵;]]></FullName>
+<Organization><![CDATA[嘉兴学院商学院;嘉兴学院南湖学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[07]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[信息计量;专利分析;移动支付;可视化;专利技术态势;Citespace]]></Keyword>
+<Keyword Lang="en"><![CDATA[informetrics patent analysis mobile payment visualization patent technology distribution Citespace]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[利用自编程序、TDA、Citespace等工具,对来自德温特数据库中的3 535条关于移动支付方面的专利文献记录进行了定量计量和可视化分析。研究表明,在移动支付领域,较重要的被引专利主要来自发达国家,但近年来韩国实力强劲,三星电子公司更是具有较强的专利生产能力和国际影响力;移动支付体系结构、方案、协议以及利用手持设备进行支付及电子资金转移等方面的专利文献较多,但有关服务器、用户权限/口令系统、移动商务等领域的专利研究,还需要引起各国的重点关注;我国在移动支付领域发展迅速,但还面临如何扶持研究力量、提高研究水平、扩大国际市场竞争力等问题。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[70-75]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于加权网络模型的国际科学合作研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[孙海生;]]></FullName>
+<Organization><![CDATA[聊城大学图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[07]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[科学合作;加权网络;H度;核度;核密度估计;社团结构]]></Keyword>
+<Keyword Lang="en"><![CDATA[scientific collaboratiopn weighted network H-degree coreness kernel density estimation community structure]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[以Web of science数据库为数据源,采用加权网络分析方法,构建了国际科学合作网络。从网络分析的角度,研究各国在合作网络中的重要性,揭示了合作网络中的社团结构。研究结果表明:合作网络的密度在逐年增加,各国的合作范围、合作强度逐年增强,跨国合作呈现多极化发展的趋势,但整体格局未发生根本性变化;社团结构的形成受地域、文化、语言等因素的影响,表现出和经济区域化的相似性。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[91-96+109]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[全球绿色专利高速公路的构建研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[胡允银;]]></FullName>
+<Organization><![CDATA[台州学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[07]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[绿色技术;绿色专利;专利高速公路;快速审查;权利要求]]></Keyword>
+<Keyword Lang="en"><![CDATA[green technology green patent patent prosecution highway expedited examination claims]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[通过对比分析现有发达国家绿色专利快速审查通道项目实质标准和程序要求上的差异性及其优缺点,提出构建一个申请主题更为宽泛但却有着实质性环境益处的审查标准,一个单一发明只能提交有限独立权利要求和总的权利要求并且无多个从属权利要求的程序规则的绿色专利申请快速审查通道,借鉴现有国家推出的专利审批高速公路项目运行模式,构筑全球绿色专利高速公路,促进绿色技术研发、实施和扩散。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[202-207]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于Web of Science的本体和社会化标签关联研究的进展分析]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[窦永香;王帮金;方倩;]]></FullName>
+<Organization><![CDATA[西安电子科技大学经济与管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[本体;社会化标签;CiteSpace;可视化;科学知识图谱;Web;of;Science]]></Keyword>
+<Keyword Lang="en"><![CDATA[ontology;social tag;CiteSpace;visualization;scientific knowledge mapping;Web of Science]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[社会化标签兴起后,其与本体的关联研究越来越受到国内外研究者的关注。基于Web of Science的检索数据,使用CiteSpace软件,从作者及国家、共被引文献及突现词等角度对本体与社会化标签关联研究的现状进行可视化分析。从研究人员及国家来看,研究人员的合作程度较高,但是团体间的合作较少,另外,美国、德国、中国和澳大利亚的研究较多,且研究较早;从研究热点的发展来看,本体和社会化标签的关联研究由其与知识共享、与语义网及元数据的研究转变而来。在2008年后产生了多个研究热点,其中研究得最多的是用户生成内容、标签本体和标签推荐。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[172-178]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于TAM与TTF整合模型的移动搜索行为影响因素研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[陈明红;漆贤军;李妍慧;]]></FullName>
+<Organization><![CDATA[中山大学资讯管理学院;广西大学公共管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[移动搜索;信息行为;移动互联网;TAM;TTF]]></Keyword>
+<Keyword Lang="en"><![CDATA[mobile search;information behavior;mobile Internet;TAM;TTF]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[为探究移动搜索行为的关键影响因素,整合TAM与TTF模型,构建移动搜索行为影响因素的结构方程模型。以移动搜索用户为调查对象,通过网络调查,共回收313份有效问卷,使用PLS对模型进行验证。结果表明,移动搜索意向和任务技术适配度显著地影响移动搜索行为,并且感知有用性、感知易用性和感知趣味性对移动搜索意向具有显著的正向影响作用,任务技术适配度显著地影响移动搜索行为,同时受到搜索任务特征和移动搜索技术特征的正向影响。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[179-186]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[欢迎订阅2014年《情报杂志》]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> </Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[情报杂志;情报学领域;中文核心期刊;新作者;办刊风格;学术造假;情报研究;彩色封面;应用研究;全年订费;]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[<正>《情报杂志》(月刊)是由陕西省科学技术信息研究所主办的我国情报学领域的学术性刊物,是中文社会科学引文索引(CSSCI)来源期刊、全国中文核心期刊、RCCSE核心期刊及人大复印报刊资料重要转载来源期刊。《情报杂志》立足情报学领域,兼顾理论研究与应用研究,以鼓励原创和培养新作者为己任;坚持严谨求实的办刊风格,崇尚科学,鼓励创新,倡导学术争鸣,抵制学术造假。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[208]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[2014年增刊征稿通知]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <Organization><![CDATA[《情报杂志》编辑部;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[学术论文;在线系统;情报杂志;学术交流;http;正刊;]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[<正>尊敬的作者:为了满足广大作者发表学术论文、进行学术交流的愿望,编辑部决定在2014年12月出版增刊一期,要求如下:一、所投论文内容同《情报杂志》正刊,不得超出其范围。二、论文一律通过本刊在线系统投稿(http://www.qbzz.org/)。三、投稿前必须认真阅读本刊投稿须知,严格按投稿须知中的相关要求]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[208]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于专利计量视角的我国本体技术发展态势分析]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[支丽平;]]></FullName>
+<Organization><![CDATA[安阳师范学院计算机与信息工程学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[专利计量;本体;Patentics;专利分析;技术趋势;中国专利]]></Keyword>
+<Keyword Lang="en"><![CDATA[Patentometrics;ontology;Patentics;patent analysis;technological trend;Chinese patent]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[以Patentics中外专利检索系统作为数据源,从专利申请量、技术领域分布、主要研究机构、主要发明者、热点领域等方面对我国本体技术发展态势进行分析,揭示国内本体技术的发展趋势、技术热点、行业领先企业、技术领军人物,比较各研发机构在本体技术领域的创新性和研发实力,绘制当前本体技术发展的专利地图,进而获取重要的战略性信息和创新性信息,在此基础上对我国发展和利用本体技术提出建议。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[79-83]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于微博的企业网络舆情热度趋势分析]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[屈启兴;齐佳音;]]></FullName>
+<Organization><![CDATA[北京邮电大学;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报杂志]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[微博;网络舆情;企业网络舆情;舆情热度;舆情热度趋势;马尔可夫链]]></Keyword>
+<Keyword Lang="en"><![CDATA[microblog;public opinion;enterprise Internet public opinion;hotness degree of opinion;trend of opinion hotness degree Markov chain]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[微博作为企业网络舆情传播的主要载体和平台,使信息传播更迅速,也使舆情事件的影响力剧增。提出基于微博的企业网络舆情热度的计算公式。针对企业网络舆情热度的波动范围较大,并会呈现某种趋势的特点,提出了一种基于马尔可夫链的舆情热度趋势分析模型。该模型采集相关舆情的指标数据,得到热度的时间序列值;划分舆情热度趋势的状态空间;构建状态转移矩阵;预测热度的趋势变化区间。实验表明,该方法能有效地预测企业网络舆情的走势,进而为企业进行网络舆情管理和网络危机公关活动,以及管理效果评估提供理论依据。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[133-137]]></PageScope>
+<Publisher><![CDATA[情报杂志]]></Publisher>
+<Code><![CDATA[1002-1965]]></Code>
+</Bibliography>
+</Bibliographies>

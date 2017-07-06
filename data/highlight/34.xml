@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<publication marker= "yu miao">
+    <journal>International Journal of Information Management</journal>
+    <time>Volume 36, Issue 2, April 2016, Pages 183-191</time>
+    <title><h target="1" match="part">Conceptualizing a model for adoption of cloud computing in education</h></title>
+    <author>Humphrey M. Sabi</author>. Author links open the author workspace.Opens the author workspaceOpens the author workspacea. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace
+    <author>Faith-Michael E. Uzoka</author>. Author links open the author workspace.b. Numbers and letters correspond to the affiliation list. Click to expose these in author workspaceKehbuma Langmia. Author links open the author workspace.c. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace
+    <author>Felix N. Njeh</author>. Author links open the author workspace.d. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace
+a
+Department of Information Systems, The ICT University, Baton-Rouge, LA 70879, USA
+b
+Department of Mathematics and Computing, Mount Royal University, Calgary, Canada
+c
+Department of Strategic, Legal and Management Communications, Howard University, Washington DC, USA
+d
+Department of Computer Science, Bowie State University, MD, USA
+Show more
+    <doi>https://doi.org/10.1016/j.ijinfomgt.2015.11.010</doi>Get rights and content
+Highlights
+•
+    <highlight id="1">We developed a model for cloud computing adopting in education.</highlight>
+•
+    <highlight id="2">Triangulation of two popular adoption theories used as theoretical basis.</highlight>
+•
+    <highlight id="3">We contextualized the adoption process for developing countries.</highlight>
+•
+    <highlight id="4">Socio-cultural factors were found to be crucial for sub-Saharan Africa.</highlight>
+•
+    <highlight id="5">Results demonstrability not supported as critical factor for adoption model.</highlight>
+
+Abstract
+    <abstract>  <![CDATA[Cloud computing is a pervasive computing paradigm that has revolutionized how computer infrastructure and services are delivered. Current research trends on cloud computing have been focused on the technology, applications, costs, benefits, and security of cloud computing at the organizational level within small and medium sized enterprises. Little research attention has been paid on adoption and usage of cloud computing at educational establishments and how contextual factors can influence diffusion and adoption of cloud computing. Universities in developing countries are faced with challenging socio-economic and political constraints that limit their ability to invest in expensive information systems to compete on the global stage. ]]><h target="1" match="part">Using constructs from the diffusion of innovation theory and the technology acceptance model, this paper proposes a model that takes account of contextual, economic, and technological influences in the perception and adoption of cloud computing at universities in sub-Saharan Africa. </h><![CDATA[Results from a pilot study, based on the model, through a survey of university lecturers and IS experts shows reliability and validity of the instrument and supports its usage for a more extensive study. Implications, potential contributions to research, and suggestions for future study are discussed.]]>
+    </abstract>
+    
+
+Keywords
+    <keywords>Cloud computing</keywords>
+    <keywords>Educational technologies</keywords>
+    <keywords>Technology adoption</keywords>
+    <keywords>Diffusion of innovation</keywords>
+    <keywords>Sub-Sahara Africa</keywords>
+    <keywords>Developing countries</keywords>
+    <section name="Introduction" category="introduction">
+        <![CDATA[
+1. Introduction
+Cloud computing has been propounded as a paradigm shift in the delivery of information technology (IT) resources and services. It has been dubbed by proponents of the technology as the fifth utility after water, electricity, gas, and telephone utilities (Monroy, Arias, & Guerrero, 2013). Cloud computing has changed the fundamental building blocks of computing and how this is being used in businesses, organizations, and individual operations. The IDC predicts that public cloud computing will become a $127 billion dollar industry by 2018 and that by 2020, it will cease to be called cloud computing altogether and will simply be the standard way of provisioning IT resources and services as well as doing business and personal computing (IDC, 2014).
+A unified and standard definition of cloud computing is provided by the National Institute of Standards and Technology (NIST) in the USA, which defines cloud computing as a model for enabling ubiquitous, convenient, on-demand network access to a shared pool of configurable computing resources (e.g., networks, servers, storage, applications, and services) that can be rapidly provisioned and released with minimal management effort or service provider interaction (Mell & Grance, 2011). A more commonly used technical definition describes cloud computing as clusters of distributed computers (largely vast data centers and server farms), which provide on-demand resources and services over a networked medium (usually the Internet) (Sultan, 2010). Cloud computing providers allow users to dynamically scale up or scale down their use of the services based on their requirements using a metering capability to charge subscribers for actual usage only (Mell & Grance, 2011). Cloud computing opens up a new way by which businesses around the world can harness the power of the cloud infrastructure to benefit from high performing IT systems without initial capital expenditures (CAPEX). This possibilities offered by cloud computing has opened up a new way of provisioning IT systems that can allow universities, firms, and governments in developing countries to have access to the same advanced and powerful computer systems that are currently only available to large corporations and universities in developed countries, thereby leapfrogging the technological divide. The cloud computing model is based on the idea of outsourcing corporate IT infrastructure to third party data centers with a shared pool of computing infrastructure, storage, and networking resources with services becoming accessible rapidly and on demand over the Internet. The forecasted benefits include elastic and dynamic resource provisioning, simpler and automated administration of IT infrastructures, and sharing of nearly unlimited CPU, bandwidth, and storage space. This is made possible through resource virtualization, with scalability improvements and massive cost reductions in terms of infrastructure management.
+Developing countries have often been left behind in the technology diffusion, adoption, and implementation drive due to various bottlenecks. These impeding factors to technology adoption include infrastructure, knowledge, cost, government policies, education, user resistance, and security concerns (Kshetri, 2010a; Svantesson & Clarke, 2010). The disparity in economic growth between developed and developing countries is largely due to the level of technological advancement between the two with access to appropriate technology by firms in developing countries proving particularly problematic (Moodley, 2003). The developing world's cloud computing sector is beginning to receive considerable attention from global and local IT players, national governments, and international agencies with cloud provisioning companies like IBM establishing cloud computing centers in many developing countries such as China, India, Vietnam, Brazil, South Africa, and South Korea. Other global cloud providers such as Microsoft, Amazon, VMware, Salesforce, Dell, and Parallels are actively searching for opportunities and implementing cloud computing centers in the developing world (Kshetri, 2010a). The rise in cloud computing adoption will open up a whole new future for developing countries, which can benefit from the lower upfront cost and the elasticity of cloud computing services. Kshetri (2010b) further asserts that the developing economies can catch up with the West as cloud computing allows them to have access to the same IT infrastructure, data centers, and applications due to their ubiquitous nature.
+The cost of acquiring, implementing, and maintaining a robust and reliable IT infrastructure is very high and has led many universities in developing countries to lag behind in technological advancements in ICT infrastructure compared to those used by universities in developed countries. This cost impediment can be substantially reduced through the adoption and usage of cloud computing by universities in developing countries, which can, in turn, bring them up to the same competitive stature as their counterparts in western developed economies. Meanwhile, universities in western developed countries have been forced by the recent economic downturn to adopt cloud computing to cut their costs due to the reduced budgets available to them from their respective governments (Sultan, 2010). Despite the possibilities offered through cloud computing such as low initial capital investments and elasticity through which computing resources can be dynamically allocated and de-allocated according to the needs of the users, there is still a very slow pace by universities in developing countries toward adopting this technology, which can offer them greater research, collaboration, and teaching capabilities by leveraging the power of high performing IT infrastructures offered through cloud computing. A review of the recent academic literature on cloud computing adoption in developing countries has revealed a gap in the research regarding factors that influence university decision makers and ICT experts to adopt and use cloud computing. There is little research about the diffusion and adoption of cloud computing in higher educational establishments in developing countries especially in sub-Saharan Africa. Furthermore, there is a gap in assessing the impact of contextual, economic, and technological factors on the adoption of cloud computing at universities both in developed and developing countries.
+]]><h target="1" match="part">This paper proposes an adoption model for cloud computing at universities that will be used in an attempt to answer the following research questions: </h><![CDATA[(1) What contextual factors influence the adoption and usage of cloud computing? (2) How can existing technology adoption theories be used to model cloud computing adoption? (3) What effects do organizational characteristics have on adoption and usage of cloud computing? The model developed will help to address these questions by looking at the relationships between technology adoption drivers and the propensity to adopt and use new technology such as cloud computing. The impact of contextual factors together with constructs from the two main technology adoption models along with moderating factors from organizational characteristics will provide a first step towards filling the gap on what factors can influence cloud computing adoption at universities. The proposed model will be more fully validated through a more extensive data collection process across universities in several countries in the sub-Sahara African region, which builds on the pilot study reported here. The findings will potentially contribute to research and practice by elucidating the crucial factors that will impact cloud computing adoption at universities especially in developing countries.]]>
+</section>
+
+
+    <section name="Theoretical and conceptual background" category="background">
+        <![CDATA[
+2. Theoretical and conceptual background
+The last part of the 20th century saw a slow pace of adoption of innovation in developing countries compared to the spread of innovation in western industrialized countries. However, the emergence and portability of information systems has led to an accelerated rate of innovation diffusion to developing countries with the potential of supporting development strategies that can help in bridging the digital divide between developed and developing countries (Steinmueller, 2001). However, Steinmueller (2001) also asserted that achieving the benefits of leapfrogging by implementing technology transfer strategies is not straightforward as it sounds due to various challenges. These challenges include: adaptation of thbe technology to local needs, costs, skills required for effective operation; and limitations due to local market dynamics. Limited knowledge and expertise related to imported information systems also leads to failed implementations; thus, preventing developing countries from benefiting from the technologies (Moens, Broerse, Gast, & Bunders, 2010). Even though ICT innovation places a lot of emphasis on the socioeconomic context, there are significant epistemological differences regarding the process used for such innovation adoption (Avgerou, 2010). Innovation diffusion must be backed by institutional willingness and support to ensure successful adoption.
+Technology adoption helps to drive economic growth and sustainable development within communities. However, the rate of adoption varies across various social and cultural boundaries, which are often neglected during the diffusion process. The multidimensional nature of technology adoption and innovation diffusion entails a difference in the rate of technology adoption, which cannot only be attributed to economic and technological factors but also to socio-cultural factors (Guan & Liao, 2014). Innovation diffusion and adoption must take into consideration existing social and cultural conditions of the adopters, which can impact the eventual success or failure of the technology adoption process (Herbig & Dunphy, 1998). The socio-cultural and economic conditions for adopters of cloud computing in developed countries will be vastly different from those of adopters in developing countries.
+Educational establishments around the world have seen their budgetary allocations cut due to the prevailing global economic downturn. This has led to many university administrators looking at cost cutting measures to remain competitive within their industry (Sultan, 2010). Cloud computing and its flexible operational model has emerged as a real alternative to the cost-cutting measures required by educational establishments without impacting their performance and efficiency. Moreover cash-strapped educational establishments and new institutions that are still being setup will find the benefits of scalability and the pay-as-you-go cost structure in the cloud computing model more appealing (Sultan, 2010). In addition to cutting the cost of ICT implementation and support, educational establishments are also attracted to the ubiquitous nature of the cloud computing model, which can allow for easy collaboration between faculty and students anywhere and at any time compared to the current campus-only access model that exists in many establishments.
+Universities play a crucial role in the development of knowledge societies and are leaders in technology development and adoption in nations across the world. However, the university also forms a microcosm of society representing all the social and cultural diversities inherent within such societies. Studying the socio-cultural factors that impact cloud computing adoption within the university system can therefore be representative of the wider society within which the university is located.
+
+Many theories like Diffusion of Innovation (DOI) (Rogers, 2003) and Technology Acceptance Model (TAM) (Davis, 1989) have been used to explain user behavioral patterns towards the adoption of innovation in various disciplines including information systems. DOI sees innovation as being communicated through certain communication channels over time and within a particular social system. However, despite this theory focusing on issues of innovativeness, it does not look at the behavioral aspects that affect individual willingness to adopt any innovation, hence the need to triangulate with another theory. Although theories such as the Theory of Reasoned Action (TRA) (Fishbein & Ajzen, 1975), Theory of Planned Behaviour (TPB) (Ajzen, 1991) and TAM are all intention-based theories derived from social psychology, TAM was specifically adapted from TRA to apply to the information system field. TAM posits that perceived usefulness and perceived ease of use determines an individual’s intention to use a system. Davis (1989) defines perceived usefulness as the degree to which a person using a particular system would enhance his or her performance. Even if the usage of a system can improve performance, it is also important to evaluate the effort it will take to use such a system. Hence perceived ease of use, which is defined as the degree to which a person believes that using a particular system would be free of effort, is as important as perceived usefulness in the decision to use a system (Davis 1989; Davis, Bagozzi & Warshaw, 1989; Venkatesh & Davis, 1996). Using TAM on its own was considered insufficient for modelling cloud computing adoption because it does not address some of the features of modern technology diffusion and acceptance since the theory was initially proposed 30 years ago (1985) and technology has undergone multiple revolutions to date.
+We will use DOI as the main theoretical framework underpinning our model development. The reason for choosing DOI to investigate the diffusion and adoption of cloud computing is because of the novelty of cloud computing, which is still at the early stages of diffusion in developing countries. Our model will integrate the constructs of DOI with constructs from TAM to investigate the propensity of expert users and decision makers at universities to recommend the adoption of cloud computing based on its perceived usefulness and ease of use. Our proposed model will also investigate the mediation effect of the construct of TAM on DOI characteristics in the diffusion and adoption of cloud computing at universities in developing countries. Little research has been done by modelling and integrating constructs from TAM and DOI theories to explain organizational adoption and usage of new technology such as cloud computing in developing countries. ]]><h target="2" match="part">Triangulation of the two theories together with the modelling of influences of contextual and economic factors provides a new perspective and offers insights into the perception, diffusion, adoption, and usage of cloud computing at universities in developing countries.</h>
+</section>
+
+
+    <section name="Research model and hypotheses" category="research model and hypotheses">
+        <![CDATA[
+3. Research model and hypotheses
+Based on our proposed theoretical framework discussed above and the constructs derived from the chosen theories (DOI and TAM), we propose the following conceptual model that will guide our research model development as shown in Fig. 1. The model maps the relationships between the independent variables impacting the diffusion and adoption of cloud computing technology and the dependent variables “intent to adopt cloud computing” and “actual usage of cloud computing”. Though the model has actual usage of cloud computing as a dependent variable, this will be assessed directly only for universities where cloud computing is already being used. Meanwhile usage intentions as hypothesized in TAM and empirically confirmed in other studies using TAM (Davis et al., 1989) will serve as predictors for actual usage of cloud computing for universities where cloud computing is not being used. Using only constructs from DOI and TAM was deemed insufficient for addressing the issues prevalent with technology adoption especially cloud computing in developing countries. Our model therefore proposes additional contextual, economic, and technology specific factors that can influence cloud computing diffusion and adoption.
+Proposed cloud computing adoption model
+Download full-size image
+Fig. 1. Proposed cloud computing adoption model.
+Usage intentions as hypothesized in TAM and empirically confirmed in other studies using TAM (Davis et al., 1989) will serve as predictors for actual usage of cloud computing for universities where cloud computing is not being used. Since we intend to collect data contemporaneously, actual usage of cloud computing will be based on prior usage patterns, beliefs and attitudes as well as the behavioral intention to use or continue using cloud computing. Behavioral intentions to use cloud computing will be measured contemporaneously with beliefs and attitudes towards the new technology (Agarwal & Prasad, 1999). Previous studies have also suggested that behavioral intentions to use a system provide reasonable indicators of future actual system usage (Jackson, Chow & Leitch, 1997).
+One central tenet of TAM is that beliefs mediate the influence of all other factors in the acceptance and usage of new information systems (Agarwal & Prasad, 1999). Our conceptual model proposes the use of variables from the usability characteristics derived from TAM as mediating factors for DOI characteristics in the diffusion and acceptance of cloud computing. As shown in the proposed model in Fig. 1, the ease of use construct from TAM will mediate the complexity characteristic from DOI, while the usefulness construct from TAM will mediate the relative advantage characteristic from DOI. Also contextual factors such as socio-cultural beliefs and infrastructure might also mediate the diffusion of cloud computing and have been modelled as a mediating variable for the innovation characteristics variables. We believe that infrastructural factors will mediate compatibility and trialability of cloud computing, while socio-cultural factors will mediate observability and results demonstrability of cloud computing technology.
+Economic factors such as cost are expected to be moderated by the size of the organization such that larger organizations will more easily afford the cost of cloud computing than smaller organizations. It has been argued (Frambach & Schillewaert, 2002) that larger organizations feel a greater need to adopt innovation to support and improve their performance and effectiveness but the decision to adopt an innovation can take longer. Meanwhile another school of thought argues that smaller organizations are more innovative due to their flexibility and innovativeness, which allows them to make decisions on new technologies quicker (Frambach & Schillewaert, 2002). These contrasting positions of the impact of organizational size indicate that other organizational variables such as structure, strategy, and culture influence innovation adoption. A meta-analysis of factors that impact IT adoption in organizations revealed weak support for organizational size as a factor in the adoption process (Hameed, Counsell & Swift, 2012). However, we believe that size may have a moderating effect on other technology adoption factors such as cost. Other technological attributes of cloud computing such as data security and risks associated with the adoption and usage of cloud computing are expected to directly impact the diffusion of the technology.
+Demographic factors such as age, gender, experience, and voluntariness of use have been shown as moderating factors that impact individual behavioral intentions to adopt and use new technology (Venkatesh et al., 2003). In the validation of the unified theory of acceptance and use of technology (UTAUT), Venkatesh et al. (2003) showed that 70% of the variance in usage intention to adopt new technology can be explained by constructs derived from eight IS usage models including DOI and TAM; and that these derived constructs are moderated by age, gender, experience, and voluntariness of use. Though his research was based on usage adoption by individuals, we also posit that organizational demographic characteristics such as age, size, and location will moderate the impact of innovation characteristics, economic factors, and technological factors in the adoption of cloud computing technology.
+The age of individuals has been shown to impact the adoption of new technology within organizations with younger people being more pro-innovation than older people whose innovation decisions are strongly influenced by subjective norms and perceived behavioral control (Morris & Venkatesh, 2000). Hence the age of the individuals within the organization’s decision making unit (DMU) that selects new technology for adoption will impact the eventual decision to adopt the innovation. The age of the organization may also moderate the adoption of new technology such as cloud computing as we posit that older organizations will already have legacy systems being used and a decision to decommission and replace them with cloud computing might impede or delay adoption. Meanwhile younger organizations, which have not invested in legacy systems, might find it much easier to adopt and implement new technologies such as cloud computing. Therefore, the age of individual stakeholders and decision makers who are responsible for the selection and adoption of new technology within the organization and the organization's age will moderate factors such as compatibility and infrastructure in the adoption of new technology. Even though the model is based on organizational innovation adoption, these individuals within the organization will be sampled for the research study and their opinions will determine organizational willingness to adopt cloud computing.
+The location of an organization relative to other similar organizations, cloud computing service providers, and their geographical location can moderate the adoption of new technology. Location affects the demographics of the organization such that organizations located in commercial centers and cities typically have a management team with more diverse age, gender, education, and experience, which ultimately impact ICT adoption compared to organizations located in rural and less affluent areas (Awa, Emecheta & Ukoha, 2014). Location of organizations closer to another similar organization operating within the same business lines can also influence technology adoption through competitiveness and/or observability of the impact of the new technology in the other organization in order to make informed adoption decisions. Though the location of the cloud computing provider is irrelevant to the service delivered and performance of cloud computing, proximity to such providers can influence diffusion and adoption decisions by potential adopters of cloud computing. Location can also impact the availability of facilitating conditions such as accessibility to a qualified workforce, fast Internet connectivity, and stable electricity supply, which, in turn, moderate adoption decisions of new technologies (Pavon & Brown, 2010).
+The proposed model will attempt to address the direct impact of variables from innovation diffusion characteristics, usability characteristics, economic factors, technological factors, and contextual factors on the diffusion of cloud computing at universities in sub-Saharan Africa. The model will also help us to examine how variables from TAM and contextual factors can mediate the diffusion of an innovation such as cloud computing as well as examining the moderating effects of organizational demographics on diffusion and adoption variables.
+
+Using the positivist deterministic research paradigm, we advance the following hypotheses, which are a priori assumptions that will be statistically tested in the data analysis of a comprehensive study to validate the proposed model and help us answer the research questions outlined above. The hypotheses address the relationship between the independent variables encompassing the perceived attributes of cloud computing, diffusion of innovation theory and technology acceptance model with the dependent variables “intent to adopt cloud computing” and “actual usage of cloud computing”.
+
+Information about cloud computing technology and its usage will serve as the primary point for a discussion about its adoption. This initial stage of awareness of a new technology, which is also the first stage in the process of technology adoption (Rogers, 2003), can influence user perceptions and adoption intentions. Some of the technological issues that have dominated concerns about adoption of cloud computing are data security and risks. Internet security vulnerabilities have always been a concern to users over the years in areas such as e-commerce and most recently Internet banking (Liebermann & Stashevsky, 2002; Lee, 2009). Since cloud computing technology is based on Internet technologies, the same security concerns have been impeding its adoption. However, cost-effectiveness and advanced security algorithms used in cloud computing have been identified as key distinguishing characteristics of cloud computing (Saya, Pee, & Kankanhalli, 2010) that can influence its adoption. We, therefore, hypothesize that:
+H1
+
+Awareness is positively correlated with the intent to adopt cloud computing
+
+H2
+
+Cost effectiveness is positively correlated with the intent to adopt and use cloud computing
+
+H3
+
+Risk is negatively correlated with the intent to adopt and use cloud computing
+
+H4
+
+Data security is negatively correlated with the intent to adopt and use cloud computing
+
+
+National infrastructure, which encompasses stable electricity supply, good telecommunication networks, and high speed internet networks, plays a crucial role in the process of innovation diffusion especially if such innovations are dependent on the infrastructure to operate adequately. Sub-Sahara African countries have some of the poorest infrastructures in the world and have been faced with endemic problems of unstable telecommunications and electricity infrastructures in the past (Aker & Mbiti, 2010; Mbarika, 2002). The fifth hypothesis (H5) theorises that availability of stable national infrastructure required to enable smooth usage of cloud computing will impact the adoption of cloud computing innovation.
+H5
+
+Availability of good ICT infrastructure is positively correlated with the intent to adopt and use cloud computing
+
+
+The innovation characteristics of a new technology have been shown to exert an influence on potential adopters of the innovation. Diffusion of innovation studies have underscored the importance of relative advantage, compatibility, complexity, observability, trialability and results demonstrability in determining the propensity of organizations to adopt new technology (Moore & Benbasat, 1991; Rogers, 2003). We therefore hypothesize that:
+H6
+
+Relative advantage is positively correlated with the intent to adopt cloud computing.
+
+H7
+
+Compatibility is positively correlated with the intent to adopt cloud computing.
+
+H8
+
+Complexity is negatively correlated with the intent to adopt cloud computing.
+
+H9
+
+Observability is positively correlated with the intent to adopt cloud computing.
+
+H10
+
+Trialability is positively correlated with the intent to adopt cloud computing.
+
+H11
+
+]]><h target="5" match="part">Results demonstrable is positively correlated with the intent to adopt cloud computing.</h><![CDATA[
+
+
+Individual adoption and usage of new technology has been shown to be largely driven by behavioral intentions, which are influenced by the ease of use and usefulness of the new technology in the performance of their tasks (Davis, 1989). The decision to adopt and use new technology in an organization will be determined by individual decision makers and IT experts (DMU) whose behavioral intentions towards the innovation will influence their recommendations whether to adopt the innovation or not. We therefore hypothesize that:
+H12
+
+Ease of use is positively correlated with the intent to adopt and use cloud computing.
+
+H13
+
+Usefulness is positively correlated with the intent to adopt and use cloud computing.
+
+
+Organizations such as universities constitute a conglomeration of individuals from diverse social and cultural backgrounds. This diversity can lead to differences of opinion in the types and value of technology that can be adopted at the university. The necessity of any new innovation has to be tailored towards users’ wishes taking into consideration their religious, cultural, traditional, and other beliefs (Alsaif, 2013). ]]><h target="4" match="part">These socio-cultural beliefs and influences can serve as a determining factor in innovation adoption especially in culturally cohesive communities; a common attribute of most developing country communities. The fourteenth hypothesis (H14) theorises that socio-cultural factors such as beliefs, customs, trust in the innovation, and governmental regulations will impact the decision to adopt cloud computing at the university.</h><![CDATA[
+H14
+
+Socio-cultural factors are negatively correlated with the intent to adopt cloud computing.
+
+
+Adoption of innovations at the organizational level requires that individuals within the organization should also accept the innovation (intra-organizational acceptance) (Frambach & Schillewaert, 2002). However, there are key determinants at the organizational level that will influence adoption of new technology. The perceived innovation characteristics of the DMU and organizational characteristics such as age, size, location, structure, and organizational innovativeness can influence adoption decisions (Frambach & Schillewaert, 2002). The fifteenth hypothesis (H15) theorises that organizational characteristics such as age, size, and location will moderate the decision by IT experts and decision makers to adopt cloud computing at the university.
+H15a
+
+Age of the university will moderate the intent to adopt cloud computing.
+
+H15b
+
+The size of the university will moderate the intent to adopt cloud computing.
+
+H15c
+
+The location of the university will moderate the intent to adopt cloud computing.]]>
+</section>
+
+
+
+    <section name="Methodology" category="methods">
+        <![CDATA[
+4. Methodology
+A positivist research approach, which focuses on quantitative data, has been chosen for this study because it will allow us to efficiently measure the responses of a large sample across many countries in sub-Saharan Africa in a cost-effective and timely manner (Creswell, 2009). Use of quantitative data is rooted in the positivist/postpositivist world view of determinism, where causes determine effects or outcomes (Creswell, 2013). We will use this approach in this study to validate the relationships in our model between the independent variables about cloud computing innovation perception, diffusion, and adoption; and the dependent variables of intent to adopt and intent to use cloud computing. Creswell (2013) posited that an explanation of the relationship between variables can only be studied in a non-experimental correlation research design using quantitative data.
+Preliminary data for assessing the proposed model was collected through a survey. A survey instrument was designed based on literature from previous studies on diffusion of innovation theory (Rogers, 2003; Moore & Benbasat, 1991), technology acceptance model (Davis, 1989), and adoption of ICTs and e-commerce in developing countries (Okoli & Mbarika, 2003). Conceptual definitions were used to develop questionnaire measures for constructs in the model that did not have suitable measures from the extant literature. The instrument was divided into two sections: Section 1 focused on participant and university demographics, while Section 2 covered the main study measures regarding cloud computing awareness, diffusion, and adoption. Section 2 was further divided into sub-sections with each sub-section focusing on questions pertaining to the various components in our proposed research model and the ensuing hypotheses that were based on the theoretical and proposed conceptual models. Separating the survey instrument into these distinct constituents allows for a clear understanding of why the questions are being asked and their contribution in eliciting answers and validating relationships that will determine the validity and reliability of the proposed model to answer our research questions. The intention to adopt and use cloud computing was empirically measured in Section 2 of the instrument using a five-point Likert type scale (range 1 = strongly disagree to 5 = strongly agree).
+Descriptive statistics will be used in the full study to analyze data from the profile/demographic section of the instrument; however, for this pilot study, which was focused on developing and validating the model and instrument, this data was not included in the analysis. Instrument reliability was analysed using Cronbach’s Alpha and composite reliability tests as well as Pearson Correlation analysis using the SPSS statistical tool. Furthermore, to validate the measurement and structural components of our model, the pilot data was subjected to structural equation modelling (SEM) using SmartPLS. The results from this preliminary analysis were used to validate the indicator weights and loadings for all items used in our instrument and path coefficients between the exogenous (independent) and endogenous (dependent) variables. The instrument validity was further assessed through convergent and discriminant validity tests.]]>
+</section>
+
+
+    <section name="Preliminary study results" category="results">
+        <![CDATA[
+5. Preliminary study results
+In an attempt to validate the survey instrument designed above for the data collection, a pilot survey was carried out among academics from some of the countries that will be covered by our study. This pilot survey was administered both online and through paper methods to delegates attending the ICT for Africa conference in Yaounde, Cameroon. Out of 30 people that were sent email invitations to fill the online survey, 19 completed and submitted the survey, giving a response rate of 63.3%. Out of the 5 people who were given the survey questionnaire at the conference, only 1 person successfully filled and returned the questionnaire at the end of the conference, giving a response rate of 20%. This shows that physical surveys will require more time and effort for the respondents to fill them out and return to the researcher. The advantage of the online survey was that the respondents were able to fill them at their own convenience. The researcher, however, did send out two email reminders to get the response rate indicated above. Our pilot study reliability statistic is therefore based on 20 completed questionnaires (N = 20).
+5.1. Survey instrument validity and reliability
+There is a need to validate the survey instrument to ensure that the contents of the questions are clear and free of ambiguity. The intention of a pilot study is to get multiple insights from various experts in the field to ensure that the study is feasible, test the data collection procedures to be used, and consider how the data will be analysed and interpreted (Cooper & Schindler, 2008). The survey instrument for this study was validated by 5 academics prior to the pilot study, who provided suggestions for changes in the structure of some of the questions as well as removal of ambiguity. Following the modifications suggested by the experts and the respondents to the online survey, the content validity of the instrument was established. It is also worthwhile noting that most of the questions used for the instrument were adapted from previous studies on diffusion of innovation theory, technology acceptance model, and ICT adoption in developing countries, where the validity and reliability of the items had also been established (Moore & Benbasat, 1991; Davis, 1985; Okoli & Mbarika, 2003).
+To determine the reliability of our instrument and ensure that the questions used for each construct were measuring the attributes of the construct, we used Cronbach’s Alpha reliability test statistics. Cronbach Alpha is a generally agreed statistical measurement used for determining the internal reliability of a survey instrument to ensure outputs from the measurements are consistent in producing similar results at different times (Coolican, 2014, p.151). We used the Statistical Package for the Social Sciences (SPSS) to analyze the responses from our pilot study.
+Table 1 shows the Cronbach Alpha values for each construct and the inter-item correlation values after items suggested for deletion by the SPSS statistical tool to improve the Cronbach Alpha values were deleted. Briggs and Cheek (1986) suggested that the mean inter-item correlation for a measurement scale provides information about the dimensionality of the scale. They further stated that the mean inter-item correlation differs from a reliability estimate because it is not influenced by scale length and therefore gives a clearer measure of item homogeneity. A mean inter-item correlation of less than 0.3 indicates that an item is not strongly correlated with others in measuring the same construct (Kaiser, 1958), while inter-item correlations greater than 0.9 indicate problems with multicollinearity (Tabachnick & Fidell, 2001). Meanwhile a Cronbach Alpha value of 0.7 or above indicates good internal consistency of items in the scale (Gliem & Gliem, 2003). According to George and Mallery (2003), a Cronbach Alpha value greater than 0.9 is excellent, greater than 0.8 is good, greater than 0.7 acceptable, greater than 0.6 questionable, greater than 0.5 poor and less than 0.5 is unacceptable (p. 231, cited in Gliem & Gliem, 2003). Some of the inter-item correlations were lower than the recommended value of 0.3 hence the implications of removing them from the instrument were assessed. Two items were identified for removal due to low correlations with the other items in the measurement of complexity and results demonstrable constructs. Since the resultant Cronbach’s Alpha values will be higher when the items are deleted, we proceeded to delete these items and run the reliability statistics again in SPSS to get the higher Cronbach Alpha values and improve the reliability of our model instrument (Table 1).
+Table 1. Reliability statistics.
+Construct	No. items	Min inter-item correlation	Max inter-item correlation	Cronbach’s alpha
+Awareness (CCA)	3	0.705	0.962	0.924
+Costs (CCC)	3	0.824	0.931	0.953
+Risks & security (CCRS)	4	0.432	0.766	0.829
+Relative advantage (CCRA)	4	0.853	0.937	0.975
+Compatibility (CCCP)	3	0.740	0.924	0.938
+Complexity (CCCX)	4	0.229	0.822	0.863
+Observability (CCO)	3	0.374	0.703	0.770
+Trialability (CCT)	4	0.306	0.730	0.806
+Results demonstrable (CCRD)	4	0.195	0.806	0.801
+Ease of use (CCEU)	4	0.472	0.748	0.857
+Usefulness (CCPU)	4	0.316	0.768	0.760
+National infrastructure (CCNI)	3	0.756	0.906	0.933
+ICT infrastructure (CCII)	3	0.629	0.849	0.879
+Intention to adopt and use (CCIAU)	4	0.734	0.848	0.940
+
+All items	48		0.931
+We used Partial Least Squares (PLS) analysis to assess the validity of the proposed model. Use of PLS is especially encouraged during the design and exploratory stage of model development where the measures and relationships being proposed are new or have not been properly tested in previous studies (Ainuddin, Beamish, Hulland, & Rouse, 2007; Henseler, Ringle, & Sinkovics, 2009). The PLS SEM analysis of the measurement model using SmartPLS analysis tool resulted in an R-squared value of 0.88. This indicates that about 88% of the variance in user intention to adopt and use cloud computing at universities can be explained by the constructs in our model.
+For our model and instrument to produce valid and reliable results in the final study, it is important to establish the convergent and discriminant validity as well as the reliability of our model and instrument. This can then allow us to confidently test the causal (structural) model to validate if our hypotheses are supported or not. Reliability can be established by the measure of composite reliability (CR), while convergent validity can be established through a measure of the average variance extracted (AVE). The threshold for reliability is CR > 0.7 and for convergent validity is AVE > 0.5 (Hair, Black, Babin, & Anderson, 2010).
+Table 2 shows the CR and AVE values obtained from the preliminary SEM analysis. The values in the table indicate that the AVE and CR values for CCRD (Results demonstrable) construct fall below the required threshold for reliability and composite validity test. This construct will therefore be considered for removal from the model or items used to measure it checked for clarity before the full study survey is executed. Discriminant validity was assessed by comparing the square root of AVE value for each construct with the construct’s correlations (Gefen & Straub, 2005). Table 3 shows the correlations and square root of AVE for the constructs used in our model. The square root of the AVE for each construct (shown in bold on the leading diagonal) is greater than all the construct's correlations hence indicating adequate discriminant validity (Fornell & Larcker, 1981).
+Table 2. Construct AVE and composite reliability (CR).
+AVE	CR
+Awareness (CCA)	0.847	0.943
+Cost (CCC)	0.913	0.969
+Risk (CCRS)	0.631	0.871
+Relative advantage (CCRA)	0.928	0.981
+Compatibility (CCCP)	0.890	0.960
+Complexity (CCCX)	0.528	0.794
+Observability (CCO)	0.520	0.749
+Trialability (CCT)	0.601	0.852
+Results demonstrable (CCRD)	0.288	0.553
+Ease of use (CCEU)	0.666	0.888
+Usefulness (CCPU)	0.595	0.851
+National infrastructure (CCNI)	0.881	0.957
+ICT infrastructure (CCII)	0.784	0.916
+Intent to adopt & use (CCIAU)	0.848	0.957
+Table 3. Construct correlations and square root of AVE.
+CCA	CCC	CCRS	CCRA	CCCP	CCCX	CCO	CCT	CCRD	CCEU	CCPU	CCNI	CCII	CCIAU
+Awareness (CCA)	0.920													
+Costs (CCC)	0.420	0.956												
+Risks (CCRS)	0.482a	0.707b	0.794											
+Relative advantage (CCRA)	0.495a	0.715b	0.774b	0.963										
+Compatibility (CCCP)	0.424	0.757b	0.702b	0.952b	0.943									
+Complexity (CCCX)	0.341	0.106	0.440	0.106	0.032	0.727								
+Observability (CCO)	−0.170	0.023	−0.068	−0.156	−0.092	−0.126	0.721							
+Trialability (CCT)	−0.109	0.499a	0.506a	0.638b	0.693b	−0.056	0.371	0.775						
+Results demonstrable (CCRD)	0.038	0.470a	0.307	0.474a	0.486a	−0.135	0.037	0.487a	0.537					
+Ease of use (CCEU)	0.121	0.204	0.060	0.052	0.129	−0.306	0.593b	0.241	0.365	0.816				
+Usefulness (CCPU)	−0.061	0.149	.203	0.352	0.435	−0.342	−0.031	0.277	0.418	0.335	0.771			
+National infrastructure (CCNI)	0.171	−0.160	0.274	0.073	−0.020	0.238	0.188	0.181	−0.266	−0.036	−0.278	0.939		
+ICT infrastructure (CCII)	0.156	0.161	0.351	0.166	0.122	0.181	0.029	0.213	−0.164	−0.203	−0.104	0.690b	0.885	
+Intent to adopt and use (CCIAU)	0.071	0.072	0.281	0.550a	0.553a	−0.275	0.141	0.471a	0.165	0.213	0.717b	0.113	0.140	0.921
+Bold values represent square root of AVE while all other values are variable correlations.
+
+
+a
+Correlation is significant at the 0.05 level.
+
+b
+Correlation is significant at the 0.01 level.]]>
+</section>
+
+
+    <section name="Discussion and conclusions" category="conclusion">
+        <![CDATA[
+6. Discussion and conclusions
+The results from the pilot study have provided initial support for the model constructs and instrument in the assessment of cloud computing diffusion and adoption at universities. The reliability of the model constructs was established with all constructs having a Cronbach’s Alpha coefficient greater than the recommended value of 0.7 (Nunnally & Bernstein, 1993). The convergent and discriminant validity of all but one construct was established through the AVE and CR statistics. The AVE and CR values for ‘results demonstrable’ construct were below the recommended threshold and this construct will be suggested for removal from the final model for the full study. Following the comments and suggestions received from academic experts and respondents to the pilot questionnaire as well as the analysis shown above, a final instrument has been designed for the proposed full-scale study. ]]><h target="4" match="part">A new construct was added to the proposed model and questionnaire to address socio-cultural factors that can impact adoption and usage of cloud computing. </h><![CDATA[Previous studies on technology adoption have underscored the importance of contextual and socio-cultural factors especially in Africa (Okoli & Mbarika, 2003; Uzoka, Akinnuwesi, Olabiyisi, & Demilade, 2012). Adding socio-cultural factors in the investigation of cloud computing adoption will therefore provide a more encompassing and relevant assessment of the willingness of universities to adopt cloud computing based on their context.
+The model and instrument development was a first step in our endeavour to investigate the factors impacting diffusion and adoption of cloud computing in developing countries. We intend to use the validated instrument from the pilot study to survey a larger sample of IT experts and decision makers at universities in several countries of the sub-Sahara African region. The effect of each construct in our proposed model on the adoption of cloud computing will be analysed and their significance in the model validated through a test of the proposed hypotheses using SEM. A final model will be produced, which can be used in future technology adoption studies in similar contexts. The model can also be used in future studies on cloud computing adoption in other sectors such as small and medium sized businesses (SMEs) and governmental departments in developing countries.
+
+The results from the full-scale study will potentially contribute to the development of a context-specific model that can be used to investigate cloud computing adoption and other technology diffusion and adoption in developing countries. It will also contribute to the academic literature on cloud computing through empirical evidence from the study results and provide potential adopters of cloud computing a basis for their decision making process. The results from the proposed study will also provide industry practitioners and cloud computing service providers valuable information backed by empirical data that can be used in commissioning and marketing cloud computing projects. Finally, the study will contribute to the ongoing research into best technology adoption models that are relevant for developing country contexts.]]>
+</section>
+
+</publication>

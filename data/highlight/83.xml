@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<publication marker="li ying">
+    <journal>International Journal of Information Management</journal>
+    <time>Volume 36, Issue 4, August 2016, Pages 591-598</time>
+    <title>Web 2.0—The past and the future</title>
+    <author>Russell Newman. </author> Author links open the author workspace.Opens the author workspaceOpens the author workspacea. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace <author>Victor Chang.</author> Author links open the author workspace.Opens the author workspaceb. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace <author>Robert John Walters.</author> Author links open the author workspace.Opens the author workspacea. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace <author>Gary Brian Wills. </author>Author links open the author workspace.Opens the author workspacea. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace
+a
+Electronics and Computer Science, University of Southampton, Southampton, UK
+b
+Xi′an Jiaotong Liverpool University, China
+Show more
+    <doi>https://doi.org/10.1016/j.ijinfomgt.2016.03.010</doi>
+Highlights
+    <highlight id="1">We provide review of Web 2.0 including its past and future perspectives.</highlight>
+    <highlight id="2">We present Web 3.0 with its desired features.</highlight>
+    <highlight id="3">We have inspected the development of Web 2.0/3.0 between year 2005 and 2016.</highlight>
+    <abstract> 
+        <![CDATA[
+Although it has been around for 11 years, it is still not clear where Web 2.0 will lead.]]><h target="1" match="part"> This paper presents a general discussion of past and recent trends that may positively influence the direction of Web 2.0, including cloud computing and other emerging business models.</h> <h target="2" match="part">In order to move forward, Web 3.0 is proposed for the next generation of work that integrates Cloud Computing, Big Data, Internet of Things and security.</h> <![CDATA[We also present criteria and future direction for Web 3.0 to allow all services and people can stay connected with each other.]]></abstract>
+    <keywords>Web 2.0</keywords>
+    <keywords>Web 3.0</keywords>
+    <section name="Introduction" category="introduction">
+        <![CDATA[
+1. Introduction
+Based on our previous work (Chang, Newman, Walters, & Wills, 2016), the main objective of this research is to determine to what extent the ecosystem of modern Web companies represents an economic bubble. To that end, this paper explores the drivers of modern Web companies, their practises and business models, and what that means for the sector as a whole.
+The term “Web 2.0” was defined by Tim O’Reilly in 2005, amongst other definitions, as sites and services that rely upon the generation of content by their users, as opposed to editors or dedicated content creators (O’Reilly, 2005). O’Reilly’s list of acid test characteristics for a Web 2.0 service defines the sector quite well:
+•
+Services, not packaged software, with cost-effective scalability.
+
+•
+Control over unique, hard-to-recreate data sources that get richer as more people use them.
+
+•
+Trusting users as co-developers.
+
+•
+Harnessing collective intelligence.
+
+•
+Leveraging the long tail through customer self-service.
+
+•
+Software above the level of a single device.
+
+•
+Lightweight user interfaces, development models, AND business models.
+
+
+Apart from O’Reilly (2005), Andersen (2007) explains the definition, scope and services for Web 2.0. He focuses on ideas, technologies and implications for education which have adopted by universities to provide students virtual learning environments. Murugesan (2007) presents the overview, content and tools for Web 2.0. Hwang, Dongarra, and Fox (2013) explain that the Internet of Things can be the next generation for the Web. Whilst novel in 2005 and exhibited by just a handful of ground-breaking services, many of these characteristics have become commonplace in most services and software. Such rapid adoption has been possible due to a series of low-cost emergent technologies, which are explored later in this paper. In order to discuss the past and future of Web 2.0. This paper is structured as follows.]]><h target="1" matcg="part"> Section 2 presents the Social Web to review the definitions and past contributions.</h><![CDATA[ection 3 describes Cloud Computing services and its impacts to Web 2.0. Section 4 discusses whether Web 2.0 enters a period of stability and presents examples that can decode the future trends. ]]><h target="2" match="part">Section 5 illustrates the next generation of Web 2.0, the Web 3.0 and discusses the features required to make Web 3.0 functional and successful.</h><![CDATA[ Section 6 concludes this paper with future work.]]></section>
+    <section name="The social Web;Cloud computing services" category=" background">
+        <![CDATA[
+2. The social Web
+Following O’Reilly’s definition, Web 2.0 was later characterised by introducing online “links between people” in addition to the established Web’s links between documents (Murugesan, 2007) that characterised the web up to that point.
+Social Web 2.0 services have flourished by enabling people to connect not only with friends, family and colleagues, but also with events, interest groups, companies, brands and other entities (Rainie & Wellman, 2012). Enabling people to connect with friends and other entities enables them to receive multimedia updates from those connected entities. It also permits people to freely associate with any other entity they wish, perhaps publicly, and build a persona or profile.
+Berners-Lee (2010) argues that social Web 2.0 services tie their users into their product offerings. That is, users are prevented from using their existing data on other social Web 2.0 services with ease, thus creating closed “silos” of users’ social data. This is achieved by ensuring that users’ data on a particular service can only be seen and utilised from that service, and not exported to other services (Berners-Lee, 2010). Users are encouraged to depend upon the service as a means of social interaction, as moving to another service becomes prohibitively difficult.
+This “user tie-in” may also be generated as a side-effect of the level of use of a social service and the breadth of facilities that it offers. For instance, customers are less likely to switch to a competing social service if all their friends and connections are using their current one. Given that a social service cannot operate profitably without users, generating tie-in is an important component of social networks’ business models (Berners-Lee, 2010).
+Berners-Lee made these statements in 2010. In the time since, many social Web 2.0 services have developed methods of interoperating and integrating with other services. These are often manifest in:
+•
+Federated Authentication (Jøsang & Pope, 2005)
+
+The ability to log into Service B using one’s credentials from Service A.
+•
+Cross-service publishing (Muller, 2007; Murugesan, 2007)
+
+Allowing Service B to publish or re-publish some manner of update on Service A, on behalf of the user, with their consent.
+These abilities represent some opening of the silos that were described by Berners-Lee (2010). However, they may also be seen as generating further tie-in. The use of Federated Authentication increases users’ dependency upon the originating service, which serves as their federated identity online (Buyya, Ranjan, & Calheiros, 2010). Cross-service publishing is another means of amplifying the effect of user-generated content, by allowing it to be re-published on multiple services.
+The nature of marketing for both products and services has adapted to capitalise on the network effect of user-generated content. Marketing campaigns now typically direct people to campaign materials on social media sites, whereupon they are asked to post an update to their connected friends regarding the promotion. Such updates appear as a recommendation from a friend, rather than an unsolicited recommendation from the product owner. This encourages people to trust the materials, and pay attention to it.
+
+3. Cloud computing services
+The usage level of many social Web 2.0 services is dependent upon cycles of human activity and real-world events. The peak usage level of a social service, from a given geographic area, may be many times higher than the trough (Stone, 2008).
+This creates problems for enterprises running social web services; the differences in demand between peak and trough traffic can be great, and providing capacity for both in a financially-effective way can be challenging.
+
+In the past, companies requiring high serving capacities often addressed this problem by employing a farm of dedicated storage and computing servers, capable of handling a given level of peak traffic. However, the full capacity would only be used at peak times, resulting in increased costs during normal operating load.
+
+Furthermore, such great investments sometimes fail to perform during the most critical of times; companies have experienced traffic peaks above the designed capacity of their server farm, and have subsequently been unable to serve some or all of their users. A couple of examples exemplify this problem.
+1
+UK 1901 Census Website Launch
+
+
+On 2nd January 2002, data from the 1901 census of England was released online (BBC, 2002a). Demand for the site was high, as it provided a tool that anyone could use to look up information on their ancestors, with ease. News of the launch was also widespread in the media. The first three days of release saw an average of 32 million visitors per day, which was 27 times higher than the designed capacity (BBC, 2002b). Being unable to cope with this peak of demand, the site failed completely, and had to be taken offline. Eight months later, in September 2002, the site had been improved to cope with the higher levels of demand and was undergoing testing. However, the media and public interest in the site had passed, and the site never saw the same levels of popularity (Sfetcu, 2014). Under-provisioning of server capacity effectively condemned this project, at a time when predicting demand and providing capacity was difficult.
+2
+Nectar Loyalty Card Launch
+
+
+When this loyalty card scheme launched in 2002, it was backed by email and TV marketing, with exposure to an estimated 10 million households. Those signing up online were given bonus loyalty points, in an effort to reduce demand on telephone and postal registration systems (BBC, 2002c).
+Despite media coverage of 10,000,000 households, the Nectar website crashed on the first day of service with just 10,000 visitors per hour (BBC, 2002d). The objective of the Nectar Card was to amalgamate individual loyalty schemes for different retailers into a single scheme. An expensive marketing campaign raised public awareness sufficiently. However, the failure of the website meant that Nectar were unable to issue loyalty cards to thousands of people at the most opportune time to do so.
+The problems created by capacity provisioning leaves both Technology/Information and Finance Directors in an embarrassing position, where their investments can be incapable of effectively performing their core business operations at the most opportune time. Thus, traditional server farms represent a large capital expense that must be paid even before a service has begun functioning, and may not be capable of scaling adequately to demand.
+
+Storage and computing capacity can now be automatically purchased from a Cloud service reseller as it is required, providing a cost-effective solution to the problem of usage spikes. Capacity may be allocated almost instantaneously at peak times, and then released when it is no longer needed (Buyya, Yeo, & Venugopal, 2008). Companies are billed according to what they use, usually by the hour (Armbrust et al., 2010).
+Customers using Cloud services are offered the advantages of the server capacity, and spared the tasks of purchasing and maintaining the physical hardware, land, cooling, and power. These tasks are the responsibility of the Cloud service, liberating customers from such overheads and setup costs (Armbrust et al., 2010).
+Some of the most popular Cloud services are run by familiar companies. In addition to their other operations, Amazon, Microsoft, IBM and Google all run competing Cloud service platforms. Some companies, such as Rackspace, perform only Cloud service operations and have no other business offerings. Cloud services remain a growth area, with market revenues growing year-on-year.
+
+For companies operating popular social web services, this removes the overhead of a server farm, converting it into a flexible cost that is adjusted according to the usage of (and therefore the revenue generated by) the product. The Cloud service profits from this arrangement by signing many customers to their computing platform and sharing the capacity between them (Armbrust et al., 2010; Chang, Walters, & Wills, 2013).
+Cloud services have lowered the barriers to entry for web start-ups. Fledgling companies benefit by spending less of their limited capital on costly land, hardware and connectivity. These capital expenses, which are typically large and paid up-front, are converted into monthly payments, scaled according to usage of the product.
+
+Some modern Web companies effectively resell cloud processing or storage capacity, adding value in the methods of use and application they offer to customers. One such example is Dropbox, which resells capacity on the Amazon S3 storage Cloud service, adding value by providing a file synchronisation and sharing service through their software. This is marketed to end-users as a Cloud-based solution to access and share one’s files anywhere. A version of the service with more fine-grained security features is marketed to businesses.
+
+Cloud services may have emerged earlier, were it not for these two enabling factors:
+1
+The commoditisation of virtualisation technology
+
+
+Virtualisation has enabled Cloud services to operate by removing the need for a single physical computer to run just one operating system. One physical computer may now run multiple virtual operating systems simultaneously, allowing customers to transparently share hardware (and all the associated costs). This means that a Cloud computing customer can “start-up” virtualised servers in seconds, boosting their computing capacity according to demand. The provider of virtualisation services must balance the load of virtual servers across physical hardware, in a way that ensures performance, availability and profitability (Foster, Zhao, Raicu, & Lu, 2008).
+2
+A global improvement in bandwidth
+
+
+Cloud services represent a move from websites storing high-volume content on their own servers to a distributed model (hence the “Cloud” name), where high-volume content is stored “in” a Cloud service. The physical location of a Cloud service is largely insignificant, but bandwidth availability is paramount for ensuring that customers have a reliable connection to the service. Such high-volume content often requires high bandwidth. The bandwidth of residential and business Internet connections has improved in many countries, enabling many more people to consume rich internet content. Conversely, this means social Web 2.0 services can make their offering available to a greater number of people in a variety of geographic locations (Telegeography, 2009; Chang, 2015).]]></section>
+    <section name="Is Web 2.0 entering a period of stability? ;Web 3.0" category="results">
+        <![CDATA[
+4. Is Web 2.0 entering a period of stability?
+As of 2009, “powerful players” had emerged in several Web 2.0 service markets according to Tim O’Reilly (O’Reilly & Battelle, 2009). O’Reilly further reinforced this in his keynote to the 2010 Health 2.0 conference (O’Reilly, 2010). This could perhaps mark the end of competition for market dominance in these sectors, and a stage of stable dominance by a few companies.
+The emergence of these powerful players contrasts with previous technology bubbles, which collapsed before powerful players could emerge. For that reason, “stability” is defined here as the outcome of a dominant Web 2.0 company emerging in a particular service sector of Web 2.0.
+
+Following O’Reilly’s acknowledgement of emergent dominant companies, articles appearing in the financial press suggest that stable and dominant Web 2.0 companies are becoming a target of speculative investment by increasing numbers of Investment Banks (IBs) and private investors (Braithwaite, 2011; Das, 2011a, 2011b; Dembosky & Demos, 2011; Gelles, 2011a). Given the demonstrable risks of investing in unstable Internet companies, it is understandable why these investors may be focusing on only the companies emerging as stable and dominant.
+By analysing the same articles, it can be seen that Facebook and Twitter are two of the largest private Web 2.0 companies targeted by IBs (Braithwaite, 2011; Das, 2011a; Dembosky & Demos, 2011; Gelles, 2011a). It can also be seen from these articles that investment proposals by IBs have become more generous over time, in terms of amount invested for the company share received (Braithwaite, 2011; Gelles, 2011a). This is illustrated in Table 1 using Facebook as an example. Also shown is a recent valuation of Facebook, according to public trading. The example from Facebook shows that its valuation has grown from 65.7 billion in July 2012 to $253 billion in July 2015, nearly close to 4 times of its values in three years of time.
+Table 1. Valuations of Facebook, indicative and otherwise.
+Source	Trading	Type	Date	Valuation ($bn)
+Secondary Market (Gelles, 2011b)	Private	Indicative	24/08/2010	33.7
+Goldman Sachs (Braithwaite, 2011)	Private	Indicative	04/01/2011	50.0
+Google Finance	Public	Market Cap.	13/07/2012	65.7
+Google Finance	Public	Market Cap.	12/07/2013	52.9
+Google Finance	Public	Market Cap.	11/07/2014	135.3
+Google Finance	Public	Market Cap.	13/07/2015	253.0
+Facebook is largely supported by advertising revenue and micropayments from social applications, while the majority of Twitter’s finance appears to still be sourced through venture capital (Sharespost, 2011). As explained in Section 2, the desired outcome scenario for a venture capital investor is that the portfolio company becomes public, serving to increase the value of the venture capital investment (Cochrane, 2005). This places Facebook ahead of Twitter in terms of company development, with a negligible dependence upon venture capital support and income from multiple revenue streams.
+Fig. 1 shows the Facebook's share performance between IOPs in May 2012 and March 2016. The lowest price is close to US $20 per share and the highest is close to $120 per share, with about 6 times as the maximum percentage on return on investment. In comparison between July 2012 (around $20 per share) and July 2015 (around $90 per share), the valuation has increased 4.5 times. Although more quantitative results are required to identify the correlation between the share performance and valuation value, the overall valuation confirmed by both share market and market valuation does agree with each other that the net values on Facebook are up. Facebook is a great example to represent the success of Web 2.0, as it has billions of users worldwide, with billions of updates and interactions between users happened on the daily basis. The success behind Facebook's venture is to blend the connectivity, popularity, user community and market valuation altogether.
+Fig. 1
+Download full-size image
+Fig. 1. Facebook's share performance between IOPs and March 2016.
+During the dot-com bubble, many companies offered their products as a loss-leader to incentivise people to use the service, funded by venture capital until a revenue-generation strategy was devised (Chang, Newman et al., 2016). Some Web 2.0 services similarly offer services for free. The following section examines the novel business models that are emerging within the social web, and investigates whether they are more sustainable than those employed by companies in the 2001 dot-com bubble.
+4.1. Emergent business models
+Various business models are in use by Web 2.0 companies. One such model is “Freemium”, a portmanteau of “free” and “premium”. In this model, a base service is offered for free and enhanced services and products (so called “premium” facilities) are offered for a fee. This model is particularly suited to companies that can transform their users’ individual data into a larger dataset that is useful commercially (McGrath, 2010). The Web (and Cloud computing in particular) offers sufficient economies of scale to run a company under this model. LinkedIn is one such example, which allows users to create CV-like profiles for free, but charges for access to the various tools which can assist in recruiting and head-hunting, by analysing users’ underlying CV data (Johnson, 2010).
+Social “marketplaces” are an alternative business model, which enable users to make purchases through the network whilst being able to link people who have made purchases and notifying customers’ connection in the network. This has been demonstrated extensively on Facebook, through the purchasing of competitive advantages in casual games.
+
+4.2. Advertising
+The delivery of advertising online is one of the oldest and most prevalent methods of sustaining an otherwise revenue-less service online (Crain, 2014). Advertising companies run platforms that enable website publishers to dynamically embed adverts on their websites. Publishers are paid for impressions (the displaying of an advert) and/or clicks. Prior to the widespread use of social web services, Advertising Platforms would select adverts for a particular webpage based largely upon the page content.
+The data-centric nature of modern web-based services and the prevalent use of user accounts enables Advertising Platforms to create a detailed profile of their users’ interests, likes, dislikes, habits and other characteristics (Guha, Cheng, & Francis, 2011). This is greatly facilitated by the widespread offering and usage of individual user accounts, so that most traffic on a website can be traced back to a particular user. This has created widespread concern and debate on the meaning of privacy on the web, and how it conflicts with the advertising industry’s business models (Hoofnagle, Urban, & Li, 2012). The growth of smartphone usage, with the associated increase in GPS/location information, has enabled Advertising Platforms to capture even more profiling data, such as users’ geographic locations and regularly frequented places (Dhar & Varshney, 2011).
+Advertising Platforms compete on two main factors:
+•
+Accurate targeting
+
+
+Advertisers typically plan and identify the target market(s) for their products and advertising materials. By profiling users, Advertising Platforms enable advertisers to display their materials to the audience that is most likely to respond to it. Advertisers often prefer to use Advertising Platforms that offer more fine-grained targeting, as this increases the effectiveness of each advertising campaign, and may reduce costs. For instance, the LinkedIn Advertising Platform enables advertisers to target LinkedIn users by profession, seniority, job role, capabilities and interests. This makes it easy to place adverts in front of receptive individuals, and/or those with the authority to purchase the advertised product.
+•
+Prestigious placements
+
+
+Advertising Platforms typically have a collection of websites (a “Network”) where they may automatically display adverts. The characteristics and popularity of placements available to an Advertising Platform may appeal to certain advertisers. For instance, an Advertising Platform may market itself as having placements on a number of the most-visited websites. Or placements on websites of a particular focus, or with a particular type of audience.
+
+By passively using a social web service (i.e. just reading updates, and not contributing), users are supplying data to an advertising profile of themselves. By contributing to a social service, a richer profile may be created. This places social Web 2.0 services in a powerful position, as they have particularly rich datasets and advertising profiles.
+
+Furthermore, social Web 2.0 services may employ the network of user connections in their service to deliver targeted adverts. For instance, adverts may be displayed to a particular group of users because another user in their network responded positively to something online.
+
+The use of Federated Authentication, mentioned in Section 3, also assists in developing an advertising profile. By tracking the websites from which a user makes use of Federated Authentication, the social web service may identify what sort of online content the user consumes.
+Both Twitter and Facebook have large user-bases, with rich advertising profiles automatically generated by users’ day-to-day activity in the service. The fine-grained advert targeting that this enables makes both sites popular advertising placements (Facebook, 2012; Sinker and Stone, 2011; Twitter, 2011).
+Google’s AdWords Advertising Platform exploits all the factors described above. AdWords allows advertisers to target users based upon keywords from Google searches; geographic location; interests; and demographic factors such as age; gender and parental status. Adverts are then delivered as embedded HTML units in Google Search result pages; and as placements on other sites; according to the targeting specifications of the advertiser.
+Google have maintained their position as a successful online advertiser by:
+•
+Exploiting their position as one of the most popular search engines.
+
+•
+Encouraging users to create a profile, by offering free accounts with email and other services. The Google Privacy Policy, which is applicable to all Google products, states: “Our automated systems analyse your content (including emails) to provide you with personally relevant product features, such as customised search results, tailored advertising and spam and malware detection.” (Google, 2014)
+•
+Developing various products and services that facilitate the growth of rich advertising profiles. For instance, a single Google account ties together data from email, YouTube, search queries and results clicked, and the Google+ social network.
+
+
+4.3. Microtransactions and social/casual games
+Microtransaction Platforms are payment systems created to allow users to make purchases, typically for low monetary transactions, hence “micro”. These systems have been implemented by various online services, social and otherwise, to enable products or services to be purchased with real currency. Purchases may be made directly through the social service, or through any other product that integrates with the online service. For instance, Apple offers a Microtransaction Platform through the retail of Apps and In-App Purchases. When a purchase is made, Apple automatically takes 30% of the value, and the remainder is passed to the developer of the App. Microtransaction Platforms typically keep prices low to incentivise purchases, and pool transactions together when billing them to a credit or debit card to minimise transaction clearing fees.
+
+Casual video-gaming gained popularity in the mid-2000s. Casual video games are typically playable in short burst periods, allowing play between other activities, and their lack of complexity means the games require little time to learn. These games are often provided free to the user, and derive their revenue from microtransaction-based purchases in the game. They may sometimes require the player to wait an amount of time while operations in the game complete. This differs from regular PC or console gaming, where participants may play for hours, after taking time to learn how to play (Kuittinen, Kultima, Niemelä, & Paavilainen, 2007).
+Social Web 2.0 services have built APIs that allow games and apps to be run inside their site, in the context of the social network. For instance, Facebook allows games and apps to be run “in Facebook”. Social games gained popularity on social networking sites because the underlying network allowed players to play the games socially, with or competing against friends, and seeing one another’s progress. Prior to this, social video gaming remained the purview of PC or console gamers as mentioned by Kuittinen et al. (2007). Arguably, social networking websites have catalysed the spread of these games, leading to the development of social games. Social games permit players to engage in an individual game within a shared environment, facilitating competition, trade and other interactions.
+A number of companies publish such games and Radoff (2011) has identified several observations on these phenomena, notably:
+1
+Exploitation of social connections
+
+
+Games can exploit data in the social network to instil competition, teamwork or co-operation between players. This may be in the form of status updates on the network, notifying other users of friends’ activities and interactions in-game, and enticing them to join in.
+2
+Speed, competitive advantage or aesthetics—at a price
+
+
+Players may typically purchase an item in-game that provides them with a competitive advantage, or speeds up play, through a real-world currency transaction. Some in-game purchases confer purely aesthetic adaptations, allowing players to customise their characters in ways that are not permitted to free-play players. Such aesthetic additions may adapt the appearance of an avatar image, provide rare clothing, distinctive millinery works, or accessory items for the player’s environmental context (e.g. a dog for their farm).
+
+The combination of Social Networks and Casual Gaming has produced several highly-performing companies whose products depend upon social networking services (Vascellaro, 2008). The parent Social Network typically benefits by automatically taking a proportion of any monetary transaction made through their Microtransaction Platform.
+Companies producing social network games are highly dependent upon the underlying social graph of their parent network, but at the same time capable of generating revenue at little actual cost. While the games themselves are free and thus loss-leaders, the one-off cost of creating purchasable items is low compared to their sale price. Once the production of the original game is paid for, only operating costs need to be met. Furthermore, the games are designed to scale with the growth of the social network, enabling millions of users to engage globally.
+
+Zynga is a company that produces various free-to-play social network games that are tied-in to the Facebook platform. Their revenue is based upon retailing purchasable extras for the games, according to the model described above. Zynga’s IPO occurred during December 2011, valuing the company at $7bn, which is lower than the $15bn–$20bn valuations generated during private investment and funding rounds (Dembosky & Demos, 2011; Forro, Cauwels, & Sornette, 2011).
+This is a risk for venture capital companies. When a venture capital company proposes a private investment deal with a company, this gives an indicative valuation of the company. In the case of Zynga, investments made by venture capital companies valued the company at $15bn–$20bn (Dembosky & Demos, 2011). However, at floatation, the IPO price valued the company at $9bn (BBC, 2011; Google, 2011). The value at floatation is based upon what the market is likely to pay for a share of the company, rather than the indicative private valuations that Zynga had experienced before. This may indicate that the venture capital companies overvalued Zynga during its time as a private company. Speculation surrounding Facebook and the social networking sector could have been the cause of this overvaluation.
+Since social network games emerged, the rise in smartphone and tablet ownership has created a change in the way such games are delivered and played. Users can now be reached easily through the App Stores on their mobile devices, allowing play on a mobile device at any time, instead of having to play through a social networking website.
+
+These modern adaptations still encompass the social aspect of the gaming—users are frequently prompted to post updates about their progress in the game to their social networking services. However, since the games are now based on mobile devices instead of a social networking service, microtransaction revenue will pass through the company that owns the App Store (i.e. Apple or Google), and no longer through the social networking site.
+
+4.4. Cloud gaming
+Cloud gaming is another emerging model since billions of revenues have been generated worldwide. With the rise of Cloud Computing, gaming can be provided as a 24/7 service for anyone to take part at any time provided with fast optic fibre network and excellent computing resources. Cloud gaming offers businesses with these three models: subscription; pay-as-you-go and products only (Yao & Chang, 2014). A subscription model is a model to pay monthly to ensure players can access games. A pay-as-you-go model means players can play for the time and resources they use, similar to concepts delivered in existing Cloud services. Products only models means that games are free for anyone but advanced equipment and skills will require payment. Players can stay free but the trade-off is more time and effort will be spent on improving the status of the gamers. Yao and Chang (2014, 2015) have conducted in-depth case studies on the gamers based in Chengdu, Beijing and Shanghai, and have analysed the data based on their collected effort. They identified that there were four types of trusts among players and players in Chengdu have developed higher level of trust in all aspects than players in Beijing and Shanghai. Cloud gaming can also establish active communities who can blend virtual reality with physical activities such as sale of products, services and interactions between players in real events.
+4.5. Frameworks
+Frameworks have been adopted by information systems, information technology and information integration since all different components, services, functions and business processes can be joined together under a conceptual domain. Services that have adopted frameworks have been reported to have improvements in efficiency, collaboration, team work and integration (Chang et al., 2013). Examples such as Cloud Computing Business Frameworks (CCBF) has been designed to integrate four different major goals for organisations that have adopted Cloud Computing as follows (Chang et al., 2013). Firstly, any organisations can define their business models and use any combination of the suggested eight business models. Secondly, businesses can use Organisational Sustainability Modelling (OSM) to evaluate their status of return and risk and risk that focuses on either technical, financial or user aspects of Cloud Computing adoption. Thirdly, businesses can provide service portability to ensure that infrastructure, platform and software as a service can be migrated from one to another with the ease. Fourthly, business integration as a service allows different services to work together to jointly achieve the organisational goals. Another example is Cloud Computing Adoption Framework (CCAF) that focuses on organisations that can design, implement and support services to users and their organisations. One example is the illustration of security services, whereby Chang, Kuo, and Ramachandran (2016) have designed a multi-layered security for defence.
+
+5. Web 3.0
+Web 3.0 is the next generation for the Web and has already happened while moving to the smart phone era, whereby billions of users can be connected to the internet by their smart and portable devices that can connect them to different types of apps, services and communications. Users have much better access to the information they look for and can share with their peers. The use of social network websites is another contributing factor that allows users can stay connected with their peers and get updates about their networks, including news, events and interesting sharing. People are more connected altogether in the globe and can work with communities outside their usual networks. Chang (2016) demonstrates social network analysis to analyse the effects of networking, including sharing, people who have clicked “like” and people who have commented. The contributions allow users to study complex data within a matter of seconds since outputs can be presented in easy-to-use graphical interpretations.
+Web 3.0 connects all the people together with services in the internet (Fuchs et al., 2010). Internet of Things is another area of specialisation that makes people connected together with all different services (Bandyopadhyay & Sen, 2011). All these devices include mobile devices, sensors, Wifi and connectors can ensure all the people can use the internet without paying the service providers. To ensure all the people can stay secure, security and privacy for Web 3.0 should be integrated with different solutions to ensure that users' privacy can be maintained without revealing their personal information easily online. Technologies in encryption-decryption, intrusion detection, firewall, access control, identity management and IP-based authentication can be jointly used to provide a higher level of protection against unauthorised access, hacking, denial of services and injection of malicious files. To demonstrate the robustness of the security solution, Chang and Ramachandran (2016) have proposed a multi-layered security in their Cloud Computing Adoption Framework (CCAF) to demonstrate how different types of security can work together and be divided into three main layers of security. They have undertaken a large scale of penetration testing and ethical hacking to test their security solutions to the fullest extent for their 10 petabytes of data in the data centre.
+Web 3.0 can integrate all the latest technologies together: Cloud Computing, Big Data, Internet of Things, social networks, security and existing features in Web 2.0 (Andersen, 2007; Hwang et al., 2013; Chang, 2015). Services in Web 3.0 includes the followings. Firstly, the e-government service to allow each country's government to blend their administrative, strategic and operational work online and blend their services with their citizens, who can have an easier access and communications with their local government officials and central government politicians. The governments can receive more direct feedback from their citizens to improve their quality of services. Secondly, there will be more e-business services that people can pay their products and services easily like a single currency. Thirdly, the e-banking service allow each person to pay their bills with a single touch. The personal identity can be verified within seconds to check the authentication of the real users. There will be mature business models to allow dynamic interactions between people to improve friendship. Similarly, there is a real virtual gaming that makes players to have experience similar to the real life. ]]><h target="2" match="part">Web 3.0 is the combination of smart phones, social networks, Web 2.0, cloud computing and emerging business models as explained above.</h></section>
+    <section name="Conclusion and future work" category="conclusion">
+      
+6. Conclusion and future work
+<h target="3" match="part">  This paper described Web 2.0 companies, recast some of them as Social Web Services, and explored their practises and business models. It may be the case that several emergent companies will become dominant players in their field. Our discussion finishes with an exposition of the revenue generating methods employed as these companies rise to dominant positions.</h><![CDATA[
+
+While it is not difficult to focus upon several high-profile companies providing social web services, this paper explored how the technology sector as a whole has facilitated modern businesses, and modern business models. Traditional vendors of computing equipment are adapting to the demand for Cloud services, and attempting to create differentiated product offerings.
+
+Cloud service providers now depend upon those companies that exploit the new business models and services they have enabled to develop. The use of frameworks such as Cloud Computing Business Framework can help business models to be more organised and structured. ]]><h target="2" match="part">An overview and future direction for Web 3.0 have been presented. Web 3.0 combines the beauty of Cloud Computing, Big Data, Internet of Things, security, social networks and emerging business models.</h><![CDATA[
+
+Our future work will develop a conceptual model based upon these findings and those in the literature review. The model will seek to explain links between key metrics, and lead to an experimental design that will answer research questions.]]></section>
+</publication>

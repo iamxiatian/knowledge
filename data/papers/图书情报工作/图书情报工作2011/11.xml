@@ -1,0 +1,841 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bibliographies>
+<BibliographiesCount>50</BibliographiesCount>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[Lucene全文检索软件及其在学科信息服务平台中的应用]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[夏天;黄文;马骏涛;李光伟;]]></FullName>
+<Organization><![CDATA[解放军医学图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2011]]></Year>
+<Issue><![CDATA[21]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[全文检索;Lucene;学科信息平台]]></Keyword>
+<Keyword Lang="en"><![CDATA[full-text search Lucene academic information service]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[针对当前网络环境下专业化学科信息服务需求的不断提高,简要介绍开源全文检索软件Lucene的特点,基于该软件设计实现学科信息服务平台的索引模块和检索模块,并就全文检索的性能与通用关系型数据库进行对比分析。对比结果表明,Lucene开源软件可有效提高学科信息服务平台的检索能力。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[106-109+87]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[一种基于情景的多维协同过滤新方法研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[杨君;汪会玲;艾丹祥;]]></FullName>
+<Organization><![CDATA[广东工业大学管理学院;武汉大学信息管理学院;暨南大学管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2011]]></Year>
+<Issue><![CDATA[21]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[个性化推荐;协同过滤;多维推荐;情景感知]]></Keyword>
+<Keyword Lang="en"><![CDATA[personalized recommendation collaborative filtering multidimensional recommendation context awareness]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[介绍传统协同过滤方法,提出一个新的基于情景的多维协同过滤推荐模型。在该模型中,介绍情景的概念;阐述建立基于情景的多维用户模型的方法,并对基于情景的多维协同过滤推荐模型的组成部分进行详细介绍。提出一种计算情景相似度的新算法。基于该新算法,可以得到当前用户的最近邻在当前用户所在情景下对项目的评分。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[110-114]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[比利时电子身份管理制度评鉴]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[赵丽莉;江智茹;马民虎;]]></FullName>
+<Organization><![CDATA[西安交通大学信息安全法律研究中心;新疆财经大学法学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2011]]></Year>
+<Issue><![CDATA[20]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[比利时;电子身份(EID);电子身份证管理(EIDM)]]></Keyword>
+<Keyword Lang="en"><![CDATA[Belgian electronic identity(EID) electronic identity management(EIDM)]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[提出为了实现虚拟社会真实身份管理,签发电子身份标识(electronic identity,EID)已成为当前许多国家发展计划中的普遍实践。认为EID的发行有助于实现网络虚拟身份的有效识别,为政府加强互联网活动综合管控提供有效路径,但也面临管理涉及面广、综合性强等困境。比利时政府在EID实践领域担任先锋角色,形成了完善的电子身份管理机制,因此,考查比利时电子身份管理制度将为我国推行和实践电子身份制度提供借鉴作用。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[52-55+133]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[定量网络舆情危机预警模型构建]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[丁菊玲;勒中坚;薛圈圈;]]></FullName>
+<Organization><![CDATA[江西财经大学信息管理学院;江西省电子商务工程技术研究中心;华中科技大学管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2011]]></Year>
+<Issue><![CDATA[20]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[BP神经网络;网络舆情;危机预警]]></Keyword>
+<Keyword Lang="en"><![CDATA[BP neural network internet public opinions crisis warning]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[首先建立网络舆情危机预警指标,在此基础上,将BP神经网络的数学模型运用到网络舆情危机预警中,建立基于BP神经网络的预警模型,实现网络舆情的安全态势的定量评判。最后通过仿真实验,结合具体实例对该模型进行验证和分析。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[59-63]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于网站流量统计的网站可用性指标及计算方法研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[柯青;王秀峰;郑彦宁;潘云涛;]]></FullName>
+<Organization><![CDATA[南京大学信息管理系;中国科学技术信息研究所;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2011]]></Year>
+<Issue><![CDATA[20]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[流量统计;可用性;网站;指标]]></Keyword>
+<Keyword Lang="en"><![CDATA[traffic statistics usability website indicator]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[分析影响网站可用性分析的因素,根据网站流量统计信息,从网站规模、网站质量、网站推广、网站辅助功能、用户情感5个方面构建一套网站可用性分析指标体系,并系统探讨如何从网站流量信息中采集网站可用性分析指标的数据和计算方法,为网站可用性分析提出一种新思维。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[138-143]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[虚拟社区信息分享行为研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[李枫林;周莎莎;]]></FullName>
+<Organization><![CDATA[武汉大学信息管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2011]]></Year>
+<Issue><![CDATA[20]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[虚拟社区;信息分享;人际行为理论]]></Keyword>
+<Keyword Lang="en"><![CDATA[virtual community information sharing theory of interpersonal behavior]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[信息分享是信息行为研究的一个重要领域,作为一种社会交换行为,其影响因素是多方面的。基于Trian-dis的人际行为模型对虚拟社区信息分享行为的影响因素进行理论探讨和实证研究。结果显示,个人的和社区的感知结果、情感是影响信息分享意向的重要因素,而习惯、自我效能和资源有利条件对信息分享行为呈显著的正相关。最后,对研究结果的实践意义进行讨论。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[48-51]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[知识构建的E-knowledge机制初探]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[张静;姜永常;]]></FullName>
+<Organization><![CDATA[东北林业大学图书馆;哈尔滨商业大学图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2011]]></Year>
+<Issue><![CDATA[20]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[知识构建;E-knowledge;知识管理;知识网络;电子化学习]]></Keyword>
+<Keyword Lang="en"><![CDATA[knowledge architecture E-knowledge knowledge management knowledge network E-learning]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[对于知识的不同存在形态和表现形式,知识构建需要采取不同的范式并遵循不同的机理。为统一知识构建范式和降低其复杂性,提出知识构建的E-knowledge机制。为此,从正反两方面分别阐述E-knowledge在知识构建中的作用和机制在知识构建中的应用,并从特性与功能角度全面展现基于E-knowledge机制实现知识构建的作用过程及功能表现。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[106-110]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[知识主张评价的理论与方法研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[张福学;]]></FullName>
+<Organization><![CDATA[烟台大学图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2011]]></Year>
+<Issue><![CDATA[20]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[知识主张;知识主张评价;知识管理;创新项目]]></Keyword>
+<Keyword Lang="en"><![CDATA[knowledge claim knowledge claim evaluation knowledge management innovation project]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[分析知识主张和知识主张评价的概念,探讨知识主张评价在知识管理中的作用和地位,提出知识主张评价的三种方法,即管理式方法、企业式方法和开放式方法,并对三种方法进行详细的比较和论证。认为需要持续关注知识管理中的知识主张评价,通过深入的理论和实践研究提高对它的认识。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[111-114]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[利用智能主题图开展网络知识组织研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[余利娜;盛小平;]]></FullName>
+<Organization><![CDATA[华南师范大学经济与管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2011]]></Year>
+<Issue><![CDATA[20]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[智能主题图;网络知识;知识组织]]></Keyword>
+<Keyword Lang="en"><![CDATA[intelligent topic map network knowledge knowledge organization]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[智能主题图扩展传统主题图的结构,提高知识推理功能和知识元导航功能。在比较分析智能主题图与传统主题图的基础上,生成智能主题图的逻辑结构,解析基于智能主题图的网络知识组织结构层次,构建基于智能主题图的网络知识组织框架,着重论述该框架所具备的知识组织功能,即知识表示、知识推理、知识导航、知识推送与知识可视化。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[115-120]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[2012’图书馆学情报学科研-写作-投稿研修班通知]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <Organization><![CDATA[《图书情报工作》杂志社;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2011]]></Year>
+<Issue><![CDATA[20]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[图书馆学情报学;期刊投稿;图情;图书馆员;项目申请;审稿意见;专业编辑;论文投稿;图书馆情报;研讨内容;]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[<正>为提高广大图书馆员图书馆学情报学的科研水平和写作能力,掌握研究与写作的方法与技巧,学习科研项目申请和报告撰写的基本知识,了解图书馆学情报学期刊投稿的相关要求,加强读者、作者与编者、学者之间的沟通和交流,《图书情报工作》杂志社发起、邀请国内相关领域知名专家授课、多个重要图情期刊配合参与的2012’图]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[1]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[施普林格(Springer)北京代表处新办公室落成]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> </Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2011]]></Year>
+<Issue><![CDATA[20]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[Springer;施普林格;编辑团队;人力资源;行政部;]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[<正>施普林格(Springer)北京代表处成立于2005年8月。随着在中国业务的不断增长,北京办公室的员工和部门数量也不断的增加。Springer北京代表处新办公室已于2011年9月落成,并在9月22日举行隆重的开幕典礼。新落成的北京办公室面]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[39]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[辛亥革命的世纪纪念]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[潘德利;]]></FullName>
+<Organization><![CDATA[沈阳师范大学图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2011]]></Year>
+<Issue><![CDATA[19]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[春愁;资产阶级革命派;满清政府;武昌城;杂志媒体;师范大学图书馆;报刊媒体;头响;舆论工具;双重压迫;]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[<正>2011年10月10日是辛亥革命100周年纪念日。任凭一个世纪风风雨雨的冲刷与磨砺,我们永远不能将这段历史忘却。世间无物抵春愁,合向苍冥一哭休。四万万人齐下泪,天涯何处是神州?100年前的中国,社会景象极其悲]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[9]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[我国信息资源市场政府监管主体的建构]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[朱雪宁;]]></FullName>
+<Organization><![CDATA[中国矿业大学(北京)文法学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2011]]></Year>
+<Issue><![CDATA[19]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[信息资源市场;市场监管;监管主体]]></Keyword>
+<Keyword Lang="en"><![CDATA[information resources market market regulation regulation agencies]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[信息资源市场政府监管主体的建构对信息资源市场监管目标的实现具有重要作用。我国信息资源市场政府监管主体目前存在的问题是监管机构之间权责划分不清、监管机构的独立性欠缺、监管人员匮乏且专业性不强。在考察国外信息资源市场监管主体设置的基础上,建议对我国信息资源市场政府监管主体重新进行建构:设立独立的综合性监管机构,采用聘用制,同时发挥行业协会的作用。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[44-48]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基层政府公共信息服务的公平性研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[张建彬;]]></FullName>
+<Organization><![CDATA[武汉大学信息管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2011]]></Year>
+<Issue><![CDATA[19]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[基层政府;公共信息服务;公平;原因;对策]]></Keyword>
+<Keyword Lang="en"><![CDATA[local government public information service equity reason measure]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[根据A镇和B乡的实地调研所得,将基层政府在提供公共信息服务的不公平问题分为城乡间不公平、区域间不公平、社会群体间不公平,在对三种不公平的表现及产生原因进行分析的基础上,结合与两地政府工作人员的访谈,指出两政府为改善公共信息服务的不公平采取的措施及未来规划。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[120-124]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[“图情期刊联盟网”成员单位第一次会议成功召开]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> </Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2011]]></Year>
+<Issue><![CDATA[19]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[图情;黑龙江省图书馆;《图书馆建设》;编辑部主任;转企改制;http;用户手册;门户网;资源网站;发展规划;]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[<正>2011年9月17-21日,由《图书情报工作》杂志社发起、联合其他图情期刊组建的图情期刊联盟网(以下简称联盟网)成员单位第一次会议在黑龙江省图书馆召开。会议由《图书馆建设》编辑部承办,共有来自14种图情期刊的20余位主编或编辑部主任参加了会议。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[91]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[主题爬行策略与算法研究综述]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[张立杰;]]></FullName>
+<Organization><![CDATA[新疆大学经济与管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2011]]></Year>
+<Issue><![CDATA[18]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[搜索引擎;主题爬行;爬行策略;爬行算法]]></Keyword>
+<Keyword Lang="en"><![CDATA[search engine topic crawling crawling policy crawling algorithm]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[主题爬行是专业搜索引擎的基础,爬行策略与爬行算法是主题爬行技术的核心,通过分析主题爬行的基本原理,对爬行策略与爬行算法进行分类比较,展示爬行策略与爬行算法的研究进展及当前研究热点,为主题爬行技术的进一步研究提供参考。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[112-115+40]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[第十七届海峡两岸信息管理发展与策略学术研讨会成功举行]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> </Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2011]]></Year>
+<Issue><![CDATA[18]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[信息管理;海峡两岸;南京大学;台湾辅仁大学;信息系统;管理学会;信息资源;信息服务;http;新兴技术;]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[<正>2011年8月31日-9月2日上午,由南京大学主办,信息系统协会中国分会、台湾资讯管理学会、台湾辅仁大学、复旦大学共同承办的第17届海峡两岸信息管理发展与策略学术研讨会在南京大学开幕,来自海峡两岸三地信息管理]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[132]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[两大国际组织的信息化测评指数的比较与分析]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[王益明;李广建;]]></FullName>
+<Organization><![CDATA[北京大学信息管理系;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2011]]></Year>
+<Issue><![CDATA[18]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[信息化测评;信息化发展指数;信息化就绪指数;国际电信联盟;世界经济论坛]]></Keyword>
+<Keyword Lang="en"><![CDATA[information society measuring IDI NRI ITU WEF]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[介绍国际电信联盟发布的信息化发展指数和世界经济论坛推出的信息化就绪指数的指标体系构成,比较两个指数的测评目的、概念模型、数据来源和计算方法等方面的差异,分析两个指数最新测评结果的相关性以及最新测评结果和人均GDP的相关性。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[10-14+98]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[信息生态环境因子的相互作用机制]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[张苗苗;娄策群;]]></FullName>
+<Organization><![CDATA[华中师范大学信息管理系;湖北警官学院宣传处;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2011]]></Year>
+<Issue><![CDATA[18]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[信息生态;环境因子;相互作用]]></Keyword>
+<Keyword Lang="en"><![CDATA[information ecology environment factor interaction]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[探讨信息生态环境因子相互作用的范围、实现途径、形式、效果和作用程度,论述信息生态环境因子的相互作用范围包括同类因子的相互作用和异类因子的相互作用,其相互作用是通过信息人间接实现的,有一对一交互作用、一对多同时作用、多对一同时作用、多因子链式作用、多因子环式作用等多种形式,作用效果包括相互限制、相互促进、相互补充、相互替代,在相互作用力度、影响程度、作用效果方面都存在非均衡性。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[15-18]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[关联数据的动态链接维护研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[郭少友;]]></FullName>
+<Organization><![CDATA[郑州大学信息管理系;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2011]]></Year>
+<Issue><![CDATA[17]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[关联数据;动态链接;链接维护;WOD-LMP协议;更新通知]]></Keyword>
+<Keyword Lang="en"><![CDATA[linked data dynamic link link maintenance WOD-LMP protocol update notification]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[分析关联数据集之间链接的动态性,在此基础上探讨三种动态链接维护方法。基于WOD-LMP协议的方法要求链接双方都遵守WOD-LMP协议。基于更新通知的方法适用于目标数据集具有数据更新通知机制的情况,需要针对目标数据集的数据更新通知机制采取相应的更新数据获取方法。基于主动监测机制的方法对目标数据集的要求较低,只需要提供SPARQL查询接口或支持RDF堆下载即可。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[112-116]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于电子政务的灾害应急物资信息平台建设]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[刘焕成;郑淼磊;]]></FullName>
+<Organization><![CDATA[郑州航空工业管理学院信息科学学院;郑州大学信息管理系;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2011]]></Year>
+<Issue><![CDATA[17]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[电子政务;灾害;应急物资;信息平台]]></Keyword>
+<Keyword Lang="en"><![CDATA[e-government disaster emergency material information platform]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[分析我国应急物资信息管理存在的多种问题,讨论基于电子政务的灾害应急物资信息平台的优势,并详细论述该信息平台的建设内容,以期为我国完善应急机制,利用电子政务的建设成果,建立起统一的灾害应急物资信息平台,促进应急物资信息的流通和共享提供参考。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[121-125]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[虚拟社区用户信息行为研究综述]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[袁静;]]></FullName>
+<Organization><![CDATA[郑州大学信息管理系;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2011]]></Year>
+<Issue><![CDATA[16]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[虚拟社区;用户行为;信息交流;知识共享]]></Keyword>
+<Keyword Lang="en"><![CDATA[virtual community user behavior information communication knowledge sharing]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[指出Web2.0环境下的虚拟社区为用户提供全新的互动平台,成为用户生产、获取、交流、共享信息与知识的微观环境,受到广泛的研究和关注。从社会学和心理学视角、知识管理视角、商务视角、传播学视角四个方面,综合分析国内外关于虚拟社区用户信息行为研究在理论与实践上取得的成果,归纳现有研究存在的不足,提出将来需要推进的研究方向。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[91-94]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[协同过滤推荐研究综述]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[奉国和;梁晓婷;]]></FullName>
+<Organization><![CDATA[华南师范大学经济管理学院信息管理系;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2011]]></Year>
+<Issue><![CDATA[16]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[电子商务;推荐系统;个性化;协同过滤]]></Keyword>
+<Keyword Lang="en"><![CDATA[E-commerce recommender system personalization collaborative filtering]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[针对传统协同过滤算法的局限性,探讨目前的各种改进思路,主要结合聚类、关联规则、贝叶斯、神经网络、云模型、维数简化、对等网等技术进行改进,重点评述改进现状和存在的问题,并归纳推荐系统的评估方法,最后对协同过滤推荐的未来进行展望。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[126-130]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[我国网站无障碍研究综述]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[赵芳;]]></FullName>
+<Organization><![CDATA[扬州大学社会发展学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2011]]></Year>
+<Issue><![CDATA[15]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[网页无障碍;网站无障碍;WAI]]></Keyword>
+<Keyword Lang="en"><![CDATA[web accessibility website accessibility WAI]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[我国对网站无障碍建设方面已经进行广泛的研究,取得一定成果。通过对我国网站无障碍建设方面文献的梳理、分析,发现当前的研究中还存在研究范围狭窄、研究深度欠缺、研究主体单一等问题,最后针对研究中存在的问题,对未来研究方向提出一些建议。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[56-61]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于三网融合的信息服务展望]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[余波;]]></FullName>
+<Organization><![CDATA[西南科技大学经济管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2011]]></Year>
+<Issue><![CDATA[15]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[三网融合;信息服务;影响;前景]]></Keyword>
+<Keyword Lang="en"><![CDATA[Network information service influence prospect]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[认为三网融合是现代网络技术与数字业务的创新模式,将会极大地丰富网络信息资源和信息服务手段。立足于三网融合的基本内涵,分别从服务提供与信息产品销售、用户日常信息消费特征、信息交流与共享、服务竞争与协作、网络生态与信息安全等角度探讨三网融合对未来信息服务的影响。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[128-132]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[我国国家创新体系中的信息资源配置协同发展研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[赵杨;胡潜;]]></FullName>
+<Organization><![CDATA[武汉大学信息资源研究中心;华中师范大学信息管理系;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2011]]></Year>
+<Issue><![CDATA[15]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[国家创新体系;信息资源配置;协同发展]]></Keyword>
+<Keyword Lang="en"><![CDATA[national innovation system information resources allocation collaborative development]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[建设创新型国家战略的全面推进要求对国家创新体系中的信息资源进行协同配置。从我国信息资源协同配置现状来看,主要存在配置主体功能缺位、协作程度不高、支撑服务落后等问题,需要通过管理、组织、技术、服务层面的多元协同加以解决。政府应充分利用现有条件,克服制度、机制、技术和服务上的障碍,全面推进我国信息资源配置的协同发展。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[37-41]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[网络信息资源质量评价研究综述]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[李丽娜;]]></FullName>
+<Organization><![CDATA[连云港师范高等专科学校图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2011]]></Year>
+<Issue><![CDATA[15]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[网络信息;质量评价;综述]]></Keyword>
+<Keyword Lang="en"><![CDATA[network information quality evaluation review]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[从评价方法和评价指标两方面对网络信息资源质量评价研究进行综述。目前,网络信息质量评价方法主要包括元数据法、层次分析法、对应分析法、网络信息计量法等;网络信息质量评价指标纷繁复杂,呈现评价主体多元化、评价对象多样化、评价标准全面化的特点。未来,网络信息资源质量评价研究应注重适用性和实用性课题研究,坚持用户导向,培育权威评价机构。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[62-66+61]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[图书馆与出版界开展全民阅读宣传活动比较研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[程远;欧阳周遐;王域铖;]]></FullName>
+<Organization><![CDATA[江西省图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2011]]></Year>
+<Issue><![CDATA[15]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[图书馆;出版界;全民阅读;宣传活动]]></Keyword>
+<Keyword Lang="en"><![CDATA[library publishing industry Reading for All promotion campaign]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[通过对图书馆与出版界开展全民阅读宣传活动的比较,发现出版界比图书馆更具优势,但只要图书馆扬长避短,积极争取政府部门的高度重视和更多支持,切实增加活动网点,加强电子资源建设,有效加大宣传力度,就一定能全力保障宣传活动的开展,就能够在更大范围将宣传活动辐射到更多的受众,并以时尚新颖手段吸引受众眼球,激发大众的阅读兴趣和参与热情,取得更好的宣传效果。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[90-93+51]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[电子商务网站信息构建研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[余小鹏;彭鸿儒;]]></FullName>
+<Organization><![CDATA[武汉工程大学管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2011]]></Year>
+<Issue><![CDATA[14]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[电子商务;信息构建;网站]]></Keyword>
+<Keyword Lang="en"><![CDATA[E-commerce information architecture website]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[首先简要对信息构建(IA)进行概述;然后根据成本-收益范式,从浏览系统、搜索系统和商品展示页面等三个方面对常见大型电子商务网站信息构建的有效性进行分析,并针对其不足提出改进策略;最后提出了一个电子商务网站系统(cyskmall)的IA设计方案。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[125-129+102]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[企业信息生态系统评价指标体系构建研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[柯健;]]></FullName>
+<Organization><![CDATA[安徽财经大学管理科学与工程学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2011]]></Year>
+<Issue><![CDATA[14]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[企业;信息生态;信息生态系统;评价准则;指标体系]]></Keyword>
+<Keyword Lang="en"><![CDATA[enterprise information ecology information ecosystem evaluation standard index system]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[综述当前有关信息生态评价指标体系构建的研究成果;构建企业信息生态系统的理论模型,并对系统组成要素及要素间的关系进行解析;以系统的结构与功能、平衡与发展等关系的分析为基础,提出企业信息生态系统健康的评价准则及指标体系的构建原则,并构建一套包含目标层、准则层、指标层在内的企业信息生态系统综合评价指标体系。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[54-58]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[需求驱动的主题爬行技术研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[乔建忠;]]></FullName>
+<Organization><![CDATA[中国科学院国家科学图书馆;解放军艺术学院教育技术中心;中国科学院研究生院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2011]]></Year>
+<Issue><![CDATA[13]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[主题爬行技术;需求驱动;主题爬行器;组合爬行技术]]></Keyword>
+<Keyword Lang="en"><![CDATA[focused crawling demand-driven focused crawler combined focused crawling]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[主题爬行技术的应用领域不断扩大,但对主题的界定并无统一的标准。从需求的角度将现有主题爬行技术分为三种基本类型:面向内容的、面向类型的和面向网站的,分别论述它们的关键技术和典型案例。最后提出一种将各需求统一在一个框架内的组合爬行技术简称DDCFC,简要描述其定义和逻辑架构。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[108-111+146]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[一种敏感信息共享隐私保护框架]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[刘小波;]]></FullName>
+<Organization><![CDATA[南京政治学院上海分院信息管理系;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2011]]></Year>
+<Issue><![CDATA[13]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[敏感信息共享;隐私保护;隐私推理]]></Keyword>
+<Keyword Lang="en"><![CDATA[sensitive information sharing privacy protestion privacy inference]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[通过对敏感信息共享中的隐私威胁分析,探讨敏感信息共享的隐私保护技术策略,并在此基础上提出一种敏感信息共享隐私保护框架,该框架可实现隐私访问策略的形式化表示以及基于语义的信息匿名化计算。最后,对实现该框架的关键技术进行简要介绍。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[116-120]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于网格技术的科学数据存储与共享]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[王萍;赵丹阳;王玉超;]]></FullName>
+<Organization><![CDATA[吉林大学信息管理系;吉林大学信息资源研究中心;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2011]]></Year>
+<Issue><![CDATA[13]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[科学数据;网格;信息仿生;数据共享;长期存储]]></Keyword>
+<Keyword Lang="en"><![CDATA[scientific data grid information bionics data sharing long term preservation]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[应用网格技术,在科学数据库建设基础上,构建科学数据网格并实现其横向联合、纵向深入的多角度发展。同时,利用仿生学原理与信息管理相结合,开展科学数据发酵进而促进知识创新。在服务提供方面,建立科学数据网格门户为最终用户带来最大的导航便利,是符合我国现实特点的科学数据长期存储、创新和广泛共享问题最佳解决方案。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[63-66]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[信息素养研究领域全景分析——以1990-2009年SCI、SSCI和A&HCI发表论文为例]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[吴鸣;张杰龙;王丽;刘艳丽;欧阳峥峥;]]></FullName>
+<Organization><![CDATA[中国科学院国家科学图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2011]]></Year>
+<Issue><![CDATA[13]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[信息素养;SCI;SSCI;A&HCI;TDA分析]]></Keyword>
+<Keyword Lang="en"><![CDATA[information literacy SCIE SSCI A&HCI TDA analysis]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[利用TDA分析软件对1990-2009年期间三大引文数据库SCI、SSCI和A&HCI收录的信息素养研究领域的论文进行多角度、多侧面的分析与比较,揭示信息素养研究领域发表论文的年代趋势,以及信息素养研究领域的TOP国家、机构、学科、期刊及作者和高频关键词分布情况,以期为信息素养研究领域研究人员提供领域全景分析。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[5-9]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[嵌入学位论文撰写过程的信息素质教育研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[张玲;初景利;]]></FullName>
+<Organization><![CDATA[哈尔滨工程大学图书馆;中国科学院国家科学图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2011]]></Year>
+<Issue><![CDATA[13]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[信息素质导航图;学位论文;用户教育]]></Keyword>
+<Keyword Lang="en"><![CDATA[information literacy strands map thesis users education]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[从分析硕士研究生学位论文负面评审意见入手,结合硕士研究生学位论文生产过程,分析信息素质在该过程中的体现,提出利用信息素质导航图嵌入学位论文撰写过程进行信息素质教育的方案。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[16-19+79]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[学科信息素质教育平台的构建与启示——以Scitable协作学习平台为例]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[李彦昭;陈朝晖;郑菲;]]></FullName>
+<Organization><![CDATA[中国科学院国家科学图书馆;中国科学院研究生院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2011]]></Year>
+<Issue><![CDATA[13]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[学科信息素质;在线教育平台;Scitable;学习空间]]></Keyword>
+<Keyword Lang="en"><![CDATA[subject information literacy online educational platform Scitable learning space]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[从功能模块和辅助模块两个方面对Scitable信息素质教育平台的构成和功用进行剖析,总结该平台突出学科资源、内容设计新颖、技术特点鲜明、理论与实践相结合等特点,并对我国信息素质教育平台的构建提出内容改革、与学科化服务结合、创新设计内容和形式、加强技术应用和共建共享等建议。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[88-91+41]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[一种基于智能过滤的Web个性化推荐模型]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[苏玉召;赵妍;许德山;]]></FullName>
+<Organization><![CDATA[中国科学院文献情报中心;中国科学院研究生院;郑州航空工业管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2011]]></Year>
+<Issue><![CDATA[13]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[Web个性化推荐系统;Web挖掘;基于规则过滤;基于内容过滤;协作过滤]]></Keyword>
+<Keyword Lang="en"><![CDATA[web personalization recommendation system web mining rule-based filtering content-based filtering collaborative filtering]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[Web个性化研究的关键技术是推荐系统,其作用是根据用户模型推荐个性化内容,当前推荐技术的研究主要包括四种模式:基于规则过滤、基于内容过滤、基于协作过滤和混合过滤模式。前三种工作模式采用的是传统技术和方法,根据当前推荐系统研究的重点和热点,提出一种Web个性化应用的智能过滤推荐模式。智能过滤推荐模式组合采用以上三种工作模式的优点、避免前三种单一模式的缺点。该方法的突出特点是根据离线学习模型提取的用户偏好特征,实现在线智能推荐。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[112-115]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[政府信息资源增值开发中的价值论问题探讨]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[杨红艳;]]></FullName>
+<Organization><![CDATA[中国人民大学人文社科成果评价研究中心;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2011]]></Year>
+<Issue><![CDATA[13]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[价值;增值开发;政府信息资源]]></Keyword>
+<Keyword Lang="en"><![CDATA[value value-added exploitation government information resource]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[探讨政府信息资源增值开发中的哲学价值论和经济学价值论问题。哲学价值论要求政府信息资源增值开发要关注信息资源的价值主体和开发主体的转换,并通过深加工、社会化等方式提高信息资源的有用性;经济学价值论要求政府信息资源增值开发重视信息资源作为生产要素的价值,并通过理顺信息生产关系降低信息生产成本。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[121-125]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[组织者的话]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[袁毅;]]></FullName>
+<Organization><![CDATA[华东师范大学商学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2011]]></Year>
+<Issue><![CDATA[12]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[信息传播方式;网络信息传播;差异点;经济生活;原创内容;组织传播;传播链;传播能力;传播过程;信息运动;]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[<正>随着Web2.0的兴起,网络社区得到迅速发展,BBS、博客、微博客、SNS等各种类型的社区对社会经济生活的影响越来越大,而网络社区的信息传播方式与前互联网时代信息传播方式有很多的差异点。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[20]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[微博客用户行为特征实证分析]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[杨成明;]]></FullName>
+<Organization><![CDATA[华东师范大学商学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2011]]></Year>
+<Issue><![CDATA[12]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[微博客;用户行为;互联网利用]]></Keyword>
+<Keyword Lang="en"><![CDATA[microblog users' behavior internet utilization]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[微博客已发展成为一种重要的信息传播和交流工具,理解微博客用户行为特征,对于优化微博客平台、探索微博客在网络营销、教育及危机公共事件通报等方面的应用具有重要意义,也为研究新媒体传播理论提供数据基础。以新浪微博客为研究对象,抽取微博客平台提供的各项字段,从用户性别、地域、影响力等多个角度揭示当前微博客用户的行为特征及存在的问题。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[21-25]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[微博客信息传播结构、路径及其影响因素分析]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[袁毅;]]></FullName>
+<Organization><![CDATA[华东师范大学商学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2011]]></Year>
+<Issue><![CDATA[12]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[微博客;信息传播;社会网络分析]]></Keyword>
+<Keyword Lang="en"><![CDATA[microblog information communication network social network analysis]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[以新浪微博客为研究平台,采集事件传播路径中的用户属性数据及行为数据,利用社会网络分析软件绘制信息传播网络图,并对传播网络的结构、路径及其影响因素进行分析,最后,发现传播网络的形态与用户的影响力、节点的合理布局及外部干扰因素有关。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[26-30]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[微博客用户信息交流过程中形成的不同社会网络及其关系实证研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[袁毅;杨成明;]]></FullName>
+<Organization><![CDATA[华东师范大学商学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2011]]></Year>
+<Issue><![CDATA[12]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[微博客;信息交流;社会网络分析]]></Keyword>
+<Keyword Lang="en"><![CDATA[microblog information communication social network analysis]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[论述微博客已快速成为人们信息交流重要工具之一,跟踪微博客用户在时间周期内关于某一话题的交流数据,发现用户在信息交流过程中形成关注、评论、转发和引用四种社会关系网络,指出四种关系网络有其不同的结构形态,但同时又具有某些共性特征及联系。研究结论对于进一步研究网络社区用户信息交流理论、探索微博客的应用均具有意义。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[31-35]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[信息生态群落初探]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[李红梅;娄策群;]]></FullName>
+<Organization><![CDATA[湖北工业大学计算机学院;华中师范大学信息管理系;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2011]]></Year>
+<Issue><![CDATA[12]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[信息生态群落;信息种群;信息生态系统;信息生态学]]></Keyword>
+<Keyword Lang="en"><![CDATA[information community information population information ecological association Information Ecology]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[从讨论信息生态群落的概念入手,探讨信息生态群落的特点、组成、分类、命名及其典型结构。为进一步深化对信息生态群落的认识,重点对几个典型信息生态群落从宏观角度进行结构分析,希望能够指导优化信息生态群落的构建,并为人类充分合理利用信息资源,保持信息生态群落的稳定与平衡,推动信息生态群落的发展进行一些初步的探索。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[46-50]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[社区信息服务顾客满意度指数模型实证研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[邹凯;刘莹莹;]]></FullName>
+<Organization><![CDATA[湘潭大学公共管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2011]]></Year>
+<Issue><![CDATA[12]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[社区信息服务;顾客满意度;结构方程模型;PLS路径分析]]></Keyword>
+<Keyword Lang="en"><![CDATA[community information service customer satisfaction structural equation model PLS path analysis]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[首先对社区信息服务的发展趋势与特点进行阐述,将顾客满意度理念引入社区信息服务体系中,对顾客满意度的内涵及影响因素进行分析,借鉴经典满意度指数模型构建社区信息服务顾客满意度指数模型,并运用偏最小二乘法(PLS)对测评模型进行检验和参数求解,最后通过实证研究检验模型的可行性,并给出改进社区信息服务的建议。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[65-69]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[2009年以来本体映射系统模型研究综述]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[陶俊;孙坦;]]></FullName>
+<Organization><![CDATA[中国科学院国家科学图书馆;中国科学院研究生院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2011]]></Year>
+<Issue><![CDATA[12]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[本体映射系统;映射模型;OAEI关联数据]]></Keyword>
+<Keyword Lang="en"><![CDATA[ontology mapping system mapping model OAEI linked data]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[本体映射系统分为通用映射系统和领域映射系统两大类型,从模型和流程视角综述2009年RiMOM、AS-MOV、DSSim、OntoMap、OntSE五种本体映射系统模型,认为本体映射研究在关联数据等新兴前沿领域的应用有待进一步深化。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[101-104+131]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[对新信息环境下信息组织的解读]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[林强;杨玉麟;]]></FullName>
+<Organization><![CDATA[西北大学公共管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2011]]></Year>
+<Issue><![CDATA[12]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[信息组织;传统世界;数字世界;发展趋势]]></Keyword>
+<Keyword Lang="en"><![CDATA[information organization traditional world digital world trends]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[在介绍传统世界的信息组织模式的基础上,从传统世界信息组织的缺陷入手,比较分析数字世界的信息组织在检索语言、元数据、分类方式、组织理念上的变革和优势。从不同角度论证传统世界的信息组织存在的必然性,进而探讨新信息环境中信息组织的发展趋势,指出信息组织应沿着传统世界与数字世界的融合、社会网络和知识关联方向发展。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[118-121]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[社区网格化综合服务集成平台开发]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[张楚文;]]></FullName>
+<Organization><![CDATA[湖南商学院信息学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2011]]></Year>
+<Issue><![CDATA[11]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[社区综合服务;集成平台;网格化管理;流程再造]]></Keyword>
+<Keyword Lang="en"><![CDATA[community synthesis service integration platform the gridded management process reengineering]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[社区服务信息化面临着社区信息服务效率低下、协同服务能力弱及信息化需求压抑等问题。支持社区与街道各职能中心的协同服务,需明确社区精细化服务目标和原则,专门研制具有街道和社区工作和环境特点的社区服务集成信息化平台,将社区服务信息系统集成在两个社区管理综合服务平台上,即社区网格化管理系统和综合服务网站,实现社区信息资源高效整合,解决社区协同服务困境。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[56-61]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于页面内容和会话相似的网络用户行为研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[阮光册;]]></FullName>
+<Organization><![CDATA[上海海关学院基础部;华东师范大学国际关系与地区发展研究院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2011]]></Year>
+<Issue><![CDATA[11]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[Web规则挖掘;网络用户行为;聚类分析]]></Keyword>
+<Keyword Lang="en"><![CDATA[web mining web user's behavior clustering analysis]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[网络用户行为研究大多采用Web用户日志挖掘,首先介绍Web关联规则应用的传统方法,并指出传统方法中忽略了用户兴趣这一因素研究,更多的是以网页高频出现为挖掘结果进行聚类。针对这一问题,提出一种基于Web关联规则挖掘、页面内容和会话相似度相结合的研究方法,聚类出用户频繁访问的页面组,以发现网络用户行为的规律。在案例应用中,以上海某高校学生网络行为研究为例,得出相关结论。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[121-124]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[高校信息素养教育体系构建:基于整合的视角]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[詹泽慧;梅虎;]]></FullName>
+<Organization><![CDATA[华南师范大学教育信息技术中心;华南师范大学旅游管理系;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2011]]></Year>
+<Issue><![CDATA[11]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[信息素养教育;高校;体系构建;整合;需求]]></Keyword>
+<Keyword Lang="en"><![CDATA[informational literacy education higher education system construction integration requirement]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[通过对比国内外信息素养教育发展现状,论证信息素养教育体系整合的必要性。勾勒整合视角下的理论框架,探测体系内各类型学习者的需求倾向,进而构建以信息素养教师、学科教师和学生群体为主体,以图书馆、计算机基础教学机构、教师培训机构和面向社会的信息素养培训机构为客体的高校信息素养教育体系,并针对资源整合、差异应对、技能深化、形式扩展和质量保证五方面提出相应的实施策略。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[81-85]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[互联网资源知识本体自动构建实证研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[吴江;]]></FullName>
+<Organization><![CDATA[广东石油化工学院高州师范学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2011]]></Year>
+<Issue><![CDATA[11]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[本体;自由分类标签;概念关系结构图;自动构建]]></Keyword>
+<Keyword Lang="en"><![CDATA[ontology free categories tag concept relation structure map automatic construction]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[研究一种利用互联网已有资源就可以自动构建互联网资源知识本体的方法,从可以让用户对资源添加自由分类标签的网站标签中筛选出概念,根据标签与资源的关系,设计合理的规则,绘出概念关系网络地图,从概念关系网络地图中总结规律,分析出构建概念之间各种级系的合理规则,编成让计算机理解的网络本体语言自动构建互联网知识本体。根据概念匹配原则,系统软件可以自动套用预给的权威词典解释,也可自动读取百度百科网站相关的概念的解释,套入本体术语解释数据库。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[116-120+94]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+</Bibliographies>

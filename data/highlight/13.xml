@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<publication marker="wanghongmei">
+    <journal>International Journal of Information Management</journal>
+    <time>Volume 36, Issue 2, April 2016, Pages 226-239</time>
+International Journal of Information Management
+    <title>Examining an extended duality perspective regarding success conditions of IT service</title>
+    <author>Bongsik Shin.</author> Author links open the author workspace.Opens the author workspacea. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace<author>Sanghoon Lee.</author> Author links open the author workspace.Opens the author workspaceb. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace<author>Ho Geun Lee.</author> Author links open the author workspace.Opens the author workspacec. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace
+a
+Management Information Systems, San Diego State University, United States
+b
+Korea Institute of Procurement, 40-604 Hangangro 3-ga, Yongsan-gu, Seoul 140-880, Republic of Korea
+c
+School of Business, Yonsei University, Republic of Korea
+Show more
+    <doi>https://doi.org/10.1016/j.ijinfomgt.2015.11.012</doi>Get rights and content
+Highlights
+<highlight id="1">This work empirically examines the viability of the extended duality perspective.</highlight>
+<highlight id="2">Information quality is an asymmetric bi-directional influencer.</highlight>
+<highlight id="3">System quality is a pure inhibitor.</highlight>
+<highlight id="4">The economic factor is more influential as a satisfier than as a dissatisfier.</highlight>
+<highlight id="5">Self-efficacy is a pure enabler in the context of MDS usage.</highlight>
+
+<abstract><![CDATA[
+Abstract
+IS research predominantly presumes that the success factors of IT service have one-dimensional influences: the higher (or lower), the better. Sporadic arguments, however, have been made that, depending on the antecedent, such a monolithic premise may not sustainable. Despite the rich evidence of the dichotomous role of success factors on measured consequences in non-IS fields, especially in the marketing discipline, theoretical and empirical efforts to examine this duality have received limited attention in IS research. Especially, no previous IS study took the extended duality position in which the role of success conditions can be any of pure enabler, pure inhibitor, asymmetric bi-directional influencer or symmetric bi-directional influencer . The extended duality becomes the theoretical thesis of this research, setting it apart from the scant IS research that viewed duality through the rather simplified lens of statistical significance in each direction.]]><h target="1" match="part"> To test the validity of the extended duality theory in the IT service context, cross-sectional survey data were gathered on post-adoption usage of mobile data services (or MDS), the most prevalent form of IT service. Frequently used success conditions of IT service – system quality, information quality, economic value and self-efficacy – are chosen as the explanatory variables.</h><![CDATA[ The analysis suggests that success conditions of IT service can have a highly divergent and diversified form of duality effects on measured outcomes. The findings have important practical and theoretical implications to practitioners and researchers.
+]]></abstract>
+    
+    <keywords>Duality theory</keywords>
+    <keywords>Extended duality theory</keywords>
+    <keywords>Enabler</keywords>
+    <keywords>Inhibitor</keywords>
+    <keywords>Satisfier</keywords>
+    <keywords>Dis-satisfier</keywords>
+    <keywords>MotivatorDe-motivator</keywords>
+    
+    <section name="Introduction" category="introduction"><![CDATA[
+1. Introduction
+Most IS studies take the position that success conditions of an IT service have unidimensional influences on measured outcome(s): the higher or lower the influences the better. The success conditions represent antecedents or explanatory variables that significantly affect the success (e.g., satisfaction, usage) of IT service. Most theories and research models adopted by IS researchers are grounded on this implicitly presumed or explicitly expressed premise. A few IS studies, however, argued that such a monolithic relationship may not hold up (Ahuja and Thatcher, 2005; Cenfetelli, 2004; Lee, Shin, & Lee, 2009; Mittal, Ross Jr., & Baldasare, 1998). These studies generally take the dichotomy position in which an explanatory variable can have a directional influence on encouraging and/or discouraging measured performance of an IT service. For instance, a variable may significantly improve user satisfaction if fulfilled, but its absence may not necessarily result in growth of user dissatisfaction. Likewise, the weak level of a variable may swell user dissatisfaction with IT service, but its alleviation may not necessarily enhance satisfaction proportionately. Despite the potential of the dichotomous view in better explicating relationships between studied variables in IS research, we observe that its theoretical discourse and empirical validations are highly limited. This is a stark contrast to other disciplines, especially marketing, where research from such a theoretical angle has been active.
+]]><h target="1" match="full">This work is to empirically examine the viability of the extended duality perspective in explicating the relationship between the explanatory and consequence variables of IT service success.</h><![CDATA[ With the extended dichotomy, success conditions of IT service (as explanatory variables) are expected to significantly affect measured outcomes (e.g., satisfaction, usage) in four different mechanics: pure enabler, pure inhibitor, asymmetric bi-directional influencer (i.e., a significant enabler and inhibitor with asymmetric directional influences) or symmetric bi-directional influencer (i.e., one with symmetric, non-directional influences). Here, the terms enabler and inhibitor are used to indicate a variable that either grows or impedes measured performance of IT service. As previous studies also used such terms as satisfier/dissatisfier and motivator/demotivator in place of enabler/inhibitor, we will be using them interchangeably as needed. The theoretical positioning of extended dichotomy sets this study apart from the short list of previous IS studies that mainly viewed duality through the limited perspective of directional significance (e.g., statistically significant in one direction, but insignificant in the other direction) (e.g., Lee et al., 2009).
+To test the theoretical validity of the extended dynamism between explanatory variables and measured consequences of IT service, a research model was proposed in the context of mobile data services (shortly MDS), the most prevalent form of IT service, and the proposed relationships between included variables are empirically examined. Hong and Tam (2006) defined MDS as “an assortment of digital data services that can be accessed using a mobile device over a wide geographic area.” With the launch of high-speed mobile networks, there has been a surge of digital data consumption for social networking, video conferencing, streaming of movies and user-created contents, and online gaming among others.
+Explanatory variables included in the research model are among the most frequently cited success conditions of IT service: system quality, information quality, economic value, and self-efficacy (DeLone & McLean, 1992, 2003; Hong & Tam, 2006; Lee et al., 2009; Venkatesh & Brown, 2001). ]]><h target="5" match="part">The first three are important IT service dimensions, while self-efficacy is a personal attribute that should be significant in shaping an individual's IT usage behaviors</h><![CDATA[ (Agarwal & Prasad, 1998; Lewis, Agarwal, & Sambamurthy, 2003; Venkatesh & Brown, 2001). Their influences on outcome variables of “(dis) satisfaction with MDS” and “change in MDS usage” are empirically examined. For this study, cross-sectional survey data were gathered and analyzed using structural equation modeling.
+
+]]></section>
+
+    <section name="Literature and theories;Additional research motivation" category="background"><![CDATA[
+2. Literature and theories
+As discussed, most IS research has been conducted on the premise of linear (or symmetric, non-directional) relationships between the levels of explanatory and consequence variables. This literature review section, therefore, focuses on studies that are grounded on perspectives different from the dominant ‘linearity’ viewpoint, and, thus, accept the divergent role of antecedent variables on the measured consequence(s). Given the scarcity of IS studies conducted on this premise, the literature review is performed separately for IS and non-IS studies.
+
+In the management discipline, the theorization of duality began as early as Herzberg, Mausner, and Snyderman (1959), who separated personal and organizational factors influencing employee job satisfaction into two categories: motivators and de-motivators (also called as hygiene factors). Motivators boost job satisfaction and employee performance, but their absence or insufficiency does not necessarily increase job dissatisfaction. According to the two-factor theory, motivators are internally-generated drivers rather than externally-stimulated incentives (Bassett-Jones and Lloyd, 2005). They are mainly task-related, intrinsic to job content, employee-administered, and closely related to a person's sense of internal growth. By contrast, de-motivators result in employee dissatisfaction if not alleviated; however, their mitigation may not result in higher job satisfaction. They tend to be extrinsic, environmental, and controlled by someone other than the employee herself.
+The duality view has been frequently adopted in the marketing domain as well to understand both product/service quality management and ensuing customer satisfaction (or dissatisfaction). Swan and Combs (1976) derived the concept of instrumental variables that represent product performance and expressive variables that embody the psychological performance of the product. According to them, customer satisfaction tends to improve when a product's expressive values are higher, but low expressive values do not necessarily translate into higher dissatisfaction with the product. Meanwhile, dissatisfaction with the product increases when its instrumental values fall below certain psychological anticipation. Johnston (1995) suggested that, while intangible interpersonal service aspects may be more significant in enhancing customer satisfaction, operational service aspects may play a bigger role in growing customer dissatisfaction. Mittal and Lassar (1998) divided service quality into technical quality and functional quality, and demonstrated their opposite influences on clients' service satisfaction. Duality is also discussed in terms of vantage and qualifying factors (Chowdhary and Prakash, 2005). While the former differentiates a service and, thus, is sought after by consumers as ‘order-winning’ attributes, the latter are conditions that clients take for granted in subscribing to the service and, thus, their presence is considered essential to prevent growth of consumer dissatisfaction.
+Several studies of marketing, especially in service quality management, extended the dichotomous view into the three-factor theoretical lens in which an explanatory factor (e.g., service quality) can be one of: a satisfier (or enabler) with a larger role in improving satisfaction; a dissatisfier (or inhibitor) that is more influential in growing dissatisfaction; and a bi-directional factor with equal effects on growing both satisfaction and dissatisfaction. Johnston and Silvestro (1990) categorized the explanatory variables into hygiene, enhancing, and dual factors in which the dual factor leads to both satisfaction and dissatisfaction rather than having a larger influence on one direction. Brandt (1987, 1988) and Brandt and Reffet (1989) utilize: penalty factors with minimum requirements (i.e., dissatisfiers); reward factors as value enhancing factors (i.e., satisfiers); and hybrid factors with both satisfying and dissatisfying forces. Matzler and Sauerwein (2002) labeled them in terms of basic factors with minimum requirements; excitement factors; and performance factors with hybrid (or dual) effects. They suggested that, while basic factors are generally low implicit and high explicit service attributes, excitement factors have high implicit and low explicit importance to customers. Research grounded on the premise of influential diversity of service quality factors has continued until recently with strong empirical supports (e.g., Bianchi and Drennan, 2012; Huang and Finch, 2010). Huang and Finch (2010) summarized that the influence of explanatory factors on a measured outcome (or performance) can be manifested in three different forms: some are exclusively dissatisfiers or satisfiers; some are not necessarily exclusively dissatisfiers or satisfiers but have bigger influences on one direction than the other; and some have uniform influences on both customer satisfaction and dissatisfaction.
+In the IS field, a few studies have embraced the dichotomy (or duality) view in their theoretical positioning. Notably, Cenfetelli (2004) theorized an influential duality (i.e., enablers and inhibitors) of explanatory IT features on a measured outcome (e.g., adoption). According to his theorization, enablers have bi-directional influences but inhibitors are expected to have only uni-directional and negative effects (i.e., discourage system adoption). According to Cenfetelli (2004), norms and expectations play a key role in determining the psychological significance (i.e., inhibitors) of IS attributes. If an attribute is normative (e.g., continued system availability), users take it for granted and notice its effect only when it is missing or weak, thus triggering their negative reactions. ]]><h target="2" match="part">Cenfetelli (2004) considers that most variables including information quality, system quality, and service quality are bi-directional influencers.</h><![CDATA[ Inhibitors and bi-directional influencers are independent and expected to have differing nomological networks of antecedents and consequences. The study, however, did not perform empirical testing of the duality theory.
+]]><h target="3" match="part">In addition, a few other IS studies have assumed a limited form of duality perspective. Lee et al. (2009) showed that information quality, as an enabler, was positively associated with significant increases in usage of mobile data services, but system quality, as an inhibitor, was not.</h><![CDATA[ System quality was also negatively associated with usage decrease, but information quality was not. Speier, Vessey, and Valacich (2003) study indicated that inhibitors have asymmetric effects on IT usage. For example, a decrease in such system interruptions as web browser pop-ups does not necessarily increase system usage. In addition, studies of IT innovation adoption by Parthasarathy and Bhattacherjee (1998) and Venkatesh and Brown (2001) implied that factors promoting IT adoption and usage differ from their inhibiting forces. Venkatesh and Brown's (2001) study was about the adoption of PC products rather than IT service.
+As the review reveals, despite the rich evidence of the duality and extended duality relationships between explanatory variables and measured consequences especially in the marketing discipline, IS studies undertaken through such a theoretical lens is scarce. In particular, to the best of our knowledge, no previous IS study took the extended duality position in which the significant effects of IT success conditions can be manifested in various ways (i.e., pure enabler, pure inhibitor, bi-directional influences in asymmetry, and bi-directional influences in symmetry). Judging that IT service is a form of technology-enabled service, empirical findings of service quality management in marketing conducted on the premise of the extended duality theory are expected to be highly relevant to the IS discipline as well.
+
+3. Additional research motivation
+Beside the anticipated value of the dichotomous views, there is another consideration that prompted this research: mixed empirical findings of theoretical relationships between independent and dependent variables. In fact, there is no shortage of IS research, which is grappling with the problem (e.g., Dong, Neufeld, & Higgins, 2009; Petter, DeLone, & McLean, 2008; Wilkin, Campbell, & Moore, 2013).
+Among the many topical areas suffering from the inconsistent or mixed empirical findings, we highlight research on “information systems success” as our study also focuses on the ‘success conditions of IT service’. Petter et al. (2008) performed a comprehensive review of 90 studies conducted between 1992 and 2007 in terms of the six dimensions (i.e., information quality, system quality, service quality, use, user satisfaction, and net benefits) of the DeLone and McLean (1992, 2003) IS success model. Petter et al.'s (2008) work was intended to examine the degree of empirical support for DeLone and McLean's theoretical model. Overall, their findings indicated mixed support for several relationships that were theorized between antecedent and consequence variables. Such mixed results were particularly apparent in the relationships of ‘systems quality →  use’, ‘systems quality → net benefits’, ‘information quality → use’, ‘service quality → user satisfaction’, and ‘service quality → net benefits’.
+The observed empirical inconsistency or conflicting outcomes might be due to the possibility that the dynamics between explanatory and consequence variables are not necessarily explicable by the linearity assumption between them. In other words, there may be more intricacy in their dynamics, and theoretical modeling may have to reflect the multiplicity of dynamics between implicated variables. This reasoning was another motivating force that spurred this research.
+
+]]></section>
+
+    <section name="Research model" category="research model and hypotheses"><![CDATA[
+4. Research model
+To test the validity of the extended duality perspective, empirical research was performed based on the key success conditions of mobile data services (MDS), the most prevalent form of IT service. Prior studies suggest that the success of IT service is highly related to the antecedents of information quality, system quality, economic value, and personal attributes (e.g., Cenfetelli, 2004; Chiu, Chiu, & Chang, 2007; Hong & Tam, 2006; Lee et al., 2009; Petter et al., 2008). In this study, information quality is defined as perceived quality of information content available through MDS . The system quality construct embraces general perceptions of MDS in allowing users to interact with software and hardware components. Economic value represents subjective value perceptions of MDS pricing. There has been no shortage of studies that highlight the importance of service pricing in success (e.g., Bowman & Ambrosini, 2000; Venkatesh & Brown, 2001). Whereas system quality, information quality, and economic value are primarily a function of vendor decisions, personal attributes also are expected to shape individual attitudes and usage behaviors of IT service (e.g., Agarwal & Prasad, 1998; Lewis et al., 2003). ]]><h target="5" match="part">Among the frequently cited is self-efficacy that encourages a person to tackle challenging tasks and, thus, is expected to afford personal confidence in taking advantage of IT service</h><![CDATA[ (Venkatesh & Brown, 2001).
+Consistent with previous studies (e.g., DeLone & McLean, 1992; Seddon, 1997; Venkatesh, Ramesh, & Massey, 2003; Wixom & Todd, 2005), the explanatory variables are presumed to affect the level of user satisfaction and subsequently usage of MDS. This precedence logic of “beliefs about an object at the cognitive level → attitudes as emotional responses → behaviors or behavioral intentions ” is also supported by the theory of reasoned action (Ajzen & Fishbein, 1980). Unlike other belief variables, the economic value perception may be uniquely positioned to affect both attitudes (e.g., satisfaction) and behaviors (e.g., usage) directly as the pricing consideration becomes a key influencer in the service usage decision (Cenfetelli, 2004; Venkatesh & Brown, 2001).
+To capture the possible influential dichotomy of the antecedent variables, satisfaction and dissatisfaction are separated in the research model although they are at the opposite sides of the same concept dimension. Then, behavioral changes in MDS usage (i.e., increase vs. decrease) are regarded as direct or indirect consequences of the exogenous variables. The separation of satisfaction and dissatisfaction in the research model is theoretically well-grounded as well. For instance, weak satisfaction may not necessarily mean strong dissatisfaction and vice versa (Anderson & Sullivan, 1993; Oliver, 1993). Mittal et al. (1998) also suggested that customers can experience mixed feelings (i.e., both satisfaction and dissatisfaction) toward the features of a product/service, and that capturing this ambiguity using a traditional measurement approach may be difficult.
+In embracing the extended duality premise in the context of MDS, we make several assumptions. First, a relatively steady state of MDS usage after adoption is assumed as a function of the user's unique personal needs. Second, substantial variations in the level of usage can exist even among users who are equally satisfied or dissatisfied with MDS, again for personal and/or circumstantial reasons unique to each subscriber. Third, users have implicit or explicit levels of expectation about information quality, system quality, and pricing of MDS, which vary from person to person. In closing the section, it is emphasized that the contribution of this research is not in understanding the dynamics between the explanatory (i.e., success conditions) and performance variables of MDS included in this study, but much more in testing the theoretical view of extended dichotomy through their relationships.
+
+5. Hypotheses
+5.1. Information ouality
+This explanatory variable represents the characteristics of information at the semantic level (DeLone & McLean, 1992). In MDS, content may be available in text, sound, image, or other multimedia format; richness of content partly depends on the presentation method. The quality of information is believed to be intrinsic rather than environmental as its consumption is the primary reason for subscribing to MDS. Not surprisingly, information quality is known to “ultimately” affect system adoption and usage and therefore has been a key criterion in determining IT success in many studies (e.g., Bharati & Chaudhury, 2006; Cenfetelli, 2004; Chiu et al., 2007; Davis, Bagozzi, & Warshaw, 1989).
+Information quality drives satisfaction with MDS, augments user experience, and ultimately influences its usage (McKeen & Smith, 2009). Information is the reason most people use MDS. Information quality is therefore expected to be a factor that differentiates IT services (Chowdhary & Prakash, 2005). When high-quality information is offered to strike a balance between passive and active absorption, and passive and active immersion (Pine & Gilmore, 1999), MDS users are expected to be more satisfied with their experience and subsequently more engaged in the service. By enriching user tasks and user experience, interactions with an IT service may become more relational than transactional (McKeen & Smith, 2009) and higher-quality information may lead to greater satisfaction with MDS.
+By contrast, when information quality does not meet implicit or explicit user expectations, dissatisfaction may result. As finding and using information is fundamental to MDS use, dissatisfaction should rise when information is irrelevant, inadequate in scope and range, untimely or improperly updated, unreliable, and/or poorly presented. A certain level of information quality may be implicitly assumed when a user adopts MDS in order to meet his/her hedonic or utilitarian needs. As obtaining information is fundamental to MDS subscription, users may utilize a psychological compromise to simply obtain necessary information as long as the perceived quality remains at the minimum acceptable level. This leads us to reason that the dissatisfying effects of information quality may not be as strong as its satisfying effects.
+
+Thus, higher information quality is expected to be a differentiator rather than a qualifier of MDS service from the duality perspective (Lee et al., 2009). Users may not have a transcended, relational experience with their MDS of weak information quality, but may simply maintain a transactional relationship with it based on compromised psychological factors (McKeen & Smith, 2009). ]]><h target="2" match="part"> The discussion leads us to suggest that information quality is a hybrid factor (Matzler Sauerwe 2002) functioning as both a satisfier (i.e.,enabler) and a dissatisfier (i.e., inhibitor), with the former having a larger effect than the latter. It is hypothesized that:
+H1
+
+Perceived information quality is an asymmetric bi-directional influencer that has a stronger effect on satisfaction with MDS than on dissatisfaction with MDS.</h><![CDATA[
+
+
+5.2. System quality
+System quality can be defined as the general perception of a system's software and hardware performance. System quality has been considered a crucial success factor of IT service (Chiu et al., 2007; DeLone and McLean, 1992, 2003). Representing the technical side (Mittal & Lassar, 1998) of MDS service, its quality largely rests on such system elements as bandwidth and accessibility, operational support systems, terminals such as cellular phones, user applications, and interface design. User perceptions of system quality are formed by its integrity as a whole in effectively fulfilling user expectations and providing positive experiences. System quality, therefore, reflects a general impression of the MDS platform on which information content is offered, an extrinsic or supportive condition under which clients use the service. The platform is in this sense contextual or instrumental, and is a qualifying condition (Chowdhary and Prakash, 2005) for MDS subscribers. Its presence represents an implicit or explicit condition that MDS users take for granted in subscribing to the service.
+Because system quality is a qualifying condition (Chowdhary & Prakash, 2005), service users are expected to consciously or unconsciously develop certain performance norms or expectations toward the service platform. If the expectations are met, that is, if the platform does not hamper users' information needs, they may not care much about its performance any more. For instance, if a webpage downloads slightly faster than normal, it may not make much difference to or have a lasting psychological impact on the user. Thus, the effect of system quality as a motivator in facilitating user satisfaction and subsequent usage increase may be limited. However, when the quality of an IT platform is poorly perceived below a minimum requirement (Matzler and Sauerwein, 2002) or weaker than what is implicitly or explicitly taken for granted, the user may become more conscious of the fact that the system is not supporting his/her needs effectively. ]]><h target="3" match="part">Poor system quality may therefore become a major inhibitor of sustained MDS satisfaction, resulting in negative user reactions </h><![CDATA[(Cenfetelli, 2004; Lee et al., 2009). Thus, system quality may be a necessary condition to, but not a sufficient condition of, MDS success. We therefore hypothesize that:
+H2
+
+Perceived system quality is a pure inhibitor in which its higher level does not result in higher satisfaction with MDS but its lower level grows dissatisfaction with MDS.
+
+
+5.3. Economic value
+Value is an economic concept that explains why people engage in business relationships. It is viewed in terms of trade-offs between benefits and sacrifices, such as the ratio of price to quality. Studies have pointed to special sensitivity of pricing and economic considerations affecting user perceptions (e.g., satisfaction) (Hong and Tam, 2006; Lim, Widdows, & Park, 2006). Perceived value of IT service is a function of service quality (Chiu et al., 2007) and pricing (Athanassopoulos, 2000) and has been a key criterion in determining IT success. The economic value perception of a service can be derived explicitly (e.g., customer's self-stated importance) and also implicitly (e.g., enhancing value perceptions) (Vavra, 1997). If the pricing of MDS adequately reflects its service quality or fees are lower for the same level of service quality, then a positive (surplus) perception should enhance the level of its user satisfaction. From that reasoning, it is expected to be an enabler that drives user attitudes and a vantage factor that differentiates MDS service. It has an important ‘functional’ utility (Mittal & Lassar, 1998) that may drive user satisfaction with MDS. Pricing may be a strong ‘order winning’ factor' (Chowdhary & Prakash, 2005) when the prevalence of similar MDS services makes it difficult to differentiate a vendor's service quality from competition. As MDS is increasingly becoming a necessity and as it is more commoditized, such vantage or discriminant effect of service pricing may get even stronger.
+Meanwhile, certain theoretical viewpoints imply that economic value also becomes a significant qualifying condition of MDS. Weather an end-user realizes it or not, he/she may have a norm or expectation regarding the adequate level of financial spending on an IT service for its positive experience. The cost constraint is a key resource barrier to IT adoption intent (Venkatesh & Brown, 2001). Meeting minimum requirements of service quality (e.g., pricing) is important for market entry (Matzler & Sauerwein, 2002) and, in that sense, the economic value perception is expected to become an inhibitor if it is beyond a certain value point. That is, pricing resembles an externally stimulated incentive (Bassett-Jones & Lloyd, 2005) and has an instrumental (Swan & Combs, 1976) quality. If users perceive that the MDS price is excessively high or does not justify overall service quality after its adoption, this may result in a breach of the end-user's psychological qualifying condition and subsequently grow dissatisfaction with the MDS service. If a user already maintains a certain usage level, a service fee hike, despite the steadiness of other service quality levels,may grow dissatisfaction because of the weakened value perception. From another angle, with increased competition among MDS, competitive pricing may gradually shift to a qualifying or maintenance condition that is considered essential. Weak competitive position in pricing, thus, may discourage user motivation, adversely affecting customer perceptions of service satisfaction. ]]><h target="4" match="part">The discussion leads us to suggest that the economic value of MDS plays a symmetric role as an enabler (or satisfier) and an inhibitor (or dissatisfier).</h><![CDATA[
+H3
+
+The economic value perception of MDS is a symmetric bi-directional influencer.
+
+
+Consumer surplus in terms of economic value perceptions is expected to positively influence MDS usage. A number of studies have demonstrated a close tie between the positive perception of service cost and its usage level (Cronin, Brady, & Hult, 2000; Hong & Tam, 2006; Zeithaml, 1988). In the context of MDS, therefore, presuming that the cost of MDS is proportionate to its usage (e.g., number of packets exchanged), the change in usage behaviors is expected to be a direct function of its economic value. Further, we expect that the effects of the cost factor on usage increase/decrease share is similar to its effects on both satisfaction/dissatisfaction for two reasons.
+First of all, value perceptions of MDS are expected to have psychological elements germane to be both an enabler (e.g., differentiator, order winning factor) and an inhibitor (e.g., qualifier, maintenance condition). Price wars frequently exercised by IT service providers in an attempt to draw new customers imply that service pricing is a major ‘order-winning’ factor that incentivizes not only MDS adoption but also its post-adoption usage. On the other hand, the cost constraint is a key resource barrier in shaping actual usage behaviors (Venkatesh & Brown, 2001). Consumers may have a narrow zone of tolerance when service pricing is beyond the ‘adequate’ level, making it a dominant consideration in evaluating the service (Chowdhary & Prakash, 2005). From that perspective, the economic value perception of IT service is also expected to be a significant behavioral inhibitor (Cenfetelli, 2004) of MDS.
+Second, the similarity of influential dynamics between ‘economic value—(dis) satisfaction’ and ‘economic value—usage increase/decrease’ is also grounded on the expectation of strong connectivity between (dis) satisfaction and MDS usage behaviors. The theory of reasoned action (Ajzen & Fishbein, 1980) and the technology acceptance model (Davis, 1989) suggest that attitudes of an individual toward IT bear much impact on his/her subsequent behavioral intentions (e.g., adoption intentions) or behaviors (e.g., usage). (Dis) satisfaction represents personal attitudes and, therefore, is expected to influence user behaviors of MDS usage.
+In sum, as a key external influence of IT usage, the economic factor is expected have a dichotomous bearing on the dependent variable. MDS pricing is expected to be ‘critical’ not only as an enabling factor that motivates consumers to enhance their usage but also as an essential element that encourages consumers to stick to the current IT service. The behavioral sensitivity in both directions is expected to be even higher when the usage of MDS is personal (rather than business-driven) for hedonic and utilitarian gains. It is therefore hypothesized that:
+H4
+
+The economic value perception of MDS is a symmetric bi-directional influencer in affecting usage behaviors.
+
+
+5.4. Self-efficacy
+Self-efficacy from the perspective of social cognitive theory is a person's confidence and beliefs in successfully undertaking intended tasks (Bandura, 1977). According to the theory, a person's self-efficacy perception is partially influenced by external experience and affects every facet of human behavior. Personal IT adoption and usage is heavily affected by individual attributes such as personal confidence in knowledge and difficulty of use (Venkatesh & Brown, 2001). Some researchers have noted the particular role of self-efficacy and personal innovativeness in using technology (Agarwal & Prasad, 1998; Lewis et al., 2003). Personal innovativeness, an individual's tendency to try new technologies, is not included in this research, as it is expected to play a more critical role in the adoption of IT service rather than post-adoption usage. ]]><h target="5" match="part">Meanwhile, self-efficacy should continuously shape a person's perceptions of IT service and, thus, is expected to affect its usage behaviors during the post-adoption period.</h><![CDATA[
+]]><h target="5" match="part">In the context of MDS, self-efficacy is a form of self-confidence that a user feels in taking advantage of benefits MDS offers.</h><![CDATA[ From that perspective, a person's self-efficacy perception may be closely associated with his/her sense of ease of use as a confident user may naturally perceive MDS as easy to use (Agarwal, Sambamurthy, & Stair, 2000; Lewis et al., 2003; Venkatesh & Davis, 1996) and may, thus, be more inclined to use it. Consequently, self-efficacy may lend a strong stimulation for MDS usage. An MDS user with higher self-efficacy may also be more tenacious in completing a task than the one with lower self-efficacy. Conviction in utilizing technology may further boost the appetite for its usage as more value is obtained from the experience (Herath & Rao, 2009). ]]><h target="5" match="part">Self-efficacy, therefore, may embolden one's motivation to reap technology benefits (Kim, Kim, Hwang, 2009).
+    Conversely, weak self-convictions in using MDS may become a significant psychological roadblock to its usage </h><![CDATA[(Cenfetelli, 2004). A person with low self-efficacy may perceive that a task is more challenging than it actually is. People with low self-efficacy may not have much confidence in themselves and may be less inclined or motivated to challenge and learn unfamiliar subjects. An MDS user of low self-efficacy, therefore, may lack persistence in achieving tasks and, thus, be more easily discouraged in utilizing MDS. To make the matter worse, rapid advancement and proliferation of digital services these days may further erode a sense of self-efficacy and confidence in MDS usage (Venkatesh & Brown, 2001). ]]><h target="5" match="part">With the expected enabling and inhibiting effects of self-efficacy on MDS usage, it is proposed as an explanatory variable that has symmetric bi-directional effects on MDS usage.</h><![CDATA[
+H5
+
+A person's perception of self-efficacy is a symmetric bi-directional influencer in shaping his/her MDS usage behaviors.
+
+
+Self-efficacy is fundamentally different from the other success conditions (i.e., system quality, information quality, and economic value) as the former is a personal attribute. The level of system quality, information quality, and economic value are primarily conditioned by MDS providers and are, thus, external to MDS users. The causality between the three variables and dis(satisfaction) is therefore logical as there is a clear time-dependency between them. When it comes to the possible relationship between self-efficacy and dis(satisfaction), such clear time-dependency and causality become more problematic as both variables are internal to MDS users. Furthermore, we anticipate that user (dis) satisfaction is more experiential, meaning more conductive to external stimuli, than internal conditions of a person. Based on this reasoning, it appears that a person's (dis) satisfaction with MDS is little swayed by his/her own self-efficacy perceptions and, thus, links between these variables are not proposed.
+
+5.5. (Dis) satisfaction vs. usage change
+McKinney, Yoon, and Zahedi (2002) proposed satisfaction and dissatisfaction as two opposite extremes in measuring overall user satisfaction with a web service. However, low satisfaction may not be necessarily equivalent to higher dissatisfaction and vice versa (Anderson and Sullivan, 1993; Oliver, 1993). Also, a customer may be satisfied with certain aspects of IT service and at the same time dissatisfied with other aspects of the same IT service, a situation where both satisfaction and dissatisfaction exist concurrently (Mittal et al., 1998). For instance, customers may be satisfied with the intended functionality of MDS, but at the same time, they may be dissatisfied with the operational complexity and flaws (e.g., software bugs) of its embedded functions. Accordingly, satisfaction and dissatisfaction with a particular service/product may be treated separately to examine the divergent effects of antecedents. Although falling along the same semantic line, satisfaction and dissatisfaction may result in different affective consequences and intentions to continue service subscriptions (Oliver, 1993). Studies have repeatedly shown that satisfaction positively influences service/product continuation, while dissatisfaction reduces service/product usage and increases the tendency to discontinue (Chiu et al., 2007; DeLone and McLean, 2003; LaBarbera and Mazursky, 1983; Mittal et al., 1998). Users satisfied with an information system form attitudes compatible with sustained usage, while dissatisfied users have a greater chance of suspending usage (Bhattacherjee, 2001). Thus, we hypothesize that:
+H6
+
+Satisfaction and dissatisfaction with MDS are associated with its usage increase and decrease respectively.
+
+]]></section>
+
+    <section name="Research methods" category="methods"><![CDATA[
+6. Research methods
+6.1. Survey design
+Indicators of the study variables were borrowed from previous studies and adapted to the study context. The information quality and system quality constructs are inherently multidimensional and accordingly positioned as second-order constructs manifested by the first-order indicator variables (Cenfetelli, 2004; DeLone and McLean, 1992). Information quality can be manifested in diverse theoretical dimensions, including accuracy, precision, relevance, currency, completeness, sufficiency, comparability, timeliness, reliability, understandability, and scope (Bharati and Chaudhury, 2006; DeLone and McLean, 1992; Miller, 1996; Redman, 1996; Strong, Lee, & Wang, 1997). After reviewing current studies, relevance, timeliness, reliability, and scope were determined as salient aspects of MDS (Lee et al., 2009; McKinney et al., 2002). As success conditions, they are conceptually divergent and cover important domains of information quality in the context of MDS (refer to Table 1 for definitions).
+Table 1. Operationalization of study variables and literature sources.
+Variables	Operationalization	# of items	Sources of survey items
+Exogenous variables	Information quality	Relevance: adequacy, precision, and significance of available information	3	Bailey and Pearson (1983); Davis et al. (1989)Seddon (1997); Wilkerson et al. (1997); McKinney et al. (2002)
+Timeliness: currency of available information	3
+Reliability: accuracy and consistency/stability of available information	3
+Scope: completeness and exhaustiveness of available information	3
+System quality	Access: degree of accessibility, stability, responsiveness, and availability of MDS	4	Bailey and Pearson (1983); Novak, Hoffman, and Yung (2000); Wilkerson et al. (1997); McKinney et al. (2002)
+Usability: design aspect of user screens in terms of ease of use, visual attractiveness, user friendliness, and convenience in delivering MDS	4
+Navigation: effectiveness in navigating between screens while using MDS	3
+Interactivity: effectiveness of personal design (or customization)	4
+Satisfaction/dissatisfaction	Degree of satisfaction with MDS	4	McKinney et al. (2002); Oliver (1980); Westbrook & Oliver (1980)
+Degree of dissatisfaction with MDS	4
+Self-efficacy	Self-confidence in MDS usage	4	Lewis et al. (2003)
+Economic value	Perceived value of MDS for the price	3	Hong and Tam (2006)
+Endogenous variables	Usage increase/decrease	Perception of MDS usage increase/decrease during the past six-month period	3	Seddon (1997)
+The system quality construct embraces performance aspects of mobile service platform including access convenience, flexibility, integration, response time, sophistication, reliability, accessibility, stability, system speed, usability, ease of use, navigation, and network speed (Bharati and Chaudhury, 2006; DeLone and McLean, 1992; Kim and Kim, 2002; Liao and Cheung, 2001; Wilkerson, Bennett, & Oliver, 1997). Among the many candidates, access, usability, navigation, and interactivity were determined as germane system issues for individual users of MDS (Lee et al., 2009; McKinney et al., 2002) (refer to Table 1 for definitions). These factors advance user experience in terms of the ubiquity, flexibility, and contextuality of MDS, moderating the effects that physical limitations of a mobile device (e.g., small screen size and keypad) might have on its usage (Jarvenpaa, Lang, Takeda, & Tuunainen, 2003; Lee and Benbasat, 2003).
+A customized survey was designed for each of the usage increase and usage decrease groups to gather data from the two different sampling frames. The items of MDS satisfaction and MDS increase were included in the survey for the usage increase group, and those of MDS dissatisfaction and MDS decrease were contained in the usage decrease group survey (see Appendix 1). Although we position satisfaction and dissatisfaction as two constructs in our study, we use the same measures with reverse wording for two reasons. First, the survey groups are separate. In this setup, the triggering forces of weak satisfaction may not be necessarily identical to those of strong dissatisfaction. Second, we can impartially compare the influences (i.e., path coefficients) of explanatory variables on user (dis) satisfaction using the statistical difference test. All self-report survey questions were scored on a 7-point Likert scale in which 1, 4, and 7 mean “strongly disagree”, “neutral”, and “strongly agree” respectively. A detailed definition of MDS was provided in the beginning of the questionnaire. Definitions of study variables, their survey indicators, and literature sources of survey items are summarized in Table 1.
+6.2. Data gathering
+To gather the survey data, 2500 potential respondents were randomly identified from registered members of the online survey company, www.wsurvey.com. The sample included a similar number of subscribers from each of the three mobile service carriers in Korea: Sunkyoung Telecom (SKT), Korea Telecom Freetel (KTF), and LG Telecom (LGT). A stratified random selection was possible because each carrier is assigned a unique initial three-digit code for mobile phone numbers (e.g., 011, 016, and 019 for SKT, KTF, and LGT, respectively). Then, the selected subscribers were contacted via email and invited to visit the survey site. Visitors were first asked if they have been using MDS for more than 6 months and if their MDS usage habits had changed (i.e., increased or decreased) during the previous six-month period. Then, depending on the response to this initial question, a customized survey form was presented.
+For data gathering, the submission process was controlled so that a maximum of 200 responses (100 increases and 100 decreases) from each of the three mobile carriers could be submitted within the one-month survey period, resulting in 600 total submissions (300 in the increase group and 300 in the decrease group). This control was deemed necessary because of the possible skewness resulting from random responses that could heavily favor usage increase and cause a subsequent bias in the data analysis. During the one month-long survey period, 576 responses were submitted (23% response rate). Of these 576 responses, 15 were incomplete and were thus excluded, resulting in a final sample of 561 responses (300 increase and 261 decrease) for analysis. The fact that the number of respondents in the decrease group did not reach the target of 300 within the data-gathering period confirmed our suspicion that the number of users who decreased MDS usage in the previous six months was considerably smaller than the number of users who increased usage.
+
+6.3. Profile of survey respondents
+Table 2 summarizes usage of MDS applications by the survey respondents. Respondents were roughly divided into similarly sized groups of male and female. The majority (53%) of respondents were business professionals.
+Table 2. MDS usage of survey respondents.
+Summary items and categories	Test (N = 561)
+MDS Usage	Ringtone	29.9%
+Color ring/music	10.3%
+Wall screen	1.4%
+Game	14.3%
+Movies/multimedia	2.0%
+Photo	8.4%
+MMS/email	5.9%
+Messenger	0.9%
+Geographical information	0.9%
+Searching	7.5%
+News/stock/lifestyle info.	6.8%
+Shopping/reservations	1.6%
+m-Banking	7.3%
+Event/lottery	1.4%
+Other	1.4%
+
+Job	Student	27.5%
+Professional/business person	53.3%
+Homemaker	10.3%
+Business owner	6.4%
+Other	2.5%
+
+Gender	Male	45.6%
+Female	54.4%
+6.4. Validity testing
+Validity testing was conducted separately for the usage increase and decrease groups (refer to Appendix 2). All studied constructs had composite scale reliability index (CSRI) and average variance extracted (AVE) values greater than 0.7 and 0.5, respectively, confirming their reliability (Liang, Saraf, Hu, & Xue, 2007). Comparison between factor loadings and cross-loadings, and between the values of squared AVE and the squared values of correlation coefficients, indicated appropriate discrimination between the study variables (Chin, 1998; Gefen, Straub, & Boudreau, 2000).
+The reliability of self-reported survey responses can be tainted by common method bias (CMB) (Podsakoff, MacKenzie, Lee, & Podsakoff, 2003). The relatively high correlations (>0.70) between study variables raise multicollinearity concerns despite the fact that their values are lower than the associated squared AVE values. However, the high correlations may not constitute a significant hazard in this study because they are assumed to exist between the first-order variables of a reflective second-order construct. Nonetheless, a CMB test was conducted to examine the possibility of systematic measurement errors.
+First, Harman's one-factor test was conducted to determine any common factor that would explain the majority of common variance (Podsakoff et al., 2003). The test showed that the amount of variance explained by the identified factors was relatively evenly distributed: mean = 8.38% and S.D. = 2.14 for the increase group, and mean = 8.41% and S.D. = 1.96 for the decrease group. Second, the highest factor identified through the principal component analysis was added to the partial least squares (PLS) model as a control variable to examine its effect on the dependent variable (Podsakoff et al., 2003). The significance of the control factor is an indication of CMB (Podsakoff & Organ, 1986). Overall, a weak contribution of the control variable to R2 was observed as R2 improved very little: 0.011 (satisfaction), 0.007 (dissatisfaction), MDS increase (0.015), and MDS decrease (0.003). Based on these test results, we concluded that CMB was not a significant issue in this study Fig. 1.
+Research model
+Download full-size image
+Fig. 1. Research model.
+
+]]></section>
+
+    <section name="Results" category="results"><![CDATA[
+7. Results
+For hypothesis testing, both structural equation modeling and statistical difference tests between corresponding path coefficients of structural models are utilized. PLS with bootstrapping estimated the structural models and Fig. 2 summarizes the path coefficients and their statistical significance for both usage increase and decrease groups.
+SEM analysis
+Download full-size image
+Fig. 2. SEM analysis.
+Then, the statistical differences between corresponding path coefficients of the two models (i.e., increase vs decrease groups in Fig. 2) are compared relying on the following test statistics:
+Spooled={[(N1−1)(N1+N2−2)]×SE12+[(N2−1)(N1+N2−2)]×SE22}t=(PC1−PC2)[Spooled×(1/N1+1/N2)],,where PC1 and PC2 are path coefficients, N1 and N2 are sample size, and SE12 and SE22 represent standard errors of path coefficients (Keil et al., 2000; Teo, Chan, Wei, & Zhang, 2003). To compare the magnitude of the coefficients irrespective of changes in direction, their absolute values were utilized. The path coefficients (Fig. 2) and comparative tests confirmed that the effect of information quality on (dis) satisfaction was significant with asymmetric influences (H1 supported). The effect of system quality on dissatisfaction was significant but not on satisfaction, confirming the variable's role as a pure inhibitor (H2 supported). The symmetric, duality effect of economic value in significantly growing both satisfaction and dissatisfaction was not supported at p = 0.05 (−0.11 of the decrease group, however, was significant at p = 0.1). According to the difference test (Keil et al., 2000; Teo et al., 2003), 0.16 is statistically larger than 0.11 (absolute value of −0.11), an indication that the economic factor has a higher effect on growing service satisfaction (H3 not supported). The economic value perception in boosting MDS usage (0.11) was not significant enough at p = 0.05 although it was significant at p = 0.1. In the decrease group, however, the economic value variable negatively affected MDS usage with the coefficient, −0.18, statistically significant at p = 0.05. The comparative test also indicates the existence of asymmetric influences of economic pricing on MDS usage. Unlike the larger effect on growing satisfaction than curtailing dissatisfaction, the economic value perception showed a bigger influence on decreasing MDS usage than growing it (H4 not supported). Lastly, self-efficacy was shown to have a highly significant impact on growing MDS usage but its inhibiting effect on MDS usage was negligent, an indication of its role as a pure enabler (H5 not supported). As anticipated, in both usage increase and decrease groups, satisfaction and dissatisfaction were highly significant in affecting MDS usage respectively (H6 supported). The test results are summarized in Table 3.
+Table 3. Summary of hypothesis testing.
+Hypotheses	Estimator	Survey groups
+Usage increase (N = 300)	Usage decrease (N = 261)
+H1: Information quality → satisfaction/dissatisfaction (H1 supported)	Path coef.	0.592	−0.172
+S.E.	0.062	0.071
+t-Value	69.886***
+
+H2: System quality → satisfaction/dissatisfaction (H2 supported)	Path coef.	0.089	−0.279
+S.E.	0.073	0.096
+t-Value	−23.382***
+
+H3: Economic value → satisfaction/dissatisfaction (H3 not supported)	Path coef.	0.164	−0.105
+S.E.	0.061	0.074
+t-Value	7.636***
+
+H4: Economic value → usage increase/decrease (H4 not supported)	Path coef.	0.105	−0.176
+S.E.	0.074	0.058
+t-Value	−11.877***
+
+H5: Self-efficacy → usage increase/decrease (H5 not supported)	Path coef.	0.242	−0.002
+S.E.	0.063	0.086
+t-Value	32.969***
+
+H6: Satisfaction/dissatisfaction → usage increase/decrease (H6 not supported)	Path coef.	0.44**	0.28**
+*p < 0.05, ** p < 0.01, *** p < 0.001.
+
+]]></section>
+    
+    <section name="Discussion" category="discussion"><![CDATA[
+8. Discussion
+8.1. Empirical findings
+Most IS studies have taken the theoretical position that the influence of success conditions on measured performance is symmetric; only a relatively small group of IS studies raised questions against the dominant assumption. ]]><h target="1" match="full">This study further extended the duality of directional influences by positing that the influence of success conditions on measured performance of IT service can take diversified directional patterns: pure enabler, pure inhibitor, asymmetric bi-directional influencer and symmetric bi-directional influencer.</h><![CDATA[ This line of reasoning sets this study apart from the scant IS research that viewed duality largely through the limited theoretical lens of statistical significance in each direction (e.g., Lee et al., 2009). ]]><h target="1" match="part">The proposed hypotheses are intended to explore the viability of the extended duality perspective based on the recurring success conditions of MDS. Empirical testing of the theoretical view was conducted by examining the directional effects of four primary IT success conditions of MDS on the performance aspects (i.e., (dis) satisfaction and usage) based on two separate cross-sectional survey datasets. Several patterns emerged.</h><![CDATA[
+]]><h target="2" match="part">Information quality and system quality had divergent strengths in influencing user satisfaction and dissatisfaction.</h><![CDATA[ ]]><h target="2" match="full">Information quality was a significant enabler and inhibitor, but played a relatively larger role in shaping user satisfaction (0.59) than dissatisfaction (−0.17) indicating its asymmetry of influence.</h><![CDATA[ ]]><h target="3" match="full">System quality, meanwhile, had a greater influence on increasing user dissatisfaction (−0.28) than satisfaction (0.09). In fact, it was significant only in growing dissatisfaction, confirming its role as a pure inhibitor.</h><![CDATA[ When compared, the standardized path coefficients suggest that information quality (0.59) is more influential than system quality (0.09) in increasing user satisfaction, but system quality (−0.28) has a larger effect than information quality (−0.17) in growing service dissatisfaction with MDS. ]]><h target="3" match="part">Overall, the influential asymmetry of system quality on (dis) satisfaction tends to be more extreme than that of information quality.</h><![CDATA[
+
+The analysis results also underscore the clear influence that people's economic value perceptions of MDS have on their attitudinal and behavioral reactions in terms of (dis) satisfaction and service usage. In fact, the effect of economic value was statistically significant in 2 out of 4 path coefficients at p = 0.05. The remaining two path coefficients (i.e., 0.11 for the increase group and −0.11 for the decrease group) were also strong enough to be significant at p = 0.1. The statistical strengths reaffirm that people are sensitive to the economic value of IT service.]]><h target="4" match="full"> In the hypothesis testing, although bi-directional symmetry of influences was hypothesized, empirical testing revealed that the economic factor is more influential as a satisfier than as a dissatisfier.</h><![CDATA[ These results imply that service pricing may be an intrinsic (or vantage) rather than an external (or qualifying) factor in gauging MDS satisfaction (Chowdhary & Prakash, 2005). However, on the behavioral side (i.e., actual MDS usage), the influential asymmetry reverses with its impact stronger as an inhibitor than as an enabler. ]]><h target="3" match="part">This seems to imply that the economic value perception as an inhibiting or discouraging force is felt greater when it comes to practical decisions regarding IT service usage. In addition, comparison of the standardized path coefficients suggest that the influence of economic value perception (0.16) on growing user satisfaction is weaker than that of information quality (0.59), but stronger than that of system quality (0.09).</h><![CDATA[
+]]><h target="5" match="full">The empirical analysis reveals that, unlike our expectation, self-efficacy was a pure enabler in the context of MDS usage.</h><![CDATA[ The standardized path coefficients indicate a strong positive contribution to (0.24 in the increase group) but no inhibiting effect (0.00 in the decrease group) on MDS usage. The overall direct influence of self-efficacy (0.24) on growing MDS usage tends to be stronger than that of economic value (0.11) but weaker than that of service satisfaction (0.44). Additionally, its influence on discouraging MDS usage was considerably weaker than other factors (i.e., service dissatisfaction and economic value perception). This seems to confirm that overall changes in MDS-usage are conditioned much more by vendor-imposed quality conditions than those inherent to service users. Finally, the data analysis reaffirms a clear connection between the level of satisfaction/dissatisfaction and usage increase/decrease. One last observation is that, as shown in the R-square values, the explanatory factors were considerably more effective in predicting usage increase (0.43) than decrease (0.14) behaviors. Overall, the rather distinctive, directional patterns of influences the IT success conditions had on outcome variables suggest that the theoretical lens of extended dichotomy can be valuable in better comprehending the nomological relationships between the implicated variables of IT service.
+
+8.2. Implications
+This study has both academic and practical implications. It was grounded on the extended theoretical presumption that, by adopting both uni-dimensionality (e.g., pure enabler or inhibitor) and asymmetric/symmetric bi-directionality (or duality) perspectives, we can better comprehend how antecedent variables shape user attitudes and behaviors in IT service. The extended dichotomy theory underlying this empirical work is a type of EP (explanation–prediction) theory (Gregor, 2006). Among the conditions of a good EP theory are internal and external validities. The internal and external validities of the diversified perspective have been extensively demonstrated in marketing research (e.g., Swan & Combs, 1976; Mittal & Lassar, 1998; Mittal et al., 1998). Thus, we suggest that this theoretical paradigm be extended to the study of other success conditions of IT services. For example, two studies (Benbasat, Gefen, & Pavlou, 2008; Charki & Josserand, 2008) emphasized the role of distrust as an independent conceptual dimension, rather than treating it as the opposite of trust. From the dichotomy perspective, low trust may not be considered equivalent to high distrust, and vice versa. Future IS research may distinguish the effects of such negatively labeled variables (e.g., dissatisfaction, distrust) to better grasp the dynamics between antecedents and consequences of a nomological network. As related, there are other dependent variables that may be subject to the diversified dichotomy-based probe such as technology acceptance vs. rejection; IS project success vs failure; and changes in other attitudinal (e.g., usefulness) and behavioral responses (e.g., IT service switching).
+This study also has practical implications. Above all, the findings offer insights into how to develop effective marketing and promotional strategies to motivate IT service usage among satisfied customers, while at the same time keeping dissatisfied customers from defecting. For instance, given limited resources, if a firm's strategic mix desires to minimize the attrition of current subscribers rather than growing its customer base due to the saturated market situation, then it may pay more attention to sustaining the system quality its customers have come to expect. However, if the firm's strategic goal is to grow its customer base or market share, then it may want to differentiate its service quality from that of the competition by enhancing customers' perceptions of information quality or economic value. Our findings also suggest that practitioners may treat customer satisfaction and dissatisfaction as two distinct dimensions of business strategy in order to better respond to market competition and customer expectations. For example, executing a service strategy designed to increase user satisfaction may not have an equivalent effect on curtailing dissatisfaction.
+
+8.3. Limitations and future research
+There are limitations of this study that warrant further empirical investigations. First of all, generalizing the empirical findings of this study may be premature unless more replications are performed. For instance, effects of the economic value factor was somewhat mixed as there are two path coefficients that are at the borderline of statistical significance. Also related to future research efforts is a need to tie the service usage context (e.g., personal vs. organizational usage) to measured outcomes (e.g., satisfaction, usage change). For example, this study focused on personal usage of IT service. However, the characteristics of IT service usage at the organization level could differ considerably from those driven by individual needs. Further research can be done to understand how IT service utilization in the business context supports the diversified duality (or non-duality) perspective. The results may turn out to be quite different when IT service usage is conditioned by organizational tasks in which people are subject to a lesser degree of freedom in their behaviors.
+
+Future research may incorporate possible individual-level differences between the two increase and decrease groups into the model to control their compounding effects. Doing this will take determination of individual-level variables that may be particularly germane to the change behaviors in MDS usage. ]]><h target="5" match="part">In fact, self-efficacy in this study could be considered a variable of this kind, but more can be included in the estimation model.</h><![CDATA[ As a related analytical method, future research may utilize segmented regressions, with group differences controlled, to validate the proposed asymmetric effects of the explanatory variable. With the segmented regression (also known as piecewise regression), the independent variable is partitioned into intervals and a separate line is estimated for each interval (Ryan & Porth, 2007).
+There are also other research issues that can be examined in future studies. First, traditional factors, generally considered to be important in explaining the behaviors of IT service users, may be revisited to explore their potentially divisive role. For example, as an important variable of the technology acceptance model, usability (or usefulness) may play a more significant role as an enabler, while ease of use may be a more prominent inhibiting factor. Second, besides the variables examined in this study, other variables may play a pivotal role in determining the level of (dis) satisfaction and usage of IT services. For example, different combinations of first-order variables in information quality, system quality, and personal attributes may be tried to re-test the reliability of our findings. Third, the effects of IS service quality may be dynamic, shifting over time. For example, expectations of IT service quality could rise as competition intensifies, as market matures, and as consumers are repeatedly exposed to the same service. Then, once considered as a differentiator (generally enabler) of IT service may gradually shift its role to an inhibitor that people anticipate to have or take for granted (Chowdhary & Prakash, 2005). The possible shifting of success conditions in their role can be theorized and empirically tested.
+In conclusion, the success conditions of MDS divulged influential diversification in conditioning user (dis) satisfaction and usage changes. The statistical comparisons between the two survey groups (i.e., usage increase vs decrease groups) indicated that understanding the connectivity (e.g., causality) between explanatory and consequence variables from the enriched theoretical perspectives of dualism can help us better understand the dynamism of IT service success. Overall, findings of this study underscore that employing the extended duality perspective in theorizing relationships between study factors can be highly rewarding.
+]]></section>
+Acknowledgement
+This research was supported by the Faculty Development Program of the College of Business Administration at San Diego State University.
+
+Appendix 1.
+Survey items (increase and decrease groups)
+Relevance
+
+RL 1. Information is applicable to your purchase.
+RL 2. Information is related to your purchase.
+RL 3. In general, information is relevant to your purchase.
+Timeliness
+
+TI 1. Information is current.
+
+TI 2. Information is continuously updated.
+
+TI 3. In general, information is current.
+
+Reliability
+
+RI 1. Information is trustworthy.
+
+RI 2. Information is accurate.
+
+RI 3. In general, information is reliable for making your purchase decision.
+
+Scope
+
+SC 1. Information covers a wide range .
+SC 2. Information contains a wide variety of topics .
+SC 3. Information contains a number of different subjects .
+Access
+
+AC 1. The MDS is responsive to my request.
+AC 2. The MDS quickly loads all the text and graphics.
+AC 3. The MDS assures stable access.
+AC 4. In general, the MDS provides good access .
+Usability
+
+US 1. The MDS has a simple layout for its contents.
+US 2. The MDS is easy to use.
+
+US 4. The MDS has a clear design.
+
+US 4. In general, the MDS is user-friendly.
+
+Navigation
+
+NV 1. It is easy to go back and forth between pages.
+NV 2. It is easy to locate information .
+NV 3. In general, it is easy to navigate .
+Interactivity
+
+IN 1. The MDS provides the capability to create a list of selected items.
+
+IN 2. The MDS provides the capability to change items from a created list.
+
+IN 3. The MDS provides the capability to create a customized product.
+
+IN 4. In general, the MDS enables me to participate actively in customizing the desired service.
+
+Self-efficacy
+
+I can complete the job using MDS…
+
+CSE 1. …even if there is no one around to tell me what to do.
+
+CSE 2. …even if I have never used it before.
+
+CSE 3. …if I only have manuals for reference.
+
+CSE 4. …if I see someone else using it before trying it myself.
+
+Economic value
+
+EV1. The MDS is reasonably priced.
+
+EV2. The MDS offers good value for the money.
+
+EV3. At the current price, the MDS provides good value.
+
+Satisfaction
+
+SA1 I am satisfied with the MDS.
+
+SA2 I am pleased with the MDS.
+
+SA3 Using the MDS makes me content.
+
+SA4 I will recommend the MDS to others.
+
+Dissatisfaction
+
+SA1 I am dissatisfied with the MDS.
+
+SA2 I am displeased with the MDS.
+
+SA3 Using the MDS makes me frustrated.
+
+SA4 I will not recommend the MDS to others.
+
+MDS increase
+
+Over the past six months,
+
+UI 1. …my overall usage of the MDS has increased.
+
+UI 2. …my time using the MDS has increased.
+
+UI 3. …MDS usage fees have increased.
+
+MDS decrease
+
+Over the past six months,
+
+UD 1. …my overall usage of the MDS has decreased.
+
+UD 2. …my time using the MDS has decreased.
+
+UD 3. …MDS usage fees have decreased.
+
+Note: Items of MDS satisfaction and MDS increase were included in the survey for the usage increase group, and those for MDS dissatisfaction and MDS decrease were included in the survey for the usage decrease group.
+Appendix 2.
+Validity testing
+Discriminant and convergence validity test
+Increase group
+Mean	SD	CSRI	AVE	RL	TL	RI	SP	AC	US	NV	IN	SA	SE	EV	UI
+RL	5.087	1.004	0.922	0.799	0.894											
+TL	5.162	1.086	0.909	0.769	0.707	0.877										
+RI	5.009	1.056	0.941	0.842	0.693	0.724	0.918									
+SP	4.907	1.188	0.952	0.868	0.573	0.640	0.550	0.932								
+AC	4.571	1.297	0.935	0.781	0.516	0.532	0.657	0.602	0.884							
+US	4.724	1.133	0.930	0.768	0.652	0.628	0.692	0.663	0.758	0.876						
+NV	4.447	1.359	0.949	0.861	0.566	0.498	0.623	0.567	0.750	0.805	0.928					
+IN	4.530	1.267	0.949	0.822	0.630	0.594	0.663	0.636	0.748	0.803	0.841	0.907				
+SA	4.818	1.151	0.936	0.784	0.688	0.627	0.634	0.631	0.574	0.640	0.588	0.662	0.885			
+SE	5.057	1.214	0.957	0.848	0.509	0.556	0.497	0.471	0.412	0.583	0.442	0.514	0.456	0.921		
+EV	4.233	1.424	0.953	0.871	0.488	0.416	0.546	0.519	0.662	0.696	0.723	0.748	0.572	0.418	0.933	
+UI	5.108	1.043	0.920	0.794	0.622	0.603	0.571	0.471	0.477	0.529	0.469	0.544	0.604	0.484	0.453	0.891
+Decrease group
+Mean	SD	CSRI	AVE	RL	TL	RI	SP	AC	US	NV	IN	DS	SE	EV	UD
+RL	4.384	1.066	0.908	0.767	0.876											
+TL	4.419	1.221	0.914	0.78	0.528	0.883										
+RI	4.065	1.057	0.945	0.85	0.428	0.505	0.922									
+SP	4.249	1.166	0.936	0.831	0.401	0.593	0.494	0.912								
+AC	3.453	1.281	0.915	0.729	0.284	0.372	0.429	0.397	0.854							
+US	3.796	1.146	0.893	0.677	0.383	0.368	0.54	0.494	0.67	0.823						
+NV	3.436	1.229	0.942	0.845	0.277	0.243	0.44	0.377	0.676	0.747	0.919					
+IN	3.576	1.156	0.932	0.774	0.251	0.331	0.445	0.454	0.602	0.65	0.711	0.880				
+DS	4.258	1.278	0.926	0.757	−0.244	−0.231	−0.358	−0.286	−0.387	−0.367	−0.37	−0.418	0.870			
+SE	4.324	1.304	0.946	0.815	0.223	0.252	0.295	0.349	0.109	0.29	0.163	0.293	−0.156	0.903		
+EV	3.384	1.298	0.919	0.792	0.082	0.216	0.36	0.244	0.548	0.482	0.553	0.594	−0.333	0.134	0.890	
+UD	4.549	1.307	0.945	0.852	0.093	0.019	−0.084	−0.009	−0.222	−0.188	−0.223	−0.248	0.33	−0.033	−0.268	0.923
+
+Note: RL—relevance, TL—timeliness, RI—reliability, SP—scope, AC—access, US—usability, NV—navigation, IN—interactivity, SA/DS—satisfaction/dissatisfaction, SE—self-efficacy, EV— economic value, UI/UD—usage increase/usage decrease.
+Factor analysis (usage increase group)
+RL	TL	RI	SP	AC	US	NV	IN	SA	SE	EV	UI
+RL1	0.869	0.600	0.583	0.453	0.412	0.538	0.463	0.501	0.572	0.415	0.390	0.517
+RL2	0.898	0.669	0.661	0.552	0.498	0.598	0.503	0.577	0.626	0.483	0.447	0.587
+RL3	0.913	0.627	0.613	0.528	0.473	0.609	0.550	0.609	0.646	0.465	0.468	0.563
+TL1	0.679	0.893	0.680	0.565	0.493	0.601	0.503	0.594	0.582	0.492	0.427	0.517
+TL2	0.617	0.894	0.629	0.601	0.512	0.580	0.485	0.552	0.572	0.506	0.406	0.551
+TL3	0.561	0.842	0.593	0.515	0.391	0.466	0.315	0.412	0.493	0.464	0.256	0.518
+RI1	0.644	0.690	0.937	0.509	0.610	0.651	0.588	0.628	0.601	0.479	0.510	0.505
+RI2	0.642	0.658	0.921	0.528	0.609	0.632	0.555	0.585	0.594	0.474	0.501	0.502
+RI3	0.621	0.643	0.894	0.478	0.590	0.622	0.573	0.614	0.550	0.412	0.491	0.567
+SP1	0.561	0.605	0.511	0.910	0.563	0.608	0.519	0.593	0.612	0.474	0.514	0.474
+SP2	0.491	0.566	0.487	0.941	0.529	0.589	0.504	0.564	0.536	0.402	0.444	0.388
+SP3	0.549	0.618	0.540	0.943	0.592	0.656	0.562	0.621	0.617	0.441	0.492	0.455
+AC1	0.503	0.514	0.596	0.524	0.877	0.684	0.675	0.668	0.531	0.411	0.558	0.428
+AC2	0.490	0.518	0.602	0.542	0.915	0.688	0.695	0.681	0.523	0.420	0.617	0.470
+AC3	0.400	0.437	0.572	0.518	0.889	0.644	0.629	0.641	0.512	0.315	0.563	0.381
+AC4	0.431	0.409	0.552	0.547	0.853	0.665	0.650	0.655	0.462	0.309	0.604	0.406
+US1	0.594	0.542	0.604	0.515	0.628	0.880	0.711	0.688	0.546	0.517	0.616	0.495
+US2	0.541	0.562	0.608	0.656	0.683	0.829	0.646	0.662	0.574	0.564	0.543	0.475
+US3	0.606	0.564	0.628	0.578	0.688	0.908	0.732	0.731	0.573	0.499	0.622	0.471
+US4	0.543	0.534	0.587	0.581	0.660	0.887	0.731	0.732	0.551	0.470	0.655	0.414
+NV1	0.522	0.459	0.567	0.540	0.641	0.730	0.912	0.732	0.514	0.442	0.619	0.405
+NV2	0.518	0.416	0.566	0.506	0.714	0.747	0.930	0.786	0.558	0.353	0.715	0.432
+NV3	0.536	0.511	0.601	0.534	0.730	0.764	0.941	0.821	0.563	0.434	0.676	0.469
+IN1	0.583	0.568	0.634	0.569	0.683	0.727	0.784	0.897	0.621	0.465	0.684	0.476
+IN2	0.540	0.550	0.625	0.620	0.693	0.730	0.734	0.876	0.580	0.444	0.683	0.471
+IN3	0.583	0.522	0.569	0.558	0.662	0.722	0.767	0.926	0.608	0.480	0.667	0.502
+IN4	0.579	0.517	0.579	0.563	0.676	0.733	0.765	0.926	0.593	0.476	0.680	0.521
+SA1	0.663	0.613	0.597	0.568	0.472	0.558	0.493	0.587	0.867	0.453	0.501	0.554
+SA2	0.580	0.530	0.557	0.572	0.535	0.574	0.539	0.588	0.895	0.381	0.527	0.549
+SA3	0.642	0.597	0.569	0.591	0.542	0.588	0.560	0.623	0.918	0.439	0.491	0.537
+SA4	0.554	0.482	0.524	0.502	0.482	0.545	0.488	0.547	0.861	0.340	0.509	0.501
+SE1	0.478	0.520	0.459	0.446	0.359	0.507	0.386	0.490	0.411	0.918	0.363	0.422
+SE2	0.462	0.528	0.444	0.411	0.385	0.534	0.381	0.475	0.420	0.928	0.389	0.436
+SE3	0.457	0.484	0.453	0.424	0.390	0.577	0.438	0.474	0.421	0.932	0.409	0.477
+SE4	0.477	0.518	0.474	0.454	0.385	0.530	0.422	0.455	0.426	0.905	0.377	0.447
+EV1	0.415	0.363	0.482	0.425	0.608	0.635	0.670	0.666	0.512	0.342	0.930	0.390
+EV2	0.481	0.409	0.529	0.522	0.644	0.671	0.688	0.721	0.560	0.399	0.944	0.465
+EV3	0.468	0.392	0.517	0.505	0.603	0.642	0.665	0.707	0.530	0.428	0.926	0.412
+UI1	0.604	0.577	0.547	0.402	0.439	0.491	0.432	0.491	0.552	0.459	0.401	0.893
+UI2	0.571	0.543	0.529	0.447	0.463	0.498	0.442	0.501	0.589	0.442	0.462	0.899
+UI3	0.487	0.493	0.450	0.409	0.371	0.424	0.381	0.461	0.474	0.391	0.345	0.882
+
+Factor analysis (usage decrease group)
+RL	TL	RI	SP	AC	US	NV	IN	DS	SE	EV	UD
+RL1	0.792	0.339	0.344	0.261	0.264	0.283	0.165	0.182	−0.099	0.180	0.055	0.105
+RL2	0.934	0.529	0.396	0.405	0.231	0.355	0.278	0.213	−0.235	0.233	0.073	0.077
+RL3	0.897	0.505	0.383	0.377	0.257	0.365	0.277	0.263	−0.295	0.170	0.084	0.067
+TL1	0.486	0.918	0.448	0.559	0.324	0.308	0.186	0.266	−0.194	0.231	0.150	0.034
+TL2	0.454	0.878	0.372	0.467	0.258	0.258	0.129	0.223	−0.167	0.217	0.178	−0.030
+TL3	0.459	0.852	0.520	0.545	0.406	0.411	0.333	0.393	−0.254	0.219	0.249	0.047
+RI1	0.429	0.485	0.912	0.455	0.367	0.484	0.364	0.402	−0.321	0.284	0.320	−0.055
+RI2	0.404	0.473	0.942	0.486	0.411	0.508	0.404	0.408	−0.344	0.278	0.326	−0.081
+RI3	0.351	0.438	0.913	0.425	0.410	0.502	0.448	0.421	−0.324	0.254	0.349	−0.096
+SP1	0.360	0.584	0.502	0.889	0.365	0.468	0.364	0.445	−0.282	0.353	0.244	−0.036
+SP2	0.382	0.543	0.436	0.934	0.370	0.451	0.324	0.373	−0.241	0.291	0.192	0.008
+SP3	0.353	0.495	0.415	0.912	0.352	0.434	0.342	0.425	−0.261	0.313	0.234	0.003
+AC1	0.321	0.412	0.427	0.396	0.886	0.633	0.620	0.567	−0.381	0.148	0.497	−0.240
+AC2	0.288	0.371	0.414	0.424	0.872	0.617	0.648	0.581	−0.354	0.163	0.507	−0.216
+AC3	0.143	0.226	0.221	0.231	0.813	0.494	0.500	0.447	−0.254	0.014	0.416	−0.140
+AC4	0.211	0.252	0.395	0.297	0.841	0.539	0.536	0.455	−0.328	0.038	0.448	−0.156
+US1	0.352	0.303	0.436	0.365	0.579	0.841	0.632	0.503	−0.256	0.163	0.368	−0.147
+US2	0.322	0.459	0.467	0.564	0.404	0.700	0.457	0.502	−0.306	0.306	0.303	−0.064
+US3	0.331	0.299	0.467	0.428	0.640	0.898	0.709	0.556	−0.329	0.274	0.448	−0.217
+US4	0.261	0.179	0.415	0.301	0.561	0.838	0.636	0.579	−0.320	0.223	0.453	−0.173
+NV1	0.259	0.260	0.378	0.360	0.576	0.681	0.905	0.638	−0.320	0.143	0.446	−0.148
+NV2	0.217	0.194	0.439	0.326	0.656	0.678	0.916	0.660	−0.362	0.152	0.529	−0.204
+NV3	0.288	0.217	0.394	0.352	0.632	0.700	0.936	0.661	−0.338	0.154	0.550	−0.262
+IN1	0.292	0.340	0.433	0.436	0.502	0.572	0.580	0.819	−0.343	0.278	0.552	−0.220
+IN2	0.194	0.355	0.454	0.380	0.549	0.537	0.634	0.865	−0.365	0.214	0.510	−0.198
+IN3	0.220	0.269	0.339	0.421	0.558	0.584	0.668	0.927	−0.370	0.265	0.519	−0.208
+IN4	0.186	0.210	0.350	0.362	0.509	0.594	0.618	0.903	−0.391	0.275	0.515	−0.247
+DS1	−0.162	−0.150	−0.255	−0.187	−0.314	−0.309	−0.378	−0.410	0.859	−0.097	−0.348	0.382
+DS2	−0.247	−0.252	−0.284	−0.261	−0.343	−0.283	−0.306	−0.329	0.896	−0.168	−0.284	0.247
+DS3	−0.212	−0.223	−0.363	−0.307	−0.375	−0.355	−0.323	−0.361	0.908	−0.157	−0.255	0.254
+DS4	−0.229	−0.176	−0.345	−0.239	−0.312	−0.330	−0.279	−0.356	0.815	−0.117	−0.273	0.268
+SE1	0.281	0.249	0.308	0.337	0.111	0.273	0.174	0.317	−0.146	0.872	0.161	−0.024
+SE2	0.211	0.234	0.268	0.376	0.084	0.261	0.126	0.243	−0.153	0.927	0.088	−0.021
+SE3	0.182	0.222	0.272	0.313	0.105	0.293	0.202	0.295	−0.141	0.936	0.125	−0.081
+SE4	0.131	0.205	0.216	0.232	0.093	0.217	0.086	0.204	−0.123	0.874	0.114	0.009
+EV1	−0.018	0.116	0.229	0.100	0.468	0.350	0.445	0.445	−0.253	0.069	0.882	−0.251
+EV2	0.111	0.207	0.403	0.295	0.539	0.507	0.567	0.613	−0.359	0.170	0.932	−0.273
+EV3	0.124	0.256	0.325	0.255	0.454	0.425	0.461	0.525	−0.273	0.117	0.853	−0.188
+UD1	0.065	0.054	−0.050	0.070	−0.172	−0.153	−0.165	−0.170	0.279	0.004	−0.217	0.905
+UD2	0.083	−0.005	−0.084	−0.051	−0.217	−0.157	−0.203	−0.253	0.343	−0.045	−0.249	0.942
+UD3	0.109	0.006	−0.099	−0.042	−0.224	−0.210	−0.249	−0.263	0.290	−0.051	−0.275	0.922
+
+Note: RL—relevance, TL—timeliness, RI—reliability, SP—scope, AC—access, US—usability, NV—navigation, IN—interactivity, SA/DS—satisfaction/dissatisfaction, SE—self-efficacy, EV—economic value, UI/UD—usage increase/usage decrease.
+</publication>

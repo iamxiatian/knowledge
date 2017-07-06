@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<publication marker="wanghongmei">
+    <journal>International Journal of Information Management</journal>
+    <time>Volume 36, Issue 2, April 2016, Pages 207-214</time>
+International Journal of Information Management
+    <title>A system architecture based on open source enterprise content management systems for supporting educational institutions</title>
+    <author>Catalin Maican.</author> Author links open the author workspace.Opens the author workspaceOpens the author workspace<author>Radu Lixandroiu.</author> Author links open the author workspace.Opens the author workspace
+Transilvania University of Brasov, Department of Management and Business Information Systems, Romania
+Show more
+    <doi>https://doi.org/10.1016/j.ijinfomgt.2015.11.003</doi>Get rights and content
+Highlights
+<highlight id="1">Higher education institutions as enterprises, regarded mainly from administrative point of view.</highlight>
+<highlight id="2">Enterprise Content Management in the context of administration in academic institutions.</highlight>
+<highlight id="3">Records management, business process management, digital asset management and e-portfolios as main components of ECM (multiple points of view)</highlight>.
+<highlight id="4">Framework comprising ECM components and University Management System for students/teachers/researchers and administration.</highlight>
+<highlight id="5">Implementation details with emphasis document workflow in a large Romanian University.</highlight>
+
+<abstract><![CDATA[
+Abstract
+]]><h target="1" match="part">As academic institutions produce large amounts of information in their teaching/research and administrative activities and this information should flow smoothly between departments, there appears the need to organize and manage this information thoroughly.</h><![CDATA[ In order to avoid information overlapping, this should happen considering the other internal existing systems. Nevertheless, because not all institutions afford to spend a lot on various systems, open source software is an appropriate solution for both educational and administrative services.  ]]><h target="2" match="part">Our aim is to prove the utility of Enterprise Content Management (ECM) in context of academic organizations.</h><![CDATA[ The first part makes an introduction to the concepts of ECM and open source software, as means to enhance process management.  ]]><h target="3" match="part">The second part regards the components of ECM systems and makes an analysis of their potential use in academic institutions.</h><![CDATA[ A system architecture based on ECM, by means of which ECM is usefully connected to other systems operating in educational establishments is proposed. A case study, discussing the implementation of an open source ECM in a large Romanian university, showing its efficacy and focusing on features related to document workflow, is analyzed.
+]]></abstract>
+    
+    <keywords>Enterprise Content Management (ECM)</keywords>
+    <keywords>Open source software</keywords>
+    <keywords>Framework</keywords>
+    
+    <section name="Introduction" category="introduction"><![CDATA[
+1. Introduction
+It is a fact beyond doubt that organizations nowadays have to cope with increasingly numerous new sources of content, which entail the increase in the amount of information underlying decision-making for the effective operation of businesses. Over the past three decades, by introducing office-suites and user-friendly operating systems, software developers have created tools that have not only allowed users to overcome the physical boundaries of paper-based systems, but also to make decisions based on structured and unstructured “big” data within organizations and outside them. One of the consequences was that it became possible for the information produced in any kind of organization to have an exponential increase.
+
+The category of organizations includes, among many others, academic institutions, which can be simultaneously regarded as teaching establishments, scientific communities, research organizations, or even corporations (Brown & Cloke, 2009). All these facets, involving academic and scientific goals and performances, human resources, infrastructure and cash flow, coexist in a natural balance within universities, which does not mean that they spare the management certain problems. The management's aim is to harmonize structures so as to obtain efficiency and to accomplish the mission of the organization and reach its objectives (Hedman & Kalling, 2003). Consequently, there is a strong demand for improvement, which presses higher education to identify the underlying principles of management and concentrate on management resources. Accordingly, the management has to harmonize routine activities and to combine the organizational elements in a manner that ensures the efficient and effective performance and quality of the university.
+Typically, at university level, the issues connected to information flows may be regarded from two distinctive perspectives: incoming and outgoing documents, and internal documents. ]]><h target="4" match="part"> From the point of view of the stakeholders, information may relate to students, teachers, researchers, administrative staff, and may be required and conveyed either horizontally or vertically at university level (Fig. 1).</h><![CDATA[  ]]><h target="5" match="part">Let us provide a few specific examples (based on the Romanian context): for students—enquiries and submissions for approval regarding accommodation, scholarships, internships, tuition fees, diploma supplements, participation in various teaching and research programs etc., for teachers—enquiries and submissions for approval regarding the involvement in research, the participation in and organization of scientific events, course syllabi, teaching materials etc., operational documents—purchasing of goods and services, payment of invoices and salaries, the liaison with the economic and social community and with authorities, collecting fees etc.</h><![CDATA[
+Information flow inside a university, with the Records Office playing the main…
+Download full-size image
+Fig. 1. Information flow inside a university, with the Records Office playing the main role.
+All this are part of an organization-wide information system in which all these inputs can be both paper-based and electronic.
+
+From the point of view of teaching and research, higher education is increasingly dependent on primary (laws, regulations, reports) and secondary data sources (books, journals, manuscripts) that are available in other than traditional paper-based forms. To reflect the diversity of materials, especially in digital form and their importance to academic pursuits, it is increasingly common to refer collectively to these sources as “assets” of a college or university, or of the academy in general (Conway, 2008). According to (Kim et al., 2013), these assets take various forms: text materials, such as journal papers, theses, performances from performing arts departments, recordings of native speakers of indigenous languages or videos demonstrating various practical procedures. No matter the context of use, these digital assets need to be managed effectively, with a view to meeting the core mission of HEIs—research, teaching, learning and community service.
+Among the possible tools which can assist various levels of management, in various organization types, including academic organizations, in accomplishing the aim and objectives of the organization, we identify:
+•
+Management information systems (MIS) for producing reports based on data extracted and summarized from the organization’s information systems, (Blau & Presser, 2013), (Rushby, 2013),
+•
+Decision Support Systems (DSS) used by middle and higher management to compile information from a wide range of sources to support problem solving and decision making (Cavus, 2011),
+•
+Executive Information Systems (EIS) as reporting tools that provides quick access to summarized reports coming from all company levels,
+
+•
+Enterprise Resource Planning (ERP) systems that facilitate the flow of information between all business functions inside the boundaries of the organization,
+
+•
+Knowledge Management Systems (KMS) for managing unstructured content, on vertical and horizontal industries, as it is analyzed in (Rosu, Dragoi, & Guran, 2009).
+
+At the level of academic institutions, other complex systems exist, such as Student Information Systems (SIS), which manage all the information connected to students (financial (Melchor-Ferrer & Buendía-Carrillo, 2014), academic etc.), often including teaching and learning materials (Ermalai, Dragulescu, Ternauciuc, & Vasiu, 2013). Lets note that any of the above systems may be used in academics, at various decision-making levels (e.g., a faculty dean may use the data from a MIS combined with information from SIS together with external data for developing new study programs if the labor market requires, while the top management may use information from university-wide EIS and ERP systems for governing the university in the desired direction for education/research).
+For an efficient management, organizations need to use such tools, as they make work easier, contribute to faster decision-making, based on accurate data. Thus, organizations, irrespective of their type, can answer to the market requests sooner. Nevertheless, an important problem arises: complex systems, which can manage all the flows within an organization, can have extremely high initial costs, which not all organizations can afford. This problem can be solved by means of free/libre/open source software (FLOSS).
+
+Open source is an approach to coding and creating software, the resulted software being free to use and, as the name suggests, denoting a code that is open to anyone to be used, adapted and distributed. This approach can offer important cost savings, but the most important part is users' ability to play with the software.
+
+Open solutions have been developed to the point where they are seen as a viable alternative to commercial, closed source products (e.g., Open/Libre Office vs. Microsoft Office, Linux vs. Windows/MacOS, MySQL vs. commercial databases, NoSQL databases like Cassandra, Couchbase, HBase, data mining with Hadoop, R and many, many other open source solutions) The larger benefits of adopting open technologies may be seen at individual level, but also at local community level. At academic level, by using open source software, students may use at home, free of the fear of piracy, the same tools they use in schools, while the organizations using this kind of software find some relief on budgets. At administrative level, the greatest benefit is provided by cost-saving in initial license fees. Using open source in education allows:
+•
+freedom in education,
+
+•
+increases the quality of teaching and learning and
+
+•
+may produce a state-of-the-art learning and teaching environment.
+
+
+Given that the open source software is developed and managed by a community, being also regarded as a movement (Ljungberg, 2000), the premise behind this community-provided and maintained software is that community-source approaches result in better quality, better fitted, more sustainable and mission-critical software for higher education (Fuchs, 2010), while the output should be software that is cheaper (Wu, Gerlach, & Young, 2007) to install and customize and also far cheaper over time to maintain and enhance. In 2013, 50% of higher education institutions were running open source systems like Moodle and CourseSites by Blackboard.
+]]><h target="1" match="part">It has been noted that, as regards the administrative (ERP) software and library systems used in academic institutions, there are open-source applications available (e.g., Odoo, Kuali, ERPNext), but the vast majority of institutions do not plan to adopt open source (Van Rooij, 2007).</h><![CDATA[ However, there are systems that have a number of applications rolled together, such as student services, which can benefit from open source, because they can be customized for the institution's particular needs based on access to the source code. We are of the opinion, supported by other researchers as well, that universities which have to deal with legacy systems or which have commercial applications already in place will reject open source software.
+With respect to the concepts already introduced, and to the fact that universities do not tend to implement open source in the administrative offices, we are going to analyze the main concepts related to ECM, together with a system architecture for implementing them in academic institutions, based on an open source application. A case study in a major Romanian university showing implementation details is presented.
+
+]]></section>
+
+    <section name="Enterprise content management: characteristics and use in higher education;Implementation of an open-source EMC for tracking documents" category="results"><![CDATA[
+2.  ]]><h target="2" match="part">Enterprise content management: characteristics and use in higher education</h><![CDATA[
+ECMs is a formalized means related to the strategies, methods and tools intended to support the whole organization, aiming at the management, creation, storage, retrieval and retirement of information stored as documents. This term was coined by AIIM in 2000.
+
+Attempting to state what ECM is, some researchers (e.g. (Alalwan & Weistroffer, 2013), (Tyrväinen, Päivärinta, Salminen, & Iivari, 2006)) rely on the definition instituted by the Association for Information and Image Management (AIIM): “Enterprise Content Management (ECM) is the strategies, methods and tools used to capture, manage, store, preserve, and deliver content and documents related to organizational processes. ECM tools and strategies allow the management of an organization's unstructured information, wherever that information exists”. In addition, other researchers have presented wider explanations of ECM: for example, (Grahlmann, Helms, Hilhorst, Brinkkemper, & van Amerongen, 2011) explains ECM as “the strategies, processes, methods, systems, and technologies that are necessary for capturing, creating, managing, using, publishing, storing, preserving, and disposing content within and between organizations”. What is certain is that an ECM entails a centralized repository that is used to manage the storage of any type of data that could be of value to an organization, while protecting it against loss.
+Apart from the characteristics underlined in the aforementioned definitions, the specialized literature (Grahlmann et al., 2011) also makes reference to the functions of ECMs in content life cycle, starting from capture until its management, as they relate to organizational processes. For example, (Smith & McKeen, 2003) defines ECMs as: “... the strategies, tools, processes and skills an organization needs to manage all its information assets (regardless of type) over their lifecycle”. According to (Hullavarad, O'Hare, & Roy, 2015), ECM solutions offer features to control and analyze information, while ECM solutions help reduce search times, manage data and enable institutions with regulatory compliance.
+ ]]><h target="2" match="part">Based on previous aspects, in the present paper we consider the definition of an ECM by Grahlmann et al. (2011) as more suitable for an academic institution, as it covers administrative, learning, teaching and research content: “Enterprise Content Management comprises the strategies, processes, methods, systems, and technologies that are necessary for capturing, creating, managing, using, publishing, storing, preserving and disposing content within and between organizations”.</h><![CDATA[
+With respect to the scope of ECM, according to (Laumer, Beimborn, Maier, & Weinert, 2013), it spans from suitable preparation, presentation and personalization of information for end users, to the development of algorithms for the purpose of information processing and information transformation. The concept of ECM thus outspreads the original notions described in (Grahlmann et al., 2011), (Scheepers, 2006), (Tyrväinen et al., 2006). A number of studies (e.g. (Tyrväinen et al., 2006), (Gupta, Govindarajan, & Johnson, 2010), (vom Brocke, Seidel, & Simons, 2010; Vom Brocke, Simons, & Cleven, 2010) have expressed their views that there is not sufficient research to understand how ECMs are actually used to support the organizations' ways of doing business. Particularly, (Päivärinta & Munkvold, 2005) and (Tyrväinen et al., 2006) highlight that there is limited if any guidance to practitioners on how the use of ECM systems can facilitate the organizations' processes. Also, (Arshad, Milton, & Bosua, 2013) concluded that organizations may use ECMs in three ways, for: (1) information sharing that supports a standardized process structure, (2) building custom workflows that support standardized processes, and (3) analysis and decision making.
+Weintraub et al. (Weintraub, Clair, & McKinnon, 2013) classifies the ECM software based on the way content is used: to support customer-facing business activities or to support internal company activities. The applications for managing persuasive content or researched-backed content for front-end business activities is now a separate type within the customer experience management environment, while content management technologies to be used inside organizations are detailed into three categories: foundational (check-in/checkout, permissions, archiving, basic workflow, records and retention management, taxonomy, search and eDiscovery), business (document management and team collaboration) and transactional (multichannel capture, enterprise report management and e-forms).
+ ]]><h target="4" match="part">From a technical point of view, according to (Gilbert, Shegda, Chin, Tay,  H, 2014), the key components of an ECM suite are:
+•
+Document management: check-in/check-out, version control, security and library services for business documents, compound document support and content replication;
+
+•
+Image-processing applications: document capture (scanning hardware and software, optical and intelligent character recognition technologies and form-processing technology), the ability to store images of scanned documents in the repository as a regular content type in a folder and the ability to route them through an electronic process;</h><![CDATA[
+
+•
+ ]]><h target="3;4" match="part">Workflow/business process management (BPM): document review and approval workflow, often including graphical process builders and serial and parallel routing;
+
+•
+Records management: long-term retention of content through automation and policies, ensuring legal, regulatory and industry compliance, enforcing retention of critical business documents, based on a records retention schedule;</h><![CDATA[
+
+•
+ ]]><h target="4" match="part">Web content management: content creation functions, such as templating, workflow and change management and content deployment functions that deliver pre-packaged or on-demand content to Web servers;
+
+•
+Social content: document sharing, collaboration, knowledge management and project team support. Blogs, wikis and support for other online interactions are also important components. Social content, including video, is the fastest-growing category of new content in the enterprise;
+
+•
+Extended components: document composition, e-forms, search, content and analytics, email and information archiving, email management and packaged application integration.
+
+
+Besides these, we may add the following components that could be used in academic institutions and that are related and may interact with ECM components:</h><![CDATA[
+•
+ ]]><h target="3;4" match="part">Digital Asset Management systems;</h><![CDATA[
+
+•
+ ]]><h target="4" match="part">Learning Management Systems (LMS) with all its variations—Course Management Systems, learning content management system with content that is hosted separately from the LMS, Electronic Performance Support Systems and Computer-aided assessment systems (Ermalai et al., 2013);</h><![CDATA[
+•
+]]><h target="3;4" match="part">E-Portfolio systems.</h><![CDATA[
+
+
+ ]]><h target="3;4" match="full">In what follows, emphasis is going to be given to a comparative analysis showing the paramount features of ECM, from administrative and teacher/ research point of view, i.e. BPM, records management, DAM, e-portfolio.</h><![CDATA[
+
+As (Wolski, Simons, & Richardson, 2013) pointed out, the content deposited inside an ECM is usually self-contained (for any document, it cannot be implicitly assumed that it has any relationship with any other stored information), thus a well-designed document management repository encourages finding and sharing information easily. It does this via search tools, while the documents being stored are classified according to classification schemes or taxonomies. For implementing a document workflow inside an organization, a simple DMS is not enough, because it cannot handle the flow of the documents across the various structures of the implementing organization.  ]]><h target="4" match="part">In this case, for handling not only the document flow, but also other data and information flows inside organizations, a business process management (BPM) application could be implemented.</h><![CDATA[ At their basic level, business processes are distinct events or collections of events accomplished by individuals within an organization with some results in a desired business goal. The goal can be characterized by any metrics and it may overlap any organizational units, but, at the same time, it is typically considered necessary or desirable to a company's functioning (Becker, Rosemann, Röglinger, & zur Muehlen, 2012).
+At the more advanced end of the BPM scale, business processes can be seen not just for managing the current state of the company, but also for proposing strategies and producing hypothetical business processes to be tested before deployment (Vom Brocke, Seidel et al., 2010; Vom Brocke, Simons et al., 2010). This type of business modelling still falls under the banner of BPM, although it is less about the organization as such and more about testing the current environment for identifying improvements that could be made.
+ ]]><h target="3" match="part">From a content management point of view, BPM has historically been associated with (Enterprise) Document Management applications to a certain extent, given that the execution of the processes in these applications often results in documents or records for storage.</h><![CDATA[
+
+ ]]><h target="5" match="part">In ECM, we can frequently see discussions about workflows as a substitute way of representing a business process</h><![CDATA[ (McCord, 2002). The essential difference appears to be that, whereas business processes are able to exist independently of software, for ECM applications workflows are normally embedded in those products or applications and for them, business processes represent specific tasks within the application, rather than the organization as a whole. For example, a workflow designed to achieve the progress of building a web page, starting from the author creating the page, passing through the editors approving it and ending with an automated release by the web content management system (WCMS), is a business process, even if this one does not usually exist outside the WCMS.
+ ]]><h target="3" match="part">Among other tools which are often necessary for management processes and are somehow related to BPM, and often part of ECM, records management allows an organization to store a given number of information items for later evidential retrieval.</h><![CDATA[ Records could be anything, from contracts to invoices and other useful documents, and thus, anything that an organization may need to keep for later remembrance or endorsement of certain events. Policies and procedures have to be created for managing the life cycle of the records, from their creation to their final retirement and destruction and for ensuring that a full information trail is available for every aspect of the process (Vom Brocke, Mathiassen, & Rosemann, 2014). Policies and procedures govern the approach in which a record is captured and preserved, and the way users may access the record during its entire life cycle. According to The National Archives of Scotland, the efficient management of records allows organizations to:
+•
+Know what records they have and locate them easily;
+
+•
+Increase efficiency and effectiveness;
+
+•
+Make savings in administration costs, both in staff time and storage;
+
+•
+Support decision making;
+
+•
+Be accountable;
+
+•
+Achieve business objectives and targets;
+
+•
+Provide continuity in the event of a disaster;
+
+•
+Meet legislative and regulatory requirements;
+
+•
+Protect the interests of employees, clients and stakeholders.
+
+
+Records management offers solid return on investments to organizations, starting from economic best practices in reducing storage costs for documents, and up to putting legislative requirements into practice. An unmanaged record system makes the execution of responsibilities more demanding, costs organizations time, money and resources, and makes them vulnerable to security breaches, prosecution and embarrassment.
+
+ ]]><h target="3;4" match="part">According to (Grahlmann et al., 2011), Digital Asset Management (DAM) systems are repositories of digital-rich media content with their associated metadata, having management features similar to database management systems, including access control. A DAM system can “ingest digital assets, store and index assets for easy searching, retrieve assets for use in many environments, and manage the rights associated with those assets.”(Kim et al., 2013)
+In an academic community, a DAM system has to support a wide variety of services towards meeting the numerous and varied academic functions. The vision for a DAM system within the academic community should allow digital assets to be stored securely, also making them findable, accessible and usable by the people entitled to, in their (academic) activities. Kim et al. [4] mentioned that information about the assets, or metadata, is a crucial component of fulfilling the vision for a DAM system. They also concluded that a DAM system schema should be able to (1) describe heterogeneous sets (or collections) at an appropriate level of granularity and detail, allowing for domain-specific description needs and vocabularies (2) allow metadata entry by non-specialists (3) enable searches across multiple areas and collections of assets (4) provide origin facts for the assets (5) provide information on various aspects of assets usage for different classes of users.
+
+According to (McCord, 2002), higher education can use DAM systems to catalogue and manage teaching and research objects, to serve as a repository for content relating the intellectual property of the institution, and to provide access to these assets by multiple areas:
+•
+DAM systems can be used to increase on-line course access by integrating rich content in course management systems, improving the quality and relevance of learning. In this case, a DAM system can be the infrastructure used to deliver rich content, at the same time being consistent with open standards (e.g., Instructional Management System or Open Knowledge Initiative);
+
+•
+DAM systems can capture various types of intellectual property in real-time, enabling faculty staff, administrators and students to consume, catalogue and redefine campus experiences into rich learning objects;
+
+•
+DAM systems can extend library collections to include rich media with access for faculty members, researchers, and students;
+
+•
+DAM systems can be used as a base for improving administrative processes in areas that use rich media, (e.g., news services, broadcasting, marketing and graphic communication);
+
+•
+By using an integrated digital rights management (DRM) system inside a DAM system, a university may distribute its intellectual property without fears related to security. Also, the DRM involves the administration of external content licenses to multiple communities;
+
+•
+DAM systems may develop institutional image by allowing external users to access the intellectual resources of the institution (Wagner Gerber, 2011).</h><![CDATA[
+
+An e-portfolio system is used as a personal space where students may collect the digital artefacts that present evidence of their experiences and achievements during their education. Additionally, the simplicity and variety of content creation enabled by social tools, the omnipresence of technology use amongst learners of all ages today, the range of e-portfolio actions and the categories of digital artefacts that may be representative as a student’s e-portfolio have increased substantially. According to (Kim, Ng, & Lim, 2010), educators have stated and debated the use of e-portfolio systems in producing a collaborative learning space (Greenberg, 2004), adopting peer assessment (Flanigan & Amirian, 2006), student advisement and career planning (Chang & Tseng, 2009), planning and supervising education (Sherman, 2006), content visualization with electronic concept maps (Kim & Olaciregui, 2007) and improving the efficacy of teaching (O'Brien, 2006).
+Despite the growing interest in using these tools, there are a series of issues and challenges that clearly delay the application and the extensive use of e-portfolio systems as tools integrated in academic and professional activities. In this case, we may talk about the numerous technologies currently is use, the increase in file size and diversity of potential digital artefacts leading to some important implementation problems and challenges:
+•
+Scalability and sustainability—current e-portfolio applications commonly deliver users some storage space in a central server for all of their data. This leads to problems of scalability and sustainability, particularly for institutions with a large number of active users (Kim et al., 2010);
+•
+Data mobility - as users tend to gather all their data into a central e-portfolio server as part of the institution where they currently learn, it is essential for them to be able to move their data as they transfer from one educational institution to another. Most of the e-portfolio systems in use today are not able to exchange data with others;
+
+•
+Barriers to user adoption – today learners already use social, web and mobile technologies in interacting with each other and in demonstrating their artefacts. Current e-portfolio systems require users to accept an additional process of importing the artefacts which may already exist in these applications, to upload them onto the e-portfolio system. This possibly requires a lot of time and is laborious, and thus it can be seen as a barrier to adoption.
+
+
+Based on the technologies introduced above, we created the following conceptual system architecture, depicting ECM uses inside a HEI (Fig. 2).
+Conceptual system architecture regarding ECM uses in academic institutions
+Download full-size image
+Fig. 2. Conceptual system architecture regarding ECM uses in academic institutions.
+In this system architecture, the ECM can be viewed from two points of view, both related to the core scope of higher education: teaching-research-dissemination and the administrative side, as it provides access to all the technologies related to education with support from the administrative processes. Based on this system architecture, we started the implementation process at administrative and education levels.
+
+3. Implementation of an open-source EMC for tracking documents
+ ]]><h target="5" match="part">An open-source ECM for tracking documents was implemented and customized and the current case study takes place at Transilvania University of Braşov (UniTBv), one of the largest Romanian universities.</h><![CDATA[ At present, the university has approximately 20000 students enrolled in 18 faculties and approximately 850 teaching staff organized in 30 teaching and research departments. The university also hosts a research institute, where some of the academics work organized in 16 research centers. The teaching and research structure is supported by approximately 300 non-teaching staff as depicted in the organization chart.
+
+The implementation process of an open source ECM was based on the fact that, 2010 saw an attempt to implement a commercial product, which failed, given that the application was targeted only towards research groups within the university, not being the result of a real need and not being addressed to the administrative offices in the university, which really need an application for managing documents and workflows. The result was represented by an application which was implemented with a lot of bugs and which has not been used.
+
+Within UniTBv, open-source applications have been used for a long time in administrative services, the authors of this paper starting its use by implementing the university web site (with approximately 140 sub-sites), the students' and teachers' internal portal and the student management application (all created based on the open source framework DNNSoftware) and by providing support for the teaching and learning process, under the form of an e-learning platform (Moodle, for full-time and distance learning students, bachelor's degree, master's degree and doctoral studies),
+
+ ]]><h target="5" match="part">Based on the successful implementation of previously implemented solutions and application development using open source software, and based on advantages presented in the previous parts of this paper, several open source applications have been considered and, lastly, Alfresco has been chosen. Among the requirements for an ECM in UniTBv, we could mention: file organization, document management, taxonomies, workflows, document versioning, file and folder-level security, indexing and searching—all these features being already present in the chosen ECM (Fig. 3).</h><![CDATA[
+ Electronic information flow via ECM
+Download full-size image
+Fig. 3. Electronic information flow via ECM.
+]]><h target="5" match="full">One of the most important implementation process is represented by the management of the processes within the university completed through the implementation of document workflows.</h><![CDATA[ Other significant features are tracking documents and signing them electronically.
+
+Therefore, because the default Alfresco workflows do not match the requirements of our university process management, we have had to redesign them, taking also into account an optimized information flow that should minimize the amount of resources (time, paper etc.) for a document to go to the next step within the flow. The most important flow regards the administrative document flow which we have described and implemented using BPM Activiti, depicted in Fig. 4. In this flow, all the documents have to pass through the Records Office and they direct the documents according to their required recipient.
+Workflow for document registration and tracking
+Download full-size image
+Fig. 4. Workflow for document registration and tracking.
+The workflow is always started by the Records Office, being available only in their user-interface.
+
+All the documents from the University are addressed to the Management; therefore the electronic documents follow this route. The Management may approve or reject the document directly or, as it is most often the case, may ask for additional information from various administrative offices—this is electronically accomplished by using the Exclusive Gateway (multiple IFs) that directs the document back to the Records Office for being transmitted to another office (depicted as an User). The office has to fill-in a form or may attach additional documents for fulfilling the Management's requirements for more information. These steps could be repeated infinitely or until the Management decides that the initial document is either approved or rejected. In any of these steps, documents may also be downloaded, edited, versioned and electronically signed. Furthermore, users may add messages for each flow, under the form of comments, which are attached to the documents as metadata. In the initial implementation version, only office managers received authentication credentials in the platform, taking into account the fact that they are considered responsible for the comments and answers sent as a result of the various requests received with the organization.
+
+In order to easily find the documents inside the systems within UniTBv, these can be characterized using tags. Also, all the documents passing through the Records Office are attached a registration number and are automatically added to a List accessible only to the users inside this office, containing all the required data for identifying what is the office or department where the electronic and the physical documents are processed at that moment of time. In addition, a due-date is attached to electronic documents, because of the regulations the organization has to respond to requests in maximum 30 days. By using this date, one can easily find out what office is late with providing the management with the required information for finalizing the request in due time.
+
+Accounting entries and entries of other kinds (contracts, invoices etc.) are kept in the digital archive based on the rules established in the Records Management module for a period of 10 years, in compliance with the laws in effect. All the documents which are received and sent from the institution must comply with this regulation.
+
+]]><h target="3" match="part">As regards the DAM feature, this is mostly used in the administrative part of the university, in the Marketing and branding Office, for the management of files and images which promote the university.</h><![CDATA[ This office manages over 10000 photos and document-films, which are used for the promoting the university brand among potential students and in the local and regional business community.
+
+Because Alfresco has support for Moodle, the e-learning platform of the university, a future use will be to extend the repository function of ECM, by allowing teaching staff to create personal repositories. At present, each teacher can upload courses on this platform and use it as a support in the teaching and learning process. For distance learning and part time education, the use of the platform is compulsory, both for teachers and students. The media materials with intellectual property rights which are used in the teaching and learning process reside in the internal servers of the university and, for the time being, we do not envisage their publication in Alfresco.
+
+As regards e-portfolio applications, our institution does not use such applications, students being guided towards external cloud services, which offer large storage spaces and are user-friendly.
+
+]]></section>
+
+    <section name="Conclusion" category="conclusion"><![CDATA[
+4. Conclusion
+The growing volume, complexity and variety of digital content makes ECM applications a vital element of organizational IT. Additionally, the necessity of making quick and correct decisions imposes changes to the organizational environment, positioning ECM in an important role for decision support. ]]><h target="2" match="part">ECM applications are used in organizations worldwide, and, in the present paper, we regarded academic institutions as organizations, from an administrative and teaching/ research perspective.</h><![CDATA[ ]]><h target="4" match="part">Thus we have created a system architecture which combines both classical ECM modules and applications which are useful for the teaching and learning process in an academic institution.</h><![CDATA[ ]]><h target="5" match="part">All this has been debated from a practical point of view in the case study which focuses on the implementation of open-source ECM for tracking documents inside a university based on and using workflow rules. This system involves business rules that are enforced by applying BPM processes as workflow steps.</h><![CDATA[ Considering that any institution also has entries under the form of contracts/ invoices etc., the implemented system maintains entries based on records management rules. ]]><h target="3" match="part">In addition, we have also briefly discussed the use of DAM component within this institution.</h><![CDATA[
+
+Although there could be a reluctance to change, given that the implementation of this system requires employees to quit old habits, universities should be convinced of the usefulness of this kind of applications, of the fact that they reduce costs, the response time for stakeholders and the red tape in print. In the near future, we expect universities to transfer all administrative and teaching processes only in electronic form, having ECM systems as support applications.
+]]></section>
+</publication>

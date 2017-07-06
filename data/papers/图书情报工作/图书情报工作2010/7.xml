@@ -1,0 +1,834 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bibliographies>
+<BibliographiesCount>50</BibliographiesCount>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于生命周期的软件项目知识管理模型研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[于本海;]]></FullName>
+<Organization><![CDATA[山东工商学院管理科学与工程学院;中国科学院软件研究所互联网软件技术实验室;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2010]]></Year>
+<Issue><![CDATA[10]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[软件项目;软件项目生命周期;知识管理模型]]></Keyword>
+<Keyword Lang="en"><![CDATA[software project software project life cycle knowledge management model]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[从项目知识生成过程和应用过程出发,分析软件生命周期各阶段知识构成,应用系统工程理论,提出面向时间维、管理维和知识维的三维项目知识管理模型构架,实现项目知识的有效划分和集成;建立基于生命周期的软件项目知识管理模型和知识地图,解决项目开发过程中知识流失和知识检索效率低以及在庞大的知识库中难以找到与主题密切相关知识的问题。提出知识有效度测度模型,为识别项目知识的可用性提供一种新方法。案例表明,该模型能提高软件项目知识管理系统的开发和使用效率。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[40-44]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于潜在语义分析和改进的HS-SVM的文本分类模型研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[张玉峰;何超;]]></FullName>
+<Organization><![CDATA[武汉大学信息资源研究中心;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2010]]></Year>
+<Issue><![CDATA[10]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[文本分类;潜在语义分析;改进的超球支持向量机;重叠区域文本]]></Keyword>
+<Keyword Lang="en"><![CDATA[text classification latent semantic analysis improved hyper-sphere support vector machine text in overlapping regions]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[为提高文本分类的准确性与效率,提出一种基于潜在语义分析和改进的超球支持向量机的文本分类模型。该模型利用潜在语义分析进行特征抽取,消除同义词和多义词在文本表示时所造成的偏差,实现文本向量的降维。针对超球重叠区域的文本分类问题,设计一种新的决策方法—基于密集度的决策策略。实验结果表明,该模型在类别数目较小时具有较好的分类效果,改进的算法有效可行。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[109-113]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[本体视图特征项提取算法及其在智能检索中的应用]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[肖升;]]></FullName>
+<Organization><![CDATA[华中师范大学计算机科学系;湖南省第一师范学校信息技术系;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2010]]></Year>
+<Issue><![CDATA[10]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[本体视图;特征项提取;智能检索]]></Keyword>
+<Keyword Lang="en"><![CDATA[ontology view feature item selection intelligent retrieval]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[在基于本体的智能检索框架中引入本体视图,提出一种基于本体视图的特征项提取方法,通过利用中文信息结构提取器对文本进行特征提取,并进行类型映射,得到可计算的特征项。此方法比单纯的词汇信息更能体现概念信息特征,能提高检索系统的性能,提高检索的准确率和效率。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[114-116+29]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[编者的话]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[靖继鹏;]]></FullName>
+<Organization><![CDATA[吉林大学管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2010]]></Year>
+<Issue><![CDATA[10]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[信息生态系统;信息科学;信息生态学;构成因子;信息管理;生态失衡;信息资源优化;信息链;专题研究成果;传播生态;]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[<正>信息管理领域对信息生态理论的研究建立在信息科学和生态学的学科基础上,利用生态学的观点和方法,研究信息生态系统的构成因子、因子之间的相互作用、信息流和能量流的传递以及信息生态系统的合理构建和优化]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[5]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[信息生态群落演化机理研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[李北伟;靖继鹏;王俊敏;龚健;]]></FullName>
+<Organization><![CDATA[吉林大学管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2010]]></Year>
+<Issue><![CDATA[10]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[信息生态群落;演化机理;信息环境]]></Keyword>
+<Keyword Lang="en"><![CDATA[ecological information communities evolution mechanism information environment]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[针对信息生态群落的演化,综合运用系统论、协同论、信息论和突变论的相关原理对信息生态群落的演化机理进行探讨,总结出社会传播机理、支配机理、协同机理、互动机理、突变机理几种主要演化机理,以期为信息生态群落演化的后续研究提供一些参考。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[6-10]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[信息生态系统的信息组织模式研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[马捷;靖继鹏;张向先;]]></FullName>
+<Organization><![CDATA[吉林大学管理学院;吉林大学信息资源研究中心;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2010]]></Year>
+<Issue><![CDATA[10]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[信息生态系统;信息组织;信息种群;信息群落;信息链]]></Keyword>
+<Keyword Lang="en"><![CDATA[information ecosystem information organization information population information community information chain]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[界定信息生态系统的构成成分、信息链结构和层次结构,认为信息生态系统存在三大典型信息群落,群落中具备五大信息种群,信息种群的信息活动构成各具特色的信息链。提出三大典型信息群落的信息组织模式,并提炼出信息生态系统信息组织的一般模式。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[15-19]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[《图书情报工作》走进同行期刊,走进大学,走进图书馆]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> </Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2010]]></Year>
+<Issue><![CDATA[10]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[华东地区;世界读书日;全民阅读;信息管理系;中国图书馆学会;推广委员会;生命科学;信息中心;三人;]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[<正>为了更好地与同行期刊进行交流,了解作者和读者的需求,宣传办刊理念,提高知名度,促进期刊更快更好地发展,《图书情报工作》杂志社开展走进]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[57]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[政府信息公开满意度研究(Ⅲ)——基于结构方程的满意度模型校验]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[段尧清;宋硕;骆小兰;布和;]]></FullName>
+<Organization><![CDATA[华中师范大学信息管理系;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2010]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[满意度;结构方程;信度;维度]]></Keyword>
+<Keyword Lang="en"><![CDATA[satisfaction structural equation reliability dimension]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[基于结构方程模型理论,分析调查问卷人口学变量的特点、特征结构、信度和各个维度的关系,得出政府信息公开满意度结构方程模型中各个维度之间的相关系数。并对已构建的政府信息公开满意度模型进行校验,给出基于结构方程的政府信息公开满意度修订模型。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[115-119]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[我国政府信息公开中的权利冲突与平衡]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[董永飞;马海群;]]></FullName>
+<Organization><![CDATA[黑龙江大学信息管理学院;黑龙江大学信息资源管理研究中心;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2010]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[政府信息公开;知情权;信息获取权]]></Keyword>
+<Keyword Lang="en"><![CDATA[government information publicity the right to know the right to access]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[因《政府信息公开条例》未明确给定不予公开的个人信息、商业秘密与国家秘密范畴,致使权利边界模糊不清,信息公开工作人员审查、公开信息过程中,隐私权与知情权、信息获取权与国家秘密、商业秘密权发生冲突。研究认为,冲突的解决方式是重新厘定不予公开的隐私信息、商业秘密、国家秘密范畴;建立严格、合理的保密审查机制及法律问责机制;修订《保秘法》;出台《隐私权法》与《商业秘密法》。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[120-123]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[虚拟电子政府对市民投诉服务补救的影响因素研究——基于重庆市县级虚拟电子政府的案例分析]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[李雪松;司有和;孙卫平;]]></FullName>
+<Organization><![CDATA[重庆电子工程职业学院工商管理系;重庆大学经济与工商管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2010]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[信息管理;虚拟电子政府;市民投诉;政府服务补救;案例]]></Keyword>
+<Keyword Lang="en"><![CDATA[informance management e-government citizen's complaints government service remedy case study]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[首次提出政府服务补救概念,借鉴企业服务补救理论,运用访谈方法进行案例实证,探讨虚拟电子政府服务补救的影响因素。研究表明影响因素为谨慎、关注、及时性、简易性、补偿、道歉、解释等维度,其中谨慎维度是研究发现的新维度。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[124-127]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[元明清山西书院的地域分布与演变]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[孙文学;]]></FullName>
+<Organization><![CDATA[山西师范大学城市与环境科学学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2010]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[元明清;山西;书院;地域分布]]></Keyword>
+<Keyword Lang="en"><![CDATA[Yuan;Ming and Qing Dynasties Shanxi college regional distribution]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[论述古代山西书院是在自然地理、历史文化、经济以及各地官吏乡绅士子积极参与等多种因子合力作用下形成的一种文化形态。在时间尺度上,古代山西书院历经由萌芽到兴起、发展和兴盛4个发展阶段的演变。表现在空间尺度上,山西各地书院的分布经历由点到片到面,由南部到中部、北部及全省的扩散过程。书院的地域分布特征具有:北疏南密;呈现为人字形格局;海拔分布上呈倒V字形。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[140-143+83]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[推进孤儿作品公共获取的解决之道]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[金潞;刘青;]]></FullName>
+<Organization><![CDATA[华南师范大学经济与管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2010]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[孤儿作品;公共获取;《著作权法》]]></Keyword>
+<Keyword Lang="en"><![CDATA[orphaned works public access Copyright Law of the People's Republic of China]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[通过对孤儿作品的定义、形成原因及使用状况进行分析,提出促进孤儿作品公共获取的重要性。在此基础上,参考相关国际惯例、法律规范以及案例。最后结合我国《著作权法》,从孤儿作品的使用许可、其问题的根源、使用孤儿作品的条件、使用孤儿品的报酬、使用孤儿作品的程度等方面提出推进孤儿作品公共获取的5项建议,以期对我国孤儿作品的公共获取方法提供借鉴。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[14-17]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[SaaS模式下的电子政务系统框架设计]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[赵龙文;张伟;杜俊超;]]></FullName>
+<Organization><![CDATA[华南理工大学经济与贸易学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2010]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[软件即服务;电子政务;框架设计]]></Keyword>
+<Keyword Lang="en"><![CDATA[SaaS e-government framework design]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[SaaS在中国电子商务企业中的应用越来越多,但在电子政务中的应用却凤毛麟角。分析我国电子政务应用SaaS的可能性,提出SaaS模式下的电子政务系统框架设计方案,并指出我国电子政务在应用SaaS时要注意的问题。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[128-131]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[网络课程与课件的开放存取探讨]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[林豪慧;]]></FullName>
+<Organization><![CDATA[广东工业大学图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2010]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[网络课程;课件;开放存取;共享]]></Keyword>
+<Keyword Lang="en"><![CDATA[network course courseware open access sharing]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[网络课程与课件的开放存取有其现实需求,国内外都开展了开放网络课程与课件的实践,以国外的开放课件项目和国内的精品课程网站为主要形式。目前网络课程与课件的开放存取仍在发展初期,可从开放存取的理念宣传、网站的检索功能、服务功能、内容拓展、资源整合、技术规范和费用模式等方面加以完善,促进国内课程与课件开放存取的建设。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[80-83]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[近十年国内农民信息行为研究述评]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[杨沅瑗;茆意宏;黄水清;]]></FullName>
+<Organization><![CDATA[南京农业大学;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2010]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[信息行为;信息需求;农民]]></Keyword>
+<Keyword Lang="en"><![CDATA[information behavior information requirements peasant]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[针对关于农民信息行为的基础理论研究,从农民信息需求、农民信息获取行为和农民信息利用行为三个方面介绍近十年国内学者的研究成果,对其进行简要的评析;认为学术界应该跟踪调查研究农民的信息需求和信息行为及其发展变化,进一步完善关于农民信息行为的理论研究,为我国各地区立足实际推进农村信息化建设提供高价值的理论服务。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[132-135+119]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[关于数字图书馆的经济学分析]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[牛勇平;肖红;]]></FullName>
+<Organization><![CDATA[山东工商学院经济学院;山东工商学院图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2010]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[数字图书馆;寡头垄断;公共物品]]></Keyword>
+<Keyword Lang="en"><![CDATA[digital library oligopoly market public goods]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[描述我国数字图书馆寡头垄断的市场格局,分析数字图书馆的成本曲线,讨论数字图书馆服务的公共物品性质如何导致市场的稀薄以及数字图书馆服务商的定价策略,并对各种管制办法进行比较。研究表明,数字图书馆的产品属性、成本特点以及企业的利润最大化行为,将会导致价格提高,服务量变小。政府应该对数字图书馆服务市场实行一定的价格管制。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[30-34]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[公共借阅权制度的产生和发展]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[傅文奇;郑金帆;]]></FullName>
+<Organization><![CDATA[福建师范大学图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2010]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[公共借阅权;图书馆;版权;文化政策]]></Keyword>
+<Keyword Lang="en"><![CDATA[public lending right library copyright cultural policy]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[从历史的角度,回顾公共借阅权产生和发展的历史过程,认为公共图书馆的兴起和发展、作家群体的积极维权、保护本民族文化传统、国际版权保护强化趋势、欧盟的扩张和信息技术的广泛应用等多种原因共同推动公共借阅权制度的产生和发展。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[26-29]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于SECI模型的高校图书馆知识服务型信息共享空间(KSIC)研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[魏辅轶;周凤飞;]]></FullName>
+<Organization><![CDATA[天津工业大学图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2010]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[信息共享空间;知识管理;知识服务;SECI;KSCI]]></Keyword>
+<Keyword Lang="en"><![CDATA[information commons knowledge management knowledge service SECI KSCI]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[基于SECI模型构建一个KSIC模型,实现从知识管理概念到实体知识空间的转变,并将显性知识和隐形知识的转化过程与特定的服务手段对应起来,通过四个知识空间实现知识服务型信息共享空间中的知识交流和创新。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[39-42]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[高校图书馆和公共图书馆学术研究现状的对比研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[朱玉奴;]]></FullName>
+<Organization><![CDATA[浙江大学图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2010]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[高校图书馆;公共图书馆;关键词分析;学术研究]]></Keyword>
+<Keyword Lang="en"><![CDATA[suniversity libraries public libraries keyword analysis academic research]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[基于2005-2007年CSSCI数据库来源文献的标引词数据,对以高校图书馆和公共图书馆为单位的论文分别进行统计,采用关键词分析方法,从各类图书馆、图书馆要素、服务、管理、理论、技术、研究方法等方面对两类图书馆的学术研究情况进行对比分析。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[43-47+34]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[中小型高校图书馆学科馆员制度起步阶段管理策略研究——基于“智猪博弈”模型的分析]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[冯琴;]]></FullName>
+<Organization><![CDATA[山西师范大学图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2010]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[学科馆员;管理策略;“智猪博弈”]]></Keyword>
+<Keyword Lang="en"><![CDATA[subject librarian management strategy clever pig game]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[学科馆员制度实施成效如何,其起步阶段特别关键。借鉴智猪博弈模型,分析中小型高校图书馆学科馆员工作起步阶段学科馆员与管理者之间的关系机制,并给出中小型高校图书馆学科馆员工作起步阶段的管理策略。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[48-51]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[医院图书馆资源服务Mushup研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[郭云仙;张燕;李书宁;]]></FullName>
+<Organization><![CDATA[昆明医学院第一附属医院图书馆;北京师范大学图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2010]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[Mushup;实现机制;应用实践;医院图书馆]]></Keyword>
+<Keyword Lang="en"><![CDATA[mushup implementation mechanism application practice hospital library]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[从RSSfeeds、API和URL模板三方面介绍资源服务mushup的主要实现机制,然后从拓展OPAC功能、丰富虚拟馆藏、改善检索效果、加强协作交流四方面分析mushup在医院图书馆的应用实践,最后从第三方资源服务遴选、密切跟踪相关资源服务和标准、保证机构信息安全等方面说明医院图书馆mushup应用中应该注意的问题。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[52-55]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[图书馆为政府提供信息服务的思考]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[刘洪;]]></FullName>
+<Organization><![CDATA[广东省立中山图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2010]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[信息服务;科学定位;图书馆特色]]></Keyword>
+<Keyword Lang="en"><![CDATA[information service properly positioning library's characteristics]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[图书馆为政府提供信息服务,既延伸信息服务链,提高信息资源利用率,扩大图书馆的社会影响力,又有助于政府全面掌握信息,提高立法、决策和管理的科学性。应确立面向政府的信息服务的业务地位,创新服务方式,深化服务内容,参与政府信息化建设,形成图书馆信息服务特色,使面向政府的信息服务可持续发展。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[56-59]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[图书馆员的人格及应对方式对其工作倦怠影响的调查与分析]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[刘方方;]]></FullName>
+<Organization><![CDATA[重庆市少年儿童图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2010]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[图书馆员;工作倦怠;人格;应对方式]]></Keyword>
+<Keyword Lang="en"><![CDATA[librarian job burnout personality coping style]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[对2008年中国图书馆学会年会代表等198名图书馆员进行调查,探讨图书馆员人格及应对方式对其工作倦怠的影响,结果表明人格因子和应对方式对工作倦怠有显著的预测效应。针对调查结论提出预防和缓解图书馆员工作倦怠的对策:建立畅通的沟通渠道、提高图书馆员对图书馆的认同感、提供图书馆员压力管理和心理健康教育等相关学习和训练课程。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[60-63]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[网络环境下e-first、e-only模式的思考与探索]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[杨美珍;]]></FullName>
+<Organization><![CDATA[华东理工大学图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2010]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[外文期刊;电子资源;纸本期刊;采购经费;读者需求]]></Keyword>
+<Keyword Lang="en"><![CDATA[foreign journals electronic resources paper journal purchase expenditure reader's demand]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[主要从文献资源采购角度进行调查分析。针对读者需求发生的变化,图书馆文献资源建设的重心已由纸本文献资源向电子资源转移。通过对国内外图书馆外文期刊采购情况和电子资源经费情况的调查分析,深层次了解外文期刊采购现状,论证在网络环境下实施电子先行政策的可行性,并提出对e-only文献的未来趋势的若干思考和建议。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[64-67]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[强势群体对农民帮扶的可行模式——援建农村图书馆]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[刘丽;]]></FullName>
+<Organization><![CDATA[合肥学院图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2010]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[农村;农民;图书馆;强势群体;可持续发展]]></Keyword>
+<Keyword Lang="en"><![CDATA[village peasants library strength groups sustainable development]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[针对强势群体与弱势群体的收入矛盾,结合农村图书馆建设现状,对所调研农村图书馆数据进行思考,提出强势群体援建农村图书馆的想法,发挥图书馆特殊教化功能,有利于社会的稳定;并分析当前我国援建农村图书馆活动开展的意义以及发展中可能存在的问题,对援建农村图书馆所需内外部环境进行思考,以实现其可持续发展。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[68-71+87]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[神秘顾客法:突破LibQUAL+~本土化制约因素的对策]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[张艳芳;]]></FullName>
+<Organization><![CDATA[哈尔滨师范大学图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2010]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[LibQUAL+;本土化;制约因素;神秘顾客法]]></Keyword>
+<Keyword Lang="en"><![CDATA[LibQUAL+ localization constraints mystery customer method]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[首先分析LibQUAL+本土化的制约因素:模型本身的局限制约用户的准确表达;本土国情的局限制约LibQUAL+的实施;其次从LibQUAL+构建的统计学原理出发,提出LibQUAL+本土化的实现途径是神秘顾客法,并对其可行性进行分析;最后以实例说明本土LibQUAL+的调查过程。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[35-38]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[广西高校图书馆与公共图书馆资源整合研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[廖球;]]></FullName>
+<Organization><![CDATA[广西工学院图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2010]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[资源整合;资源共享;高校图书馆;公共图书馆]]></Keyword>
+<Keyword Lang="en"><![CDATA[resources integration resource sharing university library public library]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[广西高校图书馆与公共图书馆进行资源整合,是适应广西经济发展的需要。整合内容包括建立全区的馆藏联合目录检索系统、合作基础馆藏、挖掘现有纸质特色馆藏并转化为数字资源、建立特色电子资源库、集团采购电子期刊及学位论文数据库、建立联合存贮馆藏库以及开展技术资源的合作共享。并提出建立协调机构、完善资金保障体系及制度体系,以确保整合的顺利进行。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[72-75]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[高校图书馆外文期刊信息资源配置]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[李振华;]]></FullName>
+<Organization><![CDATA[福建农林大学图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2010]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[高校图书馆;外文期刊;电子期刊点击率;资源配置]]></Keyword>
+<Keyword Lang="en"><![CDATA[university library foreign periodicals click rates of electronic periodicals resources distribution]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[认为高校图书馆传统外文期刊信息资源配置模式存在弊端,提出参考读者外文电子期刊各种点击率的统计分析配置信息资源的理念,论述其在揭示读者外文期刊信息需求特点及准确配置外刊资源以满足读者真实需求等方面所起到的积极作用;并通过福建农林大学图书馆读者对SD数据库电子期刊点击率统计分析实例,提出外文期刊信息资源配置原则和策略。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[76-79]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[利用威客强化图书馆参考咨询服务的思考]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[吴保全;]]></FullName>
+<Organization><![CDATA[周口师范学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2010]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[威客;参考咨询;图书馆]]></Keyword>
+<Keyword Lang="en"><![CDATA[witkey reference services libraries]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[威客模式的零门槛和价值驱动性的实现机制,使其在知识服务领域形成了一种我帮人人、人人帮我的交往模式,这种模式符合图书馆平等、开放、共享和以读者为中心的服务理念。通过构建图书馆威客网站,将威客模式引入参考咨询工作中,以期改变工作中存在的简单重复劳动、被动消极服务以及人力资源缺乏的局面。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[84-87]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于Web的联合数字参考咨询实践与发展研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[秦波;]]></FullName>
+<Organization><![CDATA[浙江海洋学院图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2010]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[图书馆;联合数字参考咨询;网络化;实践与发展]]></Keyword>
+<Keyword Lang="en"><![CDATA[library collaborative digital reference networking practice and development]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[综合运用比较分析等方法,对图书馆联合数字参考咨询服务的相关问题展开探讨,结合我国图书馆及其他情报机构所进行的联合数字参考咨询服务的实践情况,提出构建我国联合数字参考咨询服务的5条对策,以推进联合数字参考咨询向智能化和个性化发展。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[88-91]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[浅议中国古代书目中的类名]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[李满花;]]></FullName>
+<Organization><![CDATA[黑龙江大学图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2010]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[中国古代书目;类名;主体化]]></Keyword>
+<Keyword Lang="en"><![CDATA[ancient chinese bibliography class name subjectification]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[中国古代书目中的类目命名取决于主观认识,体现人的判断和需求。只有充分结合主体意识、语言环境、事理逻辑、表达功能、语义内涵等因素,才能理解古代书目的类别内涵。相应地,古代书目中所谓的类不是形式逻辑类,它是人根据自己的看法所作的分类,包含着主体人对客体文献的价值评价,本质上反映了在书目编码与解码过程中主体人的存在。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[92-95]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[图书馆服务新农村建设的回顾与展望]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[刘陆军;]]></FullName>
+<Organization><![CDATA[河南大学图书馆;河南大学文献信息研究所;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2010]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[图书馆;服务;新农村建设]]></Keyword>
+<Keyword Lang="en"><![CDATA[library service New-Countryside-Construction]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[在图书馆服务新农村的60年过程中,积累不少的经验和教训,取得一定的成就。认真回顾这60年来的历程,并对图书馆服务新农村建设的状况进行总结、分析和评价,从而为以后图书馆的服务提供借鉴,不但是新农村文化建设的重要内容,也是图书馆人的职责。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[96-98+95]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[日本机构知识库发展与现状研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[陈枝清;徐婷;]]></FullName>
+<Organization><![CDATA[华东师范大学图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2010]]></Year>
+<Issue><![CDATA[08]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[机构知识库;日本大学图书馆;国立情报学研究所]]></Keyword>
+<Keyword Lang="en"><![CDATA[institutional repositories japanese university libraries national institute of informatics]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[阐述在开放获取运动的推动下,机构知识库作为新型的学术交流方式和开放获取活动的绿色通道日渐成为国内外图书情报界关注的热点与焦点。分析日本机构知识库产生的背景、发展历程、日本国立情报学研究所对构建机构知识库的支援措施以及构建现状,希望能对我国机构知识库的构建起到一定的借鉴作用。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[108-111]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于形式概念分析的领域本体构建方法优化研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[张云中;徐宝祥;]]></FullName>
+<Organization><![CDATA[吉林大学管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2010]]></Year>
+<Issue><![CDATA[08]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[形式概念分析;领域本体构建方法;增量模型]]></Keyword>
+<Keyword Lang="en"><![CDATA[FCA domain ontology construction method incremental model]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[针对基于形式概念分析(FCA)的领域本体构建方法的优化问题进行论述,解决优化的四个难点,应用并行开发的工程思想,采用分而治之、映射集成的具体手段,提出一种新的基于FCA的领域本体构建方法并建立增量模型。该方法将整个领域本体构建过程分解成核心本体和若干个并行开发的增量本体的构建过程,而后将核心本体和增量本体通过本体映射和本体集成的手段进行按需组合,最终得到用户所需领域本体。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[112-115]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[利用Sakai平台建立个人学术资源管理系统]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[陈家翠;王美琴;]]></FullName>
+<Organization><![CDATA[苏州大学图书馆信息部;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2010]]></Year>
+<Issue><![CDATA[08]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[Sakai;Sakaibrary;引文管理;个人文献管理系统]]></Keyword>
+<Keyword Lang="en"><![CDATA[Sakai Sakaibrary citation management personal document management software]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[利用Sakai教学平台中的资源工具可检索、管理和共享学术资源,该工具提供搜索Google学术、新建引文、导入引文等三种基本方式在Sakai系统中构建个人资源/引文库。利用Sakaibrary项目成果,通过简单的XML语言,就可调用图书馆元搜索引擎,检索馆藏资源,实现与图书馆订购资源的整合。可针对课程站点、项目站点、资源文件夹和每一条资源设置不同的资源维护和共享权限,并可选择多种途径实现资源的全文永久访问。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[120-122+135]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于OGSA-DAI的数字图书馆动态联盟资源共享]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[朱伟珠;]]></FullName>
+<Organization><![CDATA[天津理工大学图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2010]]></Year>
+<Issue><![CDATA[08]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[OGSA-DAI;Web Service;资源共享;动态联盟;数字图书馆]]></Keyword>
+<Keyword Lang="en"><![CDATA[OGSA-DAI Web Service resource-share dynamic alliance digital Library]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[通过对OGSA-DAI和动态联盟等相关技术的分析,提出基于网格技术的数字图书馆体系结构,在此基础上设计出数字图书馆动态联盟信息资源共享系统。该系统能提供数据访问和集成的统一接口,从而有效实现异构图书馆之间的资源共享与异地协作,提高数字图书馆信息资源的利用率。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[123-126+119]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于语义Web技术的知识管理系统研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[席彩丽;]]></FullName>
+<Organization><![CDATA[淮海工学院图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2010]]></Year>
+<Issue><![CDATA[08]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[知识管理;语义Web;限制因素;创新采纳]]></Keyword>
+<Keyword Lang="en"><![CDATA[knowledge management semantic Web limitation factors innovation adoption]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[认为知识管理是各种社会组织获取竞争优势的一个极其关键的因素,而信息技术的不断发展成为知识管理创新的核心因素。首先分析用户对现有知识管理系统不满意的原因,认为搜索限制、缺乏整合和功能的不方便是用户对系统质量不满意的关键点;另一方面,知识的冗余、残缺以及虚假知识的堆积是用户对知识质量不满意的关键因素;然后,通过对语义Web的分析,提出利用语义Web的相关技术来克服目前知识管理系统的缺点,进而提高知识管理系统的质量和效率。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[127-130]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于关键词的核心期刊主题动态可视化研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[沈鹤林;]]></FullName>
+<Organization><![CDATA[上海交通大学图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2010]]></Year>
+<Issue><![CDATA[08]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[核心期刊;图书情报学;动态趋势;三次样条插值;可视化]]></Keyword>
+<Keyword Lang="en"><![CDATA[journal library and Information science dynamic development cubic spline interpolation visualization]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[在图书情报学核心期刊中,研究性文章的关键词动态变化能很好地反映情报学课题的动态变化情况。选用2007-2009年情报学核心期刊Journal ofthe America Society for Information Science and Technology中研究性文章的关键词为样本,通过运用三次样条插值建立一个可视化模型来表示近年来高频关键词的累计增长数量、增长速率、增长加速率,反映高频关键词的动态变化效果,揭示情报学课题的动态变化。研究结果表明,图书情报学课题的发展是阶段性的,其发展速度不是固定不变的,而是以一种周期的状态出现;其增长的加速度,也呈现一种周期性的跳跃变化,体现现代学术的...]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[144-148]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[《图书情报工作》2010年栏目征稿启事]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> </Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2010]]></Year>
+<Issue><![CDATA[08]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[竞争情报;图书馆学情报学;情报实践;情报研究;情报学基础;知识组织;电子政务;专业核心期刊;研究成果;相关学科;]]></Keyword>
+</Keywords>
+<PageScope><![CDATA[149]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[下期要目]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> </Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2010]]></Year>
+<Issue><![CDATA[08]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[公共借阅权制度;图书馆知识管理;信息行为;文献传递;公共图书馆;专家视点;宋硕;视觉识别系统;高校图书馆;柯平;]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[<正>~~]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[102]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[《图书情报工作》杂志社第22次图书馆学情报学学术研讨会——“2000-2010年国内外图书馆学情报学研究热点”学术论坛征文通知]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <Organization><![CDATA[《图书情报工作》杂志社;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2010]]></Year>
+<Issue><![CDATA[08]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[图书馆学情报学;论坛征文;图情;中文标题;图书情报领域;学科发展趋势;理论与实践;作者简介;研究成果;图书情报事业;]]></Keyword>
+</Keywords>
+<PageScope><![CDATA[1]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[国际物流研究领域的知识可视化分析]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[刘则渊;陈立新;]]></FullName>
+<Organization><![CDATA[大连理工大学WISE实验室;商丘师范学院经济学与管理学系;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2010]]></Year>
+<Issue><![CDATA[08]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[知识图谱;物流;供应链;可视化;共被引分析]]></Keyword>
+<Keyword Lang="en"><![CDATA[mapping knowledge domain logistics supply chain visualization co-citation analysis]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[以国际物流领域的2978篇SCI论文为研究对象,考察该领域的学术期刊、关联学科、演化过程、研究热点和发展趋势。物流研究是管理学与计算机科学、运输科学等学科相互交叉、相互渗透和相互融合的综合领域,但其主体属于管理学,是管理学的一个分支。通过CiteSpace软件绘制物流研究领域的知识图谱,展示该领域的重要文献、著名学术人物和主要研究内容,揭示该领域的演化过程、研究热点和发展趋势。物流研究领域已经形成三个知识群:基于供应链的物流活动核心知识群、物流活动拓展知识群和物流支持系统知识群。物流研究主体已经跨越传统物流理论研究阶段,目前处于供应链理论研究阶段,而最近十年出现的逆向物流理论研究正成为一个新的...]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[140-143+130]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于知识存量的政府公共R&D投入溢出效应实证研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[张玲;赵立雨;]]></FullName>
+<Organization><![CDATA[西安理工大学思想政治理论课教学科研部;西安理工大学经济与管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2010]]></Year>
+<Issue><![CDATA[08]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[政府公共R&D投入;知识存量;溢出效应]]></Keyword>
+<Keyword Lang="en"><![CDATA[government's public R&D inputting knowledge stock spillovers]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[根据C-D生产函数构建R&D投入溢出效应的分析模型,并选取部分大中型工业企业的相关数据(1998-2007年)作为研究样本。实证表明:政府R&D投入的溢出效应比较明显;前一期的产业自身知识存量对当期的专利申请数作用不显著,但对新产品销售收入有显著的促进作用;前两期企业和政府R&D投入所产生的外部知识存量,对当期的专利申请数和新产品销售收入有显著的正的溢出效应。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[81-84]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[2010年农业本体论研究与应用国际学术研讨会将在北京召开]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <Organization><![CDATA[2010年农业本体论研究与应用国际学术研讨会;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2010]]></Year>
+<Issue><![CDATA[08]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[本体论研究;中国农学会;科技情报研究所;会议语言;通讯地址;学术交流;中国农业科学院;省农业科学院;http;联系方式;]]></Keyword>
+</Keywords>
+<PageScope><![CDATA[148]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[企业供应链信息一体化概念模型研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[汪传雷;董尹;]]></FullName>
+<Organization><![CDATA[安徽大学管理学院;南京大学信息管理系;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2010]]></Year>
+<Issue><![CDATA[08]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[供应链;信息一体化;层次;要素]]></Keyword>
+<Keyword Lang="en"><![CDATA[supply chain information integration level element]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[信息作为供应链各个环节的沟通载体,对有效开发利用企业资源、促进企业之间的相互合作发挥着不可替代的作用。在界定企业供应链信息和一体化概念基础上,详细分析信息一体化层次和要素,进而归纳企业供应链信息一体化的概念模型。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[73-76]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[信息化与工业化融合的关键要素及实证研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[王晰巍;靖继鹏;刘铎;马思思;]]></FullName>
+<Organization><![CDATA[吉林大学管理学院;北京交通大学理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2010]]></Year>
+<Issue><![CDATA[08]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[信息化;工业化;融合;关键要素;对策]]></Keyword>
+<Keyword Lang="en"><![CDATA[information industrialization fusion key elements countermeasures]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[从信息化与工业化融合内涵的角度入手,揭示两者发展的5级成熟度模型。在此基础上,构建信息化与工业化融合的关键要素系统模型,从动力、政策和支撑三个方面分析两化融合的关键要素。运用定量统计方法进行问卷调查,并结合调研结果进行数据统计,指出两者融合中企业遇到的困难和存在的问题以及政府应给予的相关扶持,最后提出两者融合的相应对策建议。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[68-72+80]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于产业价值链的移动商务诚信体系初探]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[王战平;钟玲玲;张金隆;谭春辉;]]></FullName>
+<Organization><![CDATA[华中师范大学信息管理系;华中科技大学管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2010]]></Year>
+<Issue><![CDATA[08]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[移动商务;产业价值链;诚信体系]]></Keyword>
+<Keyword Lang="en"><![CDATA[M-commerce industry value chain sincerity system]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[在分析移动商务产业价值链的基础上,构建移动商务诚信体系框架,包括以移动运营商、内容提供商、服务/产品提供商、移动门户提供商、移动用户为主体构成的核心层诚信;以平台软件提供商、移动终端提供商、网络设备提供商、支付支持商为主体构成的中间层诚信;以移动商务产业价值链所处的外部诚信环境而构成的基础层诚信。并探讨诚信体系之间的内在联系,即层次关系、作用关系和价值转化关系。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[136-139+93]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[中美虚拟咨询企业知识服务中的运作机制比较——以InnoCentive公司和疑客中国为例]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[尚珊;苗菁;]]></FullName>
+<Organization><![CDATA[山西大学管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2010]]></Year>
+<Issue><![CDATA[08]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[虚拟咨询企业;知识密集型服务企业;运作机制;威客;疑客]]></Keyword>
+<Keyword Lang="en"><![CDATA[virtual consulting firms knowledge-intensive business service(KIBS)operating mechanism WitKey EKe]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[从市场定位、服务流程、信任机制、风险防范机制和收益分配机制5个方面对中美两家典型虚拟咨询企业知识服务中的运作机制进行比较;在对比分析的基础上,为我国虚拟咨询企业提出4点建议,以期能够找到虚拟咨询业适合的发展道路,促使其积极参与到国际竞争中,争当行业规范、模式的制定者。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[98-102]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[2010年农业本体论研究与应用国际学术研讨会将在北京召开]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <Organization><![CDATA[2010年农业本体论研究与应用国际学术研讨会;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2010]]></Year>
+<Issue><![CDATA[07]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[本体论研究;中国农学会;科技情报研究所;会议语言;通讯地址;学术交流;中国农业科学院;省农业科学院;http;联系方式;]]></Keyword>
+</Keywords>
+<PageScope><![CDATA[100]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[电子办公环境下的业务信息集成管理研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[刘家真;滕跃;]]></FullName>
+<Organization><![CDATA[武汉大学信息管理学院;武汉大学政治与公共管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2010]]></Year>
+<Issue><![CDATA[07]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[电子办公系统;电子文档管理系统;电子文件管理系统;信息生命周期管理;业务信息集成管理系统]]></Keyword>
+<Keyword Lang="en"><![CDATA[electronic office system electronic document management system electronic record management system information life cycle management business information integration management system]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[以我国已有的成功管理实例为基础,提出以业务信息生命周期管理为原则,以IT技术为手段,重构电子办公系统与电子文件管理系统为业务信息集成管理系统,打造机构内业务信息共享平台的设想。围绕这一设想,对集成后的系统重构进行功能分析,并以国内的实例进行佐证。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[127-131]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+</Bibliographies>

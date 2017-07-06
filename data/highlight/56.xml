@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<publication marker="gai shuangshuang">
+    <journal>International Journal of Information Management</journal>
+    <time>Volume 36, Issue 4, August 2016, Pages 599-606</time>
+    <title>Information quality in design process documentation of quality management systems</title>
+    <author>Łukasz Grudzień. </author>Author links open the author workspace.Opens the author workspaceOpens the author workspace<author>Adam Hamrol.</author> Author links open the author workspace.Opens the author workspace
+Poznan University of Technology, Faculty of Mechanical Engineering and Management, Department of Management and Production Engineering, Piotrowo Street 3, 60-965 Poznan, Poland
+Show more
+    <doi>https://doi.org/10.1016/j.ijinfomgt.2016.03.011</doi>Get rights and content
+Highlights
+    <highlight id="1">Information attributes for evaluating quality of process information have been established.</highlight>
+    <highlight id="2">A methodology of evaluating quality of process information is proposed.</highlight>
+    <highlight id="3">When designing the process documents, the information requirements of the process executor need to be taken into consideration.</highlight>
+    <highlight id="4">There exists a relation between attributes of process information and the type of process realized.</highlight>
+Abstract
+    <abstract><![CDATA[Information is the main constituent of documents that make up a quality management system. The main function of information found in process documents is to provide knowledge regarding how to executing a process and to standardize this process by providing a specific path of execution. However, it is not easy to determine a standard level of quality of process information optimal from the viewpoint of the owner and the process executor. Since there is no universal standard that would allow evaluation of the quality of process information, the purpose of the presented studies was to solve the aforementioned problems and to provide practical solutions for document makers to design proper process descriptions. ]]> <h target="2" match="full">To achieve the main purpose, a methodology for examination of influence characteristics of processes on information requirements of users of process documents was created.</h> <![CDATA[ The paper presents findings carried out in processes at enterprises and is aimed at finding relation between attributes describing information and characteristics of processes. The paper proposes a set of guidelines developed by the authors for selection of appropriate document characteristics. These guidelines are based on findings collected from the conducted research.]]></abstract>
+Keywords
+    <keywords>Quality of information</keywords>
+    <keywords>Attributes of information</keywords>
+    <keywords>Process documentation</keywords>
+    <keywords>Quality management system</keywords>
+    <keywords>Quality system procedure</keywords>
+    <section name=" Topic origins" category="introduction">
+        <![CDATA[
+1. Topic origins
+Today, information is considered one of the most important resources of enterprises (English, 1996). In quality management systems, information provides knowledge regarding how to execute processes by providing a specific path of execution (Hamrol 2008; Schlickman 2003; Truś 2004).
+However, it is not easy to determine a rational and standard level of quantity and the range of information that would be best from the viewpoint of the process executor (Zhao, Tang, Darlington, Austin, & Culley, 2008). This is why the commentary section of the ISO 9001 standard includes an additional note: “the extent of the quality management system documentation can differ from one organization to another due to: the size of organization and type of activities, the complexity of processes and their interactions, and the competence of personnel” (ISO 9001, 2008).
+In enterprises preparing documentation of quality management systems, it is usually done in a conventional way. A typical specimen of a document (a procedure) is developed and copied for all processes executed within the management system. This thesis is also supported by pilot studies completed by the authors in 2010 on a group of 50 people responsible for processes in organizations that implemented the quality management systems (Grudzień, 2014). Nearly 70% of those surveyed declared their dissatisfaction with documents describing processes, which prompted them to use such documents infrequently. The most commonly cited accusations related to documentation are, among other things: excessively general descriptions of processes, unclear stipulations, information not pertaining to or of no interest to the user, and impossibility of putting such documents to practice.
+An improperly prepared document may be misunderstood and misleading, and create barriers in internal communication (Adams, 2003). As a result, the following questions come to mind:
+•
+What features should a good process description have, so it does not cause information redundancy, but can still guarantee its desired usefulness?
+
+•
+Should all documents describing a process in a given organization follow the same pattern (form, level of detail, etc.)?
+
+
+Consequently, new questions concerning information itself arise:
+•
+What information attributes are crucial for defining the quality of information in a document?
+
+•
+What is the relation, if any, between process features and the requirements in terms of information attributes?
+
+
+Up to present day, no single, generally expected definition of information has been created. For purposes of this paper, it has been assumed that information should be considered in connection with its recipient (Langefors, 1980; Stefanowicz, 2010) as well as it is of key importance that information is addressed to a designated group of recipients and to identify their requirements − information needs of its users (Oleński, 2003; Kisielnicki & Sroka, 2005; Laudon & Laudon, 2002; English, 2002). It is natural to connect a recipient with a process executed. At this point, it may be useful to create profiles or models of recipients similar to what has been proposed by Ahn, Brusilovsky, Grady, He, and Syn (2007).
+So far, no universal method of measurement or evaluation of the quality of information has been developed (Madnick, Lee, Wang, & Zhu, 2009). Some attempts were made at elaborating a method of measuring the quality of information (Naumann & Rolker, 2000), but proposed methods are based on evaluation of certain attributes of information selected by the authors. These methods are neither comprehensive nor universal. The authors are not aware of a method which would allow measurement of quality of information in documentation of management systems. However, creation of such a method and implementation of mechanisms of evaluating the quality of information may lead to avoidance of redundant information of little cognitive and executive value, resulting in higher usefulness. Also, no method has been identified that would allow measurement of the quality of information included in the documentation of management systems.]]>
+    </section>
+    <section name="Examination of influence of characteristics of processes on information requirements of users of process documents" category="results">
+        <![CDATA[
+2. Examination of influence of characteristics of processes on information requirements of users of process documents
+2.1. Determination of the characteristics of processes and attributes of information
+]]> <h target="3" match="full">Documentation of a quality management system refers to processes and requirements that need to be adhered to.</h><![CDATA[ Substantial contents of a document depend on the nature and know-how of a process (Fig. 1). In addition, a method of documenting information may take the characteristics listed in Table 1 into consideration.
+Fig. 1
+Download full-size image
+Fig. 1. A process document needs to consider know-how and organization, as well as a recipient’s expectations toward the information it contains.
+Table 1. Characteristics of the process that were taken into consideration aside from know-how.
+No.	Characteristics of process (variable)	Variable type	Group
+1	Number of activities	quantitative	organizational
+2	Number of variants	quantitative
+3	Average lead time	quantitative
+4	Number of people involved	quantitative
+5	Level of automation	qualitative ordinal
+6	Number of entries	quantitative
+7	Data dynamics	qualitative
+ordinal
+8	Process repeatability	qualitative
+ordinal
+
+9	Education of employees	qualitative
+ordinal	personal
+10	Seniority (experience) of employees	quantitative
+11	Competence of employees	qualitative
+ordinal
+Source: authors’ work.
+
+Number of activities is a number of steps taken from the beginning, until a process is completed. If we consider a process to be an ordered set of activities, then the number of activities may be taken as a number of actions differentiated in a classical algorithm describing this process. Number of variants is a number of paths, along which a process can be lead. Average lead time expresses an average length of the process.
+
+Number of involved people means a number of employees taking part in completion of a single process. Level of automation expresses a ratio of the number of activities carried out automatically without direct involvement of a person (e.g. processing by a machine) to the activities performed manually (e.g. noting a nonconformity). Criterion of automation may take the following values: “null” (below 10%), “little” <10–30%), “medium” <30–60%), “large” <60–90%) and “full” if above 90% of activities happens without indirect involvement of a human. Number of entries and data dynamics are connected with entries which feed a process and which are transformed or used while conducting the process. The first feature indicates a number of sources from which data comes. The second feature shows frequency of data change (how often the type and value of data changes, e.g. the change of data concerning parameters of produced goods). For the data dynamics, the following ranges were determined: “little” (date change less than once a month), “medium” (data change several times a month), “large” (data change several times a week) and “very large” (data change minimum once a day).
+    
+    Process repeatability means multiplicity of starting in a time unit. One shift, i.e. 8 h, was assumed as a basic unit. The fixed ranges are: “a few times a day”, “once a day”, “a few times a month”, “once a month” and “a few times a year or less”.
+    The remaining three features do not directly concern a process itself but rather the people carrying it out. Four possible levels of education were defined: basic, vocational, medium and high. Seniority determines duration of employment in realization of the same process or a similar one. Competence includes skills, licenses and other attributes acquired through specific workshops, training courses, etc. The competence has been described as: low, medium and high. Low level means lack of specific competences of an employee executing the process. Medium competence means learning specific skills (e.g. a welding course). High competence refers to many additional skills connected with executions of a process, such as supervisory skills, as well as knowledge of advanced computer tools, analytical methods and team management.
+    
+    ]]> <h target="1" match="full">Information attributes selected on the basis of a complex list of attributes proposed by Eppler (2006) were used to evaluate the quality of information in quality management system documents.</h> <![CDATA[ Since process information included in process documents is a specific example of information, the list of 12 attributes proposed by Eppler was limited to 8 from the level of environment and the product (Table 2). A six-grade scale was used to evaluate levels of requirements for the specific attributes (in Table 2 only extreme values “1” and “6” are described).
+    Table 2. Information attributes selected for evaluating the quality of process information.
+    Attribute	Attribute/requirement description
+    1	…	6
+    1. comprehensiveness	Adequacy of information in the scope of a described process. Including sufficient information in a document, to allow appropriate actions to be taken (a number of activities from a process algorithm that is sufficient to execute the process correctly)
+    possibility of very large omissions of actions, but with no effect on maintaining the continuity and correctness of execution of a process	<->	information must contain a complete set of actions of the described process
+        
+        2. accuracy	Level of detail of information about a process which is necessary to execute it correctly. In practice, it comes down to precision of message related to the execution of individual tasks within a process
+        very general information only used for defining actions to be done	<->	very detailed information forcing a specific method of executing individual actions
+            
+            3. clarity	Comprehensibility of a message to a direct user. Possibility of interpreting a message issued by its sender(s) according to their intentions
+            a message may be illegible, but it has no effect on correctness of a process	<->	a message must be fully comprehensible, without any problems in understanding
+                
+                4. applicability	Possibility of using information directly in an activity. Practical representation of a described action
+                very general/theoretical information	<->	practical information; specific cases existing in an organization are described
+                    
+                    5. conciseness	Presence of other elements outside the scope of a given process in process information, naming relations with other processes
+                    information should contain many relations and references to other processes	<->	no visible connections, information should relate only to the described process
+                        
+                        6. consistency	There are no contradictions in a message and it is consistent with the accepted convention
+                        many inconsistencies may appear in a message; the message may be inconsistent with the communication method used in the organization	<->	a message must be coherent; it must be unconditionally consistent with the communication method used in the organization
+                            
+                            7. correctness	There are no errors or interference in a message that may negatively impact the execution of a process
+                            there may be errors, but they will not cause any negative effects in a process	<->	no errors may occur in process information
+                                
+                                8. currency	The message reflects a current status and course of the process
+                                very significant deviations from a current status are possible, caused by changes	<->	full compliance with a current status is required
+                                    Source: authors’ work.
+                                    
+                                    2.2. Collecting data and preliminary analysis
+                                    A total of 72 processes executed in 7 organizations with operational quality management systems were studied. They represented both production and the service sectors. Processes identified by enterprises as parts of existing quality management systems were selected. It was important for the authors to research the widest possible range of processes (e.g. main and subsidiary processes). The data was gained from the owners and executors of processes and was noted down on sheets. Their structure is shown in Table 3.
+                                    Table 3. Survey sheets showing data from chosen processes.
+                                    (a) Process features
+                                    Name of process	Number of activities	Number of variants	Average lead time [h]	Level of automation	Number of entries	Data dynamics	Process repeatability	Number of people involved	Education	Seniority	Competence
+                                    Product design	12	4	120.00	L	7	F	few/y	7	H	11	H
+                                    Conducting APQP	23	2	240.00	N	6	M	few/m	4	M	11	L
+                                    Products design	5	1	0.13	N	1	L	few/d	1	V	1	L
+                                    Quality control of product	5	3	1.00	N	1	L	few/d	1	M	9	M
+                                    Regular service and maintenance	7	2	5.00	N	6	M	1/d	4	V	15	M
+                                    Calibration of measuring tools	8	1	3.00	N	2	L	1/m	5	V	8	M
+                                    Mold repair	5	3	7.00	L	2	M	few/m	4	V	9	H
+                                    Bending − Bending machine	10	3	0.54	LA	1	M	few/d	2	V	15	M
+                                    Assembly of gas meter	6	1	0.50	N	1	L	few/d	1	V	10	M
+                                    Assembly of gas meter	6	1	0.50	N	1	L	few/d	1	V	7	M
+                                    Purchase	8	4	12.00	LA	4	M	few/d	6	H	3	M
+                                    Storage of ready products	6	1	0.80	L	2	L	few/d	7	B	1	M
+                                    Production planning	4	2	0.25	M	9	M	few/d	5	H	10	M
+                                    Forming processes − rolling	5	3	8.00	L	1	M	few/d	5	B	5	M
+                                    Pressing	5	1	8.00	LA	1	M	few/d	3	B	10	M
+                                    (b) Attributes of information
+                                    Name of process	Comprehensiveness	Accuracy	Clarity	Applicability	Conciseness	Correctness	Currency	Consistency
+                                    Product design	5	2	5	4	3	6	6	6
+                                    Conducting APQP	5	4	6	4	3	5	6	6
+                                    Products design	5	4	6	5	6	5	6	6
+                                    Quality control of product	6	6	5	5	5	6	6	5
+                                    Regular service and maintenance	3	4	5	5	4	6	5	5
+                                    Calibration of measuring tools	4	4	5	4	5	6	6	6
+                                    Mold repair	3	4	6	4	4	6	6	5
+                                    Bending–Bending machine	4	5	6	5	5	6	6	5
+                                    Assembly of gas meter	4	4	5	5	6	5	6	6
+                                    Assembly of gas meter	4	4	6	5	6	6	5	6
+                                    Purchase	4	3	6	4	4	6	6	6
+                                    Storage of ready products	4	4	6	4	6	6	6	6
+                                    Production planning	4	3	6	4	3	6	6	6
+                                    Forming processes—rolling	5	5	6	5	6	6	6	6
+                                    Pressing	5	5	6	5	5	6	6	5
+                                    As a result of preliminary data analysis, it was found that some attributes: clarity, consistency, correctness and currency, show minor variability of requirements − within the range of 5–6. It was suggested that these are the crucial features for obtaining high quality of documents; this is why they were labeled “critical” by the authors. Moreover, it was assumed in the case of the particular usage, clarity may be defined by accuracy or comprehensiveness of a message.
+                                    
+                                    Finally, a list of critical attributes was limited to three positions: consistency, correctness and currency. The binary scale {0,1} was used for them.
+                                    
+                                    A group of attributes, for which the values of expectations of users of documents were varied in the range between 1 and 6 are: comprehensiveness, accuracy, applicability and conciseness. It may be assumed that requirements toward these attributes have certain relations with process features. This group was labeled as the “desired” attributes.
+                                    Finally it was agreed that an information vector consists of these seven attributes:
+                                    (1)wmn = [A1, A2, A3, …, A7]
+                                    
+                                    where:
+                                    
+                                    wmn— information vector m describing a group of processes n
+                                    A1—attribute of comprehensiveness
+                                    A2—attribute of accuracy
+                                    A3— attribute of applicability
+                                    A4—attribute of conciseness
+                                    A5—attribute of consistency
+                                    A6—attribute of correctness
+                                    A7— attribute of currency
+                                    Attributes from A1 to A4 (desired) take values from the set {1; 2; …; 6}
+                                    Attributes from A5 to A7 (critical) take values from the set {0; 1}
+                                    2.3. Setting out a correlation between process features and requirements connected with information attributes
+                                    In further analyses, in order to examine strength of the relations between features of processes and information requirements, a coefficient based on Spearman's rank correlation coefficient was used. It is a robust method (International Encyclopedia of Statistical Sciences, 2011) dedicated to data placed on an ordinal scale and therefore adequate to the type of data gathered throughout the research. Spearman's coefficient r may be understood as an ordinary coefficient of Pearson's correlation, i.e. it may be interpreted as a measure of variability (StatSoft, 2011). The difference is such that we calculate it on the basis of a rank, not the values themselves. Table 4 presents results of these calculations (critical attributes were not used when examining the relations).
+                                    Table 4. Spearman's rank correlation coefficient between process features and information attributes.
+                                    Feature of process	Spearman's rank order correlation
+                                    (Correlation coefficients in bold are significant at α < 0.05000)
+                                    Attributes of information
+                                    comprehensiveness	accuracy	applicability	conciseness
+                                    Number of activities	−0.109968	−0.203868	0.050675	−0.083741
+                                    Number of variants	−0.025514	−0.130375	0.113865	−0.162085
+                                    Lead time	−0.276571	−0.567571	−0.279346	−0.471175
+                                    Automation	−0.351169	−0.13596	−0.307624	−0.070695
+                                    Number of entries	−0.086046	−0.566694	−0.162392	−0.822936
+                                    Data dynamics	0.072863	−0.248836	0.112936	−0.498372
+                                    Repeatability	−0.189519	−0.375413	−0.182557	−0.239243
+                                    Number of participants	−0.153393	−0.224012	−0.139243	−0.114871
+                                    Education	0.132602	−0.349449	−0.009811	−0.605282
+                                    Traineeship	0.034464	0.146596	0.013797	0.150925
+                                    Competences	−0.072904	−0.28135	0.041422	−0.205830
+                                    Bold values are statistically significant.
+                                    
+                                    
+                                    Source: authors’ work.
+                                    
+                                    In general, process features are weakly correlated with requirements connected with the information attributes (the highest absolute value of correlation is 0.823, with only 4 correlation values out of 13 significant ones higher than 0.5). This forced the authors to look for a different way of finding a relation between features of processes and the expected values of information attributes.
+                                    
+                                    2.4. Grouping of processes in terms of their similarity
+                                    A detailed analysis of processes leads to an assumption that, in terms of features which were examined, there is a certain similarity between them (some processes are naturally long, e.g. the design process, other processes are short, e.g. the quality control process; some are repetitive, e.g. production process, and others are known for high variability of execution, e.g. dealing with complaints).
+                                    
+                                    Taking this into account, along with conclusions regarding correlation, a decision was made to group the collection of the examined processes. The purpose of grouping was to find the number of groups of processes homogenous in terms of similarities of features which describe them.
+                                    
+                                    Cluster analysis models were used for grouping the processes (Fraley & Raftery, 1998). Since it was impossible to assume a specific number of clusters beforehand, a decision was made to use the agglomeration method. The agglomeration method is used for grouping the objects by gradually weakening the criterion of similarity of objects. In such a way, different objects are linked together and aggregate into bigger and bigger clusters, which differ more and more from each other. Fig. 2 shows the results of agglomeration performed according to the most effective grouping option, the Ward method, taking the Manhattan distance into account (StatSoft, 2011). The Ward method aims at minimizing the amount of square deviation of any two concentrations which may be formed at any stage. The Manhattan measure used in this method is a sum of dissimilarities measured along the dimensions. It provides results similar to the ordinary Euclidean distance. However, influence of single significant dissimilarities (outliers) is weakened.
+                                    Fig. 2
+                                    Download full-size image
+                                    Fig. 2. Clusters achieved as a result of the agglomeration procedure in terms of characteristics of processes (Grouping I).
+                                    As seen in the diagram in Fig. 2, data regarding characteristics of processes grouped by means of the Ward method has a specific ‘structure' which allows the conclusion that there are concentrations of processes similar to each other. Quite clear branches are shown for the distances of maximum 15 units (marked by a broken line; see the diagram in Fig. 2). Such a value has been used as a criterion to assign objects to particular clusters. In this way, 8 homogenous clusters were formed. After rejecting a cluster with only one object (cluster 1) and cluster 5 (this cluster contains processes which were not assigned to any group; they were considered to be atypical processes), the number of clusters was limited to 6. Process groups were tagged according to the types of processes as follows: design, planning, manufacturing, control, service, maintenance. The groups of processes are characterized in Table 5.
+                                    Table 5. Homogenous groups of processes with their characteristics.
+                                    Group of Processes	Group Characteristics	Typical Representative
+                                    Design	Processes related to execution of design activities. Consisting in developing concepts. Connected to execution of tasks that require creativity.
+                                    Main features: very long lead time, average number of executed activities, no or low degree of automation, high number of entries and high or higher data dynamics. The processes are executed not more often than several times a month by numerous users. The executioners of these processes have higher education and should have high competences.	Creating a new product
+                                    
+                                    Planning	Activities consisting in planning tasks to be executed in other processes or optimization of these tasks, etc.	Production planning
+                                    Main features: very short or average lead time, small number of executed activities making up a process, high degree of automation, average or higher number of entries and low/average data dynamics. The processes are executed several times a day by many or one participant. The executors of these processes have higher education and should have average competences.
+                                    
+                                    Manufacturing	Tasks directly contributing to manufacturing a physical product. Processes in which machinery and tools are used and physical labor takes place.	Product manufacturing
+                                    Main features: average lead time, low/average number of executed activities making up a process, high degree of automation, low/average number of entries. The processes are executed several times a day by several users. Mostly, the executors of these processes have higher education and average competences.
+                                    
+                                    Control	Processes consisting in verification of results of other processes executed by themselves or other people. These processes aim to confirm the conformity of executed activities and to make a decision on the basis of evaluation results.	Inspection of incoming deliveries/finished goods
+                                    Main features: few activities, several variants, lasting shortly. Processes executed manually, with low or high data dynamics. Variants result from necessity to make a decision − the decision is strictly algorithmized. Most often executed by several employees who have at least secondary education and who have average competencies.
+                                    
+                                    Service	Processes consisting in executing service activities, mostly connected to the execution of mental tasks with the use of electronic equipment (e.g. PCs).	Handling external complaints/purchases
+                                    Main features: few activities, but extended over time, high number of entries, low data dynamics, executed several times a day, mostly by one person with higher education. No higher competencies are required for these processes.
+                                    
+                                    Maintenance	Processes similar to service processes, but with dominance of physical work.	Repair of production tools
+                                    Main features: average lead time, average number of executed activities making up a process, no or low degree of automation, average number of entries and average data dynamics. The processes are executed several times a month by several users. The executors of these processes should have high competences.
+                                    Source: authors’ work.
+                                    
+                                    2.5. Grouping of processes in terms of their similarity and requirements for information attributes
+                                    To verify the thesis regarding the existence of relation between process characteristics and values of attributes of information, a decision was made to group the processes once again. However, the values of information attributes were additionally taken into account.
+                                    
+                                    The same algorithm of agglomeration analysis was used for determining groups. The classification tree resulting from use of the said algorithm is presented in Fig. 3.
+                                    Fig. 3
+                                    Download full-size image
+                                    Fig. 3. Clusters achieved as a result of the agglomeration procedure in terms of characteristics of processes and values of information attributes (Grouping II).
+                                    As a result of the second processes of agglomeration, 11 clusters were formed. For comparison, in the first agglomeration, without considering attributes of the information, 8 clusters were obtained (see Table 6).
+                                    Table 6. The summary of process groups formed from the two subsequent agglomerations.
+                                    Concentration—Agglomeration I	Concentration—Agglomeration II
+                                    Service (SI2)	SII7
+                                    SII9
+                                    Planning (SI3)	SII8
+                                    Manufacturing (SI4)	SII5
+                                    Control (SI6)	SII2
+                                    SII3
+                                    SII4
+                                    Maintenance (SI7)	SII6
+                                    SII10
+                                    Design (SI8)	SII11
+                                    Source: authors’ work.
+                                    
+                                    Some clusters from both groupings overlap. In some cases, clusters from Grouping II make up subsets of concentrations in Grouping I. Therefore, a conclusion may be drawn that individual concentrations include certain subsets due to differences in values of information requirements of documents users.
+                                    
+                                    A detailed analysis of these differences was carried out and its results are presented in Table 7. For levels of requirements regarding the information attributes, the following labels were proposed:
+                                    Table 7. Matrix of detailed dependence values of information attributes from characteristics of processes in individual groups.
+                                    Type of process	Level of information attributes
+                                    Comprehensive-ness	Accuracy	Applicability	Conciseness
+                                    design	A/H	L	H	A
+                                    planning	A	A	A	If DD ↑ then A-> L (↓)
+                                    service	If NE ↑
+                                    then A-> H (↑)	A	A	If NE/DD ↑
+                                    then A-> L (↓)
+                                    maintenance	A	A	A/H	H
+                                    manufacturing	If Aut. ↑
+                                    then H-> A (↓)	If DD ↑
+                                    then A-> H(↑)	If NE ↑
+                                    then H-> A (↓)	H
+                                    control	If DD (↑)
+                                    then H-> WH (↑)*	H	H	If NE ↑
+                                    then H-> A (↓)
+                                    Level: L— low, A— average, H— high, WH—very high. Process characteristics: DD—data dynamics, NE—number of entries, Aut.—automation level
+                                    
+                                    
+                                    Source: authors’ work.
+                                    
+                                    Unlabelled figure
+                                    Download full-size image
+                                    
+                                    The guidelines contained in Table 7 allow, for example, to learn that a document describing a process of the design group should be characterized by an average to high level of completeness, low level of details, high level of applicability and an average conciseness.
+                                    In the design and maintenance processes, requirements regarding a given attribute are relatively constant, they are not dependent on the process features such as dynamics (variability) of input data or number of entries. However, such a dependability is present in planning, service and manufacturing processes. For example:
+                                    •
+                                    in the planning processes, required conciseness of information decreases along with increase of variability of data supplied to the process
+                                    
+                                    •
+                                    in the manufacturing processes, higher automation causes increase of requirements regarding completeness of information in a document]]>
+ </section>
+                                    
+                                    <section name=" Summary" category="conclusion">
+                                        <![CDATA[
+                                    3. Summary
+                                    The following conclusions on information in process documents for quality management systems were formed on the basis of concluded research and analyses:
+                                    1)
+                                    It is advisable to use seven attributes, namely: comprehensiveness, accuracy, applicability, conciseness, consistency, correctness and currency, to describe process information in a comprehensive manner.]]>
+                                    
+                                    <h target="4" match="full"> 2)
+                                        The analyses show that there are homogenous groups of process types and that information attributes are relatively constant within these groups.</h> <h target="3" match="part"> A level of information requirements of document users is dependent on the type of executed process. Six basic types of processes were identified for which information requirements change. </h> <![CDATA[ These are design, planning, service, maintenance, manufacturing and control processes.
+                                    
+                                    3)
+                                    Certain variations in values of attribute levels can be observed for some process types. The characteristics affecting the differentiation of attribute values within a group to the highest degree are: the number of entries to a process, data dynamics and the level of automation of the process. These mostly affect the attributes of comprehensiveness and conciseness. Increasing number of entries and growing frequency of changes in data appearing at the input to a process results in an increase of the attribute of comprehensiveness and a drop in conciseness. On the other hand, increasing level of automation results in reduced need for comprehensiveness of a document (applies to production processes).
+                                    
+                                    
+                                    The dependencies of information attribute values on characteristics of processes, obtained as a result of the performed studies, should be treated both as expectations and requirements of users of documentation, in which this information is or should be included. This is why findings of the authors could be used while designing documents of a quality management system. The dependencies indicated in the paper are guidelines for selection of a form of a document, which will possibly be the best suited for specificity of an executed process.
+                                    
+                                    It needs to be emphasized that during development of a process documentation, it is particularly important to fulfill conditions related to critical attributes. Features of a document, such as: coherence, validity and correctness, must characterize a document. It is also important to updatexecutore documents as processes change. In extreme cases, a big change of characteristics of a process (e.g. its complexity, quantity of data, dynamics of changes at the input) can cause movement of the process to a different group and dramatically change a profile of the document. It is important to introduce changes in documents as soon as possible in order to ensure their validity.]]>
+                                    </section>
+</publication>

@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bibliographies>
+<BibliographiesCount>15</BibliographiesCount>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[国外高校图书馆嵌入式教学服务的实践及启示]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[熊惠霖;]]></FullName>
+<Organization><![CDATA[上海大学图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[17]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[国外;高校图书馆;嵌入式服务;嵌入式教学]]></Keyword>
+<Keyword Lang="en"><![CDATA[foreign;academic library;embedded librarian;embedded instruction]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[[目的/意义]通过对国外高校图书馆嵌入式教学服务现状和具体案例进行分析,为我国高校图书馆开展嵌入式教学服务提供借鉴与参考。[方法/过程]使用网络调研法和文献调研法,对国外高校图书馆嵌入式教学服务的典型案例进行选择与分析。[结果/结论]国外高校图书馆的嵌入式教学服务实践开展得广泛深入,为我国提供了很好的经验。我国高校图书馆应积极开展嵌入式教学服务,在实践过程中注重嵌入式教学服务的目标规划和课程设计,采用以学生为主导的基于问题的教学方法,建立完善的考核和评价体系,充分利用新的信息环境和信息技术为教学和学习提供更好的支持。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[67-72]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[关联数据的可视化技术研究与实现]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[陈涛;夏翠娟;刘炜;张磊;]]></FullName>
+<Organization><![CDATA[中国科学院上海生命科学信息中心;上海图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[17]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[关联数据;SPARQL;RDF;数据可视化;R]]></Keyword>
+<Keyword Lang="en"><![CDATA[linked data;SPARQL;RDF;data visualization;R]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[[目的/意义]目前,关联数据领域的研究正从如何生产数据向如何消费数据的方向转变,可视化已成为该领域研究的新热点。通过关联数据可视化可以在有限的空间(如一张图)传达无限的信息,更直观地展示数据之间的内在联系,利于信息的发现。[方法/过程]针对关联数据系统中实际产生的实例数据和本体结构这两类RDF数据,分别介绍一些适用于这两类数据形式的可视化技术和实现方法,并引用实际开发和研究中的成功案例进行阐述。[结果/结论]本文所提到的可视化实现方法具有一定的通用性,可以为其他关联数据应用系统的可视化提供指导和借鉴。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[113-119]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于数据本体的科学数据语义化组织研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[徐坤;蔚晓慧;毕强;]]></FullName>
+<Organization><![CDATA[吉林医药学院图书馆;吉林大学管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[17]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[科学数据;数据组织;本体]]></Keyword>
+<Keyword Lang="en"><![CDATA[scientific data;data organization;ontology]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[[目的/意义]数据驱动的科研时代,科学数据的重要性越来越高,有效组织科学数据,便于科学数据被科研人员复用和利用计算机进行二次开发,对科学研究具有重要意义。[方法/过程]利用专家调查法确定科学数据本体的概念、属性和描述科学数据的元数据模型,在领域专家的参与下构建科学数据本体,将科学数据组织于一个由相关概念组成的知识环境中。[结果/结论]利用数据本体组织科学数据,使科学数据在内容上更加丰富,在表现形式上更易于被计算机所理解,通过对构建基于数据本体的检索实证表明其检索结果能够利用推理功能提高检全率,并便于以可视化的形式展示检索结果。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[120-126]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[利用标签-概念映射方法构建多元集成知识本体研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[白华;]]></FullName>
+<Organization><![CDATA[郑州大学信息管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[17]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[大众分类法;知识组织系统;文学图书本体;映射;集成]]></Keyword>
+<Keyword Lang="en"><![CDATA[folksonomy knowledge organization system;literary book ontology;map integration]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[[目的/意义]针对大众分类法和知识组织系统各自的优势和缺点,构建兼有大众分类和概念本体特征的新本体,利用语义关联技术为标签添加语义,以克服传统分类线性结构的缺陷。[方法/过程]建立一个文学图书本体,该本体以每对概念与标签之间的资源相似率为标准,采用标签一概念映射和集成技术把标签映射到概念框架中,从而一方面赋予标签以等级关系、同一关系和相关关系等语义,另一方面提高概念本体的标引能力,使每种图书的属性充分得到语义表达和揭示。[结果/结论]试验表明,新本体在容纳性、灵活性和多向语义关联方面的功能,均有显著提高,因而可提高图书资源的知识表示和组织能力。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[127-133]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[美国大学图书馆版权服务调查及启示]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[叶秀明;]]></FullName>
+<Organization><![CDATA[福建医科大学图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[17]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[版权服务;大学图书馆;MOOC]]></Keyword>
+<Keyword Lang="en"><![CDATA[copyright services;university library;MOOC]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[[目的/意义]针对当前MOOC存在的版权问题与我国版权意识薄弱的现象,通过调查美国大学图书馆的版权服务,明确我国大学图书馆开展版权服务的必要性和可行性。[方法/过程]从MOOC存在的版权问题引发对大学图书馆开展版权服务的思考。通过对版权服务开展得比较完善的10所美国大学图书馆的网站进行调查,了解其开展版权服务的目的,并对其版权服务的内容进行分析和总结。[结果/结论]版权服务在美国的大学图书馆已非常普遍,我国大学图书馆可以借鉴其成功经验开展版权服务,提高师生的版权意识。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[62-66]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[加拿大儿童图书馆学教育现状与特点]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[马荣;束漫;]]></FullName>
+<Organization><![CDATA[华南师范大学经济与管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[17]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[儿童图书馆;专业教育;图书馆服务]]></Keyword>
+<Keyword Lang="en"><![CDATA[children's library science;professional education;library services]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[[目的/意义]研究加拿大高校儿童图书馆学教育现状与特点,旨在为我国儿童图书馆学专业教育的尽快开展提供参考与借鉴。[方法/过程]采用网络调研方法,从学科学位、课程设置、师资力量3个方面深入调查与分析加拿大儿童图书馆学教育的内容。[结果/结论]总结得出加拿大在儿童图书馆学教育领域具有学科交叉性较强、课程细化程度较高以及学以致用原则凸显等特点,提出对我国开展儿童图书馆学教育的3点启示:以交叉学科为背景,增设联合型学位课程;以专业教材为指导,细化层次性课程分类;以专职教师为依托,构建应用型教学模式。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[73-78]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[国家示范性高职高专院校图书馆资源库建设实地调研分析——以宁波职业技术学院等4所高职高专院校为例]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[林岚;吴小茵;符瑞锐;]]></FullName>
+<Organization><![CDATA[海南经贸职业技术学院图书馆;海南医学院图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[17]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[国家示范性高职院校;资源库建设;调研分析]]></Keyword>
+<Keyword Lang="en"><![CDATA[national demonstrative or backbone higher vocational colleges;resources database construction;investigation and analysis]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[[目的/意义]虽然图书馆特色资源库建设的话题近年来已逐渐转冷,但如何持续开展特色资源库建设,如何将教学资源库建设融入图书馆特色资源库建设中,以更好地为高校科研教学服务仍然是本课题的核心任务。[方法/过程]对宁波、金华、天津和武汉地区已通过国家教育部验收的一些国家示范性、骨干性重点高职高专院校的教学资源及特色资源库建设情况进行实地考察、调研,并对教学资源库与特色资源库之间的关系进行探讨。[结果/结论]特色资源库与教学资源库这两个概念都衍生于资源库,具有同源性,各图书馆可以根据本校的专业发展规划、学科设置、科研方向以及地区人文、行业、产业等确定建库方针和原则,利用教学资源库的特性,结合图书馆的...]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[79-83+112]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[科学数据共享中的邻避现象及应对研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[周姗姗;翁苏湘;毕强;徐坤;]]></FullName>
+<Organization><![CDATA[吉林医药学院;吉林大学管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[17]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[科学数据;数据共享;邻避现象]]></Keyword>
+<Keyword Lang="en"><![CDATA[scientific data;data sharing;NIMBY]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[[目的/意义]明确科研人员对科学数据共享的态度和意愿,探索影响科研人员数据共享的原因,发现有效促进科学数据在更大范围内共享和复用的方法。[方法/过程]利用文献分析法、访谈法等研究方法,构建科学数据共享影响因素,利用干预培训方法对科研人员进行干预,比较干预前后科研人员科学数据共享态度,找出有效促进科学数据共享的方法,最后给出有效提升科研人员科学数据共享意愿的方案。[结果/结论]调查发现,科研人员数据共享意愿中存在邻避现象,参考已有研究中邻避现象的解决方法对科研人员进行干预活动,对比干预前后数据,干预后科研人员科学数据共享感知风险降低,共享意愿提高,即邻避设施中的解决方法在科学数据共享中具有重要参...]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[84-88]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[协同搜索行为中的用户任务感知及情绪状态研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[袁红;赵宇珺;]]></FullName>
+<Organization><![CDATA[南通大学管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[17]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[协同搜素;任务类型;任务感知;情绪状态]]></Keyword>
+<Keyword Lang="en"><![CDATA[Collaborative information search;Task type;Task perception;Emotional states]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[[目的/意义]全面考量任务感知和情感状态在协同搜索中呈现的规律及其对协同搜索效率的影响,深入理解用户协同搜索行为,可以为协同信息检索系统的设计和改进提供借鉴。[方法/过程]运用模拟实验和问卷调查的研究方法,选取Coagmento协同搜索系统作为研究平台,研究对不同任务类型的协同搜索过程中不同问题解决能力和亲密度的协作团队的任务感知和情感状态差异,以及任务感知和情感状态之间的关联性和协同搜索效率的影响因素。[结果/结论]任务类型全面影响协同搜索中的任务感知,问题解决能力的影响大于成员亲密度;三者影响协同搜索中的用户情绪状态;用户情绪状态呈现正向→负向→正向的变化规律;任务感知和正向情绪有利于...]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[89-98]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[大学生文本和图像阅读心智模型研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[刘英梅;]]></FullName>
+<Organization><![CDATA[肇庆学院图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[17]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[文本;图像;心智模型;整合;阅读]]></Keyword>
+<Keyword Lang="en"><![CDATA[text;image;mental model;integration;read]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[[目的/意义]了解文本和图像在阅读心智模型建设中的作用,了解大学生阅读活动中如何处理文本和图像信息,及他们阅读心智模型建设情况,以帮助大学生修改完善阅读心智模型,更好地理解阅读内容,提高其阅读能力,增强图书馆的实用性。[方法/过程]根据阅读信息处理策略提出假设,确定文本图像阅读单位和整合项目,利用眼球追踪方法,调查肇庆学院不同学历不同年级大学生文本和图像阅读情况及其文本图像整合能力和策略使用情况。[结果/结论]文本和图像在阅读心智模型建设中扮演着不同的角色;大学生有较完善的文本阅读心智模型;图像阅读过程中能够形成简单心智模型,完成部分特定任务,但不能解决复杂问题;在使用策略回答较复杂问题时,文...]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[99-104+148]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[《图书情报工作》2015年增刊(2)征稿启事]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> </Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[17]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[图书情报工作者;信息资源管理;优秀科研成果;学术交流;中文标题;详细联系方式;且一;信息服务;人才培养;信息技术;]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[<正>为了给图书情报工作者提供更多的学术交流机会,使更多作者的优秀科研成果得以发表,《图书情报工作》杂志社定于2015年下半年出版《图书情报工作》增刊(2)。内容涉及基础理论研究、信息资源管理、信息服务、信息技术与人才培养等。征文要求:1.主题明确,数据可靠,文字通顺,且一稿专投(即未在他刊上发表);]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[119]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[“名家视点”第5辑丛书书讯]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> </Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[17]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[图书馆学情报学;图书情报领域;图书资料;前沿研究;教学参考书;相关学科;九折;理论研究;网络舆情;发展趋势;]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[<正>由《图书情报工作》杂志社精心策划和主编的名家视点系列丛书第5辑已正式出版。该系列图书资料翔实,汇集了多位专家的研究成果和智慧,观点新颖而富有见地,反映众多图书馆学情报学热点和前沿研究的现状及发展趋势,对理论研究和实践工作探索均具有十分重要的参考价值和指导意义,可作为图书馆学情报学及相关学科的教学参考书和图书情报领域研究学者和从业人员的专业参考书。该专辑的4个分册信息如下,广大读者]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[126]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[ORCID在机构知识库建设中的应用研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[王海花;黄金霞;刘雪梅;]]></FullName>
+<Organization><![CDATA[兰州大学图书馆;中国科学院文献情报中心;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[17]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[研究者唯一识别符;机构知识库;ORCID;iAuthor;整合]]></Keyword>
+<Keyword Lang="en"><![CDATA[the researcher unique identifier;IR;ORCID;iAuthor;integration]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[[目的/意义]研究者唯一标识符是解决机构知识库(IR)作者名称歧义问题的重要途径。通过研究近年来最受关注的新型研究者唯一标识符ORCID在IR中的整合应用,构建基于iAuthor的IR整合方案,以期对国内IR的可持续发展提供借鉴。[方法/过程]通过文献调研和0RCID在各个领域的应用实践案例分析,为IR解决名称歧义问题、构建作品认领机制、完善科研评价与管理找到新的途径。[结果/结论]ORCID在各种IR系统的整合案例展现出较好的应用效果,为IR有效管理研究者及其学术资源、帮助科研机构进行学术绩效评估、实现成果自动推送、与更多的数据系统关联等长期可持续发展问题提供了较好的解决方案。结合国内实际,...]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[134-140+133]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[国外开放政府数据政策以及图书馆作用的综述]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[杜妍洁;顾立平;]]></FullName>
+<Organization><![CDATA[中国科学院文献情报中心;中国科学院大学;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[17]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[政府数据开放共享;开放数据;权益管理;数据政策;信息生命周期]]></Keyword>
+<Keyword Lang="en"><![CDATA[government's open data sharing;open data;rights management;data policy;information life cycle]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[[目的/意义]图书馆在知识社会发展中扮演着重要角色,政府数据开放共享有利于人们利用数据创造知识,分析政策要素可以协助图书馆在收集、管理、处理、服务上厘清权益问题并制订实施方案。[方法/过程]调研国外开放政府数据政策,从执行方案、权责声明、服务政策三个方面综述政策要素,并以综述结果为基础分析图书馆的作用。[结果/结论]完善的政策体系有助于数据共享,而且图书馆可以协助推动良好实践,其中政策要素包括:执行方案(界定政策范围、组织推进小组、明确执行任务)、权责声明(建立问责机制、遵循既有法规、坚持开放边界)、服务政策(规划基础设施、提出服务要求、设定屏蔽原则)等。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[141-148]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[现代信息服务业的创新模式研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[姚伟;张榕榕;刘丽敏;张秀;张俊;林春雪;]]></FullName>
+<Organization><![CDATA[天津科技大学经济与管理学院;南开大学滨海学院;沈阳药科大学组织人事部;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[图书情报工作]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[17]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[信息服务;信息服务业;创新模式;信息管理]]></Keyword>
+<Keyword Lang="en"><![CDATA[information service;modern information service industry;innovation driven;social and economic development]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[[目的/意义]将现代信息服务业和创新相融合,调查其影响因素,构建现代信息服务业的创新模式。[方法/过程]通过CiteSpace分析出信息服务业的研究前沿是现代信息服务业及创新,通过调查问卷分析其关键影响因素,进而构建创新模式。[结果/结论]从创新视角出发,推动相关体制与信息服务生态发展相适应;结合创新,着重信息服务专业人才的创新性培养,奠定现代信息服务业的人才基础;创新性地构建信息基础设施,以便以不同方式和不同途径能在云服务和大数据时代提供高质高效的信息服务;创新性地进行信息资源配置,满足更多不同地区不同客户的信息需求;与其他相关产业进行创新性的协同交互,充分发挥各自的产业优势,相互促进共同进...]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[47-55]]></PageScope>
+<Publisher><![CDATA[图书情报工作]]></Publisher>
+<Code><![CDATA[0252-3116]]></Code>
+</Bibliography>
+</Bibliographies>

@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<publication marker= "liu yang">
+    <journal>International Journal of Information Management</journal>
+    <time>Volume 36, Issue 6, Part B, December 2016, Pages 1328-1339</time>
+    <title>A near field communication adoption and its impact on Expo visitors’ behavior</title>
+    <author>Heejeong Han</author>. Author links open the author workspace.Opens the author workspacea. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace
+    <author>Arum Park</author>. Author links open the author workspace.Opens the author workspaceb. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace
+    <author>Namho Chung</author>. Author links open the author workspace.Opens the author workspaceOpens the author workspacec. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace
+    <author>Kyoung Jun Lee</author>. Author links open the author workspace.Opens the author workspaced. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace
+a
+Department of Tourism, Graduate School, Kyung Hee University, 26 Kyungheedae-ro, Dongdaemun-gu, Seoul 02447, Republic of Korea
+b
+The School of Management, Kyung Hee University, 26 Kyungheedae-ro, Dongdaemun-gu, Seoul 02447, Republic of Korea
+c
+<![CDATA[College of Hotel & Tourism Management, Kyung Hee University, 26 Kyungheedae-ro, Dongdaemun-gu, Seoul 02447, Republic of Korea]]>
+d
+The School of Management, Kyung Hee University, 26 Kyungheedae-ro, Dongdaemun-gu, Seoul 02447, Republic of Korea
+Show more
+    <doi>https://doi.org/10.1016/j.ijinfomgt.2016.04.003</doi>Get rights and content
+Highlights
+•
+    <highlight id="1">We investigate the determinants of NFC reuse intention and Expo loyalty on Expo.</highlight>
+•
+    <highlight id="2">We used motivation-opportunity-ability framework and satisfaction transfer.</highlight>
+•
+    <highlight id="3">Motivation, opportunity and ability are significant to the NFC value.</highlight>
+•
+    <highlight id="4">NFC user’s self-efficacy does not affect the NFC satisfaction.</highlight>
+•
+    <highlight id="5">NFC value, NFC satisfaction and Expo satisfaction affects Expo loyalty.</highlight>
+
+Abstract
+    <abstract>    <![CDATA[Utilization of advanced smart technologies and online-to-offline/offline-to-online marketing has resulted in the adoption of near field communication (NFC) in many expositions (Expos). The objective of NFC is to enhance and revitalize the Expo experience of visitors.]]><h target="2" match="full"> Thus, this study focused on the motivation-opportunity-ability framework and satisfaction transfer of visitors who process information using NFC to understand NFC reuse intention and Expo loyalty.</h><![CDATA[ We hypothesized that information quality (motivation), organizational support for using NFC at an Expo (opportunity), and self-efficacy (ability) influence NFC value and NFC satisfaction.]]>
+     
+        <h target="1" match="full"> NFC value would influence satisfaction with NFC and with the Expo, which then influences NFC reuse intention and Expo loyalty, respectively.</h> <h target="3" match="part"> A survey of 309 visitors at the Expo showed that information quality and organizational support influenced perceived value and satisfaction of NFC.</h><h target="4" match="full"> Self-efficacy influenced the perceived value of but not the satisfaction with NFC.</h><h target="5" match="full">     
+ Further, the perceived NFC affected NFC reuse intention and Expo loyalty through satisfaction with NFC and satisfaction with the Expo, respectively. </h><![CDATA[This study thus expands the scope of study on NFC by demonstrating the need for utilization of NFC and by empirically demonstrating the importance of NFC.]]>
+    </abstract>
+    
+
+Keywords
+    <keywords>Near field communication</keywords>
+    <keywords>Expo</keywords>
+    <keywords>Motivation-opportunity-ability framework</keywords>
+    <keywords>Satisfaction transfer</keywords>
+    <keywords>Smart tourism</keywords>
+    <section name="Introduction" category="introduction">
+        <![CDATA[
+1. Introduction
+Online-to-offline or offline-to-online (O2O) services, by utilizing Internet of Things (IoT) technologies, have emerged in business environment. These services, link offline and online shops to maximize customers’ offline shopping experience (Deloitte, 2014; Griffiths & Howard, 2008; Lee, Choi, Kwon, & Jun, 2013; Müller-Lankenau et al., 2006; Regalado, 2013; Verhoef, Kannan, & Inman, 2015). In recent years, offline companies have implemented O2O service to identify and satisfy the needs of consumers in their purchase route (Peltola, Vainio, & Nieminen, 2015).
+For this reason, O2O service based on technologies such as near field communication (NFC), Beacons, and Wi-Fi has been applied to share offline experiences through online media. Since 2011, the NFC service, “a short range and wireless technology for data transfer without physical touch” (Pesonen & Horster, 2012; p. 11), has been applied in tourism destinations and expositions (Expos), such as the Museum of London in the UK, the Centre Pompidou’s Teen Galley in Paris (Swedberg, 2009), and STRP Festival as a form of smart tourism (RFID switchboard, 2015). NFC technology is more suitable for expos. NFC technology works by simply attaching tags, instead of additional terminals. No additional power source is required and installation and take-down are easy. It the number of users increases, so does the number of tags. In addition, NFC technology is intuitive and user-friendly; by touching a tag the NFC feature of a mobile phone is activated. According to the corporations participating in the Expos, information about visitors can also be acquired conveniently from their own NFC tag system and the relationships with visitors can be built through social networking sites such as Facebook (Jun, Choi, & Lee, 2014). However, services based on NFC have failed despite these strengths because NFC adoption is at an early stage and critical factors that affect visitors’ NFC adoption have not been studied.
+According to Expo organizers, the purpose of NFC for tourism and exhibition sites is not only to act as an information tool but also to reinforce tourists’ loyalty to the sites. NFC service providers look forward to people continuing to use NFC. For this reason, Expos or tourism destinations tend to invest in NFC. In terms of IT adoption, prior studies examined it based on in relation to theoretical frameworks such as technology acceptance model (TAM), the information systems (IS) success model, and the unified theory of acceptance and use of technology (UTAUT) (e.g., Chen & Chang, 2013; Dutot, 2015; Shin & Lee, 2014). Much of the research on individual adoption of IT focuses exclusively on the underlying factors related to the NFC use in tourism. IT use and utilization in the tourism context are closely linked to individual factors under the influence of technology and tourism organizations. Thus, it is crucial to identify the factors that affect IT reuse intention and loyalty to a tourism destination.
+]]><![CDATA[This study examines the determinants of NFC reuse intention and Expo loyalty in relation to the utilization of NFC. ]]><h target="2" match="full">This study applies the motivation-opportunity-ability (MOA) framework to explain how Expo visitors process given information using NFC</h><![CDATA[ The MOA framework also posits that motivation, opportunity, and ability factors are determinants of IS users’ perception as a parsimonious framework (e.g., Chou & Wang, 2000; Kim & Kankanhalli, 2009; Koo, Chung, & Nam, 2015; Tzeng, 2011). In terms of Expo loyalty related to NFC usage, this study focuses on satisfaction transfer from NFC to an Expo, which can affect the formation of loyalty to an Expo. Satisfaction with one object can be transferred to another (Martín, Camarero, & José, 2011; Ren et al., 2012) and therefore if satisfaction with NFC can be transferred to satisfaction to an Expo, the purpose of an Expo organization – to increase visitors’ satisfaction with an Expo – can be promoted. The objective of this research is to ascertain how NFC usage intention and Expo loyalty are formed by the utilization of NFC in the Expo. The MOA framework and satisfaction transfer are therefore appropriate theoretical perspectives.
+The role of NFC on reuse intention and Expo loyalty is investigated based on MOA theory and satisfaction transfer. The first objective of this research is to identify Expo visitors’ motivation, opportunity, and ability factors affecting NFC value and NFC satisfaction using NFC.]]><h target="5" match="full"> This research also investigates the effects of NFC value on NFC satisfaction and on Expo satisfaction in addition to the effects of NFC satisfaction on Expo satisfaction.</h><![CDATA[
+        
+The major contribution of this study will be to understand the role of NFC-based O2O services in an Expo. We expect the results of our study to reveal critical factors that should be considered in the planning and application of NFC in a smart tourism context such as Expos. The rest of the paper is organized as follows. This paper introduces NFC based service cases and studies in tourism and MOA, satisfaction transfer, value in theoretical background. Then, we present the research model and describe the research methodology, followed by our results. The paper concludes with a discussion of the limitations of the research and the implications of its findings.]]>
+</section>
+
+
+    <section name="NFC based service cases and studies in tourism;Theoretical background" category="background">
+        <![CDATA[
+2. NFC based service cases and studies in tourism
+The NFC has been widely applied in tourism. In the UK, the cities of London and Manchester have used NFC technology in smart statues (Boden, 2014). The smart statue revitalizes landmarks, increasing the number of visitors to surrounding museums. NFC has also been applied by Project Ingeborg in Klagenfurt, Austria (Pingeb.org., 2015). Project Ingeborg provides cultural contents through NFC tags around the city. For example, the contents of classical literature whose copyrights have expired can be downloaded at places or spaces that describe them through NFC (Davis, 2012). Since August 2012, the city has also provided novels, short stories and poems written by local artists to create a smart city space, thereby enriching experiences and satisfaction of both residents and tourists. Several cities in France and Spain use NFC tags to offer information services for public transportation, city-specific news, cultural and tourist attractions (Connecthings, 2015). In Korea, museums and Expos have used NFC to increase revenue from ticket sales. For example, starting with the ubiquitous exhibition service system introduced in 2007 (Kim, Chan, & Gupta, 2007), NFC technology has been used at the 2012 Yeosu World Expo to accept mobile payment, as an exhibition guide, and to locate lost children. At the Korea Travel Expo 2013, NFC booths at the Seoul Motor Show offered game and promotional services (Benple, 2015; Choi, Jun, Kang, & Lee, 2013; Jun et al., 2014; Lee et al., 2013). In short, the NFC has been used at Expos for tourist information service to increase tourist satisfaction through smart tourism.
+NFC utilization is an example of O2O services. The NFC-based O2O Expo examples in this study installed 1000 NFC tags in exhibition spaces to give visitors with language assistance, business card exchange, corporate information sharing, and automatic Wi-Fi. A visitor could obtain rich information about products or corporations by touching an NFC tag with a smart phones. Conclusively, NFC-based O2O services in Expos can help visitors to find online activities organically, thereby facilitating information, advertisements and sales of Expos as well as corporate participation in Expos and providing new experiences and convenient services for visitors, resulting in increases in satisfaction of Expo participation.
+
+Most studies of NFC-based services focused either on case studies of NFC technology application, development and payment (e.g., Cheong, Ling, & Teh, 2014; Egger, 2013; Pesonen & Horster, 2012; Shin & Lee, 2014), or on how the services have been applied spatially. There have also been some comparisons of other technologies to NFC applications (Choi et al., 2013; Jun et al., 2014; Lee et al., 2013). Among the most recent is an empirical study of user acceptance of NFC using empirical data (e.g., Dutot, 2015). Because the vitality of NFC technology can be maintained and advanced only if NFC technology is used continuously, several studies have examined the acceptance of the technology. NFC-based O2O services can create a virtuous cycle by organically connecting offline with online activities. In this way, Expo visitors experience NFC services online and Expo experiences offline which they then share in their SNS online activities. Therefore, NFC plays an important role in linking Expo information provided online with offline. The adoption of NFC by Expo organizations generates loyalty to the Expo by ensuring Expo visiotrs’ satisfaction. ]]>
+<h target="1" match="full">In this way the study contributes to the identification successful links between online and offline activities by determining factors that affect loyalty to the Expo and NFC reuse intention.</h> <![CDATA[
+3. Theoretical background]]><![CDATA[
+3.1. Motivation-opportunity-ability
+Previous studies of information technology (IT) adoption have been based on the theory of reasoned action (TRA) (Fishbein & Ajzen, 1975), the theory of planned behavior (TPB) (Ajzen, 1991), TAM (Davis, 1989), the technology readiness and acceptance model (TRAM) (Lin, Shih, & Sher, 2007), the IS success model (DeLone & McLean, 1992), innovation diffusion theory (IDT) (Rogers, 1995), social cognitive theory (SCT) (Bandura, 1986), UTAUT (Venkatesh, Morris, Davis, & Davis, 2003), the elaboration likelihood model (ELM) (Bhattacherjee & Sanford, 2006) in IS and tourism studies. These perspectives represent that IT acceptance is affected by a user’s cognitions and propensity (e.g., SIT, TRA, TPB, TAM, TRAM, UTAUT), communication process (e.g., ELM), product and system quality (e.g., IS success model), and social influence (e.g., IDT) (Bhattacherjee & Sanford, 2006). However, the prior research failed to explore tourists’ IT acceptance because there are complex underlying factors related to the use of new technologies and the interests of stakeholders at Expos.
+Motivation-opportunity-ability (MOA) is a theory that explains how people process information. The MOA is proposed to explain brand information processing in advertisements (Maclnnis & Jaworski, 1989). The MOA framework has been applied to information processing (MacInnis, Moorman, & Jaworski, 1991) and information sharing (Gruen, Osmonbekov, & Czaplewski, 2005; Siemsen, Roth, & Balasubramanian, 2008), and also to social media revisit intention (Leung & Bai, 2013), purchase intention (Bigné, Hernández, Ruiz, & Andreu, 2010), and travel intention (Hung & Petrick, 2012). All of these studies have in common the fact that when the subjects were in the middle of information processing and decision making, that their final decisions were affected by motivation, opportunity, and ability (Hung & Petrick, 2012). This framework could explain both means and ends of consumers’ behaviors (Hung, Sirakaya-Turk, & Ingram, 2011). That is, MOA incorporates underlying factors, which concisely explain customer behavior as a parsimonious and integrated framework (Bigné et al., 2010; Hung et al., 2011; Leung & Bai, 2013). For this reason, the MOA was chosen to study NFC adoption and its impact in the Expo as an integrated and succinct framework.
+Under control of an Expo organization, an expo is gathering of corporations and is a place where visitors acquire, consume, and process information about the corporations’ products and an Expo. That is, visitors are exposed to exhibition information and to form a level of information processing by means of their motivation, ability, and opportunity to process the information (MacInnis et al., 1991). In other words, visitors who process Expo information using NFC, which is the theme of our study, will be influenced by motivation, ability, and opportunity.
+In MOA, motivation is defined as “desire, readiness, interest, and willingness of consumers to accomplish specific objectives of information processing.” (MacInnis et al., 1991). It is also arousal to process an external stimulus (MacInnis et al., 1991). People with stronger motivation like to process more information (MacInnis et al., 1991). Opportunity is defined as “limited exposure time and a degree of distraction that can influence consumer's attention related to information processing” (MacInnis et al., 1991) and refers to situational elements that can strengthen or distract information processing (Leung & Bai, 2013). The greater the opportunity, the higher the consumer's attention to information (MacInnis et al., 1991). Ability is defined as “consumer’s skills or proficiencies of information processing” (MacInnis et al., 1991). A consumer’s ability to process information strengthens the foundation of information processing (MacInnis et al., 1991).
+In this study, several factors are derived based on the MOA conceptual framework in order to understand an Expo visitor's behavior to process information using NFC. The factor why visitors employ NFC in Expos should be considered as a motivation. As mentioned above, motivation contributes to the achievement of behavioral objectives to acquire various kinds of information related to the Expos through NFC. Thus, elements related to information provided by NFC can motivate the processing of information through NFC. Accordingly, this study considers the quality of NFC information as the motivation factor. The opportunity factor strengthens or distracts information processing. The literature on the use of information and communication technology reflects perceived support, because perceived support can stimulate the use of an information system (Igbaria, Parasuraman, & Baroudi, 1996). Because Expo visitors who use NFC have different watching patterns, explanations of how to use NFC and the features that Expos strengthen the information processing by visitors who use NFC. The ability factor refers to the user's capacity for information processing. In previous studies, user capabilities employ information technologies were considered as an important factor in information technology acceptance (Chou & Wang, 2000; Kim & Kankanhalli, 2009). The greater a user’s proficiency with NFC, the stronger his or her ability to process information using NFC. Motivation, ability, and opportunity are the main underlying factors of NFC users affecting their perception, satisfaction and thus behavior. Therefore, this study uses the MOA framework to understand Expo visitors whouse NFC.
+3.2. Satisfaction transfer
+Satisfaction in this study is defined as “the summary psychological state resulting when the emotion surrounding disconfirmed expectations is coupled with the consumer's prior feelings about the consumption experience” (Oliver, 1981). Because the definition of satisfaction implies a favorable attitude toward particular objects (Flavián, Guinalíu, & Gurrea, 2006; Martín et al. 2011), it can be considered as a highly important element not only in information systems such as NFC, but also at Expos (Bhattacherjee, 2001; Chi & Qu, 2008; Flavián et al., 2006; Lee, Moon, Kim, & Mun, 2015). In information systems, satisfaction can be defined as an emotional state produced by a visitor’s assessment of certain information systems (Cheung & Lee, 2009). In relation to the Expos, satisfaction can be defined as an emotional assessment of the overall Expo and its characteristics related to the Expo (Chi & Qu, 2008). Satisfaction can strengthen and secure long-term loyal customers (Bhattacherjee, 2001), trust (e.g., Flavián et al., 2006), loyalty (e.g., Deng, Lu, Wei, & Zhang, 2010; Flavián et al., 2006; Lee et al., 2015), and re-purchase intention (e.g., Fang et al., 2014; Shin, Chung, Oh, & Lee, 2013).
+An emotion about a component of a particular object can be transferred to emotions or features of the object (Ren et al., 2012). That is known the halo effect. Furthermore, satisfaction can be with a particular object or with on of its features (Pizam & Ellis, 1999); satisfaction with that feature can spread to the entire satisfaction (Chi & Qu, 2008; Pizam & Ellis, 1999). In studies on tourism, satisfaction to the each element can influence satisfaction to the tourist destination (Chi & Qu, 2008; Pizam & Ellis, 1999). For example, visitors who are dissatisfied with the information given at an Expo are likely to be dissatisfied with the Expos as a whole. Conversely, the greater the satisfaction with events or exhibitions at an Expo, the greater the satisfaction with the entire Expo. This is because tourism products are intangible (Tan & Chen, 2012; Zeithaml, Parasuraman, & Berry, 1985). Tourist experiences comprise numerous elements (Chi & Qu, 2008; Pizam & Ellis, 1999).
+That is, satisfaction with NFC can be considered as an element that can influence the formation of satisfaction to an Expo, which is defined as an assessment on overall services and environments of the Expo. Satisfaction with Expo is an important criterion of success in the exhibition and convention industry (Chen & Mo, 2012). Thus, this study considers satisfaction with NFC as a means of assessing visitors’ overall satisfaction with an Expo and its services
+3.3. Value
+Value is the evaluation of a product or service based on the tradeoff of what was given and taken (Zeithaml, 1988). Perceived value can be defined in economic, qualitative, beneficial, and social psychological terms, with each viewpoint defining value as more benefits than effort taken by consumers (Kuo, Wu, & Deng, 2009). Each individual also has a different perception of the value of services or products of the same quality (Zeithaml, 1988). In other words, value is the cognitive evaluation of a product or service, and is personal and unique (Woodruff, 1997; Zeithaml, 1988). The perception of value is affected by the quality of the product or service (e.g., Kim & Niehm, 2009) and by personal or situational factors (e.g. Chen, 2010; Wang, 2010; Zhu, Yang, & Chen, 2013).
+In addition, value affects a consumer’s perception of the importance of a product or service (Chen & Lin, 2015; Zeithaml, 1988). In social psychology studies, value has an important influenc on customer satisfaction (e.g., Kuo et al., 2009; Petrick, 2004; Song, Li, van der Veen, & Chen, 2011). Value is a general evaluation of the experiences of a product or service and thus reflects a cognitive perspective; satisfaction reflects the emotions that result (Woodruff, 1997). Values affect satisfaction because according to the behavioral model, cognitive elements have affect emotional elements (Fishbein & Ajzen, 1975).
+In the same context, the high value of NFC, which is used at an Expo, can influence not only satisfaction with NFC itself but also satisfaction with the Expo. Visitors using NFC at the Expo make a cognitive evaluation of NFC owing to the factors that influence NFC use. Based on this, visitors will feel satisfaction when using NFC at Expos. Furthermore, the Expo provides an information service such as NFC to enhance visitors’ experiences, so satisfaction with the Expo will also increase. This means that the NFC’s value will influence the formation of emotions about NFC and Expo. Thus, this study considers the NFC’s effect on satisfaction with NFC and Expos.]]>
+</section>
+
+
+    <section name="Research model and hypotheses" category="research model and hypotheses">
+        <![CDATA[
+4. Research model and hypotheses]]>
+<h target="1" match="full">>This study examines Expo visitors’ NFC reuse intention and loyalty with an Expo when using NFC.</h> <h target="2" match="full">To achieve this goal, this study applies the MOA framework, which views information processing by visitors using NFC as the goal of information processing in Expos.</h><h target="3" match="full">Moreover, this framework suggests the three dimensions – motivation, opportunity, and ability – which are vital and integrated for various aspects of technology use (Hung et al., 2011). </h><h target="4" match="full">Accordingly, motivation related to NFC is the quality of NFC related to exhibition information, opportunity is the Expo's support (organizational support) for using NFC, and ability is the NFC user's self-efficacy.</h><h target="5" match="full"> Information processing influences not only NFC value and satisfaction on NFC, but also satisfaction with the Expo. Finally, satisfaction with NFC forms the intention to reuse NFC and satisfaction with the Expo creates loyalty to that Expo (Fig. 1).</h><![CDATA[
+Fig. 1
+Download high-res image (282KB)Download full-size image
+Fig. 1. Research model.
+4.1. Motivation—NFC information quality
+Motivation is defined as the needs and wants to achieve specific goals. Such motivation can be found inside or outside of a person (Koo et al., 2015). That is, rewards that can be acquired using NFC can be considered as motivation (Koo et al., 2015). As an Expo grows, visitors receive more information than they can process (Moon, Kim, & Ryu, 2013). The high quality of information on NFC at Expos can be considered as a reward that can be acquired via NFC and as a motivation to use NFC to process Expo-related information. The perceived value of NFC is based on the assessment of perceived benefits in relation to NFC by visitors on the basis of perceived achievements after the use of NFC and efforts given prior to the use of NFC (Kuo et al., 2009). Previous studies have proven that the higher the information quality, the higher its perceived value. Since information quality is the quality of products or services, the value is also perceived to be higher when people strongly perceives its information-related benefits of products or services (Kim & Niehm, 2009). Thus, the better the information quality of NFC, the more the visitors benefit from it and the higher the value of NFC.
+Information quality as external motivation can also be considered as a measured factor of information system's success (Bai, Law, & Wen, 2008). In particular, information quality is a leading variable in determining satisfaction (Bai et al., 2008; Dwivedi, Kapoor, Williams, & Williams, 2013; Ha & Im, 2012). Since satisfaction is formed by means of emotional response and cognitive judgment (Oliver, 1993), information quality will be a leading variable in the formation of satisfaction from the cognitive viewpoint (Ha & Im, 2012). Dwivedi et al. (2013) proved empirically in a study of RFID usage in libraries that the better the information quality of RFID, the greater the users’ satisfaction with it. Furthermore, Ha and Im (2012) proved that satisfaction with web sites was increased by information quality of the website. Therefore, when users perceive quality of NFC, they will recognize its value and satisfy with NFC use. Therefore, the following hypotheses are proposed.
+H1
+
+NFC Information quality will positively influence NFC value.
+
+H2
+
+NFC Information quality will positively influence NFC satisfaction.
+
+
+4.2. Opportunity—organizational support for using NFC
+Perceived support is a situational factor that facilitates information processing in relation to visitors’ NFC usage. In this study, the perceived organizational support is defined as a level of effort exerted by an Expo organization to facilitate the NFC use perceived by visitors. The use of new information systems such as NFC requires a guide and learning about the systems (Kim & Kankanhalli, 2009). Once the guide to NFC from an Expo organization is provided, visitors are likely to rate the value and satisfaction of the new system more highly, because the Expo's support for NFC use is related to the positive perception or attitude toward information systems (Tzeng, 2011). The guide and learning will help visitors to understand their roles while using self-service technology (Zhao, Mattila, & Tao, 2008). That is, when a certain information technology has emerged, learning or guide to that technology will help users not only to understand how to use that technology but also to perceive its value. Therefore, an Expo's support for using NFC helps users to perceive the value of NFC and increases their satisfaction with using NFC. Therefore, the following hypotheses are proposed.
+H3
+
+Organizational support for using NFC will positively influence NFC value.
+
+H4
+
+Organizational support for using NFC will positively influence NFC satisfaction.
+
+
+4.3. Ability—NFC user’s self-efficacy
+The ability to use new technologies is important to users (Chou & Wang, 2000; Kim & Kankanhalli, 2009). As such, users’ confidence in their ability to use NFC is their self-efficacy (Bandura, 1995; Kim & Kankanhalli, 2009). In addition, self-efficacy is defined as expectation of self-assessment about achievements (Chou & Wang, 2000). To have self-efficacy in the use of NFC, it is necessary to be proficient in its use. The lower the ability to handle NFC, the lower the assessment of NFC value and the satisfaction reported by visitors. In relation to technology use, a relationship between self-efficacy and perceived value can also be found in previous studies. Zhu et al., 2013 reported that the higher the self-efficacy of certain technology, the higher the value of that technology perceived by a user. In addition, Chen (2010) has confirmed self-efficacy as the strongest variable of perceived value.
+Furthermore, previous studies have also proved that the greater the self-efficacy, the stronger the consumer's satisfaction (e.g., Liaw, 2008; Sun, Tsai, Finger, Chen, & Yeh, 2008; Zhao et al., 2008). For example, Liaw (2008) claimed that the self-efficacy of students using e-learning can increase system satisfaction. Sun et al. (2008) also stated that because users who have high self-efficacy about e-learning are likely to bring success to work performance, thereby affecting satisfaction with e-learning. A study on SST such as NFC arrived at a similar result. Zhao et al. (2008) claimed that the ability to perform a certain task increased satisfaction and finally caused behavioral intention. Further, they proved this empirically among people who used self-checkout machines in libraries. Therefore, self-efficacy can be understood to increase value of and satisfaction with new technology use such as NFC in Expos. Therefore, the following hypotheses are proposed in this study.
+H5
+
+NFC user’s self-efficacy will positively influence NFC value.
+
+H6
+
+NFC user’s self-efficacy will positively influence NFC satisfaction.
+
+
+4.4. Value and satisfaction
+Perceived value is an important predictor of customer satisfaction (Lee, Yoon, & Lee, 2007). Such value is a cognitive evaluation, and a satisfaction shows an emotional response (Woodruff, 1997) while cognitive factors influence emotional factors (Fishbein & Ajzen, 1975). Value is therefore known to be an antecedent variable of emotions. The relationship between perceived value and satisfaction has already been proven in studies in many fields (e.g., Kuo et al., 2009; Petrick, 2004; Song et al., 2011). In studies of information systems, Chen and Lin (2015) proved a relationship between perceived value in blogs and satisfaction to blogs; Kuo et al. (2009) concluded that a user's perception of mobile service value influenced his or her satisfaction with that service. The perceived value of tourism has been considered a leading variable that affects satisfaction to tourist attractions. Chen and Tsai (2007) showed that perceived value in a tourist destination formed satisfaction about the destination. Song et al. (2011) also proved that a consumer satisfaction in tourism is formed by the perceived value. Thus, NFC service is one of many services provided in an Expo such that the higher the value perceived by visitors, the higher the satisfaction of the overall Expo. Based on the above results, we propose hypothetical relationships between value and satisfaction with NFC as well as satisfaction with an Expo.
+H7
+
+NFC value will positively influence NFC satisfaction.
+
+H8
+
+NFC value will positively influence Expo satisfaction.
+
+
+If visitors are satisfied with the NFC use at the Expo, their satisfaction with the overall Expo will also increase. In studies related to satisfaction, satisfaction is transferred from one component of an object to the object overall (Martín et al., 2011; Ren et al., 2012). This can be explained by the halo effect, in which emotion related to a component of an object is transferred to other characteristics or overall object (Ren et al., 2012). That is, if visitors are satisfied with NFC use as an informational tool in an Expo, this satisfaction can be transferred to the satisfaction of the Expo so that visitors construct satisfaction of the Expo. Studies on tourism also reported that a tourist destination consists of many attributes, thereby constructing experiences of tourist attraction while being interconnected to one another, so that satisfaction on many attributes in a single destination can influence overall satisfaction of the destination (Chi & Qu, 2008). That is, products exhibited in Expos are experiences perceived by visitors (Pallud & Straub, 2014) and NFC is used as a tool to strengthen experiences perceived by visitors by providing Expo information. Specifically, satisfaction with NFC is regarded as an element that can influence the formation of satisfaction with the Expo. Therefore, we propose a relationship between satisfaction with NFC and satisfaction with an Expo as follows, based on previous studies.
+H9
+
+NFC satisfaction will positively influence Expo satisfaction.
+
+]]>
+<h target="1" match="full">4.5. NFC satisfaction and NFC reuse intention</h> <![CDATA[
+High satisfaction with information system can create an intention to reuse the technology (Bhattacherjee, 2001). An emotion like satisfaction is an important independent variable of intention to reuse information systems (Bhattacherjee, 2001). This was proven in studies related to various information systems (e.g., Belanche, Casaló, & Guinalíu, 2012; Bhattacherjee, 2001; Chen & Lin, 2015; Kettinger & Smith, 2009; Zhao et al., 2008). Bhattacherjee (2001) proposed an expectation-confirmation model that explains the intention to use an information system in the future and claimed that satisfaction with the system will determine whether or not the information system is used continuously. Belanche et al. (2012) stated that the intention to reuse a website is determined by the level of satisfaction with previous web site use. Zhao et al. (2008) also identified that the intention to reuse self-service technology in the future is formed by the satisfaction with the technology use. Thus, the present study assumed that users who were satisfied with NFC use in an Expo are likely to reuse NFC in the future based on the previous studies on existing information technologies.
+H10
+]]><h target="1" match="full">NFC satisfaction will positively influence NFC reuse intention.</h> <![CDATA[
+
+4.6. Expo satisfaction and loyalty
+Loyalty can be used to understand a visitor's attitude and predict future demand (Kim, 2008). If a tourist is satisfied with tourist destination, he or she is likely to revisit or recommend the destination to other people. Loyalty refers to a revisit and recommendation intention for the destination. Thus, it is important for Expo organizers to maintain the loyalty of Expo visitors (Kim, 2008). One of the important factors to maintain loyalty is the satisfaction with tourism experiences (Chi & Qu, 2008). This is because tourists who are satisfied with a destination tend to revisit the destination (Assaker & Hallak, 2013). The effect of satisfaction with a tour destination on loyalty has been proven in previous studies (Chi & Qu, 2008). Kim (2008) proved that satisfaction on a tour formed loyalty to the destination and Assaker and Hallak (2013) reaffirmed that satisfaction influenced revisit intention both on a short-term and a long-term basis. Hence, we propose a hypothesis that NFC user satisfaction with an Expo would have a positive influence on Expo loyalty.
+H11
+
+Expo satisfaction will positively influence Expo loyalty.]]>
+</section>
+
+
+
+    <section name="Research methodology" category="methods">
+        <![CDATA[
+5. Research methodology
+5.1. Instrument development
+In this study, the measured items of parameters consisted of items whose reliability has already been reliable and validated. The items were modified to suit the use of NFC in Expos. More specifically, this study used three items suggested from a study by Lee and Chung (2009) as the NFC Information Quality. This study also used three items for Expo's support and self-efficacy based on Kim and Kankanhalli (2009)’s study. For NFC value and NFC reuse intention, three items for each were used by modifying them to suit this study based on a study of Kim et al., 2007. Four items on NFC satisfaction and three items on Expo satisfaction were used from Kim, Chung, Lee, and Kim (2012). Finally, four items about Expo loyalty were derived based on Kim (2008). The survey items were based on a seven point Likert scale (1 = strongly disagree, 4 = neutral, and 7 = strongly agree) and measurement appropriateness of the parameters were reviewed by specialists and professors in tourism and information technology. A preliminary survey was administered to 40 undergraduate and postgraduate students majoring in tourism. The survey was conducted May 7–9, 2013. Once the semantic clarifications of the measured items were reexamined, the final questionnaires were confirmed.
+5.2. Data collection
+For this study, study subjects were set for visitors to the 2013 Osong Cosmetics & Beauty Expo, where NFC was available to visitors. The 2013 Osong Cosmetics & Beauty Expo developed a tag management system for NFC and visitors could use their NFC capable smartphones to obtain information about exhibition corporations, maps of the exhibition, their products and services offered by the companies at the exhibition, recommendations about popular tour sites, discounts, and exchange business cards (Fig. 2).
+Fig. 2
+Download high-res image (1MB)Download full-size image
+Fig. 2. Snapshot of NFC use.
+Such on-site surveys make it difficult to conduct probability sampling. Previous studies suggest that this is because there is no method to regulate the pathway of tourists using physical structures (Kim, 2012; Kim, Gursoy, & Lee, 2006). Thus, this study used convenience sampling, which is vulnerable to selection bias (Kim et al., 2006). To avoid bias, this study used the NFC tag to count the number of times NFC was used at the Expo, and the survey was administered to visitors who were using NFC for the first time at the Expo and those who have used it at least 20 times.
+The survey was conducted at the site on May 17–18, 2013 (one night and two days). NFC use was promoted at the entry gate of the Expo and a booth for the survey was installed at the exit gate where visitors were informed of the purpose of the study and invite to participate in the survey. A 10–15 min self-administered questionnaire survey was given to visitors who consented to participate in the survey and who were using NFC for the first time or who had already used at least 20 NFC tags in the Expo. The survey respondents were given a 5000-won voucher with a modest value (US$4.26). A total of 446 survey responses were collected; 137 were excluded because of missing data leaving 309 responses for analysis.
+Table 1 shows the characteristics of the survey respondents. The percentage of females (65.4%) was much larger than that of males (34.6%). Respondents in their 20s and 30s accounted for 63.9% of the total. The final education of the respondents was four-year university degree (41.2%), two-year college degree (28.9%), and high school diploma (18.9%). The highest average monthly income was two to three million Korean won (29.9%) and the highest occupational percentages were office workers (44.3%) and students (33.0%). Respondents using NFC used a product information guide service the most in the Expo (60.7%).
+Table 1. Demographic characteristics of respondents.
+Characteristics	Frequency
+(n = 309)	%	Characteristics	Frequency
+(n = 309)	%
+Gender	Male	110	34.6	Monthly Income
+(Korean Wona)	≤1 million	8	2.5
+Female	208	65.4		1 million–2 million	76	23.9
+Age	19–29	81	25.5		2 million–3 million	95	29.9
+30–39	122	38.4		3 million–4 million	54	17.0
+40–49	92	28.9		4 million–5 million	41	12.9
+50–59	20	6.3		5 million–6 million	19	6.0
+≥60	3	0.9		6 million–10 million	10	3.1
+Education	high school	60	18.9		≥10 million	8	2.5
+2 years of college	92	28.9		none	7	2.2
+University	131	41.2	NFC service in this Expo
+(Multiple choices)	Corporate information guide service	157	49.4
+Graduate school	33	10.4	Product information guide service	193	60.7
+none	2	0.6	Coupon service	126	39.6
+Occupation	Office worker	141	44.3	e-Brochure download service	27	8.5
+Professional	76	23.9	Exhibition guide service (multilingual support service)	135	42.5
+Self-employed	17	5.3	Hot Place service	45	14.2
+Homemaker	56	17.6	Schedule guide service	54	17.0
+other	28	8.8	other	5	1.6
+a
+1000 Korean won is equivalent to US$ 0.85.]]>
+</section>
+
+
+    <section name="Data analysis and results" category="results">
+        <![CDATA[
+6. Data analysis and results
+6.1. Measurement model
+Confirmatory factor analysis was conducted using AMOS 18.0 for testing the constructs for convergent validity and discriminant validity. The initial measurement model did not exceed the recommended value (χ2 = 572.740, d.f = 271, χ2/d.f = 2.113, p = 0.000, GFI = 0.883, AGFI = 0.848, NFI = 0.936, CFI = 0.965, RMSEA = 0.059). Therefore, the measurement model was modified by eliminating four items that had a high degree of residual variance with other items. Table 2 shows the model-fit indices for the measurement model. All indices demonstrated the recommended levels of a good model fit (χ2 = 288.601, d.f = 181, χ2/d.f = 1.594, p = 0.000, GFI = 0.927, AGFI = 0.899, NFI = 0.960, CFI = 0.985, RMSEA = 0.043).
+Table 2. Results of convergent validity testing.a
+
+Constructs and items	Loadings	CRb	AVEc	Cronbach's α
+NFC Information Quality		0.915	0.783	0.912
+Information provided by the NFC service has no error	0.794			
+Information provided by the NFC service is easy to understand	0.946			
+The NFC service provides information that is helpful to Expo watching	0.907			
+Organizational support for using NFC		0.901	0.819	0.901
+The manual of how-to-use NFC service was given to me by the Expod	–			
+The Expo host supplied me with assistance and resources needed to use the NFC services	0.896			
+Appropriate technical support related to NFC service uses was given to me by the Expo	0.914			
+NFC user’s self-efficacy		0.903	0.824	0.904
+It is easy for me to understand how to use the NFC services newly based on my knowledge, skills, and abilitiesd	–			
+I can understand how to use the NFC service without other person's help	0.912			
+I can use the NFC service by myself	0.903			
+NFC value		0.946	0.854	0.945
+The NFC service is valuable on the basis of time taken to know how to use the services	0.913			
+The NFC service is helpful to me on the basis of effort taken to know how to use the services	0.956			
+The NFC service is helpful to me despite cumbersome experiences I had	0.903			
+NFC satisfaction		0.940	0.839	0.940
+I am very satisfied with the NFC service overall	0.934			
+I am very happy about the NFC service overall	0.933			
+I feel very good about the NFC service overall	0.880			
+I am very pleased with the NFC service overalld	–			
+Expo satisfaction		0.925	0.804	0.921
+I am satisfied with various information services given to me in the Osong Cosmetics & Beauty Expo	0.886			
+I am satisfied with various services experienced in the Osong Cosmetics & Beauty Expo	0.936			
+I am satisfied with the Osong Cosmetics & Beauty Expo overall	0.866			
+NFC Reuse Intention		0.936	0.831	0.936
+I am willing to re-use the NFC service	0.890			
+I am willing to re-use the NFC service as often as possible	0.937			
+I will continue to use the NFC service use next time	0.907			
+Expo loyalty		0.961	0.892	0.961
+I will visit the Osong Cosmetics & Beauty Expo again	0.933			
+I am willing to visit the Osong Cosmetics & Beauty Expo as much as possible	0.955			
+I will continue visiting the Osong Cosmetics & Beauty Expo in the future	0.945			
+I will recommend the Osong Cosmetics & Beauty Expo to othersd	–			
+a
+χ2 = 288.601, d.f = 181, χ2/d.f = 1.594, p = 0.000, GFI = 0.927, AGFI = 0.899, NFI = 0.960, CFI = 0.985, RMSEA = 0.043.
+b
+Composite Reliability.
+
+c
+Average Variance Extracted.
+
+d
+The item was deleted after confirmatory factor analysis.
+
+In convergent validity, three other criteria were used for testing convergent validity as recommended by Bagozzi and Yi (1988) and Hair, Black, Babin, and Anderson (2010): (1) all the standardized path loading of each item should be statistically significant and be 0.7 or higher; (2) the composite reliability (CR) and the Cronbach’s α for each construct had to exceed 0.7; (3) the average variance extracted (AVE) for each construct had to be 0.5 or higher. Table 2 shows the all standardized path loading, CR, and the Cronbach’s α scored above 0.7. In addition, the AVE for all constructs was above 0.5. Therefore, the convergent validity of the constructs was obtained.
+To check discriminant validity of the measurement, this study followed the suggestion of Fornell and Larcker (1981). The square root of the AVE should be greater than the correlations between that construct and other constructs. Table 3 indicates that the square root of the AVE from the individual constructs exceeded those correlations. Therefore, the measurement model obtained adequate discriminant validity.
+Table 3. Correlations between constructs.
+Construct	Mean	S.D.	(1)	(2)	(3)	(4)	(5)	(6)	(7)	(8
+(1) NFC Information Quality	5.154	1.018	0.885							
+(2) Organizational support for using NFC	4.896	1.285	0.343**	0.905						
+(3) NFC user’s self-efficacy	5.074	1.195	0.530**	0.543**	0.908					
+(4) NFC value	5.074	1.058	0.527**	0.448**	0.609**	0.924				
+(5) NFC satisfaction	5.089	1.077	0.519**	0.449**	0.523**	0.622**	0.916			
+(6) Expo satisfaction	4.741	1.114	0.498**	0.254**	0.316**	0.391**	0.369**	0.896		
+(7) NFC Reuse intention	5.045	1.168	0.394**	0.343**	0.406**	0.486**	0.566**	0.291**	0.912	
+(8) Expo loyalty	4.460	1.325	0.340**	0.106	0.192**	0.299**	0.304**	0.689**	0.179**	0.944
+Note. The diagonal elements in boldface are the square root of the AVE. (**p < 0.01).
+
+6.2. Structural model
+The structural model was used to test the hypotheses. Fig. 3 and Table 4 show the results of path coefficients and presents the maximum-likelihood estimates for the overall fit parameters. The χ2 statistic fit was 355.042 with 195° of freedom (χ2/df = 1.810, p < 0.000). The GFI was 0.911, the AGFI was 0.885, the NFI was 0.951, the CFI was 0.977, and the RMSEA was 0.051. These indicators suggested that the model had good fit, justifying further interpretation. In addition, the model explained 48.9% of the variance in NFC value, 52.2% of the variance in NFC satisfaction, 20.9% of the variance in satisfaction with the Expo, 37.2% of the variance in intentions to reuse NFC, and 50.2% of the variance in Expo loyalty.
+Fig. 3
+Download high-res image (356KB)Download full-size image
+Fig. 3. Results of the structural equation modeling analysis.
+Table 4. Summary of hypothesis tests.
+Hypothesis	Path	Estimates	t-Value	Results
+H1	NFC Information Quality	→	NFC value	0.270	4.619	Supported
+H2	NFC Information Quality	→	NFC satisfaction	0.242	4.124	Supported
+H3	Organizational support for using NFC	→	NFC value	0.118	1.959	Supported
+H4	Organizational support for using NFC	→	NFC satisfaction	0.159	2.710	Supported
+H5	NFC user’s self-efficacy	→	NFC value	0.427	6.010	Supported
+H6	NFC user’s self-efficacy	→	NFC satisfaction	0.078	1.071	Not supported
+H7	NFC value	→	NFC satisfaction	0.395	6.213	Supported
+H8	NFC value	→	Expo satisfaction	0.274	3.671	Supported
+H9	NFC satisfaction	→	Expo satisfaction	0.228	3.053	Supported
+H10	NFC satisfaction	→	NFC reuse intention	0.610	11.566	Supported
+H11	Expo satisfaction	→	Expo loyalty	0.709	14.165	Supported
+H1 and H2 show that NFC information quality has increased the NFC value and NFC satisfaction. The empirical results showed that information quality had a positive effect on NFC value (β = 0.270, t-value = 4.619, p < 0.001) and on NFC satisfaction (β = 0. 242, t-value = 4.124, p < 0.001). Therefore, H1 and H2 were supported. H3 and H4 states the structural relationships among organizational support for using NFC, NFC value, and NFC satisfaction. Organizational support for using NFC has a positive effect on NFC value (β = 0.118, t-value = 1.959, p < 0.05) and NFC satisfaction (β = 0.159, t-value = 2.710, p < 0.01), supporting H3 and H4, respectively. H5 and H6 posit the structural relationships among NFC users’ self-efficacy, NFC value, and NFC satisfaction. Self-efficacy positively affect the NFC value (β = 0.427, t-value = 6.010) with statistical significance at the p < 0.001 level supporting H5. However, self-efficacy does not positively affect NFC satisfaction (β = 0.078, t-value = 1.071, n.s.), thus H6 is not supported.
+H7–H9 posit the structural relationships among NFC value, NFC satisfaction, and Expo satisfaction. The NFC value had a positive effect on NFC satisfaction (β = 0.395, t-value = 6.213) and on Expo satisfaction (β = 0.274, t-value = 3.671) with statistical significance at the p < 0.001 level. In addition, NFC satisfaction was a predictor of Expo satisfaction (β = 0.228, t-value = 3.053, p < 0.01). These results support H7–H9.
+Additionally, the significant positive impact of NFC satisfaction on NFC reuse intention supports H10 (β = 0.610, t-value = 11.566, p < 0.001). H11 is supported by the significantly positive effect of Expo satisfaction on Expo loyalty (β = 0.709, t-value = 14.165, p < 0.001).]]>
+</section>
+
+    <section name="Discussion and implications" category="discussion">
+        <![CDATA[
+7. Discussion and implications
+7.1. Discussion
+In this study, NFC is used as an example of O2O services that can connect organically online Expo information to offline Expo site tour experiences.]]><![CDATA[ In this way the study analyzed NFC reuse intention and loyalty to Expo when NFC is used to strengthen Expo experiences and to deliver Expo-related information. ]]><h target="1" match="full">>We investigate the determinants of NFC reuse intention and Expo loyalty on Expo.</h> <![CDATA[This study discussed how information was processed by visitors using NFC based on MOA framework and satisfaction transfer, which can affect visitors’ loyalty to the Expo and NFC reuse intention through the formation of NFC value and satisfaction with both NFC and Expo.]]><h target="1" match="full">>We investigate the determinants of NFC reuse intention and Expo loyalty on Expo.</h> <![CDATA[
+
+The results of this study are as follows: Information quality as motivation to visitors using NFC and organizational support of NFC uses from Expo organizers as an opportunity factor were found to affect perceived NFC value and satisfaction with NFC. Our study results extend previous findings (Bai et al., 2008; Ha & Im, 2012; Kim & Niehm, 2009; Tzeng, 2011; Zhao et al., 2008).]]><![CDATA[ The previous results showed that as more NFC information quality and guidance about NFC uses were given to visitors at the Expo, the NFC was considered more as utility value and satisfaction with NFC became stronger.]]><h target="5" match="full">NFC value, NFC satisfaction and Expo satisfaction affects Expo loyalty.</h><![CDATA[ This study also proved that high information quality provided by NFC and organizational support for NFC use were needed to produce value and satisfaction with NFC among visitors.]]><![CDATA[
+This study also showed that self-efficacy, which is visitors’ ability to process information related to NFC, influenced perceived NFC value but not satisfaction with NFC directly. ]]><h target="4" match="part">NFC user’s self-efficacy does not affect the NFC satisfaction.</h><![CDATA[
+The result of study is consistent with other findings (Chen, 2010; Zhu et al., 2013) that indicate that stronger self-efficacy helps to perceive NFC value more, but is not consistent with other studies (e.g., Liaw, 2008; Sun et al., 2008; Zhao et al., 2008) in which self-efficacy had a direct influence on satisfaction with NFC. This means that the confidence of visitors to handle NFC well can help the perceived NFC value in Expo but does not directly influence satisfaction with NFC use. However, because self-efficacy influenced satisfaction with NFC through NFC value, our result is important in showing that perceived NFC value contributes to satisfaction with NFC uses. These findings demonstrate the importance of NFC use and verifies whether or not NFC is valuable to Expo exhibitions.
+NFC value also influenced satisfaction with NFC and with Expo. In addition, satisfaction with NFC increased satisfaction with the Expo. This result implies that when NFC was used to deliver information and improve experiences, NFC value was important not only to satisfaction with NFC uses but also with the total Expo experience. The positive effect can be explained by the satisfaction transfer (Martín et al., 2011; Ren et al., 2012) and it is also consistent with previous study results (Chi & Qu, 2008) in which satisfaction with attributes used in tourist attractions increased satisfaction with that tourist attraction. This result confirmed that satisfaction with the ability of NFC to enhance Expo experiences and process Expo information is important to satisfaction with the Expo. In addition, this study showed that satisfaction with NFC increased NFC reuse intention and satisfaction with an Expo strengthened loyalty to Expo which then encouraged revisit to the Expo and recommendations to other people. NFC is a new technology so it will not take hold unless technology is continuously used. This study re-affirmed that satisfaction with NFC should be ensured for constant use to continue. The study result also confirms that loyalty to an Expo can be based on satisfaction with that Expo.
+In summary, this study proved the importance of value and perception of NFC at Expos, and satisfaction with NFC as well. Further, it proved that satisfaction creates continuous vitality and utilization of NFC in the tourism industry, ultimately creating loyalty to the Expo. These results demonstrate why the use and application of new smart technologies is important to the tourism industry.
+
+7.2. Implications
+The present study has several theoretical implications. First, this study explained the reuse intention of NFC in addition to the formation of loyalty to the Expo from NFC use, which was to enhance visitor's experiences at an Expo, thereby extending the literature on NFC. The NFC studies focused on case studies and development including payment (e.g., Cheong et al., 2014; Dutot, 2015; Shin & Lee, 2014). Similar to this trend, the tourism sector started NFC studies while introducing NFC with attention to case studies and utilization (e.g., Cheong et al., 2014; Egger, 2013; Pesonen & Horster, 2012; Shin & Lee, 2014). It is essential to attract customer participation and verify early consumers’ responses to technologies in the adoption phase, such as with NFC, in the tourism industry. This study empirically verified NFC utilized as an O2O service in an Expo in the context of tourism and confirmed the role and importance of NFC in the form of satisfaction and loyalty to the Expo, which are the objectives of the Expos.
+In summary, this study explains that the perceived value of NFC can generate loyalty to an Expo through satisfaction with NFC and with Expo. Further, it empirically verified the importance of adoption of smart technologies in Expos, thereby providing continuous utilization of NFC in the tourism industry and a foundation for the adoption and development of other new information technologies.
+
+Our study presents has numerous practical implications in relation to NFC use at Expos. First, our results show that Expo marketers can achieve high value with NFC and satisfaction with NFC by increasing NFC information quality and NFC use support by an Expo organization. Thus, stakeholders and marketers of Expos as well as NFC companies should maintain and strengthen the quality of NFC information and guides that are given to Expo visitors. This study also shows that self-efficacy, which is the ability of visitors to process Expo information using NFC, increases NFC value but has no direct effect on satisfaction with NFC. This indicates that even if confidence about NFC use is high, this confidence does not directly enhance satisfaction with NFC but the perceived value about NFC. This result also implies that NFC developers and Expo marketers should provide visitors with the NFC value when NFC is used in Expos. To achieve this, Expo marketers can use the following methods: providing a continuous guide to NFC as a more efficient viewing method than present Expo viewing methods and emphasizing information marketing related to the Expos.]]>
+</section>
+
+    <section name="Conclusions and limitations" category="Conclusion">
+        <![CDATA[
+8. Conclusions and limitations]]>
+        <h target="1" match="full">The present study was undertaken to understand the formation of continuous use of NFC technology and of loyalty with the Expos by visitors who utilize NFC in Expos for smart technology adoption and O2O service utilization. </h>
+        <h target="3" match="full">Accordingly, this study verified the relationships of perceived NFC value, satisfaction with NFC, satisfaction with the Expos, NFC reuse intention, and loyalty to the Expo with motivation (NFC information quality), opportunity (organizational support of NFC use from the Expo), and ability (self-efficacy of visitors) based on the MOA theory and satisfaction transfer.</h><![CDATA[ We also identified NFC as a way to process information about the Expos. ]]> <h target="5" match="full">The results of the study confirmed the important factors in the formation of visitors’ loyalty to the Expo and of NFC reuse intention in the Expo experiences by using NFC as a method of smart tourism.</h>
+        <![CDATA[
+However, this study is limited to visitors who participated in one specific Expo. Thus, we will verify the role of NFC in other Expos to verify our findings. In addition, our sample consists predominantly of female and young (under 40 years of age) respondents. Such limitations can be attributable to the survey being conducted on site. Thus, our findings should be interpreted with caution. In addition, respondents received a voucher for a modest sum (5000 Korean won) for their participation. However, some previous studies indicate that incentive may bear bias (Cobanoglu & Cobanoglu, 2003; Jobber et al., 2004). Therefore, the results may create some bias. We will present verification of the NFC role in tourism by validating the proposed model in other tour situations such as travel, exhibition and museums. We will also observe more factors (e.g. technology readiness and facilitating conditions) that can affect the NFC use by other visitors in order to improve their understanding of NFC use.]]>
+</section>
+
+Acknowledgements
+This work was partially supported by the National Research Foundation of Korea Grant funded by the Korean Government (NRF-2013S1A3A2043345 and NRF-2014S1A5B8060940).
+</publication>

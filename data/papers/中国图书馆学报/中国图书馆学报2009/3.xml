@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bibliographies>
+<BibliographiesCount>10</BibliographiesCount>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[我国公共图书馆服务体系建设:治理模式研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[梁欣;]]></FullName>
+<Organization><![CDATA[哈尔滨师范大学阿城学院图书馆技术咨询部;黑龙江大学信息管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[中国图书馆学报]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[普遍均等服务;图书馆治理;公共图书馆服务体系;总分馆]]></Keyword>
+<Keyword Lang="en"><![CDATA[Universal equal services. Library governance. Public library service system. Central and branch library system]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[对公共图书馆治理的概念进行界定,提出公共图书馆治理的目标,即以图书馆权利观念为核心,更好地保障公民的图书馆权利。在系统研究图书馆治理结构的基础上,导出我国公共图书馆服务体系建设的治理模式应为政府领导、多元参与建设、理事会管理、社会协同的公共治理模式。总分馆体系是公共图书馆服务体系建设的有效模式之一,应从管理体制、人员、经费、设置要求、建设标准等九个方面构建总分馆建设的治理模式。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[17-24]]></PageScope>
+<Publisher><![CDATA[中国图书馆学报]]></Publisher>
+<Code><![CDATA[1001-8867]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于《中图法》的多层自动分类影响因素分析]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[何琳;刘竟;侯汉清;]]></FullName>
+<Organization><![CDATA[南京农业大学信息管理系;江苏大学图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[中国图书馆学报]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[中图法;多层分类;文本分类;影响因素]]></Keyword>
+<Keyword Lang="en"><![CDATA[CLC. Multi-layer hierarchy. Automatic classification. Impact factors]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[系统总结基于《中图法》知识库的多层自动分类项目的研究经验,分析训练数据、特征词选择、分类算法、类目体系和评估方法等因素对多层自动分类的影响。围绕《中图法》,对自动分类的适应性、稀有类别的处理、知识库更新、明显正确或错误数据的标注、标准数据集的制定等进行探讨。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[49-55]]></PageScope>
+<Publisher><![CDATA[中国图书馆学报]]></Publisher>
+<Code><![CDATA[1001-8867]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[《中国分类主题词表》的SKOS描述自动转换研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[刘丽斌;张寿华;濮德敏;任瑞娟;米佳;]]></FullName>
+<Organization><![CDATA[河北大学管理学院;河北大学数学与计算机学院;河北大学图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[中国图书馆学报]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[SKOS;中国分类主题词表;自动转换]]></Keyword>
+<Keyword Lang="en"><![CDATA[SKOS. Classified Chinese thesaurus. Automatic transformation]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[SKOS为知识组织系统(叙词表、分类法、主题词表、术语表等)提供了一套语义Web环境下简单灵活、机器可理解的描述和转换机制,使叙词表之间、叙词表与本体之间的共享成为可能。利用Java语言编写内容提取程序,将《中国分类主题词表》电子版中的主题词、词间语义关系、分类号、注释等提取,并分别存储在关系数据库中,然后通过SQL语言从数据库中提取相关字段,用Java语言写入SKOS描述的对应标签中,形成自动转换的SKOS描述代码。但对《中国分类主题词表》的附表部分如何在语义环境中实现SKOS描述及自动转换仍需进一步研究。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[56-60]]></PageScope>
+<Publisher><![CDATA[中国图书馆学报]]></Publisher>
+<Code><![CDATA[1001-8867]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[面向数字环境的《中图法》通用复分表修订思考]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[薛春香;侯汉清;]]></FullName>
+<Organization><![CDATA[中国科学技术信息研究所;南京理工大学信息管理系;南京农业大学信息科技学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[中国图书馆学报]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[中国图书馆分类法;通用复分表;体系分类法;分类法修订]]></Keyword>
+<Keyword Lang="en"><![CDATA[Chinese Library Classification. Common auxiliary tables. Enumerative classification. Revision of traditional classification]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[为推动传统分类法在数字环境中的应用,文献分类法的分面组配化趋势日渐显著,而编制通用复分表是体系分类法分面化改造的主要措施之一。通用复分表在数字信息组织中的应用主要体现在分类浏览信息、提供多个信息检索点、精化检索结果等方面,而《中图法》通用复分表目前存在很大不足,其修订策略有:扩大类目复分范围,增加类目组配自由度;增加通用复分表种类,增加揭示维度;改变标记方法,增加操作灵活性;多重列类,细化复分表;注重与其他分类法的兼容性,等。但在总论复分表与主表类目重合、同一复分表不支持多次复分功能、附表不能单独使用等问题上仍需进一步考虑。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[61-65]]></PageScope>
+<Publisher><![CDATA[中国图书馆学报]]></Publisher>
+<Code><![CDATA[1001-8867]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[中国图书馆学的发展与新一代图书馆学人的使命——在中国图书馆学会第八届学术研究委员会成立大会暨工作会议上的报告]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[吴慰慈;]]></FullName>
+<Organization><![CDATA[北京大学;中国图书馆学会第八届学术研究委员会;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[中国图书馆学报]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[中国图书馆学;图书馆学发展;图书馆学研究;图书馆学人使命]]></Keyword>
+<Keyword Lang="en"><![CDATA[Library science. China. Development. Research. Mission]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[新中国成立60年特别是改革开放30年来,中国图书馆学研究显现出值得肯定的学术成就。研究者们努力重构图书馆学理论体系,拓展了研究的国际化视野,注意学科之间的横向联系,重视联系实际问题进行研究,自觉引进多元化的研究方法。由于上述学术研究思路的新进展,带来了图书馆学的新变化,图书馆学研究的范畴和空间扩展了,图书馆学的技术含量提升了,出现了新的学科生长点。但也存在着诸如理论研究的主攻方向不甚明确,各地区和各系统间的研究状况发展不平衡,生搬硬套、不够严谨等问题。因此,新一代图书馆学人面临着新的使命:要更加重视理论创新;严谨治学,摒弃简单化;加强实证研究;突出应用研究;关注方法论研究。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[66-69]]></PageScope>
+<Publisher><![CDATA[中国图书馆学报]]></Publisher>
+<Code><![CDATA[1001-8867]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[中国图书馆学教育九十年回望与反思]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[王子舟;]]></FullName>
+<Organization><![CDATA[北京大学信息管理系;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[中国图书馆学报]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[中国图书馆学;图书馆学教育;教育发展史]]></Keyword>
+<Keyword Lang="en"><![CDATA[Chinese library science. Library science education. Educational history]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[中国图书馆学教育走过了九十年历程,可划分为三个发展阶段:1920—1949年为图书馆学教育的开端及第一个繁荣期;1950—1977年为图书馆学教育的第二次繁荣并跌落的阶段;1978—2008年为图书馆学教育的第三个繁荣期及其走低与再兴。在对早期图书馆学学科形成过程以及特点分析的基础上,全面梳理与分析了中国图书馆学专业教育发展的历史,认为未来中国图书馆学教育的理性发展应将专业注意力转移到知识上来;对以往丰富的办学层次重新进行定位;继承前贤建设中国的图书馆学的思想,使专业教育逐步形成中国特色。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[70-78+96]]></PageScope>
+<Publisher><![CDATA[中国图书馆学报]]></Publisher>
+<Code><![CDATA[1001-8867]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[1999—2008年我国图书馆学研究的实证分析(下)]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[邱均平;丁敬达;]]></FullName>
+<Organization><![CDATA[武汉大学信息管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[中国图书馆学报]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[图书馆学研究;中国图书馆学;实证分析]]></Keyword>
+<Keyword Lang="en"><![CDATA[Library science research. Chinese library science. Empirical analysis]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[对1999-2008年我国图书馆学研究热点、结构以及特征进行关键词词频分析和共词分析,进而绘制出战略坐标图来分析我国图书馆学九大研究结构的发展动态。通过对高频关键词的逐年扫描,将68个高频关键词分为四大类,揭示出四种变化态势;从人文、技术、管理和综合四个维度对前后五年新增或增幅较快的84个低频词进行透视和分析,推断出未来我国图书馆学研究存在八个微观发展主题。未来的研究可以根据《中国分类主题词表》及对新生词的统计建立标准主题词表,利用得到的完整词频进行统计分析;另外结合引文分析和作者共被引等文献计量方法来完善实证研究是一种更为客观、准确的研究方法。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[79-87+118]]></PageScope>
+<Publisher><![CDATA[中国图书馆学报]]></Publisher>
+<Code><![CDATA[1001-8867]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[新网络环境下用户信息获取方式对图书馆信息组织的影响]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[欧阳剑;]]></FullName>
+<Organization><![CDATA[广西民族大学图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[中国图书馆学报]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[新网络环境;图书馆;用户行为;信息组织;信息获取]]></Keyword>
+<Keyword Lang="en"><![CDATA[New network environment. Library. User behavior. Information organization. Information access]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[在对新网络环境下目标引导和偶得这两种用户信息获取方式进行研究的基础上,分析其对图书馆信息组织的影响。宏观层次上,大量异质、异构数字资源的出现,使得图书馆需要对其进行集成与重组,建立多元搜索引擎参与网络检索,拓宽用户的信息获取渠道;微观层次上,用户主动参与信息资源创建与组织、甚至是分类,使得图书馆要以用户需求为中心对信息资源进行建设、分类、存储、发布,多角度、深层次地揭示信息,方便用户获取。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[97-102]]></PageScope>
+<Publisher><![CDATA[中国图书馆学报]]></Publisher>
+<Code><![CDATA[1001-8867]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[我国省级公共图书馆科研产出的h指数测度]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[赵星;黄娟;彭晓东;]]></FullName>
+<Organization><![CDATA[重庆大学经济与工商管理学院;重庆大学图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[中国图书馆学报]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[省级公共图书馆;科研能力评价;h指数;科学计量;信息计量]]></Keyword>
+<Keyword Lang="en"><![CDATA[Provincial public library. Research evaluation. H-index. Scientometrics. Informetrics]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[对我国31个省级公共图书馆1999-2008年的科研产出状况及h指数特性进行了实证研究,结果表明:上海图书馆和广东省立中山图书馆具有较突出的论文产出能力和学术影响力,河南省图书馆进步较大;各馆馆员论文h指数总体呈正态分布,东西部差距大,东中部差异小,不同时段论文产出规模和科研能力分级态势稳定;与高校图书馆相比,省级公共图书馆馆员论文h指数平均值虽低,但峰值高,各馆研究模式呈现百花齐放格局;h指数对图书馆科研产出的测评具有代表性和综合性,可激励图书馆员从事创新性研究。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[103-109]]></PageScope>
+<Publisher><![CDATA[中国图书馆学报]]></Publisher>
+<Code><![CDATA[1001-8867]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[从知识运动的角度认识图书馆]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[周慧;]]></FullName>
+<Organization><![CDATA[河北大学图书馆文献检索部;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[中国图书馆学报]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[图书馆研究;认知信息本体;知识形态;知识运动;知识交换]]></Keyword>
+<Keyword Lang="en"><![CDATA[Library research.Ontological understanding of information.Knowledge form.Knowledge movement.Knowledge exchange]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[对国内外图书馆本质研究进行梳理,提出从知识的存在与运动方式角度认识图书馆。知识是一种客观存在并具有运动的属性,其运动方式包括知识的状态变化和知识的传递与交换。从知识的记忆机制可推导出图书馆的运动机理——作为一种记忆机制与外部进行知识交换,进而提出图书馆的核心能力为进行人类主客观知识的(社会性职业化)交换。从知识运动的角度认识图书馆,有助于从微观视角观察和理解图书馆并对其进行高度的科学抽象。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[110-118]]></PageScope>
+<Publisher><![CDATA[中国图书馆学报]]></Publisher>
+<Code><![CDATA[1001-8867]]></Code>
+</Bibliography>
+</Bibliographies>

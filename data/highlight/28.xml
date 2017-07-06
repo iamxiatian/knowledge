@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<publication>
+    <journal>International Journal of Information Management</journal>
+    <time>Volume 36, Issue 1, February 2016, Pages 126-141</time>
+International Journal of Information Management
+    <title>The effectiveness of workflow management systems: A longitudinal study</title>
+    <author>H.A. Reijers</author>. Author links open the author workspace.Opens the author workspaceOpens the author workspacea. Numbers and letters correspond to the affiliation list. Click to expose these in author workspaceb. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace
+    <author>I. Vanderfeesten</author>. Author links open the author workspace.b. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace
+    <author>W.M.P. van der Aalst</author>. Author links open the author workspace.b. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace
+a
+Vrije Universiteit Amsterdam, The Netherlands
+b
+Eindhoven University of Technology, The Netherlands
+Show more
+    <doi>https://doi.org/10.1016/j.ijinfomgt.2015.08.003</doi>Get rights and content
+Highlights
+•
+    <highlight id="1">We followed 10 organizations implementing a workflow management system.</highlight>
+•
+    <highlight id="2">We measured the quantitative improvement of their business processes in terms of speed and efficiency.</highlight>
+•
+    <highlight id="3">We found that only half of all implementation projects succeeded in taking the technology into operation.</highlight>
+•
+    <highlight id="4">In those cases where the technology was implemented, the benefits were substantial.</highlight>
+•
+    <highlight id="5">In a follow-up analysis, we identified success and fail factors for the implementation of workflow technology.</highlight>
+
+Abstract
+    <abstract>  <![CDATA[Workflow management systems coordinate and allocate work through the various stages of executing business processes. The benefits of such systems appear pervasive, but no hard data is available that confirms that their implementation improves organizational performance. In part, this is due to the difficulty of measuring the effects of enterprise-wide initiatives in general. In this paper, the results are presented of a longitudinal, multi-case study into the effectiveness of workflow management technology. The study builds on a novel methodology that combines field work and computer simulations. Through its application, the contribution of this technology to conduct business processes faster and with less effort could be quantitatively assessed. ]]><h target="3" match="part">Surprisingly, only a fraction of the projects that were followed in this longitudinal study led to a fully operational implementation of a workflow management system at all. </h><h target="4" match="full">Even so, in most of the projects where such a system was introduced this resulted in substantial improvements</h> <h target="5" match="full">We present success and fail factors for the implementation of this technology within organizations, which we inferred from a follow-up analysis. </h><![CDATA[The novel methodology presented in this paper is thought to be of value to track the performance effects of introducing other technologies or organization concepts as well.]]>
+    </abstract>
+    
+
+Keywords
+    <keywords>Workflow management</keywords>
+    <keywords>IT effectiveness</keywords>
+    <keywords>Simulation</keywords>
+    <keywords>Business process performance</keywords>
+    <keywords>Automation</keywords>
+    <section name="Introduction" category="introduction">
+        <![CDATA[
+1. Introduction
+A workflow management system (WfMS) is an enterprise information system that ensures that work can be automatically allocated by a computer system to resources – humans and applications – in accordance with a predefined schema of the process, the available resources, and their dependencies, see e.g., (Jablonski & Bussler, 1996). Over the years, it has become fashionable to refer to systems that work in this way as process-aware information systems or business process management suites. However, there is little dispute from a technical viewpoint that they share the essential characteristics of process coordination with a WfMS (Reijers & Heusinkveld, 2004).
+While commercial WfMSs have been around since the mid-1980s (Zur Muehlen, 2004), the industrial appetite for this technology is still on the rise. One analyst firm predicts that the market for this technology, which is at $2.6 billion in 2012, will reach $7 billion by 2018 (Wintergreen, 2012). In academic circles, too, the technology receives wide attention, as evidenced by the profusion of handbooks, text books, and conference proceedings on this technology and its associated topics (Dumas, Van der Aalst, & Ter Hofstede, 2005; Van der Aalst & van Hee, 2004; Van der Aalst, 2011; von Brocke & Rosemann, 2010; Weske, 2007).
+Despite the interest in workflow management technology as both a practical tool and an object of academic study, rigorous evidence for the benefits that a WfMS provides to an organization is lacking. Previous studies into this topic have been few and each of these can be challenged with respect to their methodological set-up. It is, however, crucial to determine whether solid advantages can be attributed to using a WfMS. This would both justify and inform the use of and development of this technology.]]>
+
+<h target="2" match="part">With this paper, we aim to contribute to a proper assessment of the effectiveness of workflow technology.</h><h target="1" match="part">In effect, we carried out a multi-case study that involved the implementation of WfMSs across 10 Dutch organizations in the period of 2001–2012. </h> <![CDATA[Overall, 25 business processes were targeted to be supported by a WfMS in these organizations. We set out to measure how the performance of each of these processes was affected by this technology. This paper presents the results from this study. As such, it follows up on our earlier publication, which explained the methodological set-up of our study and included our preliminary results (Reijers & Van der Aalst, 2005).
+The paper will also be of interest to a wider audience of researchers, specifically those who are interested in determining the effects of enterprise-wide initiatives. A key difficulty in such an assessment is to isolate the effects of a new organizational concept or technology from other developments that influence the performance metrics of interest. The method that is presented in this paper, which combines data-gathering through field work on the one hand and computer simulations on the other, has been developed to surmount this issue.
+
+The structure of this paper is as follows. In Section 2, we will provide the state of the art with respect to evaluation studies of workflow management technology. In Section 3, we will provide the research design, which is followed by the presentation of our findings in Section 4. Section 5 provides a discussion of the results; Section 6 concludes this paper with a summary and recommendations.]]>
+</section>
+
+    <section name="Related work" category="background">
+        <![CDATA[
+2. Related work
+To ground our work, we conducted a thorough literature review on the impact of WfMSs in organizations. An extensive discussion of this related work, which covers both the methodological background of this review as well as more details on its outcomes, is available in (Vanderfeesten & Reijers, 2014). Below we will only give a summary of our findings and position the research described in this paper related to the existing literature found. We mainly aimed at the investigation of operational performance tied to the use of WfMSs, but also came across other types of impact on an organization.
+The literature review revealed a number of early papers that report on successful implementations of WfMSs, which did not, however, quantify the obtained results, e.g., (Bowers, Button, & Sharrock, 1995; Dourish, 2001; Prinz & Kolvenbach, 1996; Schael & Zeller, 1993; Schmidt, Meetz, & Wendler, 1999). These studies mainly illustrate the improvement in operational performance and completeness of information that the implementation of a WfMS may bring to the company, if benefits were reported at all.
+Later, a number of papers appeared reporting on the measured operational performance after the implementation of a WfMS in one organization. Most of these studies report on reduction of lead time. In Goebl, Messner, Schwarzer, and Ag (2001) for instance, a 70% reduction of the overall lead time was achieved by the WfMS, mainly by introducing electronic data and automating the routing of tasks. Küng and Hagen (2007) also report on a reduction of lead time, and additionally mention an increase in output per employee and an increase in quality of work for several processes in a Swiss bank. Also, (Brahe & Schmidt, 2007) describe the effects of the implementation of a WfMS (together with business process re-engineering in a large financial institution): the number of cases handled per day increased dramatically and the workers were about 19% faster doing their job with the new WfMS.
+More recently, workflow management technology also started to receive attention in the healthcare domain. Halsted and Froehle (2008) report the results of the implementation of a WfMS (complemented with a ‘filmless’ document management system and speech recognition) in a radiology department where case lead times decreased by 22–38%. (Mans, Russell, van der Aalst, Bakker, & Moleman, 2010) predict the impact of the use of a schedule-aware WfMS in a gynaecological oncology process by using simulation. The simulation output, however, showed mixed results for the operational performance of the process. (Li et al., 2013) report on the positive effect of implementing a WfMS to manage the sonography workflow. The use of the system significantly decreased the patient waiting time, the average number of waiting patients, and increased the number of patients treated per month increased. Also, the staff workload stress decreased and patient satisfaction increased.
+In addition to the experience reports and single case studies described above, we have found a limited number of studies that compare operational impact of workflow management system implementation in various organizations. Kueng (Kueng, 1998, 2000) performed a qualitative study, which consisted of interviews with eight people from five different companies. His analysis showed that, overall, through the use of a WfMS, the quality of the output of the business process improved and the productivity, measured by lead time and the volume of work, increased. Kueng’s study does not include quantitative support for these statements, nor insight in which impact was realized in which cases or organizations. Oba, Onoda, and Komoda (2000) report on the development of a mathematical model for predicting the reduction rate of processing time, which is based on data of 25 case studies in which a specific WfMS was implemented. For the 25 case studies, in general, a reduction between 36% and 85% was measured for lead time. Unfortunately, no details are given on the characteristics of their study and the exact data on processing times measured. (Choenni, Bakker, & Baets, 2003) present a model for measuring the impact of a WfMS in an organization, assuming that performance indicators such as speed, quality, flexibility, and reliability are related to cost. The proposed model to quantify the total cost is tested on two case studies in the same organization and was evaluated with mixed results.
+Note that there are various studies that investigate the impact of WfMSs in a broader context: the impact on the employees and culture in the organization (Atkinson & Lam, 1999; Doherty & Perry, 2001; Kueng, 2000; Mutschler, Rijpkema, & Reichert, 2007; Poelmans, Reijers, & Recker, 2013; Poelmans & Reijers, 2009; Reijers & Poelmans, 2007; Sarmento & Machado, 2000; Vanderfeesten & Reijers, 2005), studies that propose a method or model to describe the economic impact (Gruber & Huemer, 2009; Mutschler, 2006; Pantazi & Georgopoulos, 2006), and studies into tool selection (Berger, Ellmer, Quirchmayr, & Zeitlinger, 1997; Gruber, 2009; Zur Muehlen, 1999) and critical success factors for implementing WfMSs (Mutschler, Reichert, & Bumiller, 2008; Parkes, 2002; Ravesteyn & Batenburg, 2010; Ravesteyn, 2007; Trkman, 2010).
+The study described in this paper fits within the stream of research that looks into operational performance associated to the use of WfMSs. While it touches on success and fail factors for implementing a WfMS, it does not provide a full study of all cultural or economic aspects involved. Rather, it aims to broaden the investigations on the effectiveness of the implemented WfMS from one organization (as is the case in the above described experience reports and case studies) to a larger set of organizations. As such, it aims to achieve quantitative results on process performance, in contrast to the work by Kueng. Also, it builds on real measurements instead of models. Finally, it focusses on the long-term effects of the implementation by following the organizations during a period of 10 years. It can, therefore, be categorized as a comparative, quantitative, and longitudinal study into the effectiveness of WfMSs. Such a study has not been carried out to date.
+The current paper builds on previous work by the same authors (Reijers & Van der Aalst, 2005; Reijers, 2004), which revealed expectations on the operational effectiveness of a WfMS’s implementation as based on simulation studies. In 15 of the 16 cases considered in the simulations, a significant decrease of lead time (throughput time) was expected based on the simulations (ranging from 25% to 83% decrease of lead time). For 12 out of 16 cases a significant decrease in the service time was expected to take place (between 4% and 47%). In this paper, we will present the real impact of a workflow management system implementation in the same organizations, compare these real performance figures with the expected outcomes, and discuss the differences. ]]><h target="5" match="part">Moreover, we will give an analysis of the success and fail factors behind the implementation of the WfMSs.</h>
+</section>
+
+  
+    <section name="Research design" category="methods">
+        <![CDATA[
+3. Research design
+The study that we report upon in this paper is carried out in accordance to the research design that we published in earlier work (Reijers & Van der Aalst, 2005). To make this paper self-contained, we provide a summary of the research design in this section.
+3.1. Objectives and motivation
+In this study, a number of performance dimensions are of interest as to assess the impact of a WfMs on operational performance of the business process:
+-
+Lead time, i.e., the time between the arrival of a case and its completion (also known as cycle time, completion time, and turnaround time),
+
+-
+Service time, i.e., the time spent by resources on the processing of a case,
+
+-
+Waiting time, i.e., the time a case is idle during its life cycle,
+
+-
+Utilization of involved human resources, i.e., the ratio of activity versus their availability.
+
+
+For each of these, we focus on the average values as the performance indicators to report upon in this paper for the business processes under consideration. The indicators provide an operational perspective on the performance of a business process, which is arguably the most important concern for organizations that pursue to implement workflow technology. By doing so, an organization will generally aim to improve on these indicators. Because work is routed by an automated system, work would be expected to reach people faster and less time needs to be spent on tracking work that is temporarily lost. This decreases lead time and waiting time. Also, the use of a WfMS would allow people to spend less time on the coordination and transfer of work, which would mean a decrease of service time. Assuming that the supply of work and resources remain constant, work load and utilization will decrease as a result of decreasing service time.
+Against this background, the working hypothesis for this study is that the averages of all four performance indicators, within the participating organizations for the processes under consideration, will decrease significantly as a result of the use of a WfMS.
+
+3.2. Measurement approach
+To adequately assess the impact of implementing a WfMS to support a business process, we need to measure the relevant performance indicators at two points in time:
+(a)
+before the WfMS is implemented (ex ante), and
+(b)
+after the WfMS has become fully operational (ex post).
+
+It is insufficient to simply compare the performance indicators at these two points in time, because the circumstances may be very different. For example, after introducing the WfMS the workload (number of cases) may have changed due to external causes or the number of resources may have been reduced because of efficiency gains. Therefore, better insights into the anticipated and realized effects of the WfMS need to be acquired.
+
+Three major concerns further shape the design of our measurement approach. We are interested in an approach that allows for:
+(1.)
+the validation of the ex ante and ex post measurements,
+(2.)
+the prediction of results on basis of the ex ante measurement,
+(3.)
+a proper comparison of the ex ante and ex post measurements.
+
+To make sense of the steps in the measurement approach that have followed from these concerns, please refer to Fig. 1. In this figure, two axes can be distinguished. On the horizontal axis, we distinguish the ex ante and ex post situation, i.e., the state before the implementation of the WfMS and the state after it has become operational. On the vertical axis, we distinguish between data gathered from real measurements of the operational processes and synthetic data as generated by a simulation approach. Further note that there are six research steps along the various quadrants, which take place for each measurement in the order 0, 1a, 2a, 3, 2b, and 1b.
+-
+0-measurement: real measurement done on actual (not simulated data) before the WfMS implementation
+-
+1a-measurement: measurement done on simulated data based on the process and the circumstances before the WfMS implementation
+-
+2a-measurement: measurement done on simulated data based on the process after the WfMS implementation and the circumstances before the WfMS implementation
+-
+3-measurement: real measurement done on actual (not simulated data) after the WfMS implementation
+
+-
+2b-measurement: measurement done on simulated data based on the process and the circumstances after the WfMS implementation
+-
+1b-measurement: measurement done on simulated data based on the process before the WfMS implementation and the circumstances after the WfMS implementation
+
+A visualization of the research approach
+Download full-size image
+Fig. 1. A visualization of the research approach.
+In the remainder we elaborate on the three major concerns guiding our measurement approach: validation, prediction, and comparison.
+
+3.2.1. Validation
+The 0-measurement and the 3-measurement in the figure are the actual measurements of the business process in the ex ante and ex post situation, respectively. To allow for validation of these measurements, discrete event simulation is used (Law & Kelton, 1991). The idea is that a simulation model of a business process is built, which incorporates the actual structure of the business process, simulates the arrival of cases as well as the availability of resources, and takes routing probabilities of cases into account as they flow through the business process. Simulation of such a model generates performance data, which can be compared to the performance measurements of the actual process. A good fit between simulated and real data provides support for the validity of the measurements on the real process. After all, the results make sense with respect to the way the process behaves. Significant differences, however, put the measurements’ validity into question. The performance data that follows from a simulation of the ex ante process are referred to as the 1a-measurement. Similarly, the 2b-measurement generates performance data on basis of a simulation of the ex post model.
+3.2.2. Prediction
+To address the need for prediction, a simulation model is built that reflects the desired situation after the implementation of the WfMS. This model incorporates those parts of the simulation model of the current process (used for the 1a-measurement) that are expected to remain the same after implementation. New behavior will be incorporated as well as to reflect the projected use of a WfMS. Specifically, activities that relate to physical transportation of information that exist in the current process are eliminated from the model, because a WfMS typically will take care of those (Jablonski & Bussler, 1996). Furthermore, planned initiatives of the organization, for example, to optimize the process structure or change the resource staffing can also be incorporated. The simulation of this prediction model to forecast performance is referred to as the 2a-measurement. A comparison between the 1a- and 2a-measurement delivers insights in the expected benefits of using a WfMS before it has become operational.
+3.2.3. Comparison
+To ensure a proper comparison of ex ante and ex post measurements, our main concern is to eliminate contextual influences. A direct comparison between the 0-measurement and 3-measurement may not lead to the insights that we seek. For example, suppose that in the ex post situation the number of involved staff is reduced. Under these circumstances, process performance may not appear to have improved, even though the WfMS does allow for carrying out that process with less people. A new simulation model is built to minimize the effect of contextual changes. This model, which allows for a 1b-measurement, is derived from the 1a-model that reflects the initial situation. However, all contextual changes which happened during the implementation of the WfMS are incorporated in the 1b-model. In the previously used example in which staff levels were reduced, this would mean that the 1b-model includes the original process structure but a reduced number of staff compared to the original, initial situation. A comparison between the 1b and 2b-measurements will, therefore, be more meaningful than a comparison between the 0- and 3-measurement.
+3.3. Data gathering
+To obtain a broad and representative insight into the effectiveness of WfMSs, the study’s aim is to bring in as large a number as possible of organizations into the pool. One consideration is to incorporate a sample of organizations that represent both commercial and non-commercial entities. Furthermore, the aim is to also cover a variety of different brands of WfMSs as to not skew the findings toward one particular vendor. As a practical consideration, we chose to focus on the geographical area of the Netherlands.
+
+Candidate organizations are identified through different ways. Call for participations are published in professional magazines and presented at public technology events. Moreover, consultancy companies and system integrators that implement WfMSs on a regular basis are directly approached to gain access to their clients. Organizations are ideal candidates to participate in this study if (1) a WfMS has already been selected prior to their participation in their study and (2) the target business processes are determined to be supported by this technology. On the basis of such “buy-in”, we can expect that an organization will actually endeavor to take the step toward implementation.
+
+The participation of an organization in this study is voluntary and involves no other compensation from the researchers’ side than individual feedback on the study’s outcomes, as well as an anonymized benchmark comparison with other participating organizations by the end of the study period.
+
+Participation of an organization allows us to carry out our measurements, analyze business processes, and interact with relevant stakeholders. The most important categories of data to be determined for each business process are as follows:
+-
+Process: tasks, milestones, business logic, routing probabilities
+
+-
+Resource: types of resources, work assignment policies, number and availability of resources
+
+-
+Performance: service times, lead times, arrival rate of new cases, work-in-progress, resource utilization
+
+
+For data gathering, the researchers used a multi-method approach (Yin, 2009), combining interviews, the analysis of existing process descriptions, observations, management reports, self-registrations by people involved in the process, and automatically collected data by existing information systems. For the automatic retrieval of data from operational WfMSs we employed so-called process mining techniques (Van der Aalst, 2011). Process mining can be seen as the missing link between model-based process analysis (e.g., simulation and verification) and data-oriented analysis techniques such as machine learning and data mining. It seeks to confront real event data and process models either (automatically discovered ones or made by hand).
+Business processes were were modeled using the Protos modeling tool (Pallas Athena, 1997). The models are used in the process of extracting and validating process-related information with business professionals and managers. Furthermore, they can be enriched with performance data and automatically translated to simulation models for the Petri-net based simulation tool ExSpect (Van der Aalst et al., 2000; Van Hee, Somers, & Voorhoeve, 1989). ExSpect is used for the various simulation measurements as explained in our research design.]]>
+</section>
+
+    <section name="Results" category="results">
+        <![CDATA[
+4. Results
+4.1. Overview
+In Table 1, an overview is provided of all 10 participating organizations in this study. As can be seen, the organizations vary substantially with respect to their size, both in terms of employees and turnover.
+Table 1. Participating organizations.
+Organization
+number	Organization description	Number of employees	Turnover/budget (× million €	Focus of involved processes in study	Number of involved processes in study	Cases per year (×1000)
+1.	Governmental agency	700	60	Debt collection	1	7000
+2.	Health insurer	2300	5200	Policy maintenance	7	250
+3.	Regional public works department	1000	250	Invoice processing	1	20
+4.	Local municipality	300	210	Invoice processing	2	0.7
+5.	Insurance intermediary	5000	29000	Policy maintenance	3	2000
+6.	Domiciliary care agency	1450	50	Human resource management	2	1.5
+7.	Local municipality	300	90	Appeals and sketch plans	2	0.1
+8.	Medical insurance company	6500	5600	Medical screening and acceptance	2	5
+9.	Bank	3000	68000	Management savings accounts	3	70
+10.	Governmental agency	70	9	Granting of subsidies	2	0.1
+For each organization, at least one of their business processes was in focus for our study; within most organizations two or more processes were. Overall, 25 business processes that were targeted for the implementation of a WfMS are in scope.
+
+Among the participating organizations, an equal number of not-for-profit organizations (1, 3, 4, 7 and 10) and commercial organizations were involved (2, 5, 6, 8, and 9). Overall, these organizations had selected their system from four different vendors of workflow technology, while one organization opted for the development of a proprietary workflow solution (organization #3).
+
+4.2. Implementation success
+By the end of our study period it could be established that from all 25 processes in the research scope, only seven processes were fully supported by a WfMS (28%). This relates to only five organizations that implemented a WfMS for at least one of the processes that were under study from the total of 10 organizations involved (50%). These successful organizations were organizations 3, 4, 6, 7 and 8.
+
+The reasons for the other five organizations not to reach any workflow implementation at all are as follows:
+-
+Project overspending: In the case of the involved governmental agency (organization 1), the workflow implementations had been part of a large automation project. The project ran out of time and over budget in a considerable manner. Under pressure of the national court audit, the overall project was stopped, including the workflow implementations under study.
+
+-
+Change of management: For organizations 2, 5, and 10 the original management that initiated and supported the workflow implementations was replaced. For all three cases, the workflow implementations were terminated.
+
+-
+Change of owner: The insurance intermediary (organization 5) had been part of a much larger insurance company, which decided to sell this part to a foreign investor. The bank (organization 9) was acquired by a large financial agglomerate. In both cases, the workflow implementations were discontinued as a result.
+
+
+As can be seen, the workflow implementations were not primarily stopped on technical grounds or because of disappointing performance. Rather, the decisions to stop should be seen against the background of larger organizational developments. In at least one of these cases (organization 1), we are aware that workflow implementations had been re-initiated after some time. However, we had no access to the processes to measure their performance.
+
+4.3. Implementation effects
+To consider the effects of the workflow implementations, we will focus on the five organizations that implemented a WfMS for at least one process. The seven associated processes within this scope are displayed in the table below. Provided are the ex ante and ex post measurements for all performance indicators under consideration. Note that these coincide with the 0- and 3-measurements in our overall approach (see Section 3.2). The impact of the workflow implementation on the four performance indicators is also visually depicted in Figs. 2–5. The reader may want to refer to the Appendix A for a detailed overview of the measurement data.
+Lead time (0- and 3-measurement)
+Download full-size image
+Fig. 2. Lead time (0- and 3-measurement).
+Waiting time (0- and 3-measurement)
+Download full-size image
+Fig. 3. Waiting time (0- and 3-measurement).
+Service time (0- and 3-measurement)
+Download full-size image
+Fig. 4. Service time (0- and 3-measurement).
+Utilization rate (0- and 3-measurement)
+Download full-size image
+Fig. 5. Utilization rate (0- and 3-measurement).
+For five of the seven processes, the average lead time went down according to this direct comparison between the ex ante (0.) and ex post (3.) situation. For these cases, the reduction was in between 14% (processing sick leaves) and 74% (disability insurance acceptance). However, for the mutations of HRM records and the appeals process the average lead time increased, respectively with 79% and 38%.
+Considering the large chunk of waiting time that lead time is normally composed of, the development of the waiting time performance closely followed the pattern of the lead time for each process under consideration. It went down for the same five processes for which the lead time went down; it went up for the two processes where lead time went up.
+With respect to service time, its average went down for all processes except one. For those processes where a reduction took place, it is least pronounced for life insurance acceptance (16% reduction) but the most extreme for the mutations of HRM records we mentioned earlier (75% reduction). The process for which no reduction could be observed by comparing the ex ante and ex post measurement is the invoice processing within organization 4. Here, the average service time actually went up with 24%.
+It can be seen that the development of the utilization rates followed the track of the service time developments. For each process where the service time went down (up), the utilization rate went down (up) as well.
+4.3.1. Validation
+For the sake of validation, we carried out the simulation measurements in accordance with the described measurement approach (Section 3.2). Validation of the simulation model of the ex ante (0.) situation was done with the 1a-measurement, and validation of the simulation model of the ex post (3.) situation was done with the 2b-measurement. For two of the seven processes, it was not possible to validate the 3-measurement as presented in Tables 6–9 in the Appendix A. This was the case for the invoice processing within organization 4 and for the appeals process within organization 7. As for the appeals process, the registrations by the WfMS did not provide reliable data to carry out a 3-measurement. Considering the invoice process it turned out that the chosen configuration of the WfMS was so inherently flexible that no reliable simulation model could be built. We will return to this issue in the discussion section.
+For the five other processes, simulation models could be built of both the situation before the implementation (1a-measurement) and after the workflow implementation (2b-measurement) such that the measured values, i.e., the 0-measurement and the 3-measurement were contained within the 99% confidence intervals of the simulations. In other words, the simulation models could accurately reproduce the values measured in the real world.
+
+4.3.2. Prediction
+In accordance with our measurement approach, we used simulation to predict the development of the performance indicators under consideration. The aggregated results are shown in Table 3, in which they are listed in the ‘prediction’ columns. Recall that these predictions are based on a comparison of the 1a- and 2a-measurements. Figs. 6–9 graphically depict the different measurements for the four performance indicators, which can be found in the Appendix A.
+Comparison (per process) of the actually measured lead times (0-measurement and…
+Download full-size image
+Fig. 6. Comparison (per process) of the actually measured lead times (0-measurement and 3-measurement) and the lead times in the four simulations (1a, 1b, 2a and 2b).
+Comparison (per process) of the measured waiting times
+Download full-size image
+Fig. 7. Comparison (per process) of the measured waiting times.
+Comparison (per process) of the measured service times
+Download full-size image
+Fig. 8. Comparison (per process) of the measured service times.
+Comparison (per process) of the measured utilization rates
+Download full-size image
+Fig. 9. Comparison (per process) of the measured utilization rates. Note that for the Appeals process it was impossible to get reliable information one resources.
+On the basis of our assessment how workflow technology would impact the performance of the business processes, the prediction models indicated that the average lead time for all processes would go down. These reductions ranged from a modest decrease of 9% (processing sick leaves) up till roughly halving the lead time (invoice processing within organization 4; appeals). From the simulations, a similar expectation followed for the reduction of waiting time.
+The predictions for the service time and utilization changes were generally more modest, with reductions between 2% and 32% and, in two cases, a slight increase of service time and/or utilization (see invoice processing within organization 3 and the disability insurance acceptance process within organization 8).
+4.3.3. Comparison
+The final step in our measurement approach was the comparison of the 1b- and 2b-measurements, which arguably provides the fairest assessment of the contribution of workflow technology to the expected improvement of business process performance. The results are also provided in Table 3, listed in the ‘comparison’ columns. Recall that for two processes under consideration it turned out not to be possible to create a reliable simulation model that mimicked the situation after the workflow implementation. We will discuss this phenomenon in more detail in our discussion section.]]>
+
+
+<h target="4" match="full">For almost all processes, each of the performance measures developed in the predicted, positive direction,</h><![CDATA[ i.e., they decreased (which is a positive development for the organization in question). The smallest decrease is the 13% reduction of service time for the disability insurance acceptance process within organization 8, while all other reductions amount to at least 20% all the way up to 94%. The big exception is the mutation of HRM records process, where lead time and waiting time increased, with 147% and 149% respectively (both negative developments). Interestingly, the largest overall effect also takes place for the mutations HRM records process: a 77% reduction of the service time and a 94% reduction of the utilization. The other exception is the invoice processing within organization 3 where the utilization rate did not increase with 5%, but drop with 42% (a positive development).
+
+From inspecting Table 3 and Figs. 6–9 it can be noted that for nearly all performance measurements and all processes in scope the real contribution much surpassed the predicted improvements. This is an indication for the prediction approach to be on the conservative side. The notable exception is again formed by the development of the lead time and waiting time for the mutations of HRM records: These did not go down, but actually increased. We will inspect this particular process in more detail in our discussion section.
+Finally, it is of interest to compare the direct comparison of the ex ante (0.) and ex post (3.) measurements as provided in Table 2 with the comparison of the 1b- and 2b-measurements in Table 3. For the sake of convenience, the combined data is presented in Table 4.
+Table 2. Ex ante and ex post measurements workflow implementations (*: Resource data was not available).
+Process	Org. number	Lead time (days)	Service time (minutes)	Waiting time (days)	Utilization (rate)
+Ex ante (0)	Ex post (3)	Ex ante (0)	Ex post (3)	Ex ante (0)	Ex post (3)	Ex ante (0)	Ex post (3)
+Invoice processing	3	15.91	12.90	17.75	14.44	15.87	12.87	0.0947	0.0676
+Invoice processing	4	13.34	11.13	19.6	24.23	13.29	11.07	0.4364	0.5504
+Mutations HRM record	6	9.42	16.88	22.86	5.66	9.37	16.87	0.2100	0.0400
+Processing sick leaves	6	1.91	1.64	13.99	7.21	1.88	1.62	0.6800	0.2850
+Appeals	7	106.00	146.00	24.50	12.60	103.00	145.00	0.6618	*
+Disability insurance acceptance	8	45.51	11.79	59.87	45.53	45.37	11.68	0.2206	0.1430
+Life insurance acceptance	8	20.06	11.84	35.01	29.48	19.98	11.77	0.3258	0.3098
+Table 3. Prediction and comparison (**: no reliable simulation model could be obtained).
+Process	Org. number	Lead time change (%)	Service time change (%)	Waiting time change (%)	Utilization change (%)
+Prediction (1a–2a)	Comparison (1b–2b)	Prediction (1a–2a)	Comparison (1b–2b)	Prediction (1a–2a)	Comparison (1b–2b)	Prediction (1a–2a)	Comparison (1b–2b)
+Invoice processing	3	−25	−20	−2	−26	−25	−20	5	−42
+Invoice processing	4	−48	**	−32	**	−48	**	−35	**
+Mutations HRM records	6	−43	147	−16	−77	−43	149	−13	−94
+Processing sick leaves	6	−9	−50	−22	−48	−8	−50	−24	−68
+Appeals	7	−48	**	−6	**	−49	**	−15	**
+Disability insurance acceptance	8	−15	−67	6	−13	−15	−67	6	−31
+Life insurance acceptance	8	−18	−61	−2	−38	−18	−61	−1	−41
+Table 4. Direct vs. simulated comparison (*: resource data was not available; **: no reliable simulation model could be obtained).
+
+One major insight from this table is that most of the direct comparisons between the ex ante and ex post situation (0–3) are fairly comparable with the simulated comparisons (1b–2b). In 13 of the 20 cases where a comparison can be made, the difference is 20 percentage points or less; for 5 of these 13 cases, the difference is even less than 5 percentage points. Remarkably, and underlining the value of the approach we have taken, for those 7 cases where the difference is larger than 20 percentage points the data from the simulated comparisons is larger than the direct comparisons (when considering the numbers in absolute terms). This can be taken as hints of actions by organizations to flatten the effects of the actual change that is tied to the workflow implementation, e.g., pulling away resources from processes that perform better when supported by a WfMS. In these cases specifically, it can be argued that the chosen measurement approach provides a more realistic assessment than the naïve, direct comparison between the ex ante and ex post situation (0–3).
+Concluding, the measurements have shown that in the cases in which the project led to an implementation of a WfMS, the operational performance of the process improved and often substantially so.]]>
+</section>
+
+
+    <section name="Discussion" category="discussion">
+        <![CDATA[
+5. Discussion
+In this part of the paper, we will be discussing various aspects of our study.]]><h target="2" match="part"> We will successively look in more detail into flagged issues in the collected data, we will explore the limited overall success rate of the workflow implementations, and we will reflect on the usefulness and limitations of the employed methodology. </h><![CDATA[The last part will also include recommendations to those who aim to use the methodology in other settings.
+
+5.1. Detailed data analysis
+Two issues emerge from our results section that call for further inspection of the collected data:
+(1)
+the impossibility to build a reliable simulation model for two of the involved processes, i.e., invoice processing within organization 4 and the appeals process within organization 7,
+
+(2)
+the remarkable increase of lead time and waiting time for the processing mutations of HRM records within organization 6.
+
+
+In this section both issues are explored in detail.
+
+5.1.1. Reliability simulation model
+For both the invoice processing within organization 4 and the appeals process within organization 7 we did not manage to build a reliable simulation model. The reasons, however, differed.
+
+In the case of organization 4 (invoice processing), we could establish through inspecting the execution data that the WfMS had been designed to allow for a highly flexible way of working. The process participants indeed made use of this flexibility. From the data on 3979 cases (invoices) that were available to us, we could determine that one, generic execution path was executed for 1000 cases. The remaining 2979 cases, however, were routed in 553 different ways through the process. In other words, each of these paths was traversed for on average only 5 cases, which is less than 0.1% of all cases studied. While we could capture all these paths in a Protos model, our attempts to carry out a realistic simulation of this inherently flexible process on the basis of the collected data did not succeed. Specifically, in contrast to the other processes, we could not reproduce 99% confidence intervals for the lead times that included the actual measurements. In effect, our best attempt to reproduce lead times on the basis of a simulation model stayed approximately 25% below the actually measured lead times. Our best clarification for this is that complex yet rare flows of cases in reality are difficult to capture in a generic simulation model. Still, they do have an impact on the actual lead times of processes in reality.
+
+In the case of organization 7 – the other organization where we had difficulty creating a reliable simulation model – we collected data from the WfMS on 87 cases (appeals) that had been processed in almost a year. By screening the extracted data, we established that the average service time for these cases amounted to approximately 12.6 min. Yet, the service time’s standard deviation of 13.6 min surpassed that number. From our observations of the process participants, it turned out that the recorded activity durations by the WfMS often did not reflect the real time people spent on the process. Overly long registrations were caused by users improperly terminating their workflows clients, such that time kept on being counted by the system as active work. Overly short registrations were caused by activities that were in fact executed in the organization but not during the interaction with the WfMS. In other words, the WfMS was often only used to sign off activities that had already taken place outside the control of the system. The WfMS had effectively become a “shadow system” (cf. Strong & Volkoff, 2004). As a result, the collected data on service times (and, by extension, on the resource utilization) could not be considered reliable as a basis for simulation.
+While for the two processes discussed at this point no simulation models could be built, the insights from this closer data inspection itself are valuable. Clearly, our inability to simulate the process of appeals within organization 4 provides an insight into the limitations of a simulation approach. Moreover, for the management of organization 7, the use of the WfMS as a “shadow system” instead of as a support system for the actual process was quite a surprise. It triggered a tighter enforcement of proper usage of the system. In retrospect, the involved management stated: “Our implementation stayed too close to the original situation. The people involved in it had too much freedom [to work around the system] and exploited that.” Unfortunately, considering the low number of appeals that is processed yearly, it was not possible to collect sufficient reliable data in the new setting within the scope of this study to build simulation models for the 1b- and 2b-measurements.
+
+5.1.2. Deviant developments
+The other peculiar case that is worth looking into is the mutations of HRM records within organization 6. In contrast to our prediction, the lead time in this process did not decrease. In fact, the average lead time more than doubled. On closer inspection, this turns out to be related to a change in the process set-up. Instead of the HRM administration staff members adding all data on a personnel mutation in the HRM system themselves, in the new set-up this is done by the administrative staff of the department where the person in question has become employed and/or moves from. The idea is that this is more efficient than having the department staff first enter this data on a paper form, after which the HRM administration staff basically has to copy this information into the HRM system.
+However, to make this new procedure work, an additional control step is added for a HRM manager. This step is there to check the quality of the data as entered by the department and to authorize the mutation. While this is a routine task, we observed that the task had a low priority for HRM managers. They only periodically checked for pending cases requiring this task, which led to substantial waiting times. In one specific instance we observed a mutation that remained in a state awaiting authorization by a HRM manager for nearly 6 weeks. In our simulation to predict the effects of using a WfMS in this situation, we did include the additional authorization step. However, we were not able to anticipate the massive delay associated to including this step.
+
+We confronted the involved organization with the effects of the authorization step on the lead time performance, but it did not really raise concerns. The 77% reduction of the average service time, which also occurred, was valued to such an extent that the increase of lead times was considered acceptable. During our interview with the CEO of the organization, he commented that the introduction of several new managers within the HRM department was related to the issue: “These new managers are insufficiently aware that they must take a look at a screen from time to time.” By raising their awareness of the issue and with proper incentives, the expectation would be that the lead time would go down over time. Within the scope of this study, we were not able to verify this. The case does reveal that a seemingly routine step may have a huge effect on the performance of a process as a whole when the incentives to take on this work are not in place.
+
+5.2. Organizational dimension
+Another intriguing outcome of this study is that only half of the involved organizations succeeded in the original aim to implement a WfMS at all. A statistical analysis of the underlying factors of this limited success rate seems ill-advised given the small number of cases in our study. What we wish to do here is to reflect, with due caution, in a qualitative fashion on the potential factors that relate to the success or failure of workflow implementations.
+
+First of all, no tendency of either not-for-profit or commercial organizations to be more successful in implementing a WfMS could be detected. Two commercial organizations and three not-for-profit organizations managed to implement a WfMS. That is not too different from the even distribution between these in the overall sample. Secondly, the data does not suggest that the brand of WfMS is a factor of influence. Two systems were included in our data set that were implemented more than once, which would allow for identifying a tendency. However, these turned out to be evenly connected to successful and unsuccessful implementations. Finally, the size of the organizations shows no distinctive relation to the successful cases. The largest organization successfully implemented a WfMS, as well as the two organizations that were the second and third smallest in the sample. The remaining two successful cases were in the middle with respect to the number of employees.
+
+In our search for other organizational factors that could be tied to the success of implementation, we rely on the interviews we carried out with the project managers within the five organizations that managed to successfully take a WfMS into production. During these interviews, which lasted between 1.5 and 2 h, we presented the outcomes of this study to those project managers and inquired into the factors that contributed to the success of the workflow implementation. From these interviews, five topics emerged that were mentioned across multiple organizations: application management, redesign, management support, change strategy, and their organizational size (see Table 5).
+Table 5. Success factors for a WfMS implementation.
+Application management	No Redesign	Management support	Change strategy	Size
+3.	Regional public works department	+	+	+		
+4.	Local municipality	+	+		+	+
+6.	Domiciliary care agency	+	+	+	+	
+7.	Local municipality	+	+	+	+	
+8.	Medical insurance company	+	+	+		+
+The interviewees of all five, successful organizations emphasized their action to set up an approachable and responsive application management function within their organization as a factor that positively influenced the success of their workflow implementation. Through this function, end users of the WfMS had the opportunity to report on issues that hindered optimal use of the system. By quickly following up on such issues, the WfMS could quickly become robust and end user satisfaction was maintained at a satisfactory level.
+A second factor that was mentioned by all interviewees was to not drastically redesign the business processes they were aiming to support with a WfMS. While everyone agreed that certain historical parts of a process do not make sense once a WfMS is in place, the interviewees also considered it vital to not confront an organization with too many changes at the same time. As the project manager of organization 4 mentioned: “We consciously decided not to change too much. We did not want to change both the procedure and the technology.” The project manager overseeing the implementation in organization 3 stated: “We more or less implemented the as-is situation.” This is a remarkable outcome, given the literature surrounding this topic (e.g., (Georgakopoulos, Hornick, & Sheth, 1995; Kueng, 2000; Yang, 2011)). The phrase “Don’t pave the cow paths” is often used in in the context of Business Process Reengineering (BPR) (Markus & Robey, 1998). The line of thinking is that one should not automate existing processes, but rather start from scratch. However, our findings indicate that sometimes it is better to first “pave a cowpath” rather than using a “big bang” approach that is often advocated (Hammer, 1990). In a “big bang”, the business processes drastically change when introducing a WfMS as to exploit new improvement opportunities.
+A third factor, which was mentioned by interviewees from 4 of the 5 organizations, was the support from top management for the workflow initiative. Clearly, this is a well-known success factor in the literature on information systems implementations (Sharma & Yetton, 2003). The CEO of organization 6 positioned himself as the “passionate fire” energizing the implementation. The project manager of organization 7 stated: “I have always congratulated myself with a board that communicated from day 1, each day, year in year out, that we would be doing workflow—period.”
+Two other factors were also mentioned in the interviews, although they received less than widespread support. First, the particular change strategy employed was mentioned by project managers of three organizations. The general pattern, if any, seems to be that end users were explained in no uncertain terms that they were expected to work with the WfMS. This stance was also enforced rigorously. The project manager of organization 4 put it as follows: “From the moment on that you implement a digital procedure, you should allow ‘no escape’ to follow the paper procedure still.” Secondly, the size of the organization was mentioned. The same project manager of organization 4 stressed the importance of being mid-sized: “We are big enough to reap the benefits of using a WfMS, but we are not too big so that no-one knows each other. That is the perfect balance.” Surprisingly, also the interviewees from organization 8 mentioned size as a success factor. Despite the large size of the organization 8 overall, the relative independence of its medical unit in which the implementation took place was emphasized: “Because our unit is a small one, we were able to manage the project ourselves; our application management was able to implement changes to the workflow itself, which is a ‘must have’: Otherwise, the system would not be accepted by the end users.”
+In addition to the interview rounds we mentioned, we were also able to interview the responsible projects managers within organization 1. Recall that this is an organization where the workflow implementation project had been put to a stop altogether. Unaware of the previously described outcomes of the other interviews, the two project managers mentioned three causes for the project’s failure. First of all, the project had become uncontrollable because “we were simultaneously redesigning the business process, building new systems, and pushing new technology [into the organization]. It was too much, too far.” Secondly, the IT organization had not been properly organized: Development and application management had not become separate functions. As a result, developers also had to act as IT support staff, which disrupted their development duties. Thirdly, the interaction between higher management and the project team was problematic throughout the project. “It took very long before issues were resolved and, very often, expert opinions [of the project team] were overruled by higher management.” Remarkably, these issues mirror the three factors that were mentioned by the successful project managers most often: little or no redesign, the set-up of application management, and strong management support. This provides some confidence that these are indeed among the crucial issues with respect to workflow implementations. Note that these findings are also in line with the critical success factors for workflow implementation introduced by (Parkes, 2002), which was briefly touched upon in our related work section.
+5.3. Methodology
+As explained, we were interested in pursuing the proposed methodology that involved both real measurements and simulated ones for the purposes of validation, prediction and comparison. We will first reflect on each of these features. Next, we include recommendations to those who aim to use the methodology in other settings.
+5.3.1. Reflection
+The validation of the actual measurements of the business process in the ex ante (0.) and ex post (3.) situation by the 1a and 2b measurements lived up to our expectations. We were able to develop confidence in our understanding of the different processes through our approach of mirroring the behavior of these in our simulation models. In two instances, i.e., the invoice process within organization 4 and the appeals process within organization 7, we could not reproduce the behavior of the ex post settings. In both cases, we believe that the use of simulation helped us to make the proper decision not to include these in our overall evaluation. What seems to be a point for improvement in our research set-up is a more iterative approach to the development of our validation models. This would also allow for either gathering of more data instead of the mostly one-off collection that we set out for or allowing the organization to change the use of the WfMS. Both of these would extend the data points to be considered in a study like this.
+In retrospect, also the prediction feature played out rather well. The predicted directions of the changes in performance indicators were confirmed in the vast majority of cases, with the notable exception of the HRM process. As noted, the predictions we developed were on the conservative side, which is a mixed blessing. If a decision to implement a technology like workflow would be based upon it, then the results would actually vastly exceed one’s expectations. The downside is that an organization may not decide to go ahead at all with such a technology on the basis of projected improvements that seem too marginal. Note that in our sample the smallest predicted improvement was a 9% lead time reduction within processing sick leaves, which may still be an attractive prospect for many organizations.
+The most critical reflection should be devoted to the comparison feature of our approach. What we did not expect is that the simulation of an ex post situation would not succeed (see our previous point). This actually rendered the comparison we intended infeasible in two cases. In hindsight, we would have preferred to include more points of measurement in our initial set-up despite the many complexities involved in gaining access to the processes within the organizations on a more frequent basis. On the positive side, however, for the majority of cases we were able to isolate the effect of using a system like a WfMS from other contextual changes between the two points of measurement. We believe that this is an extremely valuable asset. This is particularly so, since it appears that a number of organizations are already “cashing in” performance improvements rather quickly. Recall the seven comparisons from Table 4 where the changes according to our comparison were much bigger than what the direct comparisons disclose. ]]><h target="4" match="part">In most of these cases, the operational management already seemed to have gradually decreased the staff levels before the ex post measurement since the improvements of the WfMS would allow for doing so. In other words, through our study it becomes evident what the net effect of using workflow technology is; this would otherwise be rather difficult to establish.</h><![CDATA[
+5.3.2. Recommendations
+At this point, it seems worthwhile to discuss the concepts of validation, prediction, and comparison as key building blocks of the presented methodology. This is considered useful for those who wish to apply the methodology within other evaluation studies.
+
+In case of the methodology being applied in another setting, it will be clear that the comparison part is crucial to filter out effects that are beyond the investigator’s interest. This stage is not possible to reach without the use of simulation, which implies that - aside from access to fine-grained, real-world data – knowledge about this technique and access to simulation software are essential ingredients to apply the proposed methodology.
+Validation is a stage that we would recommend under all circumstances. However, for a research team that is not acquainted with simulation it is even a fundamental milestone. It helps to check whether the team’s understanding of the system under study is sufficiently deep. Note that validation is only possible if there is at least one performance metric that (a) can be directly observed in the real world and (b) can be determined through a simulation that uses real data on influencing parameters. In our case, this performance metric was lead time, which is influenced by the structure of the process on the one hand and observable data on service times, arrival rates, and routing probabilities on the other.
+The stage of prediction seems to be optional in all settings. Its most important application is to give various stakeholders an insight into the expected effects of a certain initiative. This may help the take the initiative forward and to strengthen the confidence in the research team. Also, a research team may use this stage to verify its own understanding of a topic.
+Aside from these concepts, it should be emphasized that the data gathering step of the methodology is critical, sensitive and very laborious. As to the data gathering for the 0-measurement, we recommend to seek for measurement systems that are already in place to speed up this phase. One can rely on these as long as they are actively used by the organization for its own purposes and when the opportunity exists to cross-check such measurement systems with other, independently gathered data. It is often surprising how much crucial data is stored by individuals in Excel sheets, for example. In our experience, too, actual measurements as well as real-life observations by the research team are vastly superior to indirect information acquired through interviews. For example, it seems very difficult for people to develop a good understanding of the distribution of events, even when they may have a good understanding of what average figures are. Finally, a very important recommendation is to enrich the concept of study, e.g., a system or a new way of working, with automated data registration capabilities. In our case, a workflow systems records, as part of its operation, valuable events, such as the time stamp when a work item is completed. This is an aspect which we readily exploited and considerable sped up the process. Similar IT artefacts could be extended with similar capabilities against little cost, but to the great advantage of carrying out an effectiveness study.]]>
+</section>
+
+    <section name="Conclusion" category="conclusion">
+        <![CDATA[
+6. Conclusion
+This paper reports on the first longitudinal study into the effectiveness of workflow management technology on organizational performance. As such, it contributes to a better understanding of the benefits that this technology can bring about, specifically in logistic terms. ]]> <h target="1;3" match="full">One major insight is that from a sample of ten organizations that were followed, only half of them managed to successfully implement a WfMS for at least one of the business processes they had targeted. </h>
+        <h target="4" match="full">Even so, the performance improvements for these processes overall were substantial. </h>
+        <![CDATA[It seems fair to conclude from these observations that the implementation of workflow technology is far from trivial, but that the organizations which manage to accomplish this greatly profit from it. In that sense, it provides much stronger and more direct support for the use of workflow technology than was currently available, see e.g., (Herrmann & Hoffmann, 2005).
+As part of this project, an innovative measurement approach was developed that was partly based on the use of simulation. Overall, this approach positively contributed to the validity of our measurement, even though its use ruled out the inclusion of two cases. A noteworthy strength of the approach is that it helped neutralize organizational measures that aimed to counter the effects of implementing a WfMS.
+
+This work also provided tentative but consistent insights into the success factors behind workflow implementations. The set-up of a responsive application management function, limited redesign of the processes to be supported by a WfMS, and firm management support for the initiatives are the most clear among these. These insights partly tap into existing success factors behind large IT implementations but seem to bear great practical value for organizations that specifically consider to start using a WfMS.]]>
+
+<h target="5" match="full">Our future work will focus on the use of (automatically) collected data to discover and assess improvement opportunities for organizational performance. </h>
+        <![CDATA[In this paper, we briefly mentioned the use of process mining technology to extract logs from operational WfMSs, which were part of our ex post measurements. Such measurements also provide clues about which parts of a business process could profit from changes in policies, staffing levels, or use of information technology. While some of our previous work has already focused on the use of process mining technology for the assessment of organizational performance (e.g., (Van der Aalst et al., 2007)), we do believe that there are numerous other opportunities to use data to guide organizations to higher levels of effectiveness.
+Using process mining in longitudinal case studies enables a new perspective on process management. Processes and their context evolve over time and it is interesting to understand differences between distinct periods. The introduction of a WfMS is just one of many possible changes that may impact operational performance, e.g., the introduction of a new ERP system may also influence processes dramatically. Moreover, it is interesting to compare different organizations (or organizational units or customer groups) undergoing similar changes (cross-organizational process mining). The methodology presented in this paper can be used for such comparisons.
+
+Many workflow projects are aborted prematurely and our qualitative evaluation of workflow implementation success factors suggests that more research is needed to mitigate risk factors in projects introducing new technologies. A possible research direction is the development of a risk assessment framework for workflow implementations, which stresses the factors to take into account when preparing for, implementing, and running a workflow management system.]]>
+</section>
+
+
+Acknowledgements
+We thank the following people, who have all greatly contributed to setting up the research and executing the study: Robbert Beesems, Rochelle Degens, Dick van Gorcum, Mark Hage, Kees van Hee, Harm Hoebergen, Charo Narvaez, Mariska Netjes, Oscar Ommert, René Theunissen, Alexander In ‘t Veld and Eric Verbeek. We also thank the anonymous members of the project teams who were interviewed about the workflow implementations within their organizations.
+
+    <section name="Appendix A" category="appendix">
+        <![CDATA[
+Appendix A.
+Table 6. Detailed numbers for lead time measurement (**: no reliable simulation model could be obtained).
+Lead time (days)	Lead time (days)	Lead time (days)
+1a	2a	1a–2a	%	0	3	0–3	%	1b	2b	1b–2b	%
+Invoice processing	15.85	11.93	−3.92	−25%	15.91	12.87	−3.04	−19%	16.46	13.09	−3.37	−20%
+Invoice processing	13.08	6.82	−6.26	−48%	13.34	11.13	−2.21	−17%	**	**	**	**
+Mutations HRM record	8.92	5.12	−3.80	−43%	9.42	16.88	7.46	79%	6.87	16.95	10.08	147%
+Processing sick leaves	1.49	1.36	−0.13	−9%	1.91	1.64	−0.27	−14%	3.88	1.95	−1.93	−50%
+Appeals	100.00	52.00	−48.00	−48%	106.00	146.00	40.00	38%	**	**	**	**
+Disability insurance acceptance	44.79	37.88	−6.91	−15%	45.51	11.79	−33.72	−74%	35.40	11.71	−23.69	−67%
+Life insurance acceptance	19.97	16.32	−3.65	−18%	20.06	11.84	−8.22	−41%	30.44	11.77	−18.67	−61%
+Table 7. Detailed numbers for waiting time measurement (**: no reliable simulation model could be obtained).
+Wait time (days)	Wait time (days)	Wait time (days)
+1a	2a	1a–2a	%	0	3	0–3	%	1b	2b	1b–2b	%
+Invoice processing	15.8	11.89	−3.91	−25%	15.87	12.87	−3.00	−19%	16.42	13.06	−3.36	−20%
+Invoice processing	13.04	6.79	−6.25	−48%	13.29	11.07	−2.22	−17%	**	**	**	**
+Mutations HRM record	8.86	5.07	−3.79	−43%	9.37	16.87	7.50	80%	6.81	16.94	10.13	149%
+Processing sick leaves	1.46	1.34	−0.12	−8%	1.88	1.62	−0.26	−14%	3.83	1.92	−1.91	−50%
+Appeals	97	49	−48.00	−49%	103.00	145.00	42.00	41%	**	**	**	**
+Disability insurance acceptance	44.65	37.73	−6.92	−15%	45.37	11.68	−33.69	−74%	35.28	11.6	−23.68	−67%
+Life insurance acceptance	19.89	16.24	−3.65	−18%	19.98	11.77	−8.21	−41%	30.33	11.7	−18.63	−61%
+Table 8. Detailed numbers for service time measurement (**: no reliable simulation model could be obtained).
+Service time (minutes)	Service time (minutes)	Service time (minutes)
+1a	2a	1a–2a	%	0	3	0–3	%	1b	2b	1b–2b	%
+Invoice processing	17.80	17.40	−0.40	−2%	17.75	14.44	−3.31	−19%	19.41	14.41	−5.00	−26%
+Invoice processing	19.45	13.21	−6.24	−32%	19.60	24.23	4.63	24%	**	24.21	**	**
+Mutations HRM record	24.91	20.97	−3.94	−16%	22.86	5.66	−17.20	−75%	24.95	5.71	−19.24	−77%
+Processing sick leaves	13.69	10.72	−2.97	−22%	13.99	7.21	−6.78	−48%	13.79	7.23	−6.56	−48%
+Appeals	24.20	22.70	−1.50	−6%	24.50	12.60	−11.90	−49%	**	**	**	**
+Disability insurance acceptance	60.03	63.44	3.41	6%	59.87	45.53	−14.34	−24%	52.54	45.54	−7.00	−13%
+Life insurance acceptance	34.95	34.37	−0.58	−2%	35.01	29.48	−5.53	−16%	47.26	29.38	−17.88	−38%
+Table 9. Detailed numbers for utilization measurement (*: resource data was not available; **: no reliable simulation model could be obtained).
+Utilization (%)	Utilization (%)	Utilization (%)
+1a	2a	1a–2a	%	0	3	0–3	%	1b	2b	1b–2b	%
+Invoice processing	0.0903	0.0947	0.0044	5%	0.0947	0.0676	−0.0271	−29%	0.1245	0.0719	−0.0526	−42%
+Invoice processing	0.4320	0.2826	−0.1494	−35%	0.4364	0.5504	0.1140	26%	**	**	**	**
+Mutations HRM record	0.2300	0.2000	−0.0300	−13%	0.2100	0.0400	−0.1700	−81%	0.1600	0.0100	−0.1500	−94%
+Processing sick leaves	0.7100	0.5400	−0.1700	−24%	0.6800	0.2850	−0.3950	−58%	0.8640	0.2790	−0.5850	−68%
+Appeals	0.6544	0.5592	−0.0952	−15%	0.6618	*	*	*	**	**	**	**
+Disability insurance acceptance	0.2264	0.2393	0.0129	6%	0.2206	0.1430	−0.0776	−35%	0.2045	0.1416	−0.0629	−31%
+Life insurance acceptance	0.3319	0.3270	−0.0049	−1%	0.3258	0.3098	−0.0160	−5%	0.5460	0.3205	−0.2255	−41%]]>
+</section>
+
+</publication>

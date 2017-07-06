@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<publication marker="wang xueyan">
+    <journal>International Journal of Information Management</journal>
+    <time>Volume 36, Issue 1, February 2016, Pages 167-179</time>
+    <title>Organisational sustainability modelling—An emerging service and analytics model for evaluating Cloud Computing adoption with two case studies</title>
+<author>Victor Chang.</author> Author links open the author workspace.Opens the author workspaceOpens the author workspacea. Numbers and letters correspond to the affiliation list. Click to expose these in author workspaceRobert John Walters. Author links open the author workspace.Opens the author workspaceb. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace<author>Gary Brian Wills.</author> Author links open the author workspace.Opens the author workspaceb. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace
+a
+School of Computing, Creative Technologies and Engineering, Leeds Beckett University, Leeds, UK
+b
+Electronics and Computer Science, University of Southampton, Southampton, UK
+Show more
+     <doi>https://doi.org/10.1016/j.ijinfomgt.2015.09.001</doi>
+Highlights
+<highlight id="1">We develop a model, Organisational sustainability modelling (OSM), to evaluate Cloud Computing to analyse the status of risk and return.</highlight>
+<highlight id="2">OSM is an Emerging Services and Analytics for Cloud Computing. We explain the supporting theory, how to use OSM and how to process lots of data.</highlight>
+<highlight id="3">We compare OSM with Capital Asset Pricing Model for data processing and analysis.</highlight>
+<highlight id="4">We present two OSM case studies and explain inputs, data collection, data analysis and results.</highlight>
+<highlight id="5">We explain how OSM can be useful and efficient for organisations using Cloud Computing and justify our research contributions.</highlight>
+    <abstract> 
+
+Cloud Computing is an emerging technology which promises to bring with it great benefits to all types of computing activities including business support. However, the full commitment to Cloud Computing necessary to gain the full benefit is a major project for any organisation, since it necessitates adoption of new business processes and attitudes to computing services in addition to the immediately obvious systems changes. Hence the evaluation of a Cloud Computing project needs to consider the balance of benefits and risks to the organisation in the full context of the environment in which it operates; it is not sufficient or appropriate to examine technical considerations alone.
+
+    <h target="2" match="part">In this paper, we consider the application of CAPM, a well established approach used for the analysis of risks and benefits of commercial projects to Cloud adoption projects and propose a revised and improved technique, OSM.</h> <h target="4" match="part">To support the validity of OSM, two full case studies are presented. In the first, we describe an application of the approach to the iSolutions Group at University of Southampton, which focuses on evaluations of Cloud Computing service improvement. We then illustrate the use of OSM for measuring learning satisfaction of two cohort groups at the University of Greenwich. The results confirm the advantages of using OSM. We conclude that OSM can analyse the risk and return status of Cloud Computing services and help organisations that adopt Cloud Computing to evaluate and review their Cloud Computing projects and services. OSM is an emerging service and analytics model supported by several case studies.</h></abstract>
+    <keywords>Organisational sustainability modelling (OSM)</keywords>
+    <keywords>Cloud Computing</keywords>
+    <keywords>Emerging Services and Analytics</keywords>
+    <keywords>OSM case studies</keywords>
+<section name="Introduction" category="introduction">
+<![CDATA[
+1. Introduction
+Cloud Computing promises to revolutionise the provision of major computing services, bringing with it benefits for all types of users. These benefits vary from simplified administration for systems programmers to ready access to massive processing power on demand for desktop users. However, to gain the full benefits, a full commitment to Cloud Computing is necessary and this brings with it a requirement for users to revise business processes and attitudes to computing services in addition to the immediately obvious systems changes (Chang, 2015a; Khajeh-Hosseini, Greenwood, & Sommerville, 2010; Marston, Li, Bandyopadhyay, Zhang, & Ghalsasi, 2011). Therefore evaluation of a Cloud Computing project must consider the balance of benefits and risks to the organisation in the context of its environment in addition to technical considerations. This is particularly important for Emerging Services and Analytics to provide the organisations that adopt Cloud Computing the ability to complete their tasks faster and better and ensure all the stakeholders and customers involved are happy with the level of services on offer.
+One of the recognised methods available to analyse investments is Capital Asset Price Modelling (CAPM) which is able classify risks into uncontrolled or managed types (Sharpe, 1964, 1992). CAPM takes proper account the risks associated with an investment and the context in which it is made. However, Cloud Computing projects present some particular challenges which are not well addressed by CAPM because it was developed as a generic technique for evaluating investments and business projects.]]><h target="1" match="part"> We therefore propose Organisational sustainability modelling (OSM), a data analysis and processing method derived from CAPM but developed to meet the specific needs of an organisation evaluating a Cloud Computing project.</h><h target="4" match="part">This paper presents OSM as the better model together with case studies to support relevant to Emerging Service and Analytics in Cloud Computing.</h> The breakdown of this paper is as follows. Section 2 presents models for analysing project return and risk, focusing on CAPM. Section 2.2 discusses the limitations of CAPM. <h target="3" match="part">Section 3 describes the OSM, including the key inputs and outputs and performance comparison between OSM and CAPM.</h><h target="4" match="part"> Sections 4 and 5 describe two case studies to support the validity and effectiveness of using OSM for organisations that adopt Cloud Computing.</h> Section 6 presents topics for discussion and Section 7 concludes with a summary of this paper.</section>
+<section name="Methods for analysing project return and risk;Organisational sustainability modelling;Case study 1: the isolutions group, the university of southampton; Case study 2: The University of Greenwich in adopting supply chain Cloud" category="results">
+<![CDATA[
+2. Methods for analysing project return and risk
+It is important for organisations to understand that adoption of Cloud Computing is not just a technical challenge but is also an enterprise challenge which includes costs, users and organisational issues (Chang, 2015a; Khajeh-Hosseini et al., 2010; Marston et al., 2011). Hence it is appropriate for an evaluation of a Cloud adoption project to consider more than the technical aspects. With an increasing number of organisations investing more in Cloud technologies, deployment and services, extensive work has been done investigating business models empowered by Cloud technologies (Kagermann, Österle, & Jordan, 2011; Madhavapeddy, Mortier, Crowcroft, & Hand, 2010; Molen, 2010). This work has continued during the economic downturn, particularly in Green IT and data centre consolidation (Chang, 2015b; Hammond, Hawtin, Gillam, & Oppenheim, 2010; Minoli, 2010).
+Existing literature such as Service Level Agreements is not entirely concerned with the analysis of risk and return status for the organisations that adopt Cloud. There are other research methods that aim to bridge the gap between the technical and business requirements and attempt to use the established economic models for Cloud Computing.
+
+Sharma, Thulasiram, Thulasiraman, Garg, & Buyya (2012) explain the use of Black Scholes model and how it can be adapted for predicting risks in Cloud adoption. However, their assumptions about the “risk-free rate” are not correct. It is not given by the service providers. Instead, the risk-free rate should be defined and measured by the users, because each business has different business requirements and uses Cloud Computing for different purposes. For example, consider one company which outsources all its data to the Cloud service providers and another which only uses Cloud Computing for experimenting with new product developments such as the penetrating tests of security products. Clearly the impact of loss of any data from the Cloud will have much more immediate and serious impact on the first company than the second and this should be reflected in the “risk-free rate”. In addition, Sharma et al. (2012) do not classify risks as controlled or uncontrolled, which is important for risk assessment (Sharpe, 1964, 1992).
+Qanbari, Li, Dustdar, & Dai (2014) attempt to develop an improved version of the economics model for Cloud Computing. They propose Cloud Asset Pricing Tree (CAPT) based on the Binomial Tree, a probability distribution theory. Although such attempts make sound contributions, there are two limitations. The first limitation is that they assume dependency of all risk and return factors when some risks are totally independent. They add up the value for the risk and return status. Returns such as profits can be presented by addition but risks are not a matter of addition and can combine in the form of multiplying effect (such as Bush fire, the more areas it affects, the damage is not an addition) or can be totally independent of each other. The second limitation is that they do not classify the type of risk into uncontrolled and managed risks (Sharpe, 1964, 1992).
+The Capital Asset Pricing Model (CAPM) is a better choice than the methods described earlier because it classifies risks into uncontrolled and managed types which helps investors and stakeholders to identify the type of risks. This enables them to identify the best solutions for improving their Cloud services or business activities, or both.
+
+2.1. Introduction to capital asset pricing model (CAPM)
+Capital Asset Pricing Model (CAPM) is an approach to modelling costs and risk which was proposed independently by Treynor, Sharpe, Lintner and Mossin in the 1960s, based on Markowitz’s work on diversification and modern portfolio theory (French, 2003; Lintner, 1965a, 1965b; Markowitz, 1952; Mossin, 1966; Sharpe, 1964, 1992). In its origins, it was developed to calculate investment risks and to determine expected returns on an investment. Underpinning the model is the observation that there is a relationship between returns on investments and the associated risk, and that investors who are prepared to accept more risk expect a greater return.
+A key feature of CAPM is that it divides risks associated with an investment into two categories: those which can be controlled and managed, and those which cannot. For example, when considering risk in a stock market portfolio, risks associated with the relative fortunes of individual companies arising from the foresight and proficiency of their management may be managed and ameliorated by spreading an investment across a variety of different companies. However, a general trading downturn is an inherent characteristic of this type of investment which cannot be avoided.
+
+The model produces an estimate of the return from an investment or project (r) from just three input values:
+1)
+Expected rate of return from a notional risk free investment (rf).
+2)
+Expected rate of return from a typical investment in the market in which the organisation operates (rm).
+3)
+A value representing a measure of the uncontrolled risk associated with the market (β).
+
+The essence of CAPM is usually described by the following equation:
+(1)r=rf+β(rm−rf)where r is the expected return on the cost of a project, rf is the risk free rate, rm is the expected return on the market and β is the measure of uncontrolled risk. The term rm − rf is known as the market risk premium and represents the additional return demanded by the investor to invest in the market (rather than a risk free investment) and is usually considered implicitly rather than explicitly. For a stock market investment, the risk free and the market rates are estimated from analysis of the market as a whole. The risk free rate is the minimum rate of return the investor expects to achieve. This is generally taken to be the rate of return from an investment which is completely free of risk such as a Bank cash deposit or government bonds. The market rate is the typical rate of return achieved in the market; the rate of return associated with normal activity in stock market, a typical rate of return which an investor would expect from any investment in the market. It may be derived from an evaluation of the returns on investments in the stock market as a whole, but one of the major stock market indices is often used instead.
+In practical use of CAPM, rather than using a single observation as in the example above, many observations are used to estimate beta (β) over a period of time. For example, monthly estimates of the input values over a period of five years will generate sixty points in a plot of actual return against risk premium (market return—risk-free rate). The beta value (β) is then given by the gradient of a line of best fit found using linear regression. The higher the gradient, the higher the uncontrolled risk associated with the investment and a high positive value implies high exposure to uncontrolled risks.
+Other outputs of CAPM include standard errors measuring the spread and variations in the collected data and the Durbin and Watson (1950, 1951) test, a standard test for CAPM regression giving an indication of the independence of the residuals of the linear regression.
+2.2. Limitations of the capital asset pricing model (CAPM)
+When used to evaluate Cloud adoption projects, CAPM has two major limitations; it struggles to handle large datasets and its focus on econometrics. At the time that CAPM was being developed, the extremely large digital datasets which are common today did not exist so there was no need for CAPM in its original from to be able to handle thousands of datasets at once and hence CAPM does not consider how to handle large datasets. However, with the volume of data being generated by organisations adopting new technologies growing, the capacity to handle thousands of datasets is important for data-based research (Hey, Tansley, & Tolle, 2009). This inability of basic CAPM models to handle data-intensive cases leads to longer computational times. To tackle this problem, researchers have developed revised models such as “International CAPM” which can compute a large number of financial datasets at once (Hamelink, 2000).
+CAPM is also focussed on econometrics and calculation of investment portfolio risk and return analysis (Hull, 2009; Sharpe, 1992). It can be used as a generic solution but a more tailored approach is desirable for computing in which key input values correspond to technical rather than financial terms such as return on the market and risk-free rate in the market. For use in IT system adoption scenarios, CAPM needs to be redesigned. The required attributes and key performance indicators should be revised to focus on measuring expected and actual returns while keeping risk-control rate low. By doing this, the revised model will become a better fit to the task of risk analyses for organisations adopting large systems such as Cloud Computing.
+3. Organisational sustainability modelling
+]]><h target="2" match="part">OSM revises and improves CAPM to assess risk and return analysis for organisations adopting large computer systems, such as the adoption of Cloud.</h><![CDATA[ The objective of OSM is to provide a systematic approach to help managers understand the status of risk and return of a project. The OSM formula is based on the original CAPM formula (1):
+(2)e=rc+β(a−rc)where
+a is the actual return (or performance) of a large computing systems project.
+e is the expected return (or performance) of a large computing systems project.
+rc is the risk-control rate, the rate of manageable risk.
+β is the beta value which represents a measure of uncontrolled risk.
+Many organisations that adopt large computing systems can work out their expected values, measure their actual targets and compare these values periodically (Chang, 2015a; Khajeh-Hosseini et al., 2010). The challenge is to calculate beta which determines the risk measure, because it is an implicit value making it difficult to quantify. Beta values can be calculated for each dataset from the expected return, the actual return and risk-control rate. One approach would be to collect all beta values and calculate the mean value. Another approach for calculating beta is to perform linear regression, where the gradient of the slope is the value for beta (Chang, 2014a; Sharpe, 1992). Beta can be calculated by rearranging Eq. 2, giving:
+(3)β=e−rca−rcwhere a is the actual return of a large computing systems project, rc is the risk-control rate, e is the expected return, and β is the beta value representing a measure of uncontrolled risk as before.
+Given a number of data sets, the value for beta (β) is given by the gradient of a line through the data points. As with CAPM, OSM uses linear regression to compute a line of best fit. Ordinary Least Squares (OLS) which minimises the sum of squared vertical distances between the observed responses in the dataset and the line is the method used.
+The risk-control rate permits organisations adopting a system to ascertain and manage controlled risks. It is defined as including all those risks associated with the project which may be controlled or ameliorated within the organisation by, for example, diversification or provision of back-up processes. Clearly it makes sense for an organisation embarking on a significant project to consider this class of risks and take reasonable steps to keep them under control. Since it is possible to do so, the level of this type of risk faced by the project should be managed as part of the implementation of the project to keep it within an acceptable bound. This limit should be set by the organisation as part of planning for the project and will depend both on the nature of the project and anticipated consequences of failures. The level of the risk control rate is one factor in the tailoring of OSM to the needs of each project but it would be exceptional for it to be set in excess of 5%.
+
+]]><h target="2" match="part">OSM is generally used in three areas: technical, cost and user (or client) satisfaction before and after deploying the new solution. </h><![CDATA[However, since each system adoption is unique as are their precise objectives, suitable metrics should be defined for each. These metrics are summarised in Table 1. For example:
+Table 1. Types of risks involved with Cloud adoption.
+Metric	Technical and improvements in efficiency	Costs and profitability	User satisfaction and/or service improvement
+Example risk	Incomplete or failed jobs	High/rising operational costs, reductions in return	Decline in service improvement (extended response times; service disruptions; unmet user expectation)
+Risk-control rate	Percentage of incomplete or failed jobs	Percentage of the cases where profit or cost-saving is not affected when targets are not met	Number of incidents happening in a year out of the average number of services each user has
+Justification	To manage the controlled risk	To find out the extent that profitability or cost-savings cannot be met	To find out what percentage of service improvement made each year
+Technical: Efficiency gains may be measured by consideration of the completion times for Cloud and non-Cloud systems times. The risk-control rate is given by the proportion of failed requests/tasks.
+Cost: Data will need to be collected regarding costs or profitability improvements arising from introducing new technology and the risk-control rate is the rate of gain assured even when targets are not met.
+Users: Quality of service improvements which are usually evaluated from periodic user surveys. The risk-control rate reflects the rate at which incidents happen.]]><h target="2" match="part"><![CDATA[
+3.1. OSM datasets processing
+Metrics collection can be undertaken by system automation or by surveys. Hundreds or thousands of datasets can be collected in this way while running experiments or conducting surveys over a period of time. This will ensure large sample sizes for modelling although numerous datasets makes analysis more complex and time consuming (Huson, Auch, Qi, & Schuster, 2007).
+The data for the following experiments are taken from our previous work (Chang, Walters, Wills, 2013), which involved daily backup of thousands of medical files and experimental data at a National Health Service involving a total of 10 petabytes of data. Each file contains thousands of records of patient or medical data including tumour, DNAs, proteins and images (Chang et al., 2013). Each backup operation generated records of information linked to each file, which contains thousands of datasets. The relationship between datasets and datapoints is as follows. Each dataset contains up to 2000 rows and 255 fields of records, equivalent to 510,000 datapoints. There are 500 datasets involved, which becomes 500 × 510,000 = 255,000,000 datapoints for analysis. OSM is able to process 255,000,000 datapoints in seconds. The capacity of processing such a large number of datapoints in seconds is important for Big Data analysis and businesses (Huson et al., 2007).
+Gardner and Altman (1986) explain a technique in which they filter data sets to remove outliers and then repeat their statistical analysis thereby improving data quality and accuracy of results. OSM uses a similar technique collecting datasets into averaged groups before analysis. The averaging ratio is used to optimise the performance in dataset processing. Our previous work shows that it can shorten the execution time of job completion for dataset processing (Chang, 2014a). The averaging ratio is commonly a multiple of 5 and depends on the size of the datasets. For smaller sets (under 1000 datasets), the averaging ratio used is 5, rising to 20 for datasets in excess of 6000. Results of a series of experiments showing the effect of using various averaging ratios when using 500 datasets are shown in Table 2 and confirm that the averaging ratio should be small for small datasets.
+Table 2. Results of averaging ratios for 500 datasets.
+Averaging ratio	Standard error	Mean square errors	Completion time (s)
+5	0.1285	0.20093	3.55
+10	0.1294	0.21145	3.51
+20	0.2510	0.38105	3.47
+25	0.2725	0.39473	3.44
+OSM also recognises that large datasets can contain individual observations which are inaccurate or atypical. It therefore pre-processes input data to eliminate outlying data points by consideration of mean and variance of the values. Any points which fall outside of a confidence interval of 95% are eliminated from the main regression calculations.]]></h><![CDATA[
+
+3.2. OSM outputs
+Statistical modelling in OSM uses multiple observations of a, e and rc as the inputs to compute risk. Outputs will include the following:
+•
+Beta (β), a measure of uncontrolled risk that may affect the project.
+
+•
+Standard error of the mean: the range of the mean of the experimental results. Smaller standard errors imply more accurate and representative results.
+
+•
+Durbin and Watson (1950, 1951), a test to detect autocorrelation (a relationship between values separated from each other by a given time lag) in the residuals of a regression analysis. Durbin–Watson results should be >1 (Hull, 2009; Lee, Lee, & Lee, 2010).
+
+Durbin–Watson is applied to regression computed by OSM. The value for Pr > DW corresponds to the negative autocorrelation test (residuals eventually wither off), which means the difference between the expected and actual values becomes small and even negligible if the OSM is running continuously. Thus, the negative autocorrelation test is a preferred method in the OSM approach. The value of Pr > DW should ideally get close to 1 to reflect the accuracy of the OSM regression. The difference between 1 and Pr > DW gives the p-value for the OSM analysis.
+Additional OSM outputs provide more information about beta and regression accuracy:
+•
+Mean square error (MSE) is an estimator to quantify the difference between estimated and actual values. A low MSE value means there is a high correlation between actual and expected return values.
+
+•
+R-squared values: there are two interpretations for R-square. Firstly, R-squared value indicates how good a fit the regression line is to all the datapoints. In other words, how close the actual result is to the theoretically desirable values. Samson and Terziovski (1999) assert that the value of regression R-square should be close to 1 if the emphasis is on prediction. The value may be lower if the focus is to study the relationship between input variables, but additional explanations should be provided. Although OSM is not a predictive model and it studies relationships between three key inputs, the regression R-square (99.99% confidence interval, C.I) is used to describe how well a regression line fits a set of data. If the result is below 0.5, another regression with 95% C.I (with both upper and lower limit) is required.
+
+Secondly, the term “R-squared value for firm” is commonly used in econometrics to describe the percentage of risks in proportion to the external or internal organisations or factors (Damodaran, 2008; Lee et al., 2010; Teoh, Yang, & Zhang, 2009). For example, if an organisation has an R-squared value (99.99% C.I) of 0.4, this means 40% of risks are from external bodies or the market, and 60% of risks come from the organisation such as poor adoption decisions, overspending, poor selection of equipment, etc. Adoption of a large computer system introduces risks and the R-squared value provides a good indication for the percentage and sources of beta risks.
+3.3. Performance comparison between CAPM and OSM: single job comparison
+Traditional CAPM struggles to work with thousands of datasets at once. It is not a computing problem but a design problem, since the model is originally designed to compute risk and return calculations with less regard to the quantity of datasets (Hey et al., 2009; Pretcher and Parker, 2007). Attempts have been made to design improved models which allow processing of large volume of datasets at once but work published by researchers focus on the quantitative analysis without presenting the algorithm. In addition their techniques require the data to be reorganised before CAPM data processing can begin which adds to the computational burden.
+These comparisons were performed on three platforms:
+•
+A desktop environment with a 2.67 GHz Intel Xeon Quad Core processor and with 12 GB of memory installed of which 4 GB was allocated to each of two virtual machines.
+•
+A private Cloud using VMware VSphere 4 with Virtual servers running supported by 1 GB/s (gigabyte per second) network connections. Each of the 16 nodes has an AMD Opteron 6200 running at 3.4 GHz along with 16 GB of RAM, bringing the total hardware capability to 24.2 GHz and 32 GB RAM.
+•
+An Amazon EC2 public cloud with quad core CPUs, running at 2.33 GHz and with 4 GB of memory.
+
+The purpose of this experiment was to compare performance on desktop, a private cloud and a public cloud for a single job request which entails processing 2000 datasets, each of which containing thousands of datapoints. The computational work is to ensure that both key inputs in CAPM and OSM can be processed with key outputs produced. These key output values contain beta, standard error and Durbin–Watson for both OSM and CAPM. All key outputs should be identical. The tasks include:
+-
+Completion of processing all datasets for CAPM and OSM.
+
+-
+Data processing to produce key outputs and comparison of execution times for job completion.
+
+
+Both OSM and CAPM codes are written to ensure processing of datasets can be completed. As discussed in Section 2.2, CAPM is not designed for the use of a large data application. Hence, manual extraction such as the use of SQL queries is required to extract the key inputs in the datasets for processing by the code. The time for the data extraction (with automation in making SQL queries during data processing) is an additional time for CAPM. Performance comparisons for running a single job between OSM, CAPM (manual extraction included) and CAPM (without manual extraction) was undertaken. The execution time is used as the benchmark for performance comparison (Agopyan, Sener, & Beklen, 2011; Iosup et al., 2011). Each measurement was repeated five times and the mean values of the execution times were recorded as the results. The expected outcome includes the following:
+•
+All the single jobs for OSM and CAPM data processing should be completed.
+
+•
+Key outputs must be identical.
+
+
+If these conditions are not met, the conditions for performance comparisons are not valid, and experiments need to be repeated. In all the experiments, all the data processing results satisfy these two conditions.
+
+There is a significant performance improvement comparing OSM and CAPM with manual extraction in Table 3. The improvement is 39.55% better on desktop, 38.16% on a public cloud and 37.45%, on a private cloud. Although performance between OSM and CAPM is only between 4 and 6 s faster, the difference in the actual performance is significant when the number of datasets processed per day is taken into account. This translates into a time-saving of up to 40% to complete processing of all large datasets as demonstrated in a further set of experiments described in Section 3.4.
+Table 3. Total time for running CAPM and OSM data processing on three different platforms with 95% confidence level.
+CAPM: average total time (s) without manual extraction	CAPM: average total time (s) with manual extraction	OSM: average total time (s)	Performance improvement (OSM vs. CAPM without manual extraction)	Performance improvement (OSM vs. CAPM with manual extraction)	Output results	Same results?
+Desktop	10.68	15.02	9.08	OSM is 14.98% better	OSM is 39.55% better	β = 0.4509	Yes
+SE = 0.1111
+DW = 1.2259
+Public cloud	10.04	14.31	8.85	OSM is 11.85% better	OSM is 38.16% better	β = 0.4509	Yes
+SE = 0.1111
+DW = 1.2259
+Private cloud	9.63	13.86	8.67	OSM is 9.97% better	OSM is 37.45% better	β = 0.4509	Yes
+SE = 0.1111
+DW = 1.2259
+Comparing OSM and CAPM without manual extraction, the performance improvement is 14.98% on desktop, 11.85% on a public cloud and 9.97% better on a private cloud. The graphical presentation of running CAPM and OSM is shown in Fig. 1, whereby OSM has significant reduction in execution time while all three produce the same results. Although the desktop has the highest percentage performance improvement, the execution time is the shortest for the private cloud followed by public cloud and then desktop. Multiplatform tests were undertaken to ensure that OSM can work across platforms efficiently.
+CAPM and OSM performance comparisons on three different platforms
+Download full-size image
+Fig. 1. CAPM and OSM performance comparisons on three different platforms.
+3.4. Performance comparison between CAPM and OSM: processing thousands of datasets containing millions of datapoints
+Many datasets are analysed in real-time and performance improvement is useful to ensure a smooth trading process throughout the daily trading period. The objective for the exhaustive test is to allow a large volume of data (each containing 2000 datasets) to be processed simultaneously and then to find out the difference between OSM and CAPM completion time. Although there is only 6 s difference per job, the difference would vary significantly while processing thousands of jobs, which means processing thousands of datasets for thousands of times.
+]]><h target="3" match="part">The objective for the tests was to compare the performance of OSM with CAPM by comparing the completion times for each to process a large volume of data (each containing 2000 datasets). The experiment entails duplication of 2000 datasets 5000 times, which is a better method of running a large volume of data than using iterations since it is close to real trading or data analysis cases. Each experiment provided both OSM and CAPM with the same 5000 sets of metrics, each of which contained 2000 datasets to handle. OSM and CAPM then processed the datasets under the automated test conditions. The tests are completed on desktop, a public cloud and private cloud. </h><![CDATA[The time taken by OSM and CAPM to process this data was measured on each of the three platforms. The results are shown in Table 4 and Fig. 2.
+Table 4. Total time for running CAPM and OSM models (exhaustive and automated tests).
+CAPM: the total time (h)	OSM: the total time (h)	Performance improvement (OSM vs. CAPM)	Output results	Same results?
+Desktop	52.33 (52 h and 19.58 min)	31.67 (31 h and 16 min)	OSM is 39.48% better	β = 0.4509	Yes
+SE = 0.1111
+DW = 1.2259
+Public cloud	49.83 h (49 h and 19.83 min)	30.90 (30 h and 21.66 min)	OSM is 37.99% better	β = 0.4509	Yes
+SE = 0.1111
+DW = 1.2259
+Private cloud	48.26 h (48 h and 6.3 min)	30.21 h (30 h and 5 min)	OSM is 37.40% better	β = 0.4509	Yes
+SE = 0.1111
+DW = 1.2259
+CAPM and OSM performance comparisons
+Download full-size image
+Fig. 2. CAPM and OSM performance comparisons.
+]]><h target="3" match="part">The results (in Table 4) confirm the improved performance of OSM can significantly reduce data processing time for larger datasets compared with using the traditional CAPM approach.</h><![CDATA[ For financial institutes or consultancy services, an improvement of approaching 40% in performance means a significant difference to their calculations relating to risk and return analysis or financial derivatives; more risk and return analysis undertaken in the same time brings added value, which in turn can mean increased profits, more business opportunities, or cost-saving (Agopyan et al., 2011; Hey et al., 2009; Iosup et al., 2011).
+Results in our experiments show that OSM can complete the data processing of 2000 datasets more quickly than the traditional model and it removes the need for manual extraction. In the exhaustive test, the advantage of using OSM is illustrated by saving the data processing time of 20 h. Four additional areas of comparison: (i) suitability for Cloud Computing; (ii) large volume of datasets; (iii) performance and (iv) handling of complex data are presented in Table 5. Analysis of comparisons is supported by results presented in Sections 3–6.
+Table 5. Other comparisons between traditional CAPM and OSM data processing.
+Other comparisons	Traditional CAPM	OSM
+Suitability for Cloud Computing, including risk and return analysis	This is a generic model for many areas but not designed for risk and return analysis of Cloud adoption	This is an improved method suitable for Cloud adoption, particularly risk and return analysis
+Large volume of datasets	Less capable of handling Large volume of datasets. Need procedures or steps to process	Better to handle volume of large datasets
+Performance	Lower performance	Relative better performance
+Handling of complex data	Needs manual extraction for further analysis. It can take a long time depending on complexity	Presents all analysed data as 3D visualisation to exploit complex data. It also allows stakeholders to understand data analysis more easily
+4. Case study 1: the isolutions group, the university of southampton
+This case study concerns the iSolutions Group which provides Information Systems and Services to the University of Southampton, and has offered large scale Computer facilities and Cloud services since 2007 through a number of projects for students and staff. The purpose is to identify the level of service improvement evaluated by users. They have been recording user feedback and ratings since 2008.
+
+Three years of data between 2008 and 2011 was obtained to study service improvement, which is an important factor for supporting good system design, deployment and services including Cloud Computing (Chowhan & Saxena, 2011). The 2008/2009 survey gave management the ideas of what they were to measure and identification of important areas for service improvement. In other words, their 2009/2010 and 2010/2011 surveys were focused on key areas of service improvement and the use of OSM to select datasets suitable for analysis and interpretation of results.
+This case study considers users’ evaluation in four areas defined by Corporate Planning and the iSolutions Group of the University of Southampton:
+•
+Accessibility
+
+•
+Adequacy of financial support
+
+•
+Availability
+
+•
+Sufficiency of support
+
+
+Survey is used as a research method to understand how users evaluate Cloud services annually. To address these four areas, four main questions were used. Each user is asked to provide a score from 0 to 10, (where 0 means no service at all and 10 means the service was perfect) against each of the following statements:
+•
+I have adequate access to the equipment necessary for my research (Accessibility).
+
+•
+There is appropriate financial support for research activities (Adequacy of financial support).
+
+•
+There is adequate provision of computing resources and facilities (Availability).
+
+•
+I have the technical support I need (Sufficiency of support).
+
+
+Since an important objective is to understand the service improvement before and after service adoption, investigations over a substantial period of time are relevant and useful to the final analysis. Instead of undertaking the survey for one year, the same questions were asked annually throughout 2009–2011. This allows stakeholders to monitor the yearly rating evaluated by users and identify areas for improvements each year. To meet OSM requirements, the expected scores were taken one year before the following survey. The breakdown of the survey is as follows:
+•
+Year 2009: expected scores for 2010 only.
+
+•
+Year 2010: expected scores for 2010 and actual scores for 2009.
+
+•
+Year 2011: expected scores for 2012 and actual scores for 2011.
+
+
+All the users were asked to give a current actual score and an expected score for the following year each time they took the survey.
+
+4.1. The OSM metrics
+This section explains which input values collected in the survey correspond to each of the OSM metrics.
+•
+Expected service rating is the expected return value for OSM. The average of four ratings (accessibility, finance, availability and support) per user is the expected score for each user.
+•
+Actual service rating is the actual return value for OSM from the survey. The average of their four ratings is the actual score for each user.
+•
+Risk-control rate: Users were asked to give the number of incidents which happened in 2009/2010 and 2010/2011. The risk-control rate is taken to be this number divided by 200 which is iSolutions Group’s estimate of the average number of requests per user each year.
+
+The service improvement is the difference between each comparison every year. Comparison of the same users’ feedback every year should ensure risk-control rates vary by no more than 0.5% throughout the period of survey since risk-control rates which vary significantly have undesirable impacts on the quality of analysis. Comparison between 2009 and 2010 and 2010–2011 services is the difference between 2009 and 2010 and 2010–2011 score values for each user, which is equivalent to the rate of service improvement.
+
+The criteria used to select valid data entries were as follows:
+•
+Selected users must answer all questions.
+
+•
+Users need to have experience of using and receiving the services in 2009/2010 and 2010/2011 each year for a minimum of 60 h a year.
+
+These data quality requirements meant only 200 entries qualified for the OSM analysis.
+
+4.2. Key OSM outputs
+Computational modelling of OSM used a, e, rc as the input to compute risk. The outputs included the following:
+1.
+Beta (β) is the value determining the risk measure (or the extent of the volatility), the uncontrolled risk.
+2.
+Standard error (SE) of the mean, the range of the mean that the experimental results fall into for OSM. The smaller the standard error, the smaller the difference between expected and actual return values.
+
+3.
+Durbin–Watson (DW), a test used to detect the presence of autocorrelation (a relationship between values separated from each other by a given time lag) in the residuals (prediction errors) from a regression analysis as explained in Section 3.2. The value for Pr > DW corresponds to the negative autocorrelation test (residuals eventually wither off) and is a preferred method in the OSM approach. The value of Pr > DW should ideally be close to 1 to reflect the accuracy of the OSM regression. The p-value used by most of statistics is the positive autocorrelation value and can be calculated by subtracting the value of Pr > DW from 1.
+4.
+Mean square error (MSE), an estimator to quantify the difference between estimated and actual values. A low MSE value means there is a high correlation between actual and expected return values.
+
+5.
+R-squared value which is used to determine the regression fits the data. Both 95% and 99.99% Confidence intervals (CI) are computed. In this context, it is referred as “R-squared value for firm”, a term commonly used in econometrics to describe the percentage of risks in proportion to the external or internal organizations or factors. If an organization has an R-squared value (99.99 C.I) of 0.3, this means 30% of risks are from external bodies or the market and 70% of risks come from the organization such as poor adoption decision, overspending, poor selection of equipment, etc.
+
+4.3. The OSM results and analysis
+Results of OSM case study 1 are shown in Table 6.
+Table 6. OSM Case 1 for service improvement of the iSolutions, University of Southampton.
+Parameters	Value	Parameters	Value
+Beta 60.95% of risks: external and 39.05%: internal	0.80043	Durbin–Watson	1.6175
+Pr > DW (negative autocorrelation: maximum of 1 in favour of OSM)	0.9021
+The p-value test	0.00098
+Standard error	0.10615	Regress R-Square (99.99% C.I)	0.6095
+Mean square error (MSE)	5.85622	Regress R-Square (95% C.I)	0.8009
+Interpretation of the three key statistics:
+•
+Beta is equal to 0.80043. This is a medium-high value since it is still below 1. The project itself has a medium–high volatility of uncontrolled risks. This means current levels of user satisfaction are divided. Although most of the users acknowledged the usefulness of Cloud services, some provided feedback that there was still room for improvement. The variation between users’ opinions also suggested that the management should take continuous service improvement more proactively.
+
+•
+Standard error is 0.10615 and is relatively low, which suggests there is extremely high consistency between all metrics with very few outliers.
+
+•
+The first order Durbin–Watson result shows that there is a high negative autocorrelation (0.9021) favouring OSM, which means a good quality of data and standard errors. The p-value test result is 0.00098 and is also acceptable.
+
+In addition:
+•
+Mean square error (MSE) is 5.85622, which suggests a wide variation between three different groups of users. The first group is the majority of around 60%, which has a fair expected and actual rate of improvement (between 5% and 10%). The second group consists of around 30% of the sample population and has a wide positive difference in expected and actual rate of improvement, which has 10% and 20% expected and actual rate of improvement. The third group consists of about 10% of the sample population and they have a higher expected rate of improvement than the actual rate, although both rates are positive. It is important to find out any reasons behind their scores and interviews with users should be undertaken before their next survey.
+
+•
+Regression R-square is 0.6095 and it is optional to use 95% C.I to analyse. Regression with 95%. C.I is 0.8009, which means all data fits well with regression. This means 60.95% risks are from external such as status in funding and change of policy due to the change of Vice Chancellor. 39.95% of risks are from internal such as lack of training for staff and users.
+
+5. Case study 2: The University of Greenwich in adopting supply chain Cloud
+This case investigated user evaluation of a new Cloud service, supply chain Cloud, in teaching and learning activities. Chang and Wills (2013) report that the use of Private Cloud applications helps improve students’ learning satisfaction. This case study was undertaken together with Chang and Wills’ (2013) study to review the Year 2012 user evaluation. Unlike Section 4, this case study does not keep track of every user, because the University of Greenwich (UoG) adopts a different operational model that different cohort groups are used for learning activities each year. Despite this, OSM is able to provide relevant metrics and offer analysis of user evaluation of Year 2012 data.
+To make OSM a model suitable for UoG, two cohort groups of students were used for this case who had followed the supply chain learning for six months. Cohort group one had 16 learners and cohort group two had 23 learners. Each learner wrote scores for learning satisfaction before the adoption of supply chain Cloud. They attended the learning workshops at least two hours a week in a classroom environment and additional hours for learning. User evaluation was taken before the end of the delivery of the six-month learning period, contributing to the final user evaluation score. All the user evaluation scores were taken and compared with each cohort group.
+
+5.1. The OSM metrics overview
+The OSM metrics are recorded and presented as follows:
+•
+The expected learning satisfaction was recorded prior the use of the supply chain Cloud.
+
+•
+The actual learning satisfaction was recorded after the use of the supply chain Cloud.
+
+•
+The risk-control rate was defined by the occurrence of these events: (1) the service availability and (2) the content clarity. There were 25 weeks in the delivery. If there was a complaint for each category each week, it could be recorded as a case for risk-control rate. The maximum allowed was one for each category per week to ensure a high quality of delivery and Cloud services were available throughout the period of teaching and learning. This means that altogether a maximum of 50 cases of complaints can be accommodated as the risk-control rate. All these complaints had to be resolved as soon as possible.
+
+
+Two cohort groups took part in this study. Data collected was used for their analysis. The management decided that each cohort group should have their results of analysis.
+
+5.2. The OSM results and analysis
+This section shows the results of OSM analysis for both cohort groups. Table 7 shows results for cohort group 1.
+Table 7. OSM key statistics for cohort group 1 learning satisfaction analysis.
+Parameters	Value	Parameters	Value
+Beta 52.02% of risks: external and 47.98% of risks: internal	0.8824	Durbin–Watson	1.5531
+Pr > DW (negative autocorrelation: maximum of 1, 9th order in degree of freedom)	0.8938
+The p-value test	0.00106
+Standard error	0.2265	Regress R-Square (99.99 C.I)	0.5202
+Mean square error (MSE) out of 100	7.84874	Regress R-Square (95 C.I)	0.6743
+Further explanations are presented as follows:
+•
+Beta is equal to 0.8824. The medium–high value suggests the project risk is maintained at an acceptable but subject to a high risk. A likely reason is that although all users acknowledge the positive learning experience, a number of them only acknowledge 11–13% improvement against the average of 15% improvement.
+
+•
+Standard error is 0.2265. The low value suggests most metrics are close to each other and the data has few extremes. There is high consistency between all metrics.
+
+•
+The ninth order Durbin–Watson: Pr > DW is the p-value for testing negative auto-correlationwhich favours OSM. Results show that there is a high negative auto-correlation (0.8938). The 9th order means the Durbin–Watson test is calculated ninetimes to get the closest value to the recommended p-value, which is 0.00106 and slightly above the recommended 0.0010. A likely reason is because of a wider variation in the improvement of feedback. Some only gave 11% more improvement and a few gave 17% and above.
+•
+The mean square error (MSE) value is 7.84874. However, it is considered a low value out of 100, since all ratings are presented out of 100 rather than the typical out of 1.
+
+•
+Main regression R-square is 0.5202. It means 52.02% of the risks are from the externals such as the type of the course that learners must pick this course. 48.98% of the risks are from the internals, which include that some learners struggled at some stage of learning but eventually they improved and overcame learning difficulties. They acknowledged the improved learning satisfaction, but they provided feedback that some part of the course was not easy to understand.
+
+Table 8 shows results for the cohort group 2.
+Table 8. OSM key statistics for cohort group 2 learning satisfaction analysis.
+Parameters	Value	Parameters	Value
+Beta 80.77% of risks: external and 19.23% of risks: internal	1.5875	Durbin–Watson	2.0714
+Pr > DW (negative autocorrelation: maximum of 1, 9th order in degree of freedom)	0.9485
+The p-value test	0.00052
+Standard error	0.1690	Regress R-Square (99.99 C.I)	0.8077
+Mean square error (MSE) out of 100	4.47402	Regress R-Square (95 C.I)	0.9023
+Further explanations are presented as follows.
+•
+Beta is equal to 1.5875. The high value suggests the projectrisk is high. However, there is a different reason for this. Group 2 felt the delivery exceeded their expectations and provided positive feedback. Their expectations for the following years were exceptionally high, which some services were unable to match or had to be re-negotiated with the expected delivery for the following year. It was their overwhelming opinion that realistic goals should be set, negotiated and agreed before the following delivery.
+
+•
+Standard error is 0.1690. The low value suggests most metrics are close to each other and the data has fewer extremes. There is a high consistency between all metrics.
+
+•
+The second order Durbin–Watson: Pr > DW is the p-value fortesting negative auto-correlation which favours OSM. Results show that there is a high negative auto-correlation (0.8938). The 2nd order means the Durbin–Watson test is calculated a second time to get the closest value to the recommended p-value, which is 0.00515. The Durbin–Watson value is 2.0714 and is an acceptable value.
+•
+The mean square error (MSE) value is 4.47402. However, it is considered a low value out of 100, since all ratings are presented out of 100 rather than the typical out of 1.
+
+•
+Main regression R-square is 0.8077 which means 80.77% of the risks are from the externals suchas the type of the course that learners must pick this course. 19.23% of the risks are from the internals, which include that some learners struggled at some stage of learning but eventually they overcame learning difficulties. Comparing to group 1, group 2 had more positive views for learning.
+
+OSM provides useful analysis for the two cohort groups and UoG in the delivery of supply chain Cloud.]]></section>
+<section name="Discussion" category="discussion">
+<![CDATA[
+6. Discussion
+This section presents four topics for discussions. The first topic is the use of OSM for advanced analysis such as visualisation. Visualisation for two case studies is presented in this section. The second topic is the general discussion of OSM and the third topic is the comparison with similar models for Cloud Computing. The last topic concludes how OSM is a justifiable Emerging Service and Analytics in Cloud Computing (Table 9).
+Table 9. Comparisons between OSM, CAPM, Sharma et al. and Qanbari et al.
+Models and criteria	Generic risk and return definition and analysis	Uncontrolled and managed risk division (and measurement of risk-free/risk-control rates)	Handling of large data	Case studies
+CAPM (Markowitz, 1952; Sharpe, 1964, 1992; Lintner, 1965a, 1965b; Mossin, 1966; French, 2003)	It provides a generic model to measure and analyse risk and return	The model divides risk into uncontrolled (beta) and managed (risk-free rate). But criticism is drawn on unscientific definition of risk-free rate	It is not designed for this at all	There are case studies but the majority of them are in economics and finance
+Sharma et al. (2012)	Their approach is developed on Black Scholes Model (BSM) which deals with risk and return on investment. Their focus is on the service providers	There is no consideration in dividing risk into uncontrolled and managed. Their proposal suggests following their steps, risks are all managed	It is not designed for this, even though they have experiments showing they can deal with Service Level Agreement agenda	No there yet
+Qanbari et al. (2014)	Their approach is developed on Binomial Tree which studies dependencies within risk, or return	There is no consideration in dividing risk into uncontrolled and managed	It is not designed for this	No there yet
+OSM (Chang et al., 2011a, 2011b; 2012)	OSM deals with the risk and return status, analysis and review of services and project that adopt Cloud Computing. User satisfaction is inclusive	The model divides risk into uncontrolled (beta) and managed (risk-control rate). There are definitions on how to measure the manage risk which also take users into considerations	OSM can handle thousands of datasets, millions of datapoints and compute them a single job in seconds and thousands of jobs in hours demonstrated in Section 4	OSM has several case studies to support the validity of the model. Additional case studies were presented. Two case studies are illustrated in this paper
+6.1. The OSM results and analysis
+The purpose is to present complex analysis in a format that stakeholders and reviewers without statistical or computing backgrounds can understand. The use of visualisation is crucial to the development of the organisation’s business intelligence strategy that can blend their business processes with the use of Cloud Computing services (Chang, De Roure, Wills, & Walters, 2011; Chang, De Roure, Wills, Walters, & Barry, 2011; Chang, 2014b). OSM can provide additional services such as Visualisation. The OSM metrics, actual return values, expected return values and risk-controlled rate of two case studies may be presented as follows.
+6.1.1. Visualisation for Section 4
+
+Fig. 3 shows visualisation for the iSolutions Group of the first OSM case study. The x-axis reflects an actual rate of service improvement between 5% and 20%. The y-axis reflects expected rate of service improvement between 5% and 20%. The z-axis shows risk-control rate between 0.8% and 4.4%. The shape in the 3D visualisation can indicate the status of the project (Chang, De Roure, Wills, & Walters, 2011; Chang, De Roure, Wills, Walters, & Barry, 2011; Chang, 2014a, 2014b). Spikes and bumps indicate variations or volatility experienced in the project. The OSM formula suggests that the correlation between all these three metrics is important to keep a high consistency between all metrics. The majority of the metrics in Fig. 3 is aligned with each other with only a few spikes experienced in the figure.
+Visualisation for the iSolutions Group’s Cloud service improvement, University…
+Download full-size image
+Fig. 3. Visualisation for the iSolutions Group’s Cloud service improvement, University of Southampton.
+6.1.2. Visualisation for Section 5
+
+This case study presents two figures corresponding to two different cohort groups.
+
+Fig. 4 shows visualisation for the cohort group 1 of the third OSM case study. The x-axis reflects the actual learning satisfaction after Cloud teaching delivery between 83% and 95%. The y-axis reflects the expected learning satisfaction before Cloud teaching delivery between 70% and 83%. The z-axis shows risk-control rate between 0% and 2%. The shape in visualisation suggests that some learners were towards the lower end of learning satisfaction before the delivery, and they moved to the higher end of learning satisfaction after the delivery. Some of them provided feedback that the use of supply chain Cloud for their learning was a new experience with a steep learning curve, they were happy to overcome the learning challenge.
+Visualisation for learning satisfaction of using supply chain Cloud, cohort…
+Download full-size image
+Fig. 4. Visualisation for learning satisfaction of using supply chain Cloud, cohort group 1, University of Greenwich (UoG).
+Fig. 5 shows visualisation for the cohort group 2 of the third OSM case study. The x-axis reflects the actual learning satisfaction after Cloud teaching delivery between 88% and 96%. The y-axis reflects the expected learning satisfaction before Cloud teaching delivery between 70% and 83%. The z-axis shows risk-control rate between 0% and 2%. The shape suggests that the majority of learners had perceived the positive learning experience and the extent of the increased learning satisfaction after the delivery was more in proportion than group 1. However, the high learning satisfaction after the delivery made them set higher expected goals for the next delivery. This also means that service level agreements (SLA) should be renegotiated and revised with users.
+Visualisation for learning satisfaction of using supply chain Cloud, cohort…
+Download full-size image
+Fig. 5. Visualisation for learning satisfaction of using supply chain Cloud, cohort group 2, University of Greenwich (UoG).
+6.2. General discussions of OSM and comparisons with similar models
+This section presents discussion about OSM and comparisons with similar models. Compared with CAPM which was not designed to handle huge datasets and is not designed for analysis of system adoption such as Cloud Computing, OSM has an improved methodology and formula. OSM can compute thousands of datasets at once and is designed for Computing (including Cloud Computing) rather than as a generic model for risk and return. Referred to Section 3, comparisons between OSM and CAPM show OSM has a better performance than CAPM both in a test of processing 2000 datasets and in an exhaustive test. While identifying and collecting metrics for actual return values, expected return values, risk-control rates, OSM can calculate key values including beta, standard error and Durbin–Watson (with negative autocorrelation) to interpret the collected datasets.
+A Cloud Computing project with satisfactory outcomes should have the following:
+•
+Low beta: low uncontrolled risk.
+
+•
+Low standard error: results of collected datasets are highly consistent.
+
+•
+Durbin–Watson value above 1, and negative autocorrelation test is as close as to 1 as possible. The p-value should be below 0.001.
+•
+R-squared values, used to identify proportions and sources of beta risks should be above 0.5 and below 1.
+•
+Mean squared values and positive p-values should have low values to support accuracy of OSM analysis.
+
+The first case study fulfils all the requirements above. OSM analysis confirms that Cloud Computing services help the iSolutions Group of the University of Southampton to work with users more closely and ensure they progress with yearly service improvement throughout the 2009–2012 period. The second case study illustrates that OSM can be used to analyse learning satisfaction in two cohort groups. The majority of the results fulfil the requirements above with the exception of the second cohort group, who overwhelmingly exceeded the learning satisfaction. Their expected services for the following should be renegotiated and revised. Results helped the stakeholders in UoG to design and improve their teaching and learning activities.
+
+6.3. Comparisons with similar models
+This section is focused on a comparison between OSM, CAPM and similar models, particularly the two models mentioned in Section 2, which aim to make scholarly contributions by demonstrating improved models in economics that can be used in Cloud Computing. The criteria for comparison are:
+The analysis of risk and returnstatus of the Cloud Computing adoption: the proposed method should address general issues and widen scope beyond risk and return (Sharmaet al., 2012). Return is not limited to profits but can include user satisfaction and other perspectives (Jiang & Rosenbloom, 2005). Risk is not limited to security but a greater coverage of risk assessment (Harland, Brenchley, & Walker, 2003; Sharpe,1992).
+Dividing risks into uncontrolled and managed status: following the essence of Capital Asset Pricing Model (CAPM) (French, 2003; Lintner, 1965a, 1965b; Markowitz, 1952; Mossin, 1966) and the Nobel lecture given by Sharpe (1964, 1992), all risks are divided into uncontrolled and managed status. Additionally, it should offer measurement in regard to “risk-free rate” or risk-control rate while dividing risk into managed and unmanaged categories. The proposed model should have guidelines and scientific or systematic processes for measuring the “risk-free rate. It should be based on the users’ perspective. If it is defined by the service provider, it should be based on the number of accidents or complaints made by users.
+Handling of large data: the proposed model should be able to process large quantities of datasets and large numbers of datapoints in the datasets (Dean & Ghemawat, 2008). Requirements for performance and accuracy should be met.
+Case studies: the proposed model should have case studies todemonstrate that it is usable beyond the theoretical framework (Han, 2011; Khajeh-Hosseini et al., 2010).
+OSM is already supported by several case studies, including:
+•
+Vodafone and Apple (Chang, De Roure, Wills, & Walters, 2011): OSM was used to analyse the profitability and risk. There was an actual 21–26% gain in the profitability after adopting Mobile and Cloud services.
+•
+SAP (Chang, De Roure, Wills, & Walters, 2011): OSM was used to analyse the effectiveness of using SAP for small and medium enterprises (SMEs) to manage their risks within 1%. OSM helps to clarify how SMEs could withstand the impact due to financial crisis.
+•
+National Health Service (NHS) (Chang, De Roure, Wills, Walters, & Barry, 2011): the status of risk and return of two NHS projects has been evaluated by OSM. The outputs provided useful information for the stakeholders.
+•
+University of Southampton (Chang, Wills, Walters, & Currie, 2012): The use of OSM helps analysing the cost-saving of up to 22.5% due to the use of green Cloud Computing.
+
+With all the comparisons made, OSM is an emerging service and analytics model that can compute risk and return for different types of projects and report to the stakeholders the key outputs with its detailed interpretations. Visualisation provides a pivotal foundation for analytics to ensure that the expected and actual rate of return with regard to controlled and uncontrolled risk can be computed for 3D visualisation. The extent of risks can be tracked and monitored at any time.
+
+6.4. OSM as an emerging service and analytics
+Emerging Services and Analytics provide a unique service for Cloud Computing, since it combines the state-of-the-art of the system design and implementation, technology integration and business models for Platform as a Service (PaaS) and Software as a Service (SaaS). Examples include services and analytics for healthcare, finance, education, mobile services, transportation, energy, natural science and physical science. Emerging Services and Analytics workshops have been successfully delivered to demonstrate the research contributions and case studies in this area (Chang, Wills, & Walters, 2014; Chang et al., 2015). An emerging model to analyse Cloud Computing projects, process a large number of data and interpret the outputs in a way that enables the stakeholders to understand is essential for the development of Cloud Computing.
+]]><h target="5" match="part"><![CDATA[OSM is an Emerging Service and Analytics, which provides added value for users and organisations adopting Cloud Computing.]]></h> Firstly, OSM defines and interprets the status of risk and return for Cloud Computing projects. Return can be in the form of technical, cost and users’ focuses in Cloud Computing. Examples and computations for risk-control rate and uncontrolled risk (beta) have been presented. Secondly, OSM can process thousands of datasets at once and is specifically designed for a large data processing and analytics. Thirdly, OSM performs much better than a comparative model, CAPM, under the same experimental conditions. Fourthly, interpretations and data analysis computed by OSM can explain the overall status of the projects, the extents of risks and their detailed implications. Fifthly, visualisation can help the stakeholders to understand the actual rate of return, expected rate of return and risk-control rate of their project without the need to check all the datasets.<h target="4" match="part">Sixthly, there are two case studies to confirm that OSM is useful for organisations adopting Cloud Computing.</h><h target="5" match="part"> Lastly, OSM provides more in-depth information, metrics, qualitative and quantitative analysis and recommendations than other similar approaches.</h> </section>
+<section name="Conclusion" category="conclusion">
+<![CDATA[
+7. Conclusion
+Cloud Computing is an emerging technology which promises to change the way organisations view their computing systems. However, if an organisation plans to gain the full benefits of adoption of Cloud Computing it needs to look beyond the physical changes to their computing systems and make changes to the way it works. As a result the evaluation of a Cloud Computing project should consider more than the obvious technical issues and a naïve evaluation of the costs and returns involved. It is a major project for any organisation and one which may even become a threat to the continued operation of the organisation if it is not properly managed and controlled. It is therefore appropriate to use models and techniques like CAPM in the evaluation of such projects. CAPM explicitly separates risks which can be managed and controlled (such as failure of individual machines which may be ameliorated by holding some capacity in reserve and using a mixture of hardware) and those which cannot (such as unexpected rises in taxation or energy prices) in the evaluation of these projects. However, CAPM has limitations in this context which arise from being a generic method developed primarily for econometrics at a time when datasets were much smaller than is common today.]]><h target="1" match="part"> We therefore propose OSM which is based on CAPM but has been tuned to match the particular requirements of an organisation adopting Cloud Computing.</h><h target="3" match="part"> OSM produces more accurate results and comfortably out performs CAPM when analysing substantial datasets.</h><h target="5" match="part"> OSM provides an emerging service and analytics model to ensure technical, costs and profitability and user satisfaction can be modelled and computed according to different organisational requirements for Cloud Computing adoption.</h>
+
+<h target="4" match="part">The case for OSM is illustrated by two case studies confirming and supporting the validity and effectiveness of OSM. Outputs are useful for analysis.</h><h target="5" match="part">OSM has met four criteria for evaluation of Cloud Computing adoption and thus is a suitable emerging service and analytics model for Cloud Computing.</h> </section>
+</publication>

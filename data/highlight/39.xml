@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<publication marker= "yu miao">
+    <journal>International Journal of Information Management</journal>
+    <time>Volume 36, Issue 3, June 2016, Pages 309-321</time>
+International Journal of Information Management
+    <title>Procedural justice to enhance compliance with non-work-related computing (NWRC) rules: Its determinants and interaction with privacy concerns</title>
+    <author>Jai-Yeol Son</author>. Author links open the author workspace.Opens the author workspaceOpens the author workspace
+    <author>Jongpil Park</author>. Author links open the author workspace.Opens the author workspace
+School of Business, Yonsei University, 50 Yonsei-ro, Seoul 120-749, South Korea
+Show more
+    <doi>https://doi.org/10.1016/j.ijinfomgt.2015.12.005</doi>Get rights and content
+Highlights
+•
+    <highlight id="1">We examine employees' compliance with non-work related computing (NWRC) rules.</highlight>
+•
+    <highlight id="2">Procedural justice increases employees' intention to comply with NWRC rules.</highlight>
+•
+    <highlight id="3">Procedural justice is affected by accuracy, consistency, and ethicality.</highlight>
+•
+    <highlight id="4">Privacy concerns moderate the effect of procedural justice on compliance intention.</highlight>
+•
+    <highlight id="5">Deterrent certainty increases employees' intention to comply with NWRC rules.</highlight>
+
+Abstract
+    <abstract>  <![CDATA[Computing resources are essential to foster the productivity of employees in organisations; however, non-work-related computing (NWRC) in the workplace has recently become a serious concern because employees often spend too much time in the personal use of computers. ]]><h target="1" match="part">To deepen our understanding of employees' compliance with NWRC rules, we developed and tested a research model that focuses on the formation of procedural justice and moderating role of privacy concerns. </h><h target="2" match="part">The results indicate that employees are more willing to comply with NWRC rules when they believe fair procedures to be in place during the design and implementation of the rules. </h><h target="3" match="part">In addition, accuracy, consistency, and ethicality were found to enhance employees' belief in procedural justice. </h><h target="4" match="part">Further, we found that the effect of procedural justice on compliance intention is moderated by privacy concerns that arise from the implementation of NWRC rules.</h></abstract>
+
+Keywords
+    <keywords>Non-work-related computing</keywords>
+    <keywords>Organisational justice</keywords>
+    <keywords>Procedural justice</keywords>
+    <keywords>Privacy concerns</keywords>
+    <keywords>Compliance behaviour</keywords>
+    <section name="Introduction" category="introduction">
+        <![CDATA[
+1. Introduction
+Non-work-related computing (NWRC), defined as employees' use of computers at work for nonwork or personal purposes (Bock & Ho, 2009), has become a serious issue. From 60% to 80% of employees' time on the Web at work is wasted with nonwork activities (Strozniak, 2013). Workers in the U.S. surf the Web for nonwork purposes for one to two hours a day, which costs organisations billions of dollars in lost productivity (Blanding, 2011). An internal investigation by J.C. Penny Co., found that 4800 employees at its headquarter watched about 5 million YouTube videos in one month (Madrigal, 2013).
+Of course, it is often argued that NWRC could favourably affect employee productivity by fostering creativity, learning, and well-being. However, organisations should not underestimate either productivity lost to NWRC or potential risks from employees' misconduct while engaging in NWRC. The average American worker spends more than two hours each day for the personal use of the Internet, which can be estimated as about US$85 billion annually in lost productivity for U.S. companies (Palmquist, 2013). Employers in the UK lose about €300 million annually in lost productivity due to their employees' gambling online at work (Taylor, 2007). Productivity loss caused by NWRC is problematic, especially when employees with addictive tendencies become addicted to use of the Internet (Stanton, 2002). Just as people often become addicted to alcohol, an increasing number of users are expected to become addicted to the Internet (Young & Rogers, 1998).
+Because of these concerns, an increasing number of organisations have introduced policies to monitor and curtail their employees' engagement in NWRC. However, resistance from employees becomes the biggest issue when organisations implement NWRC rules and monitor their employees' activity on computers accordingly. This monitoring and associated punishment for noncompliance with NWRC rules may offend employees by causing them to feel undervalued and distrusted. Consequently, their job satisfaction and work morale may suffer. Employees are often found to retaliate against enhanced information security policies by engaging in reactive computer abuse behaviours (Lowry, Posey, Bennett, & Roberts, 2015). This potential for disruptions makes it critical for organisations to carefully introduce NWRC rules so as to minimize resistance from employees.
+Much research on employees' compliance with policies on IS misuse applied general deterrence theory (GDT) as its theoretical lens (Siponen & Vance, 2010). However, the findings from the research based on GDT-based factors such as certainty of sanctions and severity of sanctions were mixed (Lowry et al., 2015; Willison & Warkentin, 2013). It appears that the deterrence-based approach in organisations does not work very well in increasing employees' passive compliance with IS misuse polices. This also leads the research stream to move from passive compliance to proactive compliance. As such, IS researchers have attempted to apply theoretical lenses, such as intrinsic motivation model (Son, 2009), protection motivation theory (Herath & Rao, 2009a), and rational choice theory (Bulgurcu, Cavusoglu, & Benbasat, 2010).
+In a similar vein, Willison and Warkentin, (2013) have recently identified organisational justice as an underresearched area in understanding employees' compliance with security policies in the workplace. Several studies have already applied the justice framework (e.g., Lim, 2002; Posey, Bennett, Roberts, & Lowry, 2011; Henle, Kohut, & Booth, 2009; De Lara, 2007). This paper is in line with these studies based on the justice framework. Of course, the justice framework was also heavily applied in prior research that examined employees' compliance with organisational policies other than those on IS misuse. However, unlike other organisational policies (e.g. policies on drug, alcohol, violence, etc.) that are accepted by employees with less resistance, employees often do not consider noncompliance of polices on IS misuse including NWRC rules as a serious issue and thus waste much time at work online. Worse, they often abuse computing assets of their organisations as a retaliatory response to enhanced polices on IS misuse (Lowry et al., 2015). ]]><h target="1" match="part">In this sense, it seems necessary to examine if the justice framework can also be well applied within the context of employees' compliance with NWRC rules.</h><![CDATA[
+This paper intends to contribute to the literature by offering a comprehensive understanding on the formation of procedural justice when their employers deploy NWRC rules. Based on the review of the literature, five potential antecedents – accuracy, consistency, correctability, participation, and ethicality – of procedural justice are identified to gain greater insight into how employees develop their belief in procedural justice when their employers introduce NWRC rules. Further, our study examines the moderating role of privacy concerns on the relationship between procedural justice and employees' intention to comply with NWRC rules.]]>
+</section>
+
+
+    <section name="literature review" category="background">
+        <![CDATA[
+2. Literature review
+Compliance in this study refers to employees' acquiescence to their employer's request to comply with NWRC rules. Recently, IS scholars have paid greater attention to employees' compliance behaviours as an important subject. This is largely because scholars have focused more on the socio-organisational and human issues of the management of information security (Dhillon & Backhouse, 2000). To this end, most of the scholarly effort to understand employees' compliance behaviours in IS has been undertaken within the context of security management (Kwon & Johnson 2013). Scholars in this area have often developed theory-based research models, and used data collected by administering questionnaire surveys to test employees' motivation to comply with organisational policies on IS security.
+A review of theory-based empirical studies on compliance behaviour in IS reveals that much work used GDT to offer a theoretical explanation (see Table 1 for the summary). GDT, originally developed by Ehrlich, (1973), has been widely applied to understand how to deter individuals from participating in illegal and deviant behaviours. GDT suggests that people are less likely to engage in illegal or deviant behaviours when they perceive that such behaviours can result in sanctions, punishment, or other disincentives. Specifically, GDT posits two central tenets – certainty of sanctions and severity of sanctions – that can deter individuals from illegal or deviant behaviours (Peace, Galletta, & Thong, 2003). However, studies with GDT-based factors offered mixed results on the efficacy of GDT as a theoretical base in understanding employees' compliance with IS misuse policies (Lowry et al., 2015; Willison & Warkentin, 2013).
+Table 1. Brief review of the studies on IS misuse and compliance behaviour in IS.
+Study	Research area	Main theories used	Method (s)	Key findings
+Bulgurcu et al. (2010)	IS security policies	Theory of planned behaviour, rational choice theory	Survey	Employees' intention to comply with IS security policies were significantly influenced by attitudes toward compliance with the policies; attitudes were shaped by employees' beliefs about the overall consequences of compliance or noncompliance. Several variables such as intrinsic benefit, safety, work impediments, etc., were also found to predict the overall consequences of compliance or noncompliance
+D'Arcy et al. (2009)	IS misuse	General deterrence theory	Survey	IS misuse intention was strongly influenced by perceived severity of sanctions, but not by perceived certainty of sanctions. Perceived severity and certainty were strongly influenced by user awareness of security policies; computer monitoring; and security education, training, and awareness programs
+Henle et al. (2009)	Cyberloafing	Procedural justice theory	Experiment and Survey	Zero tolerance, progressive discipline, and appeal processes were found to increase the perception of procedural justice and periodic monitoring was found to reduce cyberloafing
+Herath and Rao (2009a)	IS security policies	General deterrence theory, protection motivation theory	Survey	Security policy compliance intention was positively influenced by detection certainty, self-efficacy, organizational commitment, and social influence, but negatively by punishment severity
+Herath and Rao (2009b)	IS security policies	General deterrence theory, agency theory	Survey	Security policy compliance intention was positively influenced by detection certainty, normative belief, peers' behaviour, and perceived effectiveness of employee action, but negatively by penalty severity
+Hu et al. (2011)	IS security policies	General deterrence theory, rational choice calculus	Survey	Employees' intention to violate information security policies was significantly influenced by perceived extrinsic and intrinsic benefits, but not by deterrence-related constructs such as perceived formal risks, perceived informal risks, sanction certainty, sanction severity, and sanction celerity
+De Lara (2007)	Cyberloafing	Justice theory	Survey	Work anomia moderates the effects of three types of justice perceptions (distributive, procedural, and interactional) on cyberloafing. When employees have lower work anomia, the three types of justice perceptions have stronger negative relationships with cyberloafing
+Li et al. (2010)	Internet use policy	Rational choice theory	Survey	While perceived benefits from Internet abuse has a negative effect on Internet use policy compliance intention, perceived risks, such as detection probability and security risks, have positive effects on the intention. Personal norms moderate the effect of sanction severity on Internet use policy compliance intention
+Lim (2002)	Cyberloafing	Organizational justice, neutralization	Survey	When employees perceive their employers to be fair in terms of distributive, procedural, and interactional standards, employees are less likely to employ a neutralization technique through metaphor of the ledger. In addition, employees are less likely to engage in cyberloafing when they cannot legitimize the act through the metaphor of the ledger
+Lowry and Moody (2014)	IS security policies	Organization control theory, reactance theory	Survey	Employees' perceived threat to freedom from new information security policies (ISP) and reactance proneness have positive impacts on their reactance to new ISP, which in turn has a negative impact on their intent to comply with new ISP. New ISP mandatoriness and existing organizational formal controls are found to have positive impacts on employees' intent to comply with new ISP
+Lowry et al. (2015)	Reactive computer Abuse	Fairness theory, Psychological reactance theory	Survey	Employees often engage in reactive computer abuse as an undesirable response to organisational effort to protect information assets from employee security threat. Trust fully mediates the relationship between explanation adequacy and reactive computer abuse and partially mediates the relationship between freedom restrictions due to information security policies and reactive computer abuse
+Moddy and Siponen (2013)	Non-work-related personal use of the Internet	Theory of interpersonal behaviour	Survey	Employees' attitude toward using the Internet for personal reasons at work, affect, and social factors have positive impacts on their intention, which in turn has a positive impact on actual personal use of the Internet. Employees' actual personal use of the Internet is also influenced by their habit of using the Internet for personal reasons. In addition, the habit and intention are found to have a significant interaction effect on actual personal use of the Internet
+Pee, Woon, and Kankanhalli (2008)	NWRC	Theory of interpersonal behaviour, theory of planned behaviour	Survey	Employees' intention to engage in NWRC is significantly related to affect, social factors, and perceived consequences of NWRC. In addition, NWRC behaviour is significantly related to the intention, habit, and facilitating conditions
+Posey et al. (2011)	Computer monitoring	Psychological reactance theory, procedural and distributive fairness	Survey	Computer monitoring was found to increase employees' perception of privacy invasions, which in turn influences perceptions of procedural injustice. Procedural injustice perceptions influenced distributive injustice perceptions. Computer abuse was influenced by perceptions of both injustices
+Siponen and Vance (2010)	IS security policies	Neutralization, General deterrence theory	Survey	Employees' intention to violate IS security policies was strongly related to their neutralization through defense of necessity, appeal to higher loyalties, the metaphor of the ledger, etc. However, formal and information sanctions were not found to be predictors of their intention to violate IS security policy
+Son (2011)	IS security policies	General deterrence theory, intrinsic and extrinsic motivation models	Survey	Employees' intention to follow IS security policies was strongly influenced by factors related to intrinsic motivation, but not by those related to extrinsic motivation rooted in general deterrence theory
+Vance, Siponen, and Pahnila (2012)	IS security policies	Protection motivation theory, habit theory	Survey	Habit had strong impacts on employees' threat and coping appraisals, which in turn were found to have strong impacts on the intention to comply with IS security policies
+Vitak, Crouse, and Larose (2011)	Cyberslacking	None	Survey	Employees' demographic characteristics, such age, gender, and race, and work-related factors, such as routinization of Internet use and Internet utility at work, were found to have significant relationships with cyberslacking variety and frequency
+For instance, some studies reported that GDT-based factors do not have a significant relationship with employees' compliance intention (D'Arcy, Hovav, & Galletta, 2009; Hu, Xu, Dinev, & Ling, 2011; Son, 2011). D'Arcy et al. (2009) reported that, while perceived severity of sanctions has a strong negative association with employees' misuse of IS assets in organisations, perceived certainty of sanctions does not have a strong relationship. Hu et al. (2011) developed and tested a research model based on GDT and rational choice calculus. However, they did not find a strong impact of perceived deterrence – in terms of certainty, severity, and celerity of sanctions – on employees' intention to commit computer misconduct. Other research with GDT-based factors often reported findings that appear contrary to the theoretical reasoning (Herath & Rao, 2009a, 2009b). For instance, Herath and Rao (2009a) found that, while certainty of detection has a positive effect on employees' intention to comply with a security policy, severity of punishment has a negative effect.
+Given that the efficacy of GDT was questioned in the prior research, scholarly effort was made to offer alternative theoretical explanations on user compliance with IS misuse policies. Lowry et al. (2015) applied fairness and psychological reactance theories and found that employees often engage in reactive computer abuse as an undesirable response to organisational effort to protect information assets from employee security threat. Li, Zhang, and Sarathy (2010) applied rational choice theory and found that, while perceived benefits from Internet abuse has a negative effect on Internet use policy compliance intention, perceived risks, such as detection probability and security risks, have positive effects on the intention. Bulgurcu et al. (2010) also applied rational choice theory and found that employees' intention to comply with IS security policies were significantly influenced by attitudes toward compliance with the policies. Specifically, the attitudes were found to be shaped by employees' beliefs about the overall consequences of compliance or noncompliance. Several variables such as intrinsic benefit, safety, and work impediments were also found to predict the overall consequences of compliance or noncompliance.
+Scholars have paid special attention to the justice framework as a useful theoretical lens in understanding employees' compliance with IS misuse policies. For instance, Lim (2002) found that when employees perceive their employers to be fair in terms of distributive, procedural, and interactional standards, they were less likely to employ a neutralization technique through metaphor of the ledger. In addition, she found that employees are less likely to engage in cyberloafing when they cannot legitimize the act through the metaphor of the ledger. Henle et al. (2009) found that zero tolerance and progressive discipline during the disciplinary procedures increase the perception of policy fairness related to cyberloafing. In addition, formal appeal processes have a positive impact on the perception of policy fairness related to cyberloafing.
+Our study intends to extend the research stream on the application of the justice framework to the understanding of user compliance with IS misuse policies. To do so, of the several types of organisational justice (e.g., procedural, distributive, and informational), we pay particular attention to the role of procedural justice because the current study aims to understand how organisations can provide fair procedures during the implementation of NWRC rules.1 Despite the scholarly effort on the application of justice framework within the context of employees' compliance with IS misuse policies, an empirically-validated set of determinants of procedural justice does not exist in the literature. As such, our study will offer a more comprehensive understanding of how the perception of procedural justice is formulated within the context of user compliance with NWRC rules. The research model, which will be described in detail, is shown in Fig. 1.
+Research model
+Download full-size image
+Fig. 1. Research model.]]>
+</section>
+
+    <section name="Theory and hypothesis development" category="research model and hypotheses">
+        <![CDATA[
+3. Theory and hypothesis development
+3.1. Procedural justice
+Justice belief, which refers to the degree of fairness a party believes about how it is treated by another party over the course of a relationship, is a fundamental concern in social exchange relationships (Culnan, 1995). Justice belief is expected to play an important role in binding parties together, especially when they are in conflict with each other (Konovsky, 2000). The extant studies have adopted the justice perspective to explain a variety of phenomena in social exchange relationships, including those between employees and their employers. An employee can formulate a justice belief based on an evaluation of the fairness of the organisational decision-making processes involved in arriving at an outcome; this formulation and its subsequent belief outcome is referred to as procedural justice (Lind & Tyler, 1988).
+Procedural justice is a strong predictor of organisational trust and commitment, which in turn enhance employees' motivation to work in favour of the organisation (Cohen-Charash & Spector, 2001). Employees often engage in reactive computer abuse behaviours when their employers implement policies on IS misuse (Lowry et al., 2015). Hence, it is critical to smoothly introduce NWRC rules in organisations. Procedural justice could play a particularly important role so that employees can accept NWRC rules without much resistance. We therefore posit that employees would comply more willingly with NWRC rules when their employers observe a great deal of justice.
+To understand how a procedural justice belief can be formulated during the design and implementation of NWRC rules, we undertook an extensive review of the literature that identifies the antecedents of procedural justice. For example, Leventhal (1980) identified six rules that employees take into consideration in evaluating the fairness of procedures in situations they are potentially in conflict with their employer. The six rules are consistency, bias-suppression, accuracy, correctability, representativeness, and ethicality. In addition, recent studies on procedural justice reveal other potential antecedents such as participation, relevance, and control. It should be noted that the applicability of antecedents of procedural justice varies depending on the context (Leventhal, 1980). Thus, we did not adopt all of the potential antecedents identified in the prior work and took great care in choosing potential antecedents of procedural justice suitable for the current study. For instance, control was not adopted as a potential antecedent of procedural justice because employees generally are not allowed influence over evidence collection through computer monitoring in the implementation of NWRC rules. In addition, several potential antecedents were not adopted because of commonalities in their definitions with others adopted in the current study. For instance, we chose participation but not representativeness for the current study because the notion of participation in our study captures the extent to which employees' views are represented during the design and implementation of NWRC rules. Finally, as summarized in Table 2, we chose five potential antecedents – participation, consistency, correctability, and ethicality – for the current study.
+Table 2. Review of antecedents of procedural justice.
+Antecedent	Definition	Sources	Adopted for the current study? (Reason if not adopted)
+Accuracy	The extent to which accurate and thorough information is collected and used as evidence when procedures or rules are applied	Alder and Ambrose (2005); Colquitt (2001); Greenberg (1987); Leventhal (1980); Stanton (2000);	Yes
+Consistency	The extent to which rules or procedures are applied in an equivalent manner to all employees over time	Alge (2001); Colquitt (2001); Greenberg (1986); Leventhal (1980); Stanton (2000)	Yes
+Correctability	The extent to which employees are given opportunities to correct unfair or flawed decisions	Barclay and Harland (1995); Greenberg (1986); Colquitt (2001); Leventhal (1980); Wagner and Moriarty (2002)	Yes
+Ethicality	The extent to which procedures are compatible with fundamental moral and ethical standards	Bies (1986); Colquitt (2001); Magner et al. (2000); Leventhal (1980)	Yes
+Participation	Often referred to as voice, participation refers to the extent which employees are allowed input into design and implementation of procedures	Alge (2001); Ambrose and Alder (2000); Bies and Shapiro (1988); Kernan and Hanges (2002); Konovsky (2000)	Yes
+Relevance	The extent to which information collected by employers is relevant to decisions in the implementation of rules or procedures	Alge (2001)	No (accuracy in our study is broadly defined so as to capture the notion of relevance)
+Bias-suppression	The extent to which self-interest is avoided when procedures or rules are applied	Colquitt (2001); Leventhal (1980)	No (this variable is more applicable to situations in which allocation is a main concern (e.g., bonus allocations) rather than those in which new rules are implemented to direct behaviour of employees)
+Representativeness	The extent to which views of various groups affected by new rules or procedures are taken into account	Colquitt (2001); Leventhal (1980)	No (participation, adopted in our study, captures the extent to which views of employees (e.g., the primary group affected by the NWRC rule) are represented during the design and implementation of new rules)
+Control	The extent to which employees actually influence the process of evidence collection for the implementation of rules or procedures	Stanton (2000)	No (in general, employees subject to computer monitoring at work have little control over what activities on their computers are monitored and when)
+3.1.1. Accuracy
+Leventhal (1980) posited that individuals shape the perception of procedural fairness on the basis of the extent to which they believe accurate and thorough information is collected and used in making decisions. Organisations generally collect information before they evaluate employees' performance or violation of rules. However, the information may be inappropriate, inaccurate, or incomplete. For example, when the job performance of an employee is evaluated only on the subjective opinion of an observer (e.g., her boss), the employee may feel that the information collection is insufficient to accurately evaluate her performance. When fair procedures are not in place to collect and use accurate information, employees may be afraid of opportunistic use of the information in evaluating their performance or violation of rules. In this sense, when evaluating employees' performance or rule violations, collection and use of accurate information is considered critical to employees' assessment of the fairness of an evaluation (Colquitt, 2001).
+Scholars have emphasized the importance of accuracy in shaping individuals' beliefs of procedural fairness in various settings. For instance, Greenberg (1987) found that students perceive a higher level of fairness in performance appraisals when their performance is recorded more accurately through diaries than through mere observation. Konovsky and Cropanzano (1991) argued that accuracy positively influences employees' perception of fairness in workplace drug screening. Similarly, Alder and Ambrose (2005) indicated that accuracy enhances the perception of procedural justice among employees in the context of computer-based performance monitoring.
+We define accuracy as the extent to which employees perceive that their employers use correct, relevant, and thorough information as evidence when NWRC rules are implemented (see Table 3 for the operationalized definitions of the antecedents). Employees often need to surf the Web for job purposes; and thus, their employers should be able to discern between job and pleasure purposes in their monitoring of employees' time on the Web. Otherwise, employees are likely to perceive that the information collected does not accurately reflect their engagement in NWRC activities. Therefore, we propose accuracy as an important determinant that affects employees' procedural justice belief within the context of NWRC.
+H1
+
+(a): Accuracy positively influences employees' procedural justice belief.
+
+
+Table 3. Antecedents of procedural justice: operational definitions.
+Antecedent	Definition
+Accuracy	The extent to which employees perceive that their employers use correct, relevant, and thorough information as evidence during the implementation of NWRC rules
+Participation	The extent to which employees perceive that their employers have given them opportunities to voice their concern and opinion during the design and implementation of NWRC rules
+Consistency	The extent to which employees perceive that their employers apply NWRC rules consistently across employees or time
+Correctability	The extent to which employees perceive that their employers have given them opportunities to correct unfair decisions during the implementation of NWRC rules
+Ethicality	The extent to which employees perceive that the design and implementation of NWRC rules are compatible with their moral and ethical standards
+3.1.2. Participation
+Participation, which refers to the extent that employees are allowed input into the decision-making process, can influence the fairness belief of employees when actions or policies are introduced in organisations. Leventhal (1980) proposed a similar notion of representativeness and argued that organisations can follow fair procedures by reflecting the opinions, values, and concerns of all subgroups of employees in the decision-making process. Scholars suggest that employees are eager to voice their views and to help their employer design a new action, especially when the implementation of a new action can potentially affect them adversely (Lind & Tyler, 1988). Management may be persuaded with the input given by employees and make decisions favourable to their interests (Kernan & Hanges, 2002).
+Participation has been extensively examined in the literature on procedural justice. The literature has reported strong evidence that individuals who are allowed input input into decision-making processes have a perception of greater fairness, even with unfavourable outcomes, than others who have no opportunity for input (Earley & Lind, 1987). For instance, if employees are given opportunities to have a voice in the design and implementation of an electronic surveillance program, they feel less stress and have a more favourable attitude toward the program (Aiello & Kolb, 1995).
+Within the context of NWRC, we define participation as the extent to which employees perceive that their employers have given them opportunities to voice their concern and opinion in the design and implementation of NWRC rules. Organisations can take different approaches related to NWRC. For instance, organisations may not allow their employees to use computers at work for personal purposes at all. On the other hand, organisations may allow their employees to use computers at work for personal purposes for a limited amount of time. Organisations can also develop a list of certain websites that their employees are not allowed to visit at work. Employees would like to be given opportunities to participate in the process of choosing an approach. When employees are given such opportunities, their belief in the fairness of the procedure related to implementation of NWRC rules can be enhanced.
+H1
+
+(b): Participation positively influences employees' procedural justice belief.
+
+
+3.1.3. Consistency
+Consistency refers to the extent to which employers apply new rules consistently across employees or over time (Leventhal, 1980). When organisations begin to introduce new rules or standards, employees generally expect that the rules or standards will be applied consistently over time and across employees. Discovery of any deviation from this consistency diminishes their belief in procedural justice (Van den Bos, Vermunt, & Wilke, 1996). For instance, Alge (2001) argued that an employee perceives procedures as unfair when electronic performance monitoring is administered inconsistently across employees. In a similar vein, Greenberg (1986) found that consistent application of standards plays a critical role in shaping employees' belief in procedural fairness during the course of performance appraisals.
+Consistency in this study is defined as the extent to which employees perceive that their employers apply NWRC rules consistently across employees or time. The notion of consistency is well applied within the context of NWRC so that employees are expected to shape their belief in procedural justice on the basis of consistency perception during the implementation of NWRC rules. In this regard, Siau, Nah, and Teng (2002) recommended that organisations should be consistent in disciplining employees who violate policies about use of the Interent for personal purposes. When employees find that NWRC rules are not administered consistently, they are likely to react unfavourably to the continuation of NWRC rules. For instance, employees who are punished for violations but see others go unpunished will view application of the rule as unfair. Worse, employees may conclude their employers' enforcement of NWRC rules is intended to punish only certain employees. Therefore, we propose consistency as an important determinant that affects procedural justice belief within the context of NWRC.
+H1
+
+(c): Consistency positively influences employees' procedural justice belief.
+
+
+3.1.4. Correctability
+Correctability refers to the extent that employees are given opportunities to correct unfair or flawed decisions made by their employers. For instance, although inaccurate information may be collected and used in performance appraisals, employees affected may be allowed to appeal and reverse decisions on salary adjustments and performance appraisals through formal and informal procedures. When such opportunities are easily accessible, employees will consider that their employers strive to treat them fairly. Hence, the existence of appeal procedures that allow for adjustments and modifications from decisions made by the management is proposed as a critical determinant of fairness belief (Leventhal, 1980).
+Several studies have demonstrated the favourable impact of correctability on procedural fairness belief in various settings. Greenberg (1986) found employees' ability to challenge and rebut performance evaluations as an important determinant of procedural fairness. Similarly, Barclay and Harland (1995) found a strong positive relationship between employees' fairness belief and correctability within the context of peer performance appraisals. Wagner and Moriarty (2002) found that employees' perceived level of correctability has a positive effect on their belief in procedural justice in workplace drug-testing programs.
+Correctability in this study is defined as the extent to which employees perceive that they are given opportunities to correct unfair decisions during the implementation of NWRC rules. We expect the same important role of correctability in shaping employees' belief on procedural justice within the context of NWRC. For instance, although they make every effort to collect accurate information, organisations cannot exclude the possibility that inaccurate information is used in punishing an employee for violations of NWRC rules. To be fair, the employee should be given a chance to correct the punishment decision. Hence, we view correctability as another distinct determinant that positively affects procedural justice belief among employees within the context of NWRC.
+H1
+
+(d): Correctability positively influences employees' procedural justice belief.
+
+
+3.1.5. Ethicality
+Ethicality refers to the extent to which procedures are compatible with fundamental moral and ethical standards. Leventhal (1980) postulated that organisations can increase employees' belief in procedural justice with procedures compatible with moral and ethical standards. One important aspect of ethical behaviour is honesty. As such, organisations can influence the procedural fairness judgments of their employees by dealing honestly with them (Folger & Cropanzano, 1998). For instance, before evaluating employees' performance or making accusations of rule violations, management may use deception to collect relevant information. However, this deception may violate the ethical standards of employees and cause them to view the entire procedure as unfair.
+Scholars have emphasized the importance of ethicality in shaping individuals' belief in procedural fairness in various settings. Bies (1986) found that recruiters can increase job candidates' procedural fairness belief by dealing with the candidates honestly. Magner, Johnson, Sobery, and Welker (2000) found that local governments can enhance individuals' belief in their procedural fairness by acting ethically in their budgeting and taxing procedures. Ethicality in this study is defined as the extent to which employees perceive the implementation of NWRC rules as compatible with their moral and ethical standards. We expect a similar effect of ethicality on procedural fairness belief within the context of NWRC. If employers are not honest about what information is collected, how it is collected, and how it will be used, employees may conclude that the information collection is unethical and therefore unfair. Therefore, we formulate the following hypothesis with respect to the effect of ethicality on procedural justice belief.
+H1
+
+(e): Ethicality positively influences employees' procedural justice belief.
+
+
+3.1.6. Compliance intention
+To understand the effect of employees' procedural justice belief on their intention to comply with NWRC rules, we applied the theoretical reasoning of the justice framework that justice belief can bind parties together even if they are in conflict with each other (Konovsky, 2000). The introduction of NWRC rules may create tension between employers and their employees. Employers should make every effort to reduce this tension so as to successfully deploy NWRC rules in the workplace. Based on the organisational justice framework, we argue that one effective way to successfully introduce NWRC rules in the workplace is to increase justice belief among employees. When employees view procedures as fair during the design and implementation of NWRC rules, they will be more likely to cooperate with their employers by complying with NWRC rules.
+H2
+
+Employees' procedural justice belief positively influences their intention to comply with NWRC rules.
+
+
+3.2. Moderating role of privacy concerns
+Privacy concerns in this study refer to employees' inherent worries about invasion of information privacy in general. As such, we conceptualize privacy concerns as personal disposition that closely reflects general concerns rather than situation-specific concerns about possible loss of information privacy. Employees are expected to exhibit different levels of concerns about information privacy based on various factors such as past experiences, personal characteristics, and cultures. For instance, individuals who consider themselves victimized by invasion of information privacy in the past have higher concerns about information privacy (Smith, Milberg, & Burke, 1996).
+Privacy concerns as personal disposition will be triggered in circumstances where one's information privacy is vulnerable. When NWRC rules are implemented in organisations, monitoring software is often installed to observe and archive all computer activities by employees (Nord, McCubbins, & Nord, 2006). Thus, an employee's information privacy can be vulnerable with the implementation of NWRC rules, which will activate his general concerns about information privacy. In particular, we suggest that employees' privacy concerns as personal disposition will play an important role by moderating the effect of procedural justice on compliance intention. An employer may endeavour to introduce NWRC rules smoothly with less resistance from employees by providing fair procedures during the implementation of the rules. However, employees with higher levels of privacy concerns will be less likely to accept NWRC rules even if fair procedures are firmly in place. Hence, we posit that the effect of procedural justice on compliance intention will differ among employees depending on their levels of privacy concerns. Accordingly, the following hypothesis is developed regarding the moderating role of privacy concerns on the effect of procedural justice on compliance intention.
+H3
+
+The effect of procedural justice on compliance intention will be negatively moderated by privacy concerns.
+
+
+3.3. Control variables
+Given that GDT-based factors are heavily examined in the prior research, we added perceived deterrent certainty and severity as control variables so as to assess the impact of procedural justice on compliance intention after the effects of GDT-based factors are controlled for. The effects of four additional variables – moral commitment, tenure, age, and gender – on compliance are controlled for because they are likely to influence employees' compliance with rules in their workplace. Moral commitment is negatively associated with IS misuse intention (D'Arcy, 2009). Tenure, age, and gender are expected to be associated with employees' rule-following behaviours in organisations (Tyler & Blader, 2005).]]>
+</section>
+
+    <section name="Research methodology" category="methods">
+        <![CDATA[
+4. Research methodology
+4.1. Scale development
+Procedural justice belief was measured with three items borrowed from Kamdar, Mcallister, and Turban (2006) and the items were modified to be suitable for the context of this study. The three-item scale measured the overall assessment of procedural justice belief rather than tap into various aspects of the construct. Compliance intention was measured with four items borrowed from Tyler and Blader (2005). Privacy concerns were measured with three items, two of which were adapted from Smith et al. (1996), and one item was developed in consideration of the specific context of the current study. The scale for privacy concerns intends to measure employees' privacy concerns regarding NWRC rules in general rather than those specific to their current employers (see Appendix A for all measurement items used for the study).
+Of the antecedents of procedural justice, accuracy, consistency, correctability, and ethicality were measured with three items each. Each of the four antecedents was measured with one item adapted from Colquitt (2001) and with two additional items developed for the current study by tightly following the operational definition of the antecedents. Participation was measured with three items that were adapted from Brockner et al. (1998) and Kernan and Hanges (2002).
+The measurement scales for both deterrent certainty and severity were borrowed from Son (2011) and slightly modified to fit the context of this study. The control variable of moral commitment was measured with a single item borrowed from D'Arcy et al. (2009).
+4.2. Data collection procedure
+To empirically test the research model, this study collected data by administering a Web-based questionnaire survey. Employees whose employers have enacted NWRC rules were the target population for this study. To obtain a sample of this population, we contacted a professional data collection company in South Korea, and the company initially sent an e-mail to its panel members (N = 8475) who were employed at the time when they became the panel members of the company. The company informed us that 2392 panel members opened the e-mail within three days after it was sent. The e-mail simply announced the launch of a new survey without details and included a link to a Website that included two questions on whether they worked as full-time employees and whether their employers had enacted rules to prevent employees from engaging in NWRC. Of the 2392 panel members, 1949 members answered the two screening questions. A total of 529 members who indicated that they are working full-time and their employers enacted NWRC rules were found to be eligible for participation in the survey and therefore, are considered the sample frame of the study.
+An e-mail invitation was subsequently sent to the 529 panel members in the sample frame to solicit their participation in the survey. The e-mail invitation included a link to a Web-based questionnaire with a short description of the study. The criteria for participation in the survey were also added at the beginning of the survey on the website so that panel members ineligible for the study could leave the website without completing the questionnaire. In the end, we obtained a final sample of 209 panel members who completed the surveys and returned usable responses, yielding an effective response rate of 39.5%.
+
+The final sample is heterogeneous in that employees in the sample came from a variety of organisations. Organisations for which respondents in the final sample worked represent a range of industries and sizes (see Table 4). The average age of the respondents in the final sample was 38.5 years, and 70% were male. Ninety-three percent of the respondents had a college degree or more, and 62% had job tenure of more than five years. Seventy-three percent of the respondents indicated that they worked on computers more than four hours a day in their workplace. Respondents in the final sample also indicated that they use computers at work for personal purposes: not at all (n = 3; 1.4%), less than 30 min (n = 32; 15.3%), 30 min–1 h (n = 60; 28.8%), 1–1.5 h (n = 48; 23.0%), 1.5–2 h (n = 21; 10.0%), and more than 2 h (n = 45; 21.5%).
+Table 4. Profiles of respondents' employers.
+Industry groups	Frequency	Percentage	Annual sales revenue (in US$)	Frequency	Percentage
+Automotive industry	9	4.3	Less than $1 million	31	14.8
+IT/electronics	49	23.4	$1–5 million	25	12.0
+Apparel	2	1.0	$5–10 million	24	11.5
+Retail/transportation	16	7.7	$10–50 million	38	18.2
+Construction	21	10.0	$50–100 million	14	6.7
+Chemicals	7	3.3	More than $100 million	77	36.8
+Food/beverage	4	2.0	Total	209	100
+Financial services	25	12.0			
+Pharmacy/medical/bio-tech	7	3.3	Number of employees		
+Oil/gas	3	1.4	Fewer than 300	73	34.9
+Printing/publishing	2	1.0	300–999	54	25.8
+Others	64	30.6	1000–4999	46	22.0
+Total	209	100	5000–10,000	36	17.3
+Total	209	100.0]]>
+</section>
+
+    <section name="Results" category="results">
+        <![CDATA[
+5. Data analysis and results
+The partial least squares approach to structural equation modelling (PLS-SEM) was employed both to assess the psychometric qualities of the measurement scales and to test the research hypotheses. In particular, this study used Smart PLS (release 2.0. M3) for both purposes (Ringle, Wende, & Will, 2005).
+5.1. Measurement validation
+First, to assess the convergent validity of constructs, we examined the loadings of individual items on their underlying constructs and the average variance extracted (AVE) of the multi-item constructs. The lowest item loading between an indicator and its posited underlying construct factor exceeded the recommended minimum value of 0.70 (see Table 5). In addition, the AVEs for all constructs were more than the recommended minimum value of 0.50 (see Table 6). Taken together, these results adequately demonstrated convergent validity.
+Table 5. Constructs: loadings and t-statistics.
+Item	Loading	t-Stat	Item	Loading	t-Stat	Item	Loading	t-Stat
+ACCU1	0.918	79.694***	PART1	0.881	45.120***	SEV1	0.941	96.769***
+ACCU2	0.937	83.669***	PART2	0.894	43.494***	SEV2	0.934	106.816***
+ACCU3	0.892	74.678***	PART3	0.891	36.803***	SEV3	0.914	56.879***
+CONS1	0.893	55.216***	PJ1	0.941	104.109***	CERT1	0.849	31.534***
+CONS2	0.920	88.916***	PJ2	0.961	146.277***	CERT2	0.805	20.194***
+CONS3	0.739	16.118***	PJ3	0.959	113.868***	CERT3	0.829	27.126***
+CORR1	0.956	124.071***	PC1	0.910	6.043***	COMP1	0.922	69.932***
+CORR2	0.958	107.878***	PC2	0.925	7.140***	COMP2	0.970	62.929***
+CORR3	0.935	82.430***	PC3	0.894	5.418***	COMP3	0.935	89.139***
+ETHI1	0.921	70.535***				COMP4	0.955	115.566***
+ETHI2	0.941	89.569***						
+ETHI3	0.891	51.615***						
+***Indicates that an item is significant at the p < 0.001 level.
+
+Table 6. Descriptive statistics, reliability, average variance extracted, and construct correlation matrix.
+ME	SD	AVE	CR	AL	1	2	3	4	5	6	7	8	9	10
+1. Accuracy	4.03	1.46	0.84	0.94	0.90	0.92									
+2. Consistency	4.55	1.55	0.73	0.89	0.81	0.58	0.85								
+3. Correctability	3.47	1.45	0.90	0.96	0.95	0.50	0.27	0.95							
+4. Ethicality	4.19	1.45	0.84	0.94	0.91	0.67	0.56	0.53	0.92						
+5. Participation	3.33	1.53	0.79	0.92	0.87	0.45	0.25	0.67	0.41	0.89					
+6. Procedural justice	4.15	1.50	0.91	0.97	0.95	0.82	0.67	0.50	0.75	0.43	0.95				
+7. Deterrent severity	4.15	1.47	0.86	0.95	0.92	0.42	0.44	0.33	0.39	0.27	0.45	0.93			
+8. Deterrent certainty	4.53	1.36	0.69	0.87	0.77	0.44	0.54	0.28	0.46	0.29	0.55	0.65	0.83		
+9. Compliance	4.86	1.26	0.88	0.97	0.95	0.47	0.49	0.19	0.50	0.18	0.55	0.53	0.68	0.94	
+10. Privacy concerns	4.91	1.56	0.83	0.94	0.90	0.00	0.06	-0.04	-0.10	-0.02	-0.07	0.21	0.16	0.11	0.91
+ME = mean; SD = standarddeviation; AVE = averagevariance extracted; CR = composite reliability; AL = Cronbach's alpha.
+Diagonal elements display the square root of AVE.
+
+
+Next, we examined discriminant validity both at the construct and item levels. As reported in Table 6, the square root of the AVE (diagonal elements) for each construct was larger than the correlations (off-diagonal elements) between the construct and the other constructs, adequately demonstrating discriminant validity at the construct level. In addition, we found no cross-loading issues when we compared correlations between individual items and their posited underlying constructs with those between the items and other constructs, adequately demonstrating discriminant validity at the item level (see Table 7). Finally, we examined the composite reliabilities of constructs. As reported in Table 5, construct reliability was adequately demonstrated because all composite reliability values exceed the recommended minimum level of 0.70.
+Table 7. Construct-item correlations.
+ACCU	CERT	COMP	CONS	CORR	ETHI	PART	PC	PJ	SEV
+ACCU1	0.918	0.387	0.444	0.531	0.490	0.650	0.426	0.021	0.761	0.355
+ACCU2	0.937	0.407	0.410	0.552	0.483	0.625	0.471	−0.024	0.768	0.363
+ACCU3	0.891	0.436	0.454	0.519	0.424	0.591	0.353	0.004	0.733	0.440
+CERT1	0.429	0.849	0.622	0.554	0.278	0.448	0.294	0.03	0.573	0.561
+CERT2	0.279	0.804	0.543	0.416	0.140	0.260	0.165	0.227	0.309	0.434
+CERT3	0.396	0.828	0.534	0.378	0.291	0.441	0.267	0.168	0.469	0.632
+COMP1	0.439	0.643	0.921	0.438	0.178	0.437	0.180	0.069	0.517	0.503
+COMP2	0.448	0.656	0.929	0.462	0.155	0.444	0.178	0.192	0.533	0.525
+COMP3	0.462	0.624	0.934	0.475	0.227	0.506	0.205	0.087	0.509	0.491
+COMP4	0.430	0.646	0.955	0.489	0.173	0.516	0.126	0.088	0.528	0.495
+CONS1	0.554	0.430	0.408	0.893	0.287	0.557	0.262	−0.017	0.641	0.383
+CONS2	0.477	0.488	0.456	0.920	0.255	0.492	0.243	0.041	0.598	0.407
+CONS3	0.463	0.510	0.421	0.739	0.135	0.390	0.135	0.168	0.465	0.348
+CORR1	0.485	0.266	0.173	0.269	0.955	0.510	0.640	−0.067	0.479	0.344
+CORR2	0.474	0.261	0.175	0.275	0.957	0.501	0.624	−0.017	0.462	0.303
+CORR3	0.490	0.291	0.207	0.233	0.934	0.509	0.663	−0.0503	0.506	0.301
+ETHI1	0.583	0.405	0.427	0.531	0.488	0.920	0.399	−0.055	0.694	0.325
+ETHI2	0.670	0.458	0.498	0.521	0.497	0.941	0.384	−0.176	0.728	0.373
+ETHI3	0.617	0.417	0.475	0.511	0.487	0.890	0.359	−0.055	0.644	0.398
+PART1	0.410	0.253	0.131	0.198	0.556	0.308	0.881	0.050	0.353	0.240
+PART2	0.400	0.266	0.155	0.220	0.620	0.364	0.894	−0.012	0.349	0.208
+PART3	0.403	0.265	0.195	0.256	0.622	0.419	0.885	−0.094	0.447	0.277
+PC1	−0.013	0.0798	0.062	0.082	−0.065	−0.107	−0.041	0.910	−0.072	0.155
+PC2	−0.024	0.116	0.117	0.017	−0.026	−0.100	−0.010	0.925	−0.076	0.209
+PC3	0.031	0.225	0.120	0.083	−0.049	−0.087	−0.031	0.893	−0.063	0.193
+PJ1	0.794	0.551	0.566	0.639	0.459	0.687	0.429	−0.032	0.941	0.461
+PJ2	0.787	0.525	0.537	0.651	0.517	0.734	0.433	−0.077	0.960	0.435
+PJ3	0.773	0.496	0.492	0.631	0.481	0.726	0.389	−0.112	0.959	0.410
+SEV1	0.351	0.607	0.497	0.403	0.281	0.356	0.218	0.247	0.391	0.941
+SEV2	0.464	0.677	0.565	0.449	0.380	0.424	0.337	0.161	0.516	0.934
+SEV3	0.333204	0.523	0.420	0.374	0.249	0.313	0.194	0.182	0.344	0.913
+When CMV poses a serious threat, the relationship between independent and dependent variables can be inflated. To assess whether CMV is a serious issue in our study, we first employed Harman's one factor test (Podsakoff & Organ, 1986) by conducting an exploratory factor analysis of all the measurement items. Neither a single factor nor a general factor, which accounts for the majority of the covariances among the items, emerged in the factor analysis. In addition, we employed the marker-variable technique to examine potential biases that CMV could introduce (Lindell & Whitney, 2001). Specifically, a marker variable of fantasizing, measured with three items borrowed from O'guinn and Faber (1989), was used in the current study. An average correlation coefficient between the marker variable and all other variables was close to 0. CMV does not seem to pose a serious threat to our study because the average coefficient is less than 0.10 (Malhotra, Kim, & Patil, 2006).
+Finally, we assessed nonresponse bias using the procedure recommended by Armstrong and Overton (1977). Specifically, we compared the profiles of the first one-third and last one-third of the respondents. We did not find any statistically significant difference between the two groups, and therefore concluded that nonresponse bias was not a serious concern in our study.
+5.2. Structural model testing
+As recommended by Goodhue, Lewis, and Tompson (2007), the product indicator approach under the PLS technique was used to assess the statistical significance of the proposed moderating effect. This is because constructs used to generate the interaction term were measured with reflective indicators rather than with formative indicators, and the sample size was not an issue in this study. The results of structural model testing are reported in Fig. 2. The bootstrap resampling method (200 resamples) was used to compute standard errors and t-statistics.
+Results of structural model testing
+Download full-size image
+Fig. 2. Results of structural model testing.
+Approximately 78% of the variance (R2) is explained for procedural justice belief. Of the potential antecedents of procedural justice belief, accuracy, consistency, and ethicality were found to have statistically significant effects on procedural justice belief (p < 0.01), supporting H1(a), H1(c), and H1(e). However, participation and correctability were not found be statistically significant predictors of procedural justice belief, and therefore, H1(b) and H1(d) were not supported.2
+
+Approximately 58% of the variance (R2) was explained for employees' intention to comply with NWRC rules. Consistent with H2, procedural justice belief was found to have a significant effect on employees' compliance intention (p < 0.01). In addition, consistent with H3, privacy concerns were found to have a significantly negative interaction with procedural justice (p < 0.01), weakening the impact of procedural justice belief on compliance intention. We also found additional evidence for H3 by comparing coefficients on the path from procedural justice to compliance intention between two subsamples. The subsamples were created by splitting the sample using the factor scores of privacy concerns. The path coefficient in the subsample with higher factor scores of privacy concerns was much smaller (β = 0.17, p < 0.10) than that in the other subsample with lower factor scores of privacy concerns (β = 0.33, p < 0.01). It was also found that privacy concerns do not directly influence employees' compliance intention (β = 0.049, p > 0.10). The moderating role of privacy concerns on the effect from procedural justice to compliance intention is graphically depicted in Fig. 3. ]]><h target="4" match="part">Taken together, these results adequately demonstrate that privacy concerns moderate the effect of procedural justice on compliance intention.</h><![CDATA[
+Moderation effect of privacy concerns on the relationship between procedural…
+Download full-size image
+Fig. 3. Moderation effect of privacy concerns on the relationship between procedural justice and privacy concerns.
+The presence of multicollinearity was estimated by computing variance inflation factors (VIFs) with the following two regression equations.
+
+Procedural justice = b0 + b1 × accuracy + b2 × participation + b3 × correctability + b4 × consistency + b5 × ethicality + e1
+Compliance intention = b0 + b1 × procedural justice + b2 × privacy concerns + b3 × (procedural justice × privacy concerns) + b4 × deterrent severity + b5 ×  deterrent certainty + b6 × moral commitment + b7 × tenure + b8 × age + b9 × gender + e1
+VIFs from the estimation of the first regression equation range from 1.68 to 2.29. The estimation of the second regression equation resulted in VIFs that range from 1.08 to 2.17. Given that these values are well below the cut-off value of 5, it was concluded that multicollinearity did not pose a serious problem to the study.
+
+]]><h target="5" match="part">Of the control variables included in the estimation of the structural model, only perceived deterrent certainty was found to have a significant effect on employees' compliance intention </h><![CDATA[(p < 0.01). All other control variables were not found to have significant effects on compliance intention.]]>
+</section>
+
+    <section name="Discussion and limitations" category="discussion">
+        <![CDATA[
+6. Discussion and limitations
+6.1. Theoretical implications
+This study is in line with recent studies on IS-related compliance behaviour that have attempted to provide theoretical explanations so as to offer deeper insight into employees' motivation for compliance. Specifically, the current study applies the procedural justice framework as its theoretical lens. Of course, the efficacy of the procedural justice framework has been offered in the prior work that examined employees' compliance with organisational policies and rules. However, unlike other policies and rules that are well accepted by employees in organisations, employees often do not consider noncompliance of NWRC rules as a serious issue and thus spend much time on computers for personal use in the workplace. In this sense, it seems worth examining whether the perception of procedural justice could also enhance employees' compliance with NWRC rules. We find that the theoretical reasoning of the procedural justice framework also well applies to the current context of NWRC implementation in organisations. In addition, based on the review of the literature on procedural justice, we identify a potential list of the determinants of procedural justice so that we can better understand how employees formulate the perception of procedural justice when organisations deploy NWRC rules. Further, we examine the role of privacy concerns by offering empirical evidence on its moderation effect on the relationship between procedural justice and compliance intention.
+
+Of the five potential determinants of procedural justice identified in the study, we did not find strong empirical support for the effects of participation and correctability on the formation of procedural justice belief. In fact, participation and correctability were each found to have a strong bivariate correlation with procedural justice belief. ]]><h target="3" match="part">Thus, the effects of accuracy, consistency, and ethicality appear to overshadow those of participation and correctability. In this sense, our study contributes to the research stream of IS compliance behaviour by offering an empirically validated set of variables necessary for developing procedural justice belief.</h><![CDATA[
+
+When organisations introduce certain policies to regulate employees' IS use, employees are often concerned about privacy invasion. For instance, when implementing IS security policies, organisations often monitor the e-mails of their employees to ensure confidential information is not sent to unauthorized recipients. Thus, employees who are highly concerned about their information privacy do not willingly accept IS security policies. By the same token, NWRC rules may not be well accepted among employees with high levels of privacy concerns. ]]><h target="4" match="part">By empirically demonstrating that employees' privacy concerns moderate the effect of procedural justice on compliance intention within the context of NWRC, our study sheds light on the role of privacy concerns in understanding IS-related compliance behaviour.</h><![CDATA[
+
+Our study finds that, when the effects of procedural justice and privacy concerns are controlled for, deterrent severity drawn from GDT is not significant in explaining the variance of employees' compliance with NWRC rules. Thus, we did not find strong empirical support for the theoretical argument drawn from GDT. In fact, this result corroborates those of recent studies that have often questioned the efficacy of GDT in explaining IS-related compliance behaviours. For instance, D'Arcy et al. (2009) found that employees' IS misuse intention was significantly related to perceived severity of sanctions but not to perceived certainty. Siponen and Vance (2010) reported that certainty and severity of formal and information sanctions, rooted in GDT, have no strong effect on users' intention to violate IS security policies when the effects of neutralization factors are controlled for. Our findings, combined with those reported in other studies, suggest that IS scholars need to scrutinize the efficacy of GDT as a theoretical basis for understanding IS-related compliance behaviours.
+6.2. Managerial implications
+The findings of our study have several important managerial implications for organisations that strive to regulate their employees' engagement in NWRC. First, the findings suggest that employees are more willing to comply with NWRC rules when they believe fair procedures govern their design and implementation. To reduce employees' NWRC, organisations may consider deploying deterrence-based practices (e.g., deterrent certainty and severity) as a command-oriented approach. That is, they can make a greater effort to detect violations of NWRC rules and to impose severe sanctions on violators. However, employees may be displeased with such deterrence-based practices and react negatively to NWRC rules. Given the findings of our study, organisations are advised to ensure that fair procedures are in place so as to smoothly introduce NWRC rules with less resistance from employees.
+
+Second, this study outlines specific management practices to develop employees' belief in procedural justice. Three specific practices, empirically proven to be salient in enhancing procedural justice belief of employees in our study, include accuracy, consistency, and ethicality. Specifically, organisations should collect correct, relevant, and thorough information to assess their employees' engagement in NWRC. For instance, employees will not consider that accurate information is collected when the time spent on NWRC is assessed based on subjective opinions. In addition, organisations are advised to ensure that NWRC rules are applied consistently over time and across all employees. Otherwise, employees may think their employers apply the rules opportunistically to punish some employees. Further, organisations are advised to abide by moral and ethical standards during the design and implementation NWRC rules. For instance, an organisation should be honest in dealing with its employees by fully disclosing what activities on computers are subject to monitoring, how this is conducted, and what use is made of the information collected.
+
+Finally, we recommend that organisations develop both proactive and reactive strategies to deal with employees who are highly concerned about possible invasion of their privacy during the implementation of NWRC rules. As a proactive approach, organisations should clearly inform their employees what kind of personal information may be collected during the implementation of NWRC rules. For instance, if an organisation installs e-mail monitoring software to control its employees' use of e-mail for personal purposes during work hours, employees should be informed of the installation of such software. As a reactive approach, organisations are advised to develop complaint-handling programs for those times when employees complain about invasion of privacy during the implementation of NWRC rules.
+
+6.3. Limitations and further research
+Several imitations of this study deserve attention. The first limitation relates to the cross-sectional design of this study in which data about both employees' beliefs and behavioural intentions were collected at a single point in time. For instance, our study found that employees' justice belief can foster employees' intention to comply with NWRC rules. However, alternatively, one may argue that the positive relationship between belief and behavioural intention is found because a self-justification process has been applied by employees. Specifically, employees might have changed their belief in procedural justice based on their intention to comply with (or violate) NWRC rules, not vice versa. To exclude such an alternative explanation of the results, future research should consider a longitudinal design by collecting data at different points in time.
+
+Second, we might have omitted other variables that are potentially important in explaining employees' intention to comply with NWRC rules. For instance, our study did not examine the effect of the current level of compliance on employees' intention to comply with NWRC rules. In addition, to focus on the core of this study, we did not examine other forms of organisational justice (e.g., distributive, interpersonal, informational justice) in terms of their effects on compliance intention and their determinants. Hence, we suggest that future studies examine other potential determinants to offer a deeper and richer insight into employees' motivation to comply with NWRC rules.
+
+Third, it should be noted that our sample consists only of employees in South Korea. We cannot exclude a possibility that national culture might have created a significant effect in gauging the relationship between key research variables in our study. For instance, the employee-employer relationship may be different depending on national cultures. Hence, we suggest that a potential avenue for future research is to replicate our study in the context of other countries.]]>
+</section>
+
+
+    <section name="Appendix A. : Measurement items" category="appendix">
+        <![CDATA[
+Appendix A. : Measurement items
+Procedural justice
+PJ1. My company has fair rules on NWRC.
+
+PJ2. My company's procedures and guidelines on NWRC are fair.
+
+PJ3. My company's NWRC rules are implemented fairly.
+
+Compliance intention with NWRC rules
+COMP1. I intend to comply with rules and regulations related to NWRC.
+
+COMP2. I am likely to use rules related to NWRC to guide what I do on computer at work.
+
+COMP3. I intend to comply with company instructions about non-work-related computer use.
+
+COMP4. I will follow rules related to NWRC.
+
+Privacy concerns
+PC1. I am concerned that the implementation of NWRC rules collects too much personal information about me.
+
+PC2. I am concerned that personal information collected for the implementation of NWRC rules is used for any other reason.
+
+PC3. I feel uneasy that I am being watched every time I use a computer.
+
+Accuracy
+ACCU1. NWRC rules are implemented based on accurate information about employees' activities on computer.
+
+ACCU2. Decisions on the violation of NWRC rules are made accurately with information about employees' activities on computer.
+
+ACCU3. My company uses correct evidence when decisions on the violation of NWRC rules are made.
+
+Consistency
+CONS1. NWRC rules are applied consistently to all employees.
+
+CONS2. NWRC rules are applied to all employees who use computers in my company.
+
+CONS3. My company monitors employees' use of computers with the same procedure.
+
+Correctability
+CORR1. My company provides employees with opportunities to appeal against decisions during the implementation of NWRC rules.
+
+CORR2. My company allows employees to express their opinion on unfair decisions during the implementation of NWRC rules.
+
+CORR3. My company has procedures for employees to correct unfair decisions that may be arisen during the implementation of NWRC rules.
+
+Ethicality
+ETHI1. NWRC rules in my company upheld ethical and moral standards.
+
+ETHI2. The implementation of NWRC rules in my company is morally right.
+
+ETHI3. NWRC rules are applied to employees with ethical and moral standards.
+
+Participation
+PART1. My company has given opportunities to participate in the design of NWRC rules.
+
+PART2. My company is open to suggestions from employees to improve NWRC rules.
+
+PART3. I can freely express my viewpoints to my company if I have any issue with NWRC rules.
+
+Deterrent severity
+SEV1. If I were caught violating NWRC rules, the sanctions would be very severe.
+
+SEV2. My employer would take strict action against violation of NWRC rules.
+
+SEV3. If I violate NWRC rules, the sanctions would put me in serious trouble.
+
+Deterrent certainty
+CERT1. My employer strictly enforces NWRC rules with employees.
+
+CERT2. I am likely to incur sanctions if I violate NWRC rules.
+
+CERT3. My employer explicitly communicates that sanctions will follow if NWRC rules are violated.]]>
+</section>
+
+</publication>

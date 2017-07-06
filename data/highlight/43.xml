@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<publication marker="gai shuangshuang">
+    <journal>International Journal of Information Management</journal>
+    <time>Volume 36, Issue 6, Part B, December 2016, Pages 1288-1300</time>
+International Journal of Information Management
+    <title>The integration effort and E-health compatibility effect and the mediating role of E-health synergy on hospital performance</title>
+    <author>Jen-Her Wu</author>. Author links open the author workspace.Opens the author workspacea. Numbers and letters correspond to the affiliation list. Click to expose these in author workspaceb. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace
+        <author>Hao-Yun Kao</author>. Author links open the author workspace.Opens the author workspaceOpens the author workspaceb. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace
+        <author>Vallabh Sambamurthy</author>. Author links open the author workspace.Opens the author workspacec. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace
+a
+Department of Information Management, National Sun Yat-Sen University, 70 Lien-Hai Rd., Kaohsiung 804, Taiwan
+b
+Department of Healthcare Administration and Medical Informatics, Kaohsiung Medical University, 100 Shih-Chuan 1st Rd., Kaohsiung 807, Taiwan
+c
+Eli Broad College of Business, Michigan State University, 207 N. Business Complex, East Lansing, MI 48824, United States
+Show more
+    <doi>https://doi.org/10.1016/j.ijinfomgt.2016.09.002</doi>Get rights and content
+Highlights
+•
+    <highlight id="1">Providing a theoretical explanation for why IT-enabled resources drive hospital performance.</highlight>
+•
+    <highlight id="2">Advancing our theoretical and practical understanding of E-health can be effectively integrated to the realization of E-health strategy.</highlight>
+•
+    <highlight id="3">Developing the E-health synergy concept to enhance the relationship between IT-enabled resources and hospital performance.</highlight>
+
+    <abstract>  <![CDATA[Abstract
+Interest in improving healthcare organization performance continues to remain strong and it has motivated research into the antecedents of healthcare performance. As these organizations invest in information technology and develop needed capabilities, there is a need to understand the effects of these factors on performance. ]]><h target="1" match="part">Therefore, drawing on systems theory, we develop a theoretical model, consisting of three key variables: E-health compatibility, E-health synergy and the integration effort, to form the IT-enabled resources for investigating their effects on hospital performance. </h> <![CDATA[Data gathered from top management teams through a large-scale survey is used to test the hypotheses. The empirical results provide evidence that greater integration effort drives greater E-health synergy by enhancing E-health compatibility. In turn, these IT-enabled resources enhance healthcare organization performance. In addition, the integration effort can drive hospital performance through enhanced E-health compatibility and E-health synergy. Our findings highlight the important role of E-health compatibility and E-health synergy in mediating the integration effort effect on hospital performance. These findings are particularly valuable to those concerned with the assimilation of E-health and to administrators in healthcare organizations. Healthcare organizations can develop Ehealth compatibility and E-health synergy capabilities and devote integration efforts to integrate an IT asset and an organizational resource in accordance with their organizational context. This assists the healthcare organization in preparing for the necessary changes to ensure better hospital performance through the exploitation of e-health technology.]]></abstract>
+
+Keywords
+    <keywords>Systems theory</keywords>
+    <keywords>IT adaption</keywords>
+    <keywords>E-health alignment</keywords>
+    <keywords>E-health compatibility</keywords>
+    <keywords>Integration effort</keywords>
+    <keywords>E-health synergy</keywords>
+    <keywords>Hospital performance</keywords>
+    <section name="Introduction" category="introduction">
+        <![CDATA[
+1. Introduction
+The healthcare industry is undergoing significant transformations with the need to lower costs, enhance service quality and deliver innovative services becoming strategic imperatives. Advancements in information technologies (ITs) provide both opportunities and obstacles for delivering high-quality and efficient health care, and improving the patient-physician relationship (Dentzer, 2011; Institute of Medicine, 2001; Chao, 2016; Farre & Cummins, 2016). IT has assumed center stage in recent discussions about healthcare reform in many countries, with the Unites States government, for example, increasingly turning to mandates and incentives to speed up the IT adoption rate.1 However, evidence suggests that organizations in the healthcare sector have been strikingly slow to adopt IT despite their promise for business value (Ash & Bates, 2005; Berry & Bendapudi, 2007; Cresswell, Bates, & Sheikh, 2016; DesRoches et al., 2008; Jha et al., 2009; Sharma, Chandrasekaran, Boyer, & McDermott, 2016;). To the extent that IT can help alleviate persistent problems such as inadequate patient safety, medical errors and escalating costs, accelerating the diffusion of IT in healthcare is a crucial public policy issue (Bush, 2004; Cresswell et al., 2016; Walker, Pan, Johnston, & Adler-Milstein, 2005).
+IT use in healthcare is also referred to as electronic health (E-health) and it is defined as the cost-effective and secure use of IT in support of healthcare-related activities (Eysenbach, 2001; Dedding, van Doorn, Winkler, & Reis, 2011; World Health Organization, 2004). The influence of E-health might increasingly affect the very roots of our current healthcare systems (Wu, Chen, & Greenes, 2009). A variety of E-health applications and innovations have been implemented. Examples include electronic health records (EHR), computer-based physician order entry (CPOE), health information exchange (HIE) systems, and picture archiving and communication systems (PACS). These applications hold even greater promise for the future. For instance, the hospital adoption of EHR has saved approximately sixty thousand lives, prevented five hundred thousand serious medical errors, and saved 0.97 billion in annual medical expenditures (Milstein, 2006; Lanham et al. (2012); Chao, 2016).
+However, healthcare organizations are not very successful in adopting and gaining benefits from E-health. Deficiencies in understanding the compatibility between health IT assets and hospital resources (known as E-health compatibility) and neglecting the emerging capability associated with the new E-health (known as E-health synergy), and greater top management support in integrating resources (known as integration effort) for implementing and evaluating the impact of E-health have contributed to the lack of widespread success (Gagnon, Nsangou, Payne-Gagnon, Grenier, & Sicotte, 2014; Kellermann & Jones, 2013; Lewis, Synowiec, Lagomarsino, & Schweitzer, 2012; Mair et al., 2012; Nevo, & Wade, 2011; Wang, Chen, & Benitez-Amado, 2015). While there is a rich body of literature on the technological developments and clinical applications in the healthcare environment (e.g., Middleton et al., 2013; Cresswell, Bates, & Sheikh, 2016), existing studies focus mainly on investigating the organizational impact of IT and consequently the business value of IT (Black et al., 2011; Kohli & Mann, 2012; Porter, 2010) or the challenges associated with the meaningful use of EHR or EMR (e.g. (Miller et al., 2015; Newell & Davd, 2012; Vest & Jasperson, 2010). Therefore, utilizing a theory-focused approach to better understand the role of integration effort, E-health compatibility and E-health synergy in influencing hospital performance is needed. Addressing this issue, systems theory is salient. This theory suggests that health IT assets (e.g., CPOE, EHR, PACS, laboratory information system etc.) can play a strategic role when they are combined with hospital resources (e.g., health professionals, training programs, incentives, policy etc.) to create IT-enabled resources. If the relationships between IT assets and hospital resources are synergistic in achieving the hospital’s E-health goals, ensuring IT-enabled resources are capable of positively affecting a hospital’s competitive advantage becomes practicable. Therefore, the purpose of this study is to examine (1) how hospital performance is influenced collectively by integration effort, E-health compatibility and E-health synergy; (2) how E- health synergy mediates the positive effect of integration effort and E-health compatibility on hospital performance.]]>
+</section>
+
+    <section name="Theoretical foundations and model development" category="background">
+        <![CDATA[
+2. Theoretical foundations and model development
+We draw on systems theory to develop an explanatory model and a set of hypotheses related to IT-enabled resources and their impacts on hospital performance. Systems theory, expanded by Nevo and Wade (2010) , suggests a path from IT assets (i.e., commodity-like or off-the shelf ITs) to strategic potential (i.e., IT-enabled resource’s value property), then to sustainable competitive advantage. This path suggests that by driving the integration effort, IT assets can play a strategic role when they are combined with organizational resources to create IT- enabled resources. To the degree that relationships between IT assets and organizational resources are synergistic, these IT-enabled resources are capable of positively affecting the firm’s strategic potential. The realization of synergy depends on the mutual compatibility of the IT assets and organizational resources (Nevo & Wade, 2010).
+2.1. Systems theory and it-enabled resources
+Systems theory deals with systems taken as a whole, rather than individual parts. A system is a composite thing comprised of a number of parts (subsystems) that interact to accomplish a set of goals. The interactions among these parts constitute a whole, which is greater than the sum of the individual parts. The whole system, derived from the synergistic interaction of the parts equals the sum of its parts plus their complementary interactions (Ackoff, 1971). It is very complex to model exactly how subsystems interact to constitute a whole. The properties, patterns and structure that emerge from these interactions are an effective way of studying the whole. The new properties derived from the subsystem’s interactions are called emergent properties. The emergent properties of a collective system are the things that can be perceived and measured (Corning, 1998).
+Emergent properties can be positive, neutral or negative according to organizational goals. Positive emergent properties are called synergy. Synergy between IT and other organizational resources is realized when IT and other organizational resources are compatible and integrated (Nevo & Wade 2010). Compatibility refers to the degree to which systems fit with each other and is achieved when systems are able to seamlessly work together. Compatibility between transactional and informational systems ensures that transactional systems (people and processes) are able to work with informational tools, functionalities and insights. Conversely, the informational tools should match the decision needs of the transactional system, as different organizational resources may have different information needs. Integration effort refers to the effort of management to bring transactional and informational resources together and direct and support their interaction congruent with the organizational goals (Nevo & Wade, 2010). Management is responsible for managing the changes and properly accommodating informational resources in relationships with transactional resources.
+Nevo and Wade (2010) argued based on systems theory that the mere combination of IT assets (i.e., commodity-like or off-the shelf ITs) and organizational resources forms potential synergy, which is not sufficient to guarantee a synergistic outcome, i.e., realized synergy. Instead, the realization of synergy depends on two enabling conditions: compatibility and integration effort. They further suggested that three important constructs: compatibility, synergy and integration effort form IT-enabled resources. Among them, compatibility is a precursor of synergy and positively affects synergy; while integration effort has a positive effect on both compatibility and synergy. Where compatibility is an emergent capability that represents the feasibility of the relationship between an IT asset and an organizational resource, not its desirability. The emergent capability can be negative, neutral or positive and is considered positive or beneficial if they have the potential to help an IT-enabled resource achieve organizational tasks or goals. Synergy is defined as positive emergent capabilities that accrue from the relationship between an IT asset and an organizational resource. Integration effort represents activities undertaken by management to support, guide and help with IT asset integration into an organizational resource.
+Systems theory has emerged as a powerful explanation to account for the influence of IT-enabled resources on organizational outcomes, especially on business IT value. Empirical evidence has also shown that many IS resources can provide organizational performance gains (e.g., (Bharadwaj, 2000; Rai, Patnayakuni, & Seth, 2006; Ravichandran & Lertwongsatien, 2005; Santhanam & Hartono, 2003; Tanriverdi, 2006).Thus, systems theory and prior research provide a theoretical foundation for us to develop a conceptual model to explain how IT- enabled resources facilitate hospital performance in the healthcare context.
+2.2. Antecedent of e-health synergy
+]]><h target="3" match="part">This study adopted from Nevo and Wade (2010) the concept that systems are formed through relationships between IT assets and organizational resources as IT-enabled resources and the synergy as E-health synergy in the healthcare context. E-health synergy is defined as positive emergent capabilities that accrue from the relationship between an IT asset and an organizational resource in the healthcare context. </h> <![CDATA[ We define IT assets as widely available ITs that are used to support healthcare related activities or to process, store and disseminate information. Realizing E-health synergy for a relationship between an IT asset and an organizational resource depends on the presence of two enabling conditions: compatibility and integration effort.
+To develop a refined understanding of the comparability role more specifically for the healthcare sector, in our study, we use E-health compatibility instead of compatibility. E-health compatibility is decomposed into two types: compatibility between IT assets (termed as IT adaption) and compatibility between an IT asset and an organizational resource (termed as E-health alignment). We treat them as two distinct constructs. IT adaption represents the feasibility of the relationship between IT assets and E-health alignment represents the feasibility of the relationship between an IT asset and an organizational resource. These two types of compatibility are important in the healthcare context because a variety of technological applications have been utilized in healthcare organizations and these systems need to be compatible in order to communicate with each other and fit with the working routines, level of expertise and other characteristics of the organizational resources.
+
+To reach this goal these IT assets should be compatible with each other; for instance, having the same protocol, standards and so forth. Secondly, these IT assets also need to be compatible with organizational resources such as business activities, routines, or cultural norms in a healthcare context. For example, Collin et al. (2008) described this phenomenon by observing that when a new information system for requesting radiological examinations, storing and displaying images (referred to as a picture archiving and communications system or PACS), and existing systems for ordering tests and browsing results (referred to here as computerized physician order entry or CPOE) share a communication standard (i.e., the values of the properties of these systems are the same, say DICOM 3.0, SNOMED, TCP/IP protocol), they may then exchange information for the treatment of patients − that is, they are compatible (i.e., IT adaption) (Collin et al., 2008). Likewise, compatibility must also exist between the IT asset and the organizational resource with which it is combined. For instance, the features and functionalities of the PACS and CPOE also need to fit with the working routines, level of expertise and other characteristics of the organizational personnel before interactions can take place (i.e., E-health alignment).
+As mentioned above, E-health refers to the cost-effective and secure use of IT in support of healthcare-related activities. Accordingly, we define E- health compatibility as an assessment of the ability of E-health technologies and hospital resources to form a relationship. E-health compatibility can be conceptualized as a second- order latent construct with two dimensions: IT adaption and E-health alignment. The joint effect of these compatibilities represents a coherent depiction of the multidimensional nature of E-health compatibility.
+
+Given the synergy among the two E-health compatibility dimensions, it is considered to be composed of independent variables (e.g. IT adaption and E- health alignment). The causal action flows from the independent variables (indicators) to the composite variable. Furthermore, we propose a formative second-order model formed by a set of two first-order sub-constructs: IT adaption and E-health alignment, to describe the multidimensional nature of E-health compatibility, as shown in Fig. 1. The second-order model is implied by the complementarities among these two compatibilities. Because these two compatibilities must converge, the sub-constructs cumulatively contribute to a higher-order E-health compatibility construct that can more parsimoniously explain their joint effect.
+Fig. 1
+Download high-res image (280KB)Download full-size image
+Fig. 1. Research Model and Hypotheses.
+Nevo and Wade (2010) pointed out that compatibility has been recognized as a factor capable of influencing the realization of synergy in different circumstances. We argue that E-health compatibility makes it possible for a health IT asset and hospital resources to interact, thereby enhancing the likelihood of E-health synergy. Therefore, we propose the following hypothesis:
+H1: E-health compatibility is positively associated with E-health synergy.
+
+Systems theory regards management as a mechanism for transforming the organization’s parts into an organized system that can accomplish one or more goals. Managing a system concerns governing the independent actions of its components (i.e., relationships) and also their interactions. Accordingly, integration is needed to ensure unification of the system’s components and achievement of the system’s goals (Nevo & Wade, 2010). Integration effort is needed to ensure that an IT and an organizational resource interact and that they do so in a manner that is congruent with the organization’s goals. For instance, consider the process of assimilating EHR, a particular type of E-health innovation centered on the integrated management of patient medical records. A hospital must first need to sense this emerging technology, understand its features and functionalities and recognize its economic and non-economic value. During this process the hospital needs to engage in organizational learning to gain new EHR knowledge and understand its value co-present with other resources and capabilities. Once the hospital decides to implement EHR, the hospital needs to assimilate this technology.
+An EHR system is a composite made up of a patient’s text, numeric, and image data. Considering the case of diagnosis service performed by a physician. The physician needs to review the patient’s medical history including basic profile, laboratory data, image information and so forth in order to make a diagnosis. An EHR system can be put in place to connect these data sources, allowing the physician to consider these information areas simultaneously, view the data trend for some specific factors or automatically provide alerts and suggestions (Lanham, Leykum, & McDaniel, 2012). In this scenario a physician’s ability to perform a diagnosis using the EHR emerges from the interactions among cross-enterprise clinical documents sharing and the health technology (Nevo & Wade, 2010; Nevo & Wade, 2011;). In addition, some practices management functions related to EHR are required such as maintaining the patient’s demographic information, coding patient encounters for billing purposes, familiarity with computerized patient records and general computer literacy. These are important emerging capabilities for assimilating such E-health technology. Without these capabilities E-health technology assimilation could be slowed down or even stopped.
+In the EHR assimilation process management must estimate how a relationship between a specific IT asset and an organizational resource will serve the organization’s goal. Thus, management should evaluate the potential synergy between this EHR and an organizational resource. If this potential synergy is to be realized management must convert its thoughts into actions. This means that integration effort is required to ensure that the IT asset and the organizational resource are properly combined. Providing roadmaps, resources and incentives for implementation, offering training sessions and modifying organizational structures are types of integration effort activities that may serve as an enabler of E-health synergy by facilitating interactions between an IT asset and an organizational resource and providing the organizational context for those interactions (Nevo & Wade, 2010). We propose the following hypothesis.
+H2a: Integration effort is positively associated with E-health synergy.
+
+According to Nevo and Wade (2011) integration effort describes management attempts to facilitate a successful IT asset and organizational resources combination. The same activities taken by management to help with IT asset and organizational resource integration can also have a positive effect on the compatibilities between two components among IT assets. Drawing once again on the preceding EHR example, if the physicians have received training with the EHR system to develop or increase their ability to effectively use the EHR, the IT professionals should have received training with the EHR system to develop the ability to understand the HER standard and protocol, making it easier for them to incorporate HER with other IT assets, i.e., to make them compatible. Therefore, we propose the following hypothesis.
+H2b: Integration effort is positively associated with E-health compatibility.
+
+2.3. Impacts of E-health synergy on hospital performance
+Hospital performance has become a matter of popular concern within the healthcare industry. Tighter budgets and widespread restructuring have led to higher expectations from many stakeholders such as patients, the public, health professionals and third-party payers. Financial indices (e.g., Return on Investment (ROI) and Return on Assets (ROA)) are traditionally used to measure a firm’s performance (Li, Chen, & Huang, 2006). However, the financial indices recorded in public databases are usually outdated. They cannot accurately represent the current performance of a firm. Most firms are hesitant to report information about their current performance. Although most prior studies on firm performance have adopted financial indicators, these have limited applicability to the healthcare industry. In particular, due to healthcare organizations emphasis on providing quality care, financial figures alone are not suitable indicators of healthcare sector performance (Hammerschmidt, Falk, & Staat, 2012).
+Over the last decade, healthcare reforms have begun transforming and reconstructing health care as commodities and products. The efforts and processes for introducing E-health into an organization and providing services and connections to consumers, employees and partners, constitute a part of the E-health transformation. It involves the creation of new values in terms of health care and services provision. Such measures are commonly used to help an organization define and evaluate performance, which is typically evaluated in terms of the progress made toward long-term organizational goals.
+
+The Institute of Medicine’s report (2001) and related research provide robust foundations for measuring hospital performance (Institute of Medicine, 2001). The report disclosed that current healthcare systems could often not conform to the modern requirements for medical care. A new era of norms and principles were established for health care quality. Patient care must be delivered by systems that are carefully and consciously designed to provide safety, effectiveness, patient-centeredness, timeliness, efficiency and equity. Werner et al. (2008) argued that quality is another aspect of hospital care that affects performance (Werner, Bradlow, & Asch, 2008). Hospital care transformation has moved toward using performance measures to hold organizations accountable for their quality and using evidence-based approaches to improve care. We define hospital performance as the extent to which the hospital has achieved its patient safety, effectiveness, patient centeredness, timeliness, efficiency and equity in utilizing E- health.
+Adopted from Nevo and Wade (2010), E-health synergies are positive emergent hospital capabilities that exploit a technological innovation for promoting E-health, leading to extending the hospital’s capabilities, creating efficiency and synergies that enable the hospital to adapt more quickly to environmental changes. Healthcare IT has been considered the main catalyst in stimulating E-health innovations that trigger considerable changes in healthcare processes and performance outcomes (Markus, 2004; Straub & Watson, 2001).
+The promotion of healthcare IT is the priority most commonly mentioned as a prerequisite for sustained progress toward greater health care value. Significant health care innovation will occur in many areas with the use of new health care processes and technologies, which will alter how and by whom services are delivered to patients (Kohn, 2004). Because of this, previous hospital processes are vulnerable to disruption by new technologies and other innovations that can offer cheaper, simpler and more convenient means of care (Christensen, Bohmer, & Kenagy, 2000). Hospitals must therefore make E-health synergy a priority for both managing the organization and conducting integrated clinical activities (Walston, Burns, & Kimberly, 2000).
+Beginning in 2008 the U.S. National Committee for Quality Assurance (NCQA) encouraged physicians to adopt IT to easily communicate with and access information related to their practice operations and uses these systems to track patient treatment and conditions. A variety of E-health applications and innovations have been implemented in healthcare systems, such as the HIE, EHR and PACS. The benefits obtained from these innovations are drivers for the transformation of today’s healthcare systems. The future holds the promise of even greater benefits and change. These innovations involve using IT to support core administrative and professional E-health services.
+
+As the world changes healthcare industries and systems have encountered dramatic changes in IT. Essentially, today’s healthcare reforms have begun transforming health care into commodities and products. A portion of health service innovation consists of the efforts and processes involved in introducing E-health into a healthcare organization and providing innovative healthcare services and connections to consumers, employees and partners. It also involves the creation of new value in terms of providing e- medical products and services. The Institute of Medicine used the term “Crossing the Quality Chasm” to describe how current healthcare systems often could not conform appropriately to modern requirements for medical care. A new era of healthcare quality norms and principles were established in the report. Patient care must be delivered by healthcare information systems that are carefully and consciously designed to be safe, effective and patient-centered. As a result, it is critical for modern healthcare organizations to create new value by exploiting E-health initiatives that successfully integrate clinical and care delivery systems, enhance relationships with patients, develop new care services, create partnerships with other stakeholders and generate long-term profits (Dedding et al., 2011).
+E-health synergy leads to improvements in clinical and service quality, and subsequently results in better operational efficiency and effectiveness (Salge & Vera, 2009). Hospitals should consider the improvement of E-health synergy as a critical strategy in enhancing overall hospital performance. Therefore, the following hypothesis is proposed.
+H3: E-health synergy is positively associated with hospital performance.
+
+2.4. The mediating role of E-health synergy
+Studies have shown that the mere combination of IT assets and organizational resources do not guarantee higher firm performance (Mettler, 2016; Slotegraaf & Dickson, 2004). There must be some intervening factors that affect a firm’s performance, such as synergy, to make the linkage between hospital capability and performance more feasible. The mediator is known to affect firm performance (Demirezen, Kumar, & Sen, 2016; Rousseau, Mathias, Madden, & Crook, 2016Song et al., 1997). In our study E- health synergy is treated as a mediator affecting hospital performance.
+Integration effort has a positive effect on E-health compatibility and E-health synergy; however, we do not expect integration effort to have a direct effect on hospital performance because without creating a realized E-health synergy, the integration effort and E-health compatibility are unlikely to directly affect IT-enabled resource’s value property. Rather, this benefit results from integration efforts through the E-health compatibility and E-health synergy. Indeed, hospitals that have selected the same healthcare ITs have realized very different outcomes based on the level of E-health compatibility and E-health synergy within the hospitals. For example, consider the case of a tele-care service: a local medical team needs to make a patient diagnosis but lacks the necessary knowledge to perform the diagnosis while a remote medical team has the necessary knowledge but is too far from the patient to perform the diagnosis. A tele-care system and video conferencing technology can be put in place to connect these two teams, allowing them to jointly diagnose the patient (Richardson, Christopher Frueh, Grubaugh, Egede, & Elhai, 2009; Wade, Karnon, Elshaug, & Hiller, 2010). Another example using the same technologies, a hospital may use it for video conferencing and diagnosis separately due to the lack of E-health compatibilities and positive emergent IT asset and organizational resource capability combination. Another hospital may have a better sense in recognizing the features of such an IT asset and its opportunities and has the positive emergent capabilities, and thus will move one step forward and use it for tele-consultation, family medicine, or multi-center palliative medicine and so forth (Kidd, Cayless, Johnston, & Wengstrom, 2010). Accordingly, with the same healthcare IT, the health service context and resources applied can be varied, thereby creating different value (Boonstra, Broekhuis, Offenbeek, & Wortmann, 2011).
+The aforementioned E-health compatibility and E-health synergy foster organizational learning. As E-health processes are complex and ongoing, it is useful for the top management to devote integration effort to help promote understanding about the abilities of E-health compatibility and E-health synergy, thus enhancing potential E- health value. The benefits result from integration effort through the E-health compatibility and E-health synergy will affect IT-enabled resource’s value property, leading to the following hypotheses:
+
+H4a: E-health compatibility mediates the positive integration effort effect on E-health synergy.
+
+H4b: E-health synergy mediates the positive E-health compatibility effect on hospital performance.
+
+H4c: E-health synergy mediates the positive integration effort effect on hospital performance.
+
+Accordingly, in the context of our research we theorize that greater integration effort drives greater E-health synergy by enhancing compatibility. In turn these IT-enabled resources enhance healthcare organization performance. In addition, greater integration effort drives greater hospital performance by enhancing E-health compatibility and E-health synergy in the healthcare organization. The elements of our model are shown in Fig. 1.]]>
+</section>
+
+    <section name="Research methodology" category="methods">
+        <![CDATA[
+3. Research methodology
+3.1. Instrument development
+The research construct/sub-construct definitions are summarized in Table 1. Accordingly, an initial questionnaire was developed based mainly on the construct definitions. After compiling the English version of the questionnaire, the draft survey items were first translated into Chinese by two senior administrators and then verified for translation accuracy by three IT/healthcare professors. The Chinese version of the questionnaire was then pre-tested and refined via several rounds of in-depth personal interviews with a panel of academic members and top management (e.g., superintendent, vice superintendent, chief medical officer, and chief information officer) in the healthcare industry in Taiwan for face and content validity. Feedback from the in-depth personal interviews served as the basis for refining the wording and scales of the survey instrument before starting to distribute the questionnaire. Prior to mailing the questionnaire, we sent invitation letters to members of the top management at numerous healthcare institutions. The letter explained the purpose of our study and inquired whether the organization would be willing to participate.
+Table 1. Definitions of Research Constructs.
+Constructs	Definition
+E-health Compatibility a(EHC): An assessment of the ability of E-health technologies and hospital resources to form a relationship.
+Hospital Performance b(HPE): The extent to which the hospital has achieved its patient safety, effectiveness, patient centeredness, timeliness, efficiency and equity in utilizing E-health.
+IT Adaptiona (ITA)	The feasibility of the relationship between IT assets
+E-health Alignmenta (EHA)	The feasibility of the relationship between an IT asset and an organizational resource
+E-health Synergy (EHS)	The ability of a firm to create positive emergent capabilities that accrue from the relationship between an IT asset and an organizational resource in the healthcare context
+Integration Effort (IE)	The activities undertaken by management to support, guide and help with the integration of an IT asset into an organizational resource
+Safetyb	The degree to which a hospital avoids injuries to patients from the care that is intended to help them
+Effectivenessb	The degree to which a hospital provides services based on scientific knowledge to all who can benefit and refrains from providing services to those not likely to benefit
+Patient-Centerednessb	The degree to which a hospital provides care that is respectful of and responsive to individual patient preferences, needs, and values, and ensures that patient values guide all clinical decisions
+Timelinessb	The degree to which a hospital reduces wait times and occasionally harmful delays for both those who receive and those who give care
+Efficiencyb	The degree to which a hospital avoids waste: in particular, waste of equipment, supplies, ideas and energy
+Equityb	The degree to which a hospital provides care that does not vary in quality because of personal characteristics
+Note: a,b Both second-order constructs and their sub-constructs are defined in this table. The italicized definitions are associated with second-order constructs.
+
+The final version of the questionnaire contained two major parts: (1) demographic and background information of the respondent and the hospital and (2) the construct measurement items. The basic data portion asked participants to provide demographic information as well as information about their hospitals (e.g., type, ownership, and number of beds). The second part contained the scale items for the four major constructs of the proposed research model. All items were measured using a five-point Likert scale ranging from 1 (strongly disagree) to 5 (strongly agree). To ensure that respondents would have the same understanding of hospital performance as the authors, we provided clear definitions of E-health and hospital performance at the beginning of the questionnaire.
+
+3.2. Data collection
+A cross-sectional mail survey was administered to collect data from the top management of Hospitals that have implemented E-health related systems in 2012. Based on annual statistics from the Ministry of Health and Welfare (MOHW) in Taiwan, we constructed the initial mail-out list for distributing the questionnaires. The hospitals on the mailing list included 20 medical centers, 81 regional hospitals, and 66 well-established district hospitals and their branches. Prior to mailing the questionnaires, an invitation letter explaining the purpose of our study and inquiring whether the organization would be willing to participate in the study with the approval of institutional review boards (IRB) was sent to the top management team members (i.e., superintendent, vice-superintendent, chief information officer, chief medical officer, chief of administration and nursing). We tried to find a specific local contact (i.e., the secretary of the superintendent) for each target healthcare organization. Overall, we sent 830 questionnaires to all target Hospitals The survey was mailed out to target respondents at the hospitals and was followed up with two rounds of e-mails, postcards and phone calls to all non-responders within 5 months.
+
+Overall, 213 questionnaires were returned, with 187 usable for subsequent analysis, yielding a valid response rate of 22.53%. We checked the problem of non-response bias by comparing the responding and non-responding respondents in terms of organization type, number of beds and geographic location between the responding and non- responding respondents. The results indicated that none of the Chi-square tests or t-tests values were statistically significant (p > 0.05, two-tail tests), suggesting that non-response bias was not a serious concern (Armstrong & Overton, 1977). The unit of analysis for this study is the hospital. In some cases, we received multiple responses from the same Hospital. Specifically, two or more (three or four) valid questionnaires were received from 83 out of 104 Hospitals. In these cases, we checked the consistency of the responses by calculating the correlation between multiple respondents from the same hospitals. On average, among the majority of the 104 hospitals, there was a significant correlation across all items provided by multiple respondents of an organization. Thus, we aggregated multiple responses from the same Hospital by averaging the responses across all items. After this process, the 187 responses were aggregated as 104 data points for the subsequent analysis. The characteristics of the respondents are shown in Table 2.
+Table 2. Respondent Characteristics (N = 104).
+Hospital type	N	Freq.	Hospital Ownership Type	N	Freq.
+Medical Center
+Regional Hospital
+District Hospital	19
+72
+13	18.3%
+69.2%
+12.5%	Private
+Juridical person
+Corporate
+Military
+Veterans Affairs Commission
+Public	11
+43
+26
+6
+3
+15	10.6%
+41.3%
+25.0%
+5.8%
+2.9%
+14.4%
+Number of Beds	N	Freq.
+301–600
+600–1000
+>1000	24
+69
+11	23.1%
+66.3%
+10.6%
+No. of employees	N	Freq.	Location	N	Freq.
+<500
+500–1500
+1501–3000
+>3000	9
+27
+44
+24	8.7%
+26.0%
+42.3%
+23.0%	Northern
+Southern
+Western
+Eastern	54
+21
+23
+6	51.9%
+20.2%
+22.1%
+5.8%
+The potential for non-response bias was assessed by comparing the early (within the first four weeks, N = 73) versus the late (last four weeks, N31) hospitals. None of the chi-square values were statistically significant (p > 0.05, two-tail test) in selected characteristics. These results suggest that non-response bias was not a serious concern. The results of the non- response bias analysis are shown in Table 3, respectively.
+Table 3. Non-Response Bias Testing Results for Selected Characteristics (N = 104).
+Characteristics	Items	1st Round	2nd Round	Chi-Square Value
+Hospital type	Medical Center
+Regional Hospital
+District Hospital	13
+52
+8	7
+20
+5	0.815
+
+Ownership Type	Private
+Juridical person
+Corporate
+Military
+Veterans Affairs Commission
+Public	5
+33
+18
+4
+2
+11	6
+10
+8
+2
+1
+4	3.968
+
+Number of Beds	301–600
+600–1000
+>1000	17
+49
+7	7
+20
+4	0.245
+*All characteristics were non-significant in Chi-Square Test (p > 0.05).
+
+3.3. Analysis method
+Since our research model contained both reflective and formative constructs and we have a relatively small sample size, partial least square (PLS) specifically SmartPLS 2.0 M3 (Ringle, Wende, & Will, 2005) was chosen for data analysis. This approach was chosen since the ability of PLS to assess the measurement model within the context of its theoretical mediated model makes it superior to multiple regression, especially when using new scales. In addition, PLS employs a component-based estimation (Lohmoller, 1988), maximizing the variance explained in the dependent variable, does not require multivariate normality of the data (Gefen, Straub, & Rigdon, 2011), and can handle formative constructs (Chin, Marcolin, & Newsted, 2003). In general, PLS is better suited for explaining complex relationships as it avoids two serious problems: inadmissible solutions and factor indeterminacy (Fornell & Bookstein, 1982).
+3.4. Control variables
+The size and nature of a healthcare organization should have an effect on its performance. Larger-sized hospitals or research-oriented hospitals (e.g. medical centers) may have more slack resources required for experimenting with E-health implementation, tolerating the costs of implementing innovations, proactively seeking opportunities to innovate through technology, purchasing expensive innovations and withstanding adoption failures. As a result, larger hospitals have greater capacity for assimilating innovations and technologies (Liang, Saraf, Hu, & Xue, 2007). This study anticipates that larger healthcare organizations will have greater opportunities for success in improving the quality, efficiency, and patient-centeredness of their health care. The type of hospital was used as an important control variable affecting the relationship between the three capacities and hospital performance. Although a higher capacity may provide hospitals with innovative opportunities to conduct better performance, the potential extent of these opportunities may be different among hospital types; e.g., medical centers, regional hospitals, and district hospitals.]]>
+</section>
+
+    <section name="Results" category="results">
+        <![CDATA[
+4. Results
+4.1. Common method: bias
+Multiple respondents were used for data collection to minimize the threat of common method bias. However, we adopted a single-informant and self- reported approach to collect survey data and therefore the potential for common method bias should be addressed. We conducted two statistical analyses to assess the severity of common method bias. A Harman’s post hoc single factor test was employed first to examine whether a significant amount of common variance exists in the data (Podsakoff, MacKenzie, Lee, & Podsakoff, 2003). All of the construct items in our model, including IT Adaption, E-health alignment, E-health synergy, integration effort, and hospital performance were cast into principal components factor analysis. The result yielded five factors with eigenvalues greater than 1.0, which accounted for 75.63% of the total variance. The first factor captured only 16.91% of the variance in the data.
+Second, according to Podsakoff et al. (2003) and Williams, Edwards, & Vandenberg (2003), we included in the PLS model a common method factor whose indicators included all the principal constructs’ indicators and calculated each indicator’s variances substantively explained by the principal construct and by the method. Following Williams et al. (2003), evidence of common method bias can be obtained by examining the statistical significance of factor loadings of the method factor and comparing the variances of each observed indicator explained by its substantive construct and the method factor (Williams et al., 2003).
+As shown in Appendix A, the squared values of the method factor loadings were interpreted as the percent of indicator variance caused by method, whereas the squared loadings of the substantive constructs were interpreted as the percent of indicator variance caused by substantive constructs. If the method factor loadings are insignificant and the indicators’ substantive variances are substantially greater than their method variances, it can be concluded that common method bias is unlikely to be a serious concern (Williams et al., 2003). The results demonstrated the average substantively explained variance of the indicators is 0.719, while the average method based variance is 0.009. The ratio of substantive variance to method variance is about 80:1. In addition, most method factor loadings were not significant. Given the small magnitude and insignificance of method variance, the results indicated the absence of a substantial amount of common method variance in the data. Consequently, common method bias should not be a serious problem in this study.
+4.2. Measurement model
+Two second-order constructs: E-health compatibility and hospital performance were modeled as reflective constructs consisting of two and six sub- constructs: IT adaption and E-health alignment as indicators for E-health compatibility; safety, effectiveness, patient centeredness, timeliness, efficiency and equity as indicators for hospital performance. Factor scores for the integrative latent representation of E-health compatibility and hospital performance were used in subsequent analysis. All of the constructs and sub-constructs in our model were modeled as reflectively measured using multiple indicators. Scale item reliability, convergent validity, and discriminant validity and item reliability served to evaluate measurement properties in PLS. Individual item reliability can be examined by observing the item-to-construct loadings. A factor loading of 0.707 and above indicates 50 percent or more of the variance in the item is shared with the latent construct, while a factor loading less than 0.5 should be dropped (Hulland, 1999). As shown in Appendix B, all of the factor loadings on their corresponding constructs were greater than the recommended 0.707 threshold and exhibit an acceptable quality of item reliability. Besides, we conducted variance inflation factor (VIF) analyses to test multicollinearity within these main constructs. The results (VIF = 1.040–1.971, P < 0.05) indicated that multicollinearity should not be a serious problem in the study (Marquardt & Snee, 1975).
+Convergent validity can be examined in terms of construct reliability, composite construct reliability, and average variance extracted (AVE) by constructs (Fornell & Larcker, 1981). Cronbach’s alpha can be utilized for assessing construct reliability, which measures homogeneity of items in a construct based on the assumption that each item in the scale contributes equally to the latent construct. Composite reliability of constructs uses item loadings estimated in the measurement model to compute the measure of internal consistency (Werts, Linn, & Jöreskog, 1974). Accordingly, we assessed convergent and discriminant validity for construct scales before testing the hypothesized structural relationships. Tables 4 and 5 show the descriptive statistics, composite reliability, Cronbach’s alpha and AVE for all constructs in the research model. The Cronbach’s alpha values and composite reliabilities were all higher than the recommended 0.7 (Nunnally et al., 1967), and the AVE values were all above 0.50 (Fornell & Larcker, 1981), confirming internal consistency and convergent validity. As seen in Table 4, discriminant validity was also supported because (1) all indicators loaded more strongly on their corresponding construct than on other constructs in the model and (2) the square root of the AVE for each major construct was larger than the inter-construct correlations (Chin, 1998). The results suggest that our measurement model demonstrates sufficient convergent and discriminant validity.
+Table 4. Inter- correlations among Constructs.
+Constructs (Mean ± SD)	Composite Reliability	1	2	3	4	5	6	7	8	9	10
+1. IT Adaption+
+(3.88 ± 0.462)	0.880	0.805									
+2. E-health Alignment+
+(3.93 ± 0.389)	0.846	0.370	0.805								
+3. Integration Effort
+(4.09 ± 0.410)	0.855	0.280	0.457	0.772							
+4. E-health Synergy
+(3.79 ± 0.439)	0.823	0.270	0.403	0.451	0.782						
+5. Safety+
+(3.93 ± 0.350)	0.838	0.219	0.320	0.318	0.301	0.751					
+6. Effectiveness+
+(3.79 ± 0.430)	0.864	0.370	0.468	0.375	0.317	0.508	0.784				
+7. Patient Centeredness+
+(3.89 ± 0.273)	0.832	0.282	0.384	0.313	0.411	0.375	0.531	0.789			
+8. Timeliness+
+(3.92 ± 0.329)	0.874	0.278	0.299	0.311	0.263	0.560	0.454	0.568	0.837		
+9. Efficiency+
+(3.84 ± 0.428)	0.853	0.298	0.272	0.348	0.514	0.582	0.573	0.526	0.512	0.769	
+10. Equity+
+(3.81 ± 0.442)	0.856	0.425	0.280	0.288	0.344	0.484	0.497	0.424	0.414	0.539	0.775
+*Diagonal elements are the square roots of average variance extracted (AVE). "+" First-order sub-constructs.
+
+
+Table 5. Factor Loadings and Composite Reliability of Constructs.
+Construct	Sub-construct	Indicator	Loadings	Composite Reliability (AVE/Cronbach’s α)
+Integration Effort	–	IE1-3	0.718–0.749	0.823 (0.611/0.684)
+E-health Compatibility				0.839 (0.512/0.780)
+IT Adaption	ITA1-4	0.773–0.860	0.880 (0.648/0.825)
+E-health Alignment	EHA1-4	0.728–0.854	0.855 (0.596/0.774)
+E-health Synergy	–	EHS1-3	0.720–0.879	0.846 (0.648/0.725)
+Hospital Performance				0.925 (0.537/0.915)
+Safety	PSA1-3	0.755–0.802	0.838 (0.565/0.744)
+Effectiveness	PEA1-4	0.771–0.804	0.864 (0.614/0.791)
+Patient centeredness	PPC1-3	0.711–0.827	0.832 (0.623/0.696)
+Timeliness	PTM1-3	0.713–0.880	0.874 (0.701/0.787)
+Efficiency	PEE1-4	0.746–0.788	0.853 (0.591/0.769)
+Equity	PEQ1-4	0.708–0.866	0.856 (0.600/0.777)
+Criteria: Composite Reliability  >0.7, AVE >0.5, and Cronbach’s α > 0.6.
+
+The results also showed the composite reliability and Cronbach’s alpha for the two second-order constructs were 0.925/0.915 (Hospital performance) and 0.839/0.780 (E-health Compatibility), respectively. In addition, as shown in Table 4, correlations among the two first-order sub- constructs were 0.37, but below the limit of 0.90 (Bagozzi, Yi, & Phillips, 1991). Hence, a second-order factor model comprising a reflective latent representation of E-health compatibility and hospital performance are useful in explaining such correlations (Segars & Grover, 1998).
+4.3. Structural model
+4.3.1. Direct effect
+The proposed research model was assessed by examining the significance of paths in the structural model. With PLS a bootstrap procedure with 500 subsamples was used to generate t-statistics and standard errors (Chin, 1998). Fig. 2 presented the estimated path coefficients and explained variances are shown in the structural model. All other path coefficients are significant, providing support for Hypothesis 1 to Hypothesis 3. The results demonstrated the positive association between E-health compatibility and E-health synergy (β = 0.408, t-value = 3.274, p < 0.01), Hypothesis 1 was supported. Hypothesis 2a and 2b were also supported by the results, showing that integration effort is positively associated with both E-health compatibility (β = 0.327, t- value = 4.689, p < 0.01) and E-health synergy (β = 0.227, t-value = 2.015, p < 0.05). As for Hypothesis 3, E-health synergy had a positive effect on hospital performance (β = 0.289, t- value = 3.969, p < 0.01).
+Fig. 2
+Download high-res image (212KB)Download full-size image
+Fig. 2. PLS Analysis Results for the Research Model.
+Overall, four direct-effect hypotheses (H1, H2a, H2b, and H3) were supported after controlling for the two control variables on hospital performance. In addition, the explained variances (R2) for the three endogenous variables, including E-health compatibility, E-health synergy, hospital performance, were 20.2%, 30.1%, and 32.7%, respectively. With regard to the two control variables included in the model, all of the variables were not significantly related with hospital performance. These results provided support for our research model and indicated that significant amounts of variance in these variables are well explained by the proposed independent and control variables.
+4.3.2. Mediation effect
+As shown in Fig. 2, integration effort is associated significantly with E-health compatibility and E-health synergy, E-health compatibility is associated significantly with E-health synergy, and E-health synergy is associated significantly with hospital performance. This causal chain signified three mediation effects: (1) E-health compatibility mediates the positive effect of integration effort on E-health synergy (H4a) (2) E-health synergy mediates the positive effect of E-health compatibility on hospital performance (H4b), and (3) E-health synergy mediate the positive effect of integration effort on hospital performance (H4c). We used mediation analysis techniques first, suggested by Baron and Kenny (1986) and Edwards and Lambert (2007), to assess the mediation effects posited by H4a-H4c (Baron & Kenny, 1986; Edwards & Lambert, 2007). For example, to test Hypothesis 4a, which proposed that the effect of integration effort on E-health synergy is mediated by E-health compatibility we removed E-health compatibility from the model and then conducted another run of PLS. The analysis results found that integration effort had a significant and positive association with E-health synergy (β = 0.450, t- value = 4.943, p < 0.01). Combined with Fig. 2, the results indicated that the effect of integration effort on E-health synergy was partially mediated by E-health compatibility, therefore, supporting H4a. Hypothesis 4b and 4c used the same methods to test the mediating effects and supported.
+In addition to examining the statistical significance of the mediation effects, we further used the Sobel and Goodman tests to validate each mediation-effect hypotheses, and processed with PLS unstandardized coefficients. As shown in Table 6, we found that both test statistics were also significant, thereby providing additional evidence in support of the theorized mediation effects.
+Table 6. Results of Hypotheses Tests.
+Hypotheses	Path	Path Coefficient	Results	Conclusion
+Direct Effects
+H1	ΒEHC → EHS	0.408**	t-value = 7.601	Supported
+H2a	ΒIE → EHS	0.227*	t-value = 2.098	Supported
+H2b	ΒIE → EHC	0.327**	t-value = 3.796	Supported
+H3	ΒEHS → HPE	0.289**	t-value = 9.664	Supported
+
+Mediation Effects
+H4a	EHC mediates βIE → EHS	0.450**	t-value = 4.943
+Sobel: 2.34**; Goodman: 2.35**	Supported
+(Partial Mediation)
+H4b	EHS mediates βEHC → HPE	0.399**	t-value = 4.819
+Sobel: 2.20**; Goodman: 2.21**	Supported
+(Partial Mediation)
+H4c	EHS mediates βIE → HPE	0.394**	t-value = 6.112
+Sobel: 2.33**; Goodman: 2.34**	Supported
+(Partial Mediation)
+Overall, we found support for four direct-effect hypotheses (H1 to H3) in the research model. Our results also reveal that the three mediation-effect hypotheses (H4a-H4c,) received empirical support. The results of hypotheses tests were summarized in Table 6. These findings are discussed below.]]>
+</section>
+
+    <section name="Discussion" category="discussion">
+        <![CDATA[
+5. Discussion
+This study was motivated by the need for a theoretical explanation for how IT-enabled resources influence hospital performance.We developed four ideas, adopted from Nevo and Wade (2010), all of which were supported in our empirical study. From Nevo and Wade (2010) we first used IT adaption and E-health alignment as two separate constructs of E-health compatibility, which is conceptualized as a second-order latent construct with two dimensions: IT adaption and E-health alignment. We found that E-health compatibility has a significant impact on E-health synergy. Second, E-health synergy has a direct effect on hospital performance. Third, integration effort has a direct effect on both E-health compatibility and E-health synergy. Finally, greater integration effort drives hospital performance by enhancing E-health compatibility and E-health synergy. ]]> <h target="2" match="full">These findings collectively advance our theoretical and practical understanding of how IT in general, and E- health in particular, can be effectively integrated by a hospital to contribute to the realization of its strategic E-health potential.</h><![CDATA[
+5.1. Implications for theory
+]]> <h target="1" match="full">Our contribution is a theoretical explanation and empirically tested a research model developed based on systems theory to explain why IT- enabled resources drive hospital performance in the healthcare context. </h> <![CDATA[Prior studies have observed the impact of integration effort on compatibility and synergy (Nevo & Wade, 2011), few studies have explored the mediating role of E-health synergy. Although systems theory literature is built on the widespread but untested assertion that integration effort influences organizational decision and outcomes, our results provide direct empirical support for this viewpoint in an E-health context.
+Our results demonstrate that E-health synergy is an important intervening variable that mediates the influence of integration effort on hospital performance. This helps us gain a more granular understanding of how IT-enabled resources influence hospital performance and further explains the interaction of integration effort, E- health compatibility, E-health synergy and hospital performance constructs. The results also provide evidence that firstly integration effort contributes to E-health compatibility and E- health synergy, leading to enhanced hospital performance within hospitals. Secondly, Integration effort and E-health compatibility are effective in impacting hospital performance by leveraging E-health synergy. We discovered that while integration effort influences E- health compatibility and thus indirectly E-health synergy; integration effort may also directly influence E-health synergy, leading to a more efficient E health environment.
+
+Our study explains why integration effort promotes greater hospital performance; complementing prior work that has recognized integration effort as an important precursor to hospital performance but did not theoretically developed an explanation for the intervening mechanisms (Agarwal & Selen 2009). We found evidence that a hospital’s integration effort increases hospital performance when the hospital is able to sense the potential of E-health and take proactive actions performed (e.g., enhancing its E-health compatibility and E-health synergy) to facilitate E-health. This finding also provides some of the earliest empirical evidence for the idea that a hospital’s integration effort enables it to be adaptive to changes in the technological, competitive, and regulatory environments, which can be an important precursor to how well the focal hospital outperforms competitors (Banzi, Moja, Pistotti, Facchini, & Liberati, 2011).
+5.2. Implications for practice
+The proposed conceptual model is of particular value to those concerned with E-health knowledge training and competency development in health care organizations. It provides a strategic guideline of E-health implementation to help CIOs or TMT members in healthcare organizations to identify the necessary knowledge or competencies for their organization, in accordance with their own organizational context. A well-defined program of required training can be outlined once the knowledge portfolio has been identified. The resulting E-health related knowledge requirements can then guide the relevant training activity.
+
+Prior studies (e.g., Kostagiolas, Korfiatis, Kourouthanasis, & Alexias, 2014) have observed the role of healthcare professionals’ positive behavior towards E-health applications and towards other online digital information resources, our study comprehensively explores the role of healthcare managers’ behavior towards E-health related factors influencing hospital performance. Our research findings testify to the importance of the E- health related capability portfolio in enhancing hospital performance. A detailed understanding and use of a portfolio of E-health related knowledge or competency would be beneficial for promoting E-health. Our findings have important implications for CIOs and TMT members involved in efforts to introduce E-health into their hospitals. For instance, they should play an active role to provide resources and deploy the right organizational structure to enhance E-health compatibility and E-health synergy. These findings testify to the responsibility of CIOs and TMT members in heightening their organizations’ success in hospital performance. While numerous advocates have prescribed such a collective responsibility as a normative guideline, our research provides empirical support for this prescription.
+Another important implication of our research is the finding that E-health synergy has a positive moderating effect of E-health compatibility and integration effort on hospital performance. This implies that the hospital develops E-health synergy, which is helpful in enhancing the relationship between IT-enabled resources and hospital performance. The interaction results strongly suggest that even in the case of hospitals with superior E-health compatibility and integration effort, a proper E-health synergy is important to attain realized benefits.
+
+5.3. Limitations and future research
+Although our study provided interesting insights into E- health compatibility, E-health synergy, integration effort and their impact on hospital performance, it has several limitations that also represent opportunities for future research. A potential limitation of our study is its cross-sectional design. Since implementing E-health takes years, there is usually a multiple year delay. The potential concern for the time delay is lacking in the research design of our study. The responses to our hospital performance questions are likely to be the result of past actions. Thus, it would be interesting to use a longitudinal design to examine the cyclical reference relationships among the identified research variables. Second, since the model was validated using sample data gathered in Taiwan, the interpretation of the findings should be made with caution when generalizing to other systems or countries. Other samples from different nations, cultures and technological environments (Mithas, Tafti, & Mitchell, 2013; Xue, Ray, & Sambamurthy, 2012) should be gathered to confirm and refine the findings of this study.]]>
+</section>
+
+    <section name="Conclusion" category="conclusion">
+        <![CDATA[
+6. Conclusion
+The issues regarding E-health compatibility, E-health synergy, integration effort and hospital performance have been discussed separately or together in IS literature. Our findings indicate that they are highly correlated. It is beneficial to view high levels of these factors as ways to enhance hospital performance when a hospital possesses high levels of IT-enabled resources. As more hospitals seek to transform their value chain activities and business strategies through the success of E-health, it is critical to understand the factors that are likely to induce heightened levels of hospital performance. Our work provides judicious knowledge for researchers and practitioners interested in learning how hospitals can facilitate more effective transformations in today’s E-health environments. Therefore, the desired direction (E-health) in this study occurs when the combined strength of the driving forces (E-health compatibility, E-health synergy, integration effort) is greater than the combined strength of the opposing forces. We hope that our theoretical perspectives and findings stimulate and encourage more researchers to study this important phenomenon.]]>
+</section>
+
+
+
+Acknowledgments
+This research was supported by the Ministry of Science and Technology in Taiwan, under operating grant NSC 99-2410-H-110-045-MY3. It was also partially supported by the Aim for the Top University Plan of National Sun Yat-Sen University and the Ministry of Education, and affiliated grant NSYSUKMU105-I005 from National Sun Yat-Sen University and Kaohsiung Medical University in Taiwan.
+    <section name="Appendix A. Common method: bias analysis;Appendix B. Descriptions and Confirmatory Factor Loadings of Scale Items." category="appendix">
+        <![CDATA[
+Appendix A. Common method: bias analysis.
+Constructs	Indicators	Substantive Factor Loading (R1)	R12	Method: Factor Loading (R2)	R22
+Integration Effort
+(IE)	IE1	0.749**	0.449	−0.059	0.003
+IE2	0.731**	0.591	−0.241*	0.058
+IE3	0.718**	0.630	−0.177*	0.031
+IT Adaption
+(ITA)	ITA1	0.791**	0.719	−0.087	0.008
+ITA2	0.806**	0.741	−0.029	0.001
+ITA3	0.860**	0.536	0.067	0.004
+ITA4	0.773**	0.610	0.048	0.002
+E-health Alignment
+(EHA)	EHA1	0.854**	0.790	0.002	0.000
+EHA2	0.728**	0.766	−0.006	0.000
+EHA3	0.730**	0.828	−0.030	0.001
+EHA4	0.768**	0.682	0.034	0.001
+E-health Synergy
+(EHS)	EHS1	0.808**	0.452	0.141	0.020
+EHS2	0.879**	0.753	−0.041	0.002
+EHS3	0.720**	0.699	−0.042	0.002
+Safety	PSA1	0.755**	0.587	0.024	0.001
+PSA2	0.800**	0.966	−0.186	0.035
+PSA3	0.802**	0.651	−0.001	0.000
+Effectiveness	PEA1	0.804**	0.699	0.045	0.002
+PEA2	0.778**	0.762	−0.011	0.000
+PEA3	0.771**	0.572	0.040	0.002
+PEA4	0.780**	0.736	−0.079	0.006
+Patient Centeredness	PPC1	0.827**	0.448	0.161	0.026
+PPC2	0.711**	0.576	0.131	0.017
+PPC3	0.791**	0.523	−0.186	0.035
+Timeliness	PTM1	0.713**	0.750	−0.051	0.003
+PTM2	0.861**	0.778	−0.046	0.002
+PTM3	0.880**	0.626	−0.039	0.002
+Efficiency	PEE1	0.788**	0.711	−0.052	0.003
+PEE2	0.784**	0.650	0.015	0.000
+PEE3	0.746**	0.596	0.064	0.004
+PEE4	0.757**	0.731	−0.029	0.001
+Equity	PEQ1	0.720**	0.480	0.076	0.006
+PEQ2	0.708**	0.667	−0.088	0.008
+PEQ3	0.866**	0.762	−0.054	0.003
+PEQ4	0.797**	0.486	0.071	0.005
+Average		0.795	0.719	−0.009	0.009
+
+Appendix B. Descriptions and Confirmatory Factor Loadings of Scale Items.
+Factors	Items	Description	Loading	Mean ± SD
+Integration Effort	IE1	Our hospital TMT provided resources, proper training, and formal plan for the implementation of the E-health	0.749	3.92±0.73
+IE2	Our hospital TMT effectively involved the implementation of the E-health	0.731	4.07±0.71
+IE3	Our hospital deployed the right organizational structure to facilitate E-health implementation	0.718	3.27±0.83
+IT Adaption	ITA1	Our hospital implements IT with existing common standards or protocols	0.791	3.86±0.78
+ITA2	Our hospital understands the features of IT assets standards or protocols	0.806	3.78±0.84
+ITA3	Our hospital understands how IT standards or protocols interacts among them	0.860	4.06±0.72
+ITA4	Our hospital has developed hospital-wide IT platform that is compatible with the IT. assets	0.773	4.00±0.78
+E-health Alignment	EHA1	Our hospital understands the value and functionality of E-health	0.854	4.03±0.70
+EHA2	Our hospital understands how E-health works	0.728	3.93±0.70
+EHA3	Our hospital’s routines and structure are compatible with the functionality of the IT	0.730	4.01±0.66
+EHA4	Our hospital has easily incorporated the ITs into the activities and routines	0.768	3.88±0.78
+E-health Synergy	EHS1	E-health extends our hospital’s healthcare services capacities	0.808	4.01±0.73
+EHS2	E-health increases our hospital’s efficiency	0.879	3.85±0.79
+EHS3	E-health enhances our hospital’s capability to response the environment change	0.720	3.78±0.78
+Safety	PSA1	The implementation of E-health creates effective standard operating procedures to avoid errors more so than in the past.	0.755	4.11±0.65
+PSA2	The implementation of E-health provides services by adopting qualified technologies and equipment more so than the past.	0.800	4.03±0.63
+PSA3	The implementation of E-health creates response mechanisms to mitigate harm to patients more so than in the past.	0.802	4.05±0.67
+Effectiveness	PEA1	The implementation of E-health provides a sufficient evidence-based medical database to support clinical decision-making more so than in the past.	0.804	3.84±0.68
+PEA2	The implementation of E-health integrates patient information between internal and other stakeholders to support clinical decision-making more so than in the past.	0.778	3.80±0.70
+PEA3	The implementation of E-health improves collaboration with health care professionals to provide more complete care than in the past.	0.771	3.90±0.68
+PEA4	The implementation of E-health provides an integrated information platform to utilize health care professionals more so than in the past.	0.780	3.93±0.74
+Patient Centeredness	PPC1	The implementation of E-health provides sufficient information which involves patients in treatment decisions more so than in the past.	0.827	3.78±0.84
+PPC2	The implementation of E-health arranges services for patient needs and convenience more so than in the past.	0.711	4.00±0.62
+PPC3	The implementation of E-health enhances the interaction and communication between physicians and patients more so than in the past.	0.791	3.84±0.67
+Timeliness	PTM1	The implementation of E-health enhances care procedures to save waiting for patients more so than in the past.	0.713	4.02±0.68
+PTM2	The implementation of E-health improves the schedule to make care operations smoother than in the past.	0.861	4.08±0.57
+PTM3	The implementation of E-health accelerates care procedures to decrease the harmful delays for patients more so than in the past.	0.880	4.04±0.62
+Efficiency	PEE1	The implementation of E-health enhances processes to reduce administrative costs more so than in the past.	0.788	3.90±0.70
+PEE2	The implementation of E-health enhances processes to reduce health care costs more so than in the past.	0.784	3.96±0.65
+PEE3	The implementation of E-health refers the best practice to reduce the period of treatment more so than in the past.	0.746	3.95±0.67
+PEE4	The implementation of E-health integrates medical facilities and devices to avoid idle time or waste more so than in the past	0.757	3.94±0.76
+Equity	PEQ1	The implementation of E-health provides multiple care channels (paths) to serve patients more so than in the past.	0.720	3.97±0.74
+PEQ2	The implementation of E-health enhances community health care and telemedicine to serve patients more so than in the past.	0.708	3.86±0.69
+PEQ3	The implementation of E-health discloses sufficient and necessary information to increase the chances of care for patients more so than in the past.	0.866	3.85±0.72
+PEQ4	The implementation of E-health enables standard procedures to assure the right of patients to care more so than in the past.	0.797	4.00±0.71]]>
+</section>
+
+</publication>

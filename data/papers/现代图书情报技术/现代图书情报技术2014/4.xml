@@ -1,0 +1,821 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bibliographies>
+<BibliographiesCount>50</BibliographiesCount>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[教育、学习和图书馆到达转折点]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[本刊讯;]]></FullName>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[Z1]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[OCLC;大规模网络;购物习惯;系列报告;信息认知;Amazon;用户习惯;移动终端;http;调查部;]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[<正>OCLC于近日发布了一份题为《转折点:教育、学习和图书馆》的研究报告,该报告显示,用户习惯的不断变化催生了一些新技术的出现,如大规模网络公开课程、移动终端等。昂贵的高等教育费用正在逐渐改变人们对教育的期望,并且给教育和终身学习带来了永久的改变。该报告是OCLC成员报告系列中最新的一份,这一系列报告旨在探索影响图书馆和图书馆事业的一些新兴趋势。可在http://oc.lc/TippingPoint下载。OCLC市场调查部追踪用户的信息认知已有十多年。这些年来,大环境发生了巨大的变化。见证了Google改变人类的搜索习惯,以及Amazon改变人类的购物习惯。现在正在见证着在线学习服务以及M...]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[132]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[图书馆数据中心运维中开源软件的应用]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[郑海山;林俊伟;]]></FullName>
+<Organization><![CDATA[厦门大学信息与网络中心;厦门大学图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[数据中心;自动化运维;开源软件]]></Keyword>
+<Keyword Lang="en"><![CDATA[Data center;Automatic operation;Open source software]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[【目的】解决高校图书馆数据中心在服务器数量膨胀下的自动化运维问题。【应用背景】高校图书馆数据中心承担的任务越来越重,服务器数量急剧攀升。图书馆数据中心内有各种虚拟化平台和传统的服务器,单纯的人工管理已无法适应。【方法】查找互联网上的开源软件;部署测试并找到最佳实施方法;研究开源软件存储的数据结构进行二次开发,消除多个开源软件之间的信息孤岛。【结果】解决服务器和虚拟机的位置管理、网络互联结构、自动化部署、IP分配、监控、备份、集中式日志管理等一系列运维要点,并最终展示给读者一个目前服务器状态的页面。【结论】应用开源软件后图书馆数据中心对内管理清晰化、规范化、自动化,对外透明化。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[100-106]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[一种面向用户偏好定向挖掘的协同过滤个性化推荐算法]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[王伟军;宋梅青;]]></FullName>
+<Organization><![CDATA[华中师范大学信息管理学院;华中师范大学青少年网络心理与行为教育部重点实验室;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[协同过滤;用户偏好;个性化推荐;推荐算法]]></Keyword>
+<Keyword Lang="en"><![CDATA[Collaborative filtering;User preferences;Personalized recommendation;Recommendation algorithm]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[【目的】解决协同过滤推荐的可扩展性问题和数据稀疏性问题。【方法】提出一种面向用户偏好定向挖掘的协同过滤算法。该算法以时间为约束,第一阶段先寻找基于项目的弱相似用户;第二阶段基于用户关联性和属性相似性进行定向挖掘,形成推荐集合。【结果】实验结果表明,新算法的时间复杂度降低一个数量级,并且数据越稀疏,推荐精度的领先优势越大。【局限】该算法基于用户已表现出的偏好进行深度推荐,对未表现出的其他偏好暂未涉及。【结论】该算法在提升可扩展性的同时,对数据稀疏性也有很强的适应能力。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[25-32]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[面向图博档的分块压缩感知图像零水印算法]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[郝世博;朱学芳;]]></FullName>
+<Organization><![CDATA[南京大学信息管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[数字信息资源;零水印;分块压缩感知;Arnold变换]]></Keyword>
+<Keyword Lang="en"><![CDATA[Digital information resources;Zero-watermarking;Block compressive sensing;Arnold transformation]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[【目的】在版权保护过程中不降低图书馆、博物馆、档案馆数字信息资源的保真度。【方法】以数字图像为例,利用分块压缩感知技术对原始图像进行观测,将观测值与Arnold变换后的版权信息结合,构造零水印信息。【结果】联合压缩感知理论与Arnold变换构造出的零水印信息具有很好的区分度,对于常规图像攻击表现出很强的鲁棒性,对于旋转和剪切等几何攻击方式的鲁棒性稍差。【局限】研究对象是灰度图像,实际应用中存在一定的局限,后续工作有待完善。【结论】基于分块压缩感知的图像零水印优化算法在一定程度上有助于图书馆、博物馆、档案馆数字信息资源的版权保护。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[87-93]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[突发事件网络舆情演变过程中网民群体行为仿真研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[强韶华;吴鹏;]]></FullName>
+<Organization><![CDATA[南京航空航天大学经济管理学院;南京工业大学土木工程学院;南京理工大学经济管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[突发事件;网络舆情;人群仿真]]></Keyword>
+<Keyword Lang="en"><![CDATA[Unexpected event;Web public opinion;Crowd simulation]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[【目的】以突发事件中的网民群体为研究对象,探索突发事件网络舆情演变的内在规律。【方法】引入人群仿真理论,将网民映射为智能体,探究突发事件网络舆情演变过程中网民群体行为特征和建模方法,分析其行为演化的一般规律。【结果】实验结果显示,意见领袖的存在可以缩短突发事件舆情演变所需的时间,政府介入有助于突发事件网络舆情更快平息。【局限】对于突发事件中网民群体行为的仿真相对比较简单,未能全面涉及影响突发事件网络舆情演变的因素。【结论】本研究可以在突发事件应急管理中预测网络舆情演变的路径,从而支持网络舆情监控和信息公开策略的制定。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[71-78]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[中国学术期刊对机构知识库存缴政策调查分析]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[张晓丹;乔晓东;顾立平;姚长青;初景利;]]></FullName>
+<Organization><![CDATA[中国科学技术信息研究所;中国科学院文献情报中心;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[机构知识库;中国学术期刊;论文存缴与传播政策;开放获取]]></Keyword>
+<Keyword Lang="en"><![CDATA[Institutional Repository;Chinese academic journals;Policy of articles deposit and communication;Open Access]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[【目的】了解中国学术期刊对机构知识库存缴政策的态度。【方法】从《中国科技期刊引证报告》中选择326个样本,以电话通知的方式,确保他们进行线上问卷调查。【结果】回收有效问卷195份,回收有效率为65%强。其中,74.9%的期刊赞同论文存储到机构知识库中。说明他们对机构知识库存储和传播科技论文的态度和建议是正面的。【局限】总体调查规模有限,集中在质量较高、名声显著、已有期刊数字化基础的期刊,调查结论未必适用于全部中国期刊。【结论】多数调查对象赞成机构知识库存缴与传播论文,但建议今后提供期刊论文开放获取的权益咨询服务。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[1-7]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[面向关联数据的电子商务信用信息服务模型研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[高劲松;梁艳琪;李珂;肖涟;周习曼;]]></FullName>
+<Organization><![CDATA[华中师范大学湖北省电子商务研究中心;华中师范大学信息管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[电子商务;信用信息;关联数据;信息服务]]></Keyword>
+<Keyword Lang="en"><![CDATA[E-commerce;Credit information;Linked data;Information service]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[【目的】利用关联数据技术进行电子商务信用信息管理,使用户快捷、有效和直观地获取所需的信用信息服务。【方法】建立电子商务信用信息实体关系,利用Protégé构建信用信息本体,在此基础上构建基于关联数据的电子商务信用信息服务模型,结合AllegroGraph图数据库进行存储、查询。【结果】构建基于关联数据的电子商务信用信息服务模型,实现信用信息存储、浏览、查询和可视化等一系列信息服务。【结论】该服务模型能实现电子商务信用信息数据源之间的关联与共享,具有较强的理论和实用价值。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[8-16]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[OCLC将WorldCat中1.97亿书目信息作为关联数据发布]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[本刊讯;]]></FullName>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[OCLC;WorldCat;数据发布;关联数;书目信息;书目数据;互联网资源;曝光度;记录格式;Wallis;]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[<正>OCLC于近日开放了WorldCat中1.97亿的书目信息,作为关联数据发布。关联数据源于互联网,能通过各种流行的网站和Web服务增强图书馆馆藏的曝光度。这批数据的发布意味着图书馆馆藏资源能被更大范围的互联网社区所获取,使得这些馆藏资源能够被整合,进而更容易被日常访问图书馆的用户所发现。以传统的记录格式存放的书目数据在效率和效用上已经到达了极限。OCLC技术员Richard Wallis说:通过网络的影响,]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[16]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[数字图书馆自动化语义标注工具系统模型研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[王传清;毕强;]]></FullName>
+<Organization><![CDATA[吉林大学管理学院;中国科学院文献情报中心;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[数字图书馆;语义标注;知识组织;知识服务;系统模型]]></Keyword>
+<Keyword Lang="en"><![CDATA[Digital library;Semantic annotation;Knowledge organization;Knowledge services;System model]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[【目的】分析和总结国外语义标注工具特点,构建数字图书馆资源自动化语义标注模型框架,为中文语义标注工具的设计与应用提供参考。【方法】通过归纳和分析语义标注的平台框架的技术方法,结合与国外成熟工具的比较分析,使用系统开发及模块化思想构建模型。【结果】构建包含系统输入模块、语义处理模块、本体知识模块、语义标注模块和存储模块的自动化语义标注工具的系统模型,分析整体算法思想以及自动本体标注算法思想。【局限】自动语义标注系统涉及的相关算法及改进仍在不断发展,本文仅给出主要算法思想和说明。【结论】本研究构建的自动化语义标注模型可以为中文语义标注工具设计提供借鉴。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[17-24]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[OCLC与Ingram合作帮助图书馆更有效地管理电子书库]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[本刊讯;]]></FullName>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[OCLC;Ingram;电子书;数字内容;馆藏信息;整合体;手动操作;工作自动化;副总裁;工作流;]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[<正>OCLC与世界最大的印刷和数字内容商之一——Ingram公司进行合作,试图实现WorldCat中电子书馆藏的设置和维护工作自动化,以节省图书馆员的时间和精力。这个新项目使得定制了OCLC目录,且拥有MyiLibrary(Ingram的在线图书馆电子内容平台)账户的图书馆可以访问MyiLibrary电子书馆藏和WorldCat知识库的整合体。电子书信息将自动增加和更新,无需图书馆员手动操作。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[32]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[在线问答社区信息质量评价研究综述]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[姜雯;许鑫;]]></FullName>
+<Organization><![CDATA[华东师范大学商学院信息学系;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[问答社区;质量评价;信息质量]]></Keyword>
+<Keyword Lang="en"><![CDATA[CQA;Information quality evaluation;Information quality]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[【目的】对在线问答社区信息质量评价相关研究进行梳理和综述。【文献范围】利用Web of Knowledge、中国知网(CNKI)以及追溯法检索到的问答社区信息质量评价相关中英文文献。【方法】文献调研法,并按研究主题进行综述。【结果】目前在线问答社区信息质量评价研究主要集中在影响评价因素研究、人工评价、自动化评价三个方面,其中自动化评价以机器学习方法应用为主。【局限】不同解决方案比较时缺少具体的定量测评。【结论】目前的研究还存在缺乏权威评价标准以及缺少领域聚焦等不足,问答社区的信息质量问题还有很多尚未解决,更全面深入的分析评价以及自动化评价将是未来研究热点和重点。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[41-50]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[科技战略情报监测服务云平台的设计与实现]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[张智雄;刘建华;谢靖;钱力;张敏;于改红;]]></FullName>
+<Organization><![CDATA[中国科学院文献情报中心;中国科学院大学;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[战略情报监测;云平台;按需申请;定制化服务;战略情报研究]]></Keyword>
+<Keyword Lang="en"><![CDATA[Strategic S&T information monitoring;Service cloud platform;On-demand self-service;Customized service;Strategic information analysis]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[【目的】构建一种支持按需申请、定制服务的科技战略情报监测服务云平台。【应用背景】在前期网络科技信息的自动监测平台的基础之上,为满足更多用户进行科技战略情报自动监测的需求,需要对原平台进行扩展改造。【方法】针对原有系统在灵活扩展、普惠型服务支持方面存在的问题,提出构建科技战略情报监测服务云的思路,并重点在6个方面对原有系统进行扩展改进。【结果】设计和实现能够支撑用户灵活扩展的、普惠型的科技战略情报监测服务云平台,并在多个领域得到实际应用。【结论】新平台形成按需申请、定制服务的科技战略情报监测服务云,可灵活支持大规模用户的战略情报监测服务需求,能有效地服务于科技战略情报研究的需要。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[51-61]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[专利文本技术挖掘研究进展综述]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[胡正银;方曙;]]></FullName>
+<Organization><![CDATA[中国科学院成都文献情报中心;中国科学院大学;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[专利技术挖掘;语义知识表示;主题聚类;专利分类;技术演化]]></Keyword>
+<Keyword Lang="en"><![CDATA[Patent;technology;mining;Semantic;knowledge;representation;Topic;clustering;Patent;classification;Technology evolution]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[【目的】归纳基于文本专利技术挖掘通用流程,提炼其中关键技术,并对典型挖掘场景进行分析。【文献范围】以专利挖掘、专利分析等关键词在Elsevier、Springer、CNKI数据库进行检索,并参考全球技术挖掘相关会议,共阅读相关文献105篇,实际参考文献66篇。【方法】梳理其关键技术专利知识表示的研究现状与发展趋势,选取三类典型技术挖掘场景进行分析,通过归纳总结、提炼出专利技术挖掘未来发展趋势与研究热点。【结果】专利知识表示的粒度与结构决定了专利技术挖掘的深度、广度与维度。基于SAO基础语义单元,面向技术难题与解决方案的专利技术挖掘有望成为未来发展趋势与研究热点。【局限】本研究仅探讨现有文本...]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[62-70]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[EBSCO发布开放政策,决心数据共享]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[本刊讯;]]></FullName>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[EBSCO;数据共享;互惠合作;数字档案;技术合作;信息服务;电子书;提供商;链接技术;第三方;]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[<正>全球领先的集成内容提供商EBSCO信息服务公司于近日发布了其关于元数据共享和技术合作的新政策。EBSCO将所有的元数据(在允许的情况下,还包括全文)提供给120多个全文数据库,50万电子书,以及50多个历史数字档案,给第三方发现服务。这一举措表明EBSCO致力于同合作伙伴一起进行元数据的交换和集成,以改进双方客户的发现体验。EBSCO的新政策包括与其他供应商就关键领域的互惠合作。除了元数据共享(允许的情况下,还包括全文),该政策还包]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[78]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[微博中文本特征质量对检索效果的影响]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[唐晓波;房小可;]]></FullName>
+<Organization><![CDATA[武汉大学信息管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[微博;文本特征;描述能力;辨别能力;检索]]></Keyword>
+<Keyword Lang="en"><![CDATA[Micro-blog;Text features;Descriptive power;Discriminative power;Retrieval]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[【目的】通过对国内4大微博平台中特征词质量的测度,探讨其质量指标对检索效果的影响。【方法】将权重计算指标TF-IDF从特征词角度提升为特征的研究,并通过描述能力和辨别能力两个质量测度指标对国内4个主流微博平台中各特征的质量进行评估。【结果】微博中文本特征的描述能力和辨别能力对检索效果产生正向影响;各平台不同特征的质量对分类有着不同程度的影响,两种测度指标综合考虑时得到的分类效果最好。【局限】微博中的对话回复、粉丝数、关注数等特征并没有被考虑在内;对于语义研究中的特征词一词多义或者同义词的讨论并未涉猎。【结论】本研究可更好地揭示微博中各种特征影响检索效果好坏的重要程度,有助于研究者对各平台特征作...]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[79-86]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[汤森路透与康奈尔大学合作构建学术资源门户]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[本刊讯;]]></FullName>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[康奈尔大学;路透;学术资源;研究所主任;学术研究;Thomson;文章主题;引文索引;研究成果;学术期刊;]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[<正>汤森路透(Thomson Reuter)知识产权与科技集团于近日宣布将与康奈尔大学新兴市场研究所(Emerging Markets Institute)合作,通过Web of Science,建设一个特殊的学术研究访问门户。在研究所成立之初,发现合作伙伴需要一些方法来访问广阔的学术资源,并从中搜寻答案。新兴市场研究所主任JavierPerez表示:于是开发了门户来与我们的合作伙伴分享康奈尔大学所拥有的珍贵资源。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[86]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[在线群体创新中的图片推荐方法研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[张晓燕;张朋柱;李嘉;刘景方;]]></FullName>
+<Organization><![CDATA[上海交通大学安泰经济与管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[在线群体研讨;群体支持系统;图片推荐系统;群体创意]]></Keyword>
+<Keyword Lang="en"><![CDATA[Online group discussion;Group support system;Picture recommendation;Group idea generation]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[【目的】基于相关性、多样性原则,利用图片推荐的方法刺激群体创新。【应用背景】在群体创意的环境中提供刺激信息刺激群体思维。【方法】基于文本分词、网页分析以及余弦相似度算法,建立图片推荐系统的模型,提出最大差异化算法,向正在创意的群体推荐多样性高的图片信息。【结果】通过实验研究,证明采用最大差异化算法的图片推荐系统对于群体创新绩效的促进作用。【局限】图片最大差异化算法中的相关性和差异性主要基于图片的描述信息,与图片本身的内容有一定的差异,因此基于图片描述信息的最大差异化算法存在局限性。【结论】在群体创新过程中,通过不断推荐差异化图片的方法能够提高群体创意的绩效。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[94-99]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[NISO发布知识库和相关工具(KBART)推荐做法修正案]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[本刊讯;]]></FullName>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[KBART;NISO;期刊资源;会议论文;数据格式;供应链;信息标准;提供商;开发者;电子书;]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[<正>美国国家信息标准组织(NISO)发布了知识库与相关工具(Knowledge Bases and Related Tools,KBART)推荐做法的修正案(NISO RP-9-2014)。最初的推荐做法于2010年提出,为信息供应链上的各方提供关于元数据格式(主要是期刊资源)的直接指引,以确保元数据在内容提供商和知识库开发者之间能进行准确的交换。基于最初的草案,修正案涉及在元数据供应中可能产生问题的更细致、更复杂的议题,包括面向企业的元数据和开放获取出版物、电子书、以及会议论文的元数据传输。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[99]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[数字化时代一个崭新的标志 CNKI研究型个人数字图书馆(POL-R)——为每一位创新型人才量身定做个人的智能化情报分析专家和协同研究平台]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> </Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[个人数字图书馆;POL-R;中国知网;科技成果报告;学术文献;协同研究;会议论文;情报分析;博硕士学位论文;导航方式;]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[<正>也许您已经很熟悉中国知网出版的《中国学术文献网络出版总库》(CALNID),它为所有读者提供了一个共同的文献检索平台,以统一的检索和导航方式,连续发布全国学术期刊、博硕士学位论文、会议论文、报纸、年鉴、专刊、标准、科技成果报告、国学、学术专著、工具书等以及外文学术文献。然而,您可能已经体验到,如果这个平台能够针对您个人的兴趣和需要,自动地但又可以系统、及时、准确地提供个性化服务的话,您将能够更加方便自如地驾驭这日新月异的知识与情报信息之海。而今,这一梦想已经实现了!中国知网推出了CNKI研究型]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[105]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[中文UGC信息源的本体概念抽取研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[唐晓波;胡华;]]></FullName>
+<Organization><![CDATA[武汉大学信息管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[05]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[概念抽取;词性规则;中心词;互信息;信息熵]]></Keyword>
+<Keyword Lang="en"><![CDATA[Concept extraction Speech rules Seed word Mutual information Information entropy]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[【目的】实现基于UGC信息源的本体概念抽取。【方法】针对UGC信息源特征,提出一种基于语言学的细粒度词抽取组合并应用统计过滤组成概念的本体概念抽取方法,建立基于UGC信息源的概念抽取模型并对原型系统进行验证。【结果】在UGC信息源概念抽取实验中,该方法的结果比其他4组概念抽取方法的表现更为优异,准确率达68.42%,召回率达85.35%。【局限】概念抽取的测试集来自信息质量较高的UGC信息源,部分信息经过人工过滤,语料规模存在不足。【结论】概念抽取方法与技术在实现基于UGC信息源的本体概念抽取中具有一定的意义。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[41-49]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[P2P环境下基于社会化标签的个性化推荐模型研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[赵艳;王亚民;]]></FullName>
+<Organization><![CDATA[西安电子科技大学经济与管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[05]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[社会化标签;个性化推荐;标签偏好向量;P2P]]></Keyword>
+<Keyword Lang="en"><![CDATA[Social tagging Personalized recommendation Tag preference vector P2P]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[【目的】利用用户使用标签的频率和时间因素计算用户的标签偏好向量,讨论用户兴趣的动态变化性对个性化推荐准确性的影响。【方法】构建P2P环境下基于社会化标签的个性化推荐模型,详细说明用户偏好的计算过程及推荐流程,并以西安某高校的P2P电影分享系统为对象进行实验验证。【结果】在随机选择的10名目标用户中,对其中8名用户的推荐命中率均高于传统基于用户评分的协同过滤推荐,说明综合用户标签使用频率和时间因素的推荐效果的优越性。【局限】由于本文主要研究用户兴趣的动态性对个性化推荐的影响,因此只在实验时人工删除无意义标签、合并相似标签,并没有引入有效的控制标签模糊性机制。【结论】在个性化推荐中,考虑用户兴趣的...]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[50-57]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[朴素贝叶斯算法与Bootstrapping方法相结合的中文物种描述文本语义标注研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[段宇锋;朱雯晶;陈巧;崔红;]]></FullName>
+<Organization><![CDATA[华东师范大学商学院;上海图书馆上海科学技术情报研究所;美国亚利桑那大学信息资源与图书馆学学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[05]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[Bootstrapping方法;朴素贝叶斯;物种描述文本;语义标注]]></Keyword>
+<Keyword Lang="en"><![CDATA[Bootstrapping method Na?ve Bayes Species description text Semantic annotation]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[【目的】降低中文物种描述文本语义标注的学习成本。【方法】设计基于Bootstrapping的弱监督学习方法,以少量数据为基础,迭代执行学习和标注过程。在迭代过程中,利用置信度最高的标注数据扩充知识库,提升标注能力。【结果】运用15 041条数据测试算法效率,F-value的平均值达到0.911 2。【局限】对过于稀疏的数据,标注效率相对较低。【结论】本研究设计的方法不仅有效降低系统学习对训练数据规模的要求,而且可提高标注效率。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[83-89]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[微博局部世界演化模型探究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[何玉梅;齐佳音;刘慧丽;]]></FullName>
+<Organization><![CDATA[清华大学经济管理学院;北京邮电大学经济管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[05]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[微博;复杂网络;舆情传播;演化模型]]></Keyword>
+<Keyword Lang="en"><![CDATA[Microblog Complex network Public opinion transmission Evolution model]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[【目的】通过研究微博网络的结构特征,对微博局部世界演化模型进行探究。【方法】以新浪微博全网数据和典型用户拓扑结构为例,引入舆论动力学理论和复杂网络理论进行模型探究。【结果】获取微博用户行为框架,得出划分普通用户和意见领袖的依据,并建立微博局部世界演化模型。【局限】典型用户的选取具有一定的局限性;全网数据的分析具有一定的偏差。【结论】本文建立的微博局部世界演化模型符合真实微博网络的拓扑结构,研究成果有助于了解微博的网络结构。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[66-73]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[我国教育科研机构知识库建设现状调查与分析]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[姚晓霞;聂华;顾立平;张冬荣;吴越;韦成府;]]></FullName>
+<Organization><![CDATA[北京大学图书馆;中国高等教育文献保障系统(CALIS)管理中心;中国科学院文献情报中心;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[05]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[机构知识库;中国教育科研机构;开放获取]]></Keyword>
+<Keyword Lang="en"><![CDATA[Institutional Repository Chinese education research institution Open access]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[【目的】为求更好地了解中国机构知识库的发展现况,以及提供未来发展战略的建议。【方法】针对130个样本,进行线上问卷调查。【结果】我国机构知识库在内容存储、系统平台、管理政策等三方面各有不同程度的发展。【局限】总体调查规模有限,调查结果的分析聚焦在已经建设机构知识库的单位。【结论】调查报告全面总结和分析我国教育科研机构知识库的建设现状,建议未来进行机构知识库最佳案例的汇编。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[1-9]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[网络商品评论的特征–情感词本体构建与情感分析方法研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[杜嘉忠;徐健;刘颖;]]></FullName>
+<Organization><![CDATA[中山大学资讯管理学院;中山大学图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[05]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[情感分析;专用情感词;本体;网络评论]]></Keyword>
+<Keyword Lang="en"><![CDATA[Sentiment analysis Domain sentiment phrase Ontology Online review]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[【目的】解决情感分析领域使用通用情感词典进行情感分析时,在特定领域内无法识别领域专用情感词,以及同一情感词描述不同特征时可能表达出不同情感倾向的两个问题。【方法】提出一种基于领域专用情感词的网络评论情感分析方法。该方法构建特征–情感词本体,利用本体对网络上的产品评论进行情感分析。并与基于Senti-HowNet词典的情感分析方法进行对比。【结果】本文方法在特征层的情感倾向分析的准确率和召回率都有显著提高。【局限】本文方法中的本体需要尽可能完整的特征词集和情感词集,并且情感分析结果好坏直接依赖于本体的构建是否完善;由于网络文本的不规范性,特征词和情感词抽取以及情感分析的过程都不考虑句法结构;数据...]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[74-82]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[图书馆微信服务应用开发——以上海图书馆为例]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[郭利敏;张磊;赵亮;]]></FullName>
+<Organization><![CDATA[上海图书馆上海科学技术情报研究所;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[05]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[微信;微信平台;移动服务;Java;服务号]]></Keyword>
+<Keyword Lang="en"><![CDATA[WeChat WeChat public platform Mobile service Java Service account]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[【目的】尝试将图书馆服务与第三方平台(微信平台)整合,以提高图书馆信息化服务水平。【应用背景】微信活跃用户的快速增多,微信公众号被细分为订阅号和服务号。【方法】利用微信平台提供的接口,结合Java Servlet、WebService技术将图书馆馆藏查询、续借、逾期提醒、咨询、活动等服务整合进微信平台。【结果】读者可通过一键操作的形式便捷地使用图书馆资源和服务。【结论】本文开发的图书馆微信服务能够丰富图书馆的移动服务,方便读者使用图书馆服务。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[96-101]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[“2014图书馆信息技术的应用、服务和创新学术研讨会”暨“第4届数字图书馆与开放源码软件(DLIB&OSS 2014)学术研讨会”会议通知]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <Organization><![CDATA[中国图书馆学会数字图书馆研究与建设专业委员会;中国图书馆学会专业图书馆分会;《现代图书情报技术》杂志社;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[05]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[数字图书馆;DLIB&OSS 2014;开放源码软件;中国图书馆学会;会议通知;会议主要内容;信息技术;http;会议网址;联系方式;]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[<正>中国图书馆学会数字图书馆研究与建设专业委员会、中国图书馆学会专业图书馆分会和《现代图书情报技术》杂志再次联合,定于2014年6月18-21日召开2014图书馆信息技术的应用、服务和创新学术研讨会暨第四届数字图书馆与开放源码软件(DLIB&OSS 2014)学术研讨会。有关事项如下:1会议主要内容本次会议将设两大主题:(1)科学数据与开放知识服务;(2)开放环境下的数字图书馆开源软件。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[102]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[CNKI研究型个人数字图书馆(PDL-R)——为每一位创新型人才量身定做个人的智能化情报分析专家和协同研究平台]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> </Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[05]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[个人数字图书馆;PDL-R;中国知网;科技成果报告;学术文献;协同研究;会议论文;情报分析;博硕士学位论文;导航方式;]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[<正>也许您已经很熟悉中国知网出版的《中国学术文献网络出版总库》(CALNID),它为所有读者提供了一个共同的文献检索平台,以统一的检索和导航方式,连续发布全国学术期刊,博硕士学位论文、会议论文、报纸、年鉴、专刊、标准、科技成果报告、国学、学术专著、工具书等以及外文学术文献。然而,您可能已经体验到,如果这个平台能够针对您个人的兴趣和需要,自动地但又可以系统、及时、准确地提供个性化服务的话,您将能够更加方便自如地驾驭这日新月异的知识与情报信息之海。而今,这一梦想已经实现了!中国知网推出了CNKI研究型个人数字图书馆(Personal Digital Library for Resea...]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[103]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[面向知识组织系统整合的英文同义关系自动发现算法研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[李晓瑛;李丹亚;钱庆;孙海霞;李军莲;胡铁军;]]></FullName>
+<Organization><![CDATA[中国医学科学院医学信息研究所;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[05]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[知识组织系统整合;同义关系发现;词形归并;语义归并;颗粒度]]></Keyword>
+<Keyword Lang="en"><![CDATA[Knowledge organization system integration Finding synonymous relations Lemmatization Semantic merging Granularity]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[【目的】进行基于术语同义关系发现的知识组织系统整合研究。【方法】提出一种英文同义关系自动发现算法,涉及基于词形还原的词形归并以及基于同义关系传递和来源词表颗粒度控制的语义归并等综合方法。【结果】通过对多来源领域术语的大规模实验评估,并与已有整合知识组织系统进行多指标比较,获得较为满意的归并正确率,体现出良好的可行性及实用价值。【结论】本算法可应用于大规模领域知识组织系统的整合研究中,并对中文知识组织系统整合有一定借鉴意义。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[26-32]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[面向知识关联的标签云优化机理研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[毕强;周姗姗;马志强;滕广青;]]></FullName>
+<Organization><![CDATA[吉林大学管理学院;东北师范大学计算机科学与信息技术学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[05]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[Folksonomy;知识关联;标签云;关联标签;网络分析]]></Keyword>
+<Keyword Lang="en"><![CDATA[Folksonomy Knowledge relation Tag cloud Related tags Network analysis]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[【目的】通过揭示与呈现Folksonomy标签云中的关联关系,对标签云优化机理进行探讨。【应用背景】传统Folksonomy知识组织模式中的标签云由于无法体现主题知识之间的关联,制约了标签云的感知有用性。【方法】通过对用户标签网络的属性分析以及模块化处理,将标签云中的标签划分成若干个知识群落。借助连线、颜色、字号的相互配合,从主题知识关联的视角优化标签云。【结果】发现社群中隐含的知识群落具有稳健性,能够呈现出知识间的关联关系。【结论】面向知识关联的标签云优化能够在多个粒度上提高标签云的感知有用性,促进更科学实用的标签云体系研发。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[33-40]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[卖家描述与买家评论相符度模型研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[王倩倩;袁勤俭;]]></FullName>
+<Organization><![CDATA[南京大学信息管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[05]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[文本挖掘;属性特征词;情感分析;相符度计算]]></Keyword>
+<Keyword Lang="en"><![CDATA[Text mining Key properties Emotional analysis Consistent degree calculation]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[【目的】通过构建买家评论与卖家描述的相符度模型,对淘宝中卖家描述的商品特性与买家评论是否一致进行探讨。【方法】研究卖家的商品描述和买家的评论这两个文本信息,提取产品属性特征词和判断情感词极性,最后选取三家淘宝网店进行模型评估实验。【结果】发现B商家宝贝描述与买家评论相符度较高,A店次之,C店最差。其中,C店的里衬和正品两个产品属性,卖家描述与买家评论不相符。【局限】卖家描述的内容和买家评论的内容未能全面涉及,没有包括卖家的商品标题信息、卖家的图片说明信息以及买家秀中买家提供的照片信息。【结论】经过模型计算后的结果能够更细节、准确地反映出商品在哪些属性上相符以及多大程度上相符,进而更有效...]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[58-65]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[面向用户任务的查询推荐研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[张晓娟;唐祥彬;]]></FullName>
+<Organization><![CDATA[武汉大学信息资源研究中心;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[04]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[查询推荐;用户任务;查询日志]]></Keyword>
+<Keyword Lang="en"><![CDATA[Query recommendation User task Query log]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[【目的】基于AOL查询日志数据集,从Session级别实现面向用户任务的查询推荐。【方法】从用户任务级别衡量查询间关系,再通过随机游走遍历图的思想为查询构建向量,以此实现候选查询推荐。【结果】本文方法的推荐效果优于基于查询共现来衡量查询间关系的推荐效果。【局限】未对拼写错误的候选查询进行拼写纠错;未从查询级别来实现面向用户任务的查询推荐;稀有查询和模糊性查询的推荐效果不佳。【结论】基于用户任务来衡量查询之间相关关系,能提高查询推荐的实验效果。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[34-40]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[遗传算法在改进文本特征提取方法中的应用]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[路永和;梁明辉;]]></FullName>
+<Organization><![CDATA[中山大学资讯管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[04]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[文本分类;特征提取;遗传算法;特征池]]></Keyword>
+<Keyword Lang="en"><![CDATA[Text categorization Feature extraction Genetic algorithms Feature pool]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[【目的】综合分析特征提取方法并对传统特征提取流程和方法进行改进。【方法】利用特征池进行特征词预选,引入遗传算法对候选特征词分组编码并提取最佳特征向量。【结果】改进的文本特征提取方法在使用KNN计算适应度值时效果最佳,而且在特征维数较少时效果更为明显。同时在针对不同特征维数和语料库时,分类准确率更加稳定。【局限】实验语料库质量有待提高;构造特征池时只使用CHI和IG两种特征提取方法;使用分组编码时没考虑词与词之间的语义关系;种群数量和迭代次数受限于计算的复杂性。【结论】加入特征池进行特征预提取能够提高文本分类准确率的稳定性,而加入遗传算法到文本特征提取中可以提高特征提取的效果,遗传算法利用分组编...]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[48-57]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[面向供应链的产品评论中客户关注特征挖掘方法研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[郝玫;王道平;]]></FullName>
+<Organization><![CDATA[北京科技大学东凌经济管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[04]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[产品评价概念树;客户关注特征;关联规则;数据挖掘;供应链]]></Keyword>
+<Keyword Lang="en"><![CDATA[Product evaluation conception tree Customer focus feature Association rule Data mining Supply chain]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[【目的】针对电子商务平台的中文产品评论,提出一种面向供应链的客户关注特征挖掘方法。【方法】以产品评论数据预处理方法为核心,改进关联规则挖掘产品特征方法。预处理技术包括产品评价概念树、产品评价特征库和MA_Apriori算法。数据实验以京东商城平板电脑为例,在Weka环境中完成客户关注特征的挖掘。【结果】实验表明,对于相同的事务文件,采用数据预处理再进行关联规则的产品特征挖掘,特征查全率为90.5%,而关联规则挖掘方法查全率仅为71.4%。并且本方法可实现产品特征挖掘结果的层次化和规范化。【局限】需要进一步补充汉语分词系统的用户词典,添加产品领域相关的专业词汇,以提高分词准确性。【结论】本方法有...]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[65-70]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[图书网页的自动识别及书目信息抽取研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[李湘东;霍亚勇;黄莉;]]></FullName>
+<Organization><![CDATA[武汉大学信息管理学院;武汉大学信息资源研究中心;武汉大学图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[04]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[图书网页;书目信息;自动识别;信息抽取]]></Keyword>
+<Keyword Lang="en"><![CDATA[Book pages Bibliographic information Automatic identification Information extraction]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[【目的】以相关的图书类网页为对象,研究图书网页的自动识别及书目信息抽取方法。【方法】在分析不同图书网页标签使用特征、布局结构以及书目信息表征的基础上,通过定义通用规则及共现词和页面分析等技术建立图书网页自动识别及书目信息抽取模型。【结果】实验证明,该模型针对来自一般性网站的图书网页识别率可以达到近80%,而针对各类图书网页书目信息的抽取准确率平均也达到79%左右。【局限】该方法中阈值的设定综合考虑了多种类型图书网页信息特征,但对于部分特征极其特殊的网页存在误判现象,若进一步改进算法,可能效果更好。【结论】此方法对于各种类型图书网页的自动识别和书目信息抽取均能取得比较理想的效果,普适性较强,同时...]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[71-77]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[SCI论文作者甄别软件设计及应用]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[于健;吴霞;赵春梅;]]></FullName>
+<Organization><![CDATA[中国科学院国家科学图书馆;中国科学院高能物理研究所;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[04]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[论文统计;作者甄别;SCI;软件设计]]></Keyword>
+<Keyword Lang="en"><![CDATA[Papers statistics Author discrimination SCI Software design]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[【目的】结合机构产出SCI论文统计需求,设计一款自动甄别目标机构作者和实验室的软件。【应用背景】可辅助论文统计部门快速准确识别机构论文作者和实验室(部门),进而获得机构作者和实验室的论文产出分布情况。【方法】从技术上实现综合利用相同研究单元内作者合作较多的科研特点、自定义作者唯一关键词或合作者字段以及SCI数据库作者相关字段的文本特征来甄别目标机构作者。【结果】允许用户通过目标机构人员名单维护来实现SCI论文作者甄别的自动化和高准确度。【结论】有效解决SCI论文中文作者因拼音写法多样且易重名而造成作者相关论文数据难以准确统计的问题,其设计思路也适用于EI及其他数据库论文作者甄别。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[78-84]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[利用微博数据的产品评价方法研究——以“安卓系统”评价为例]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[李兵;徐玮佳;张婧璇;]]></FullName>
+<Organization><![CDATA[对外经济贸易大学信息学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[04]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[微博;情感分析;众包;产品评价]]></Keyword>
+<Keyword Lang="en"><![CDATA[Microblogging Sentiment analysis Crowdsourcing Product evaluation]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[【目的】分析电子商务中现有产品评价模式的不足,提出一种改进不足的产品评价新模式。【方法】在国内最大的微博平台上,针对某一产品主题抽取1 687条微博数据,并采用文本情感分类技术,对该样本数据集进行建模和分析。【结果】分析面向产品主题的微博数据,对其蕴含的语义信息进行归纳总结,发现其同样具有产品整体评价功能。并由于微博数据生成的自发性,其分析结果更具有客观性。【局限】更大规模样本数据的分析没有全面涉及,基于微博的动态产品评价研究没有涉及。【结论】该模式可以在一定程度上克服原有互联网产品评价模式的弱点,从而吸引更多企业关注微博产品评价信息。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[92-98]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[多源专家特征信息融合研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[李纲;叶光辉;]]></FullName>
+<Organization><![CDATA[武汉大学信息资源研究中心;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[04]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[特征识别;传感器;社会网络;资源均衡度]]></Keyword>
+<Keyword Lang="en"><![CDATA[Feature recognition Sensor Social network Resource balancing degree]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[【目的】为全面获取专家资源,探究多源专家特征信息融合方法。【方法】从传感器工作过程出发,依次论述基于知识传感器、Web传感器和社会网络传感器的专家特征识别方法。鉴于三种方法获取的专家特征向量存在冲突,围绕资源均衡度设计基于多源信息融合的专家特征识别方法。【结果】与C-DBLP统计专家特征进行匹配,相似度达到38.97%,与同类型方法比较,结果在正常范围内。【局限】识别对象多来自高校及科研院所,用于特征识别的资源也多为学术资源,同时Web传感器采集网址集合还有待扩展。【结论】在语词关系控制情形下,该方法可用于科研团队构建、专家推荐、专家检索等方面。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[27-33]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[军事医学科研机构知识库建设实践与思考]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[郝继英;涂飞平;陈锐;路莹;杨志滨;王洪军;]]></FullName>
+<Organization><![CDATA[中国人民解放军医学图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[04]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[科学研究组织机构;知识库;军事医学]]></Keyword>
+<Keyword Lang="en"><![CDATA[Scientific organization Repositories Military medicine]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[【目的】研建军事医学科学院机构知识库(AMMS IR),促进机构知识资产的科学组织、集中揭示、存储管理和重用。【应用背景】完全遵循DSpace开发原则,采用B/S架构,使用PostgreSQL开源数据库,利用Java语言进行开发。【方法】在最核心的逻辑和功能上沿用DSpace-Core API部分,但不再依赖DSpace默认的展示层,在DSpace-Core API基础上重新设计,加入全新的事件机制、插件机制和访问链等机制。【结果】实现Solr作为搜索引擎的递进式分面检索与浏览、科技档案管理、机构资源数据分析和相关作者数据分析等功能。【结论】在基于DSpace的机构知识库软件系统的...]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[1-6]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[机构知识库语义知识获取方法分析及实验研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[王思丽;祝忠明;姚晓娜;]]></FullName>
+<Organization><![CDATA[中国科学院国家科学图书馆兰州分馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[04]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[机构知识库;语义映射;知识获取;ER模式]]></Keyword>
+<Keyword Lang="en"><![CDATA[Institutional Repository Semantic mapping Knowledge acquisition ER mode]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[【目的】通过分析总结和实验研究,提出并形成一种有效的语义知识获取方法,为实现机构知识库的语义化提供理论基础和可行技术路线。【方法】对国内外的语义知识获取方法进行对比分析,提出机构知识库语义知识获取的体系框架,并总结和深度解析其关键技术;同时,以中国科学院机构知识库平台为例进行实验研究。【结果】该方法可有效地从机构知识库底层的关系数据库的数据和实体关系结构中自动获取语义知识信息并转化为RDF三元组形式进行浏览和查询。【局限】定义一个合理有效的语义映射规则,需要经过领域专家评估、较多的人工干预以及反复实验才能确定;不同机构知识库间同一实体对象的语义知识获取关联没有涉及。【结论】有利于帮助后续研究人...]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[7-13]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于分众分类法的图书馆书目推荐系统]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[罗琳;梁桂生;蔡军;]]></FullName>
+<Organization><![CDATA[武汉大学信息资源研究中心;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[04]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[分众分类法;图书推荐;推荐系统]]></Keyword>
+<Keyword Lang="en"><![CDATA[Folksonomy Book recommendation Recommendation system]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[【目的】利用分众分类法构建用户、资源和标签的三元组关系实现图书推荐系统。【方法】利用协同过滤技术,采用余弦算法计算资源相似度,分别设计了书目权值和标签权值,利用稀疏向量的表示方法来表示输入矩阵中的每个资源来压缩稀疏矩阵存储。【结果】计算后发现书目权值主要分布在0-200的区间内,标签权值符合幂率分布。使用AP和MAP指标对比书目权值高的前20本书在本系统的相关推荐结果要优于豆瓣网。【局限】因为目前图书馆参与书目标注行为的用户数量不够,所以本文的数据是在采集图书馆的书目数据基础上获得豆瓣网上的该书所对应的用户标注数据。【结论】本研究有利于图书馆OPAC系统功能完善,利用用户标注数据了解用户需求,...]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[14-19]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[ProQuest Central中3.2亿条记录现可通过WorldCat Discovery服务检索]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[本刊讯;]]></FullName>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[04]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[OCLC;数据库用户;订阅者;服务访问;数据交换;全文信息;维护过程;学科交叉性;检索服务;电子书;]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[<正>OCLC于2014年初推出WorldCat Discovery服务。日前,来自ProQuest Central数据库中88个馆藏中的3.2亿多条记录已可通过WorldCat Discovery服务进行搜索,双方订阅者均可通过OCLC WorldCat Discovery服务访问这些记录相关的全文信息。该项新搜索体验来源于2013年OCLC与ProQuest签订的数据交换协议,该协议旨在加强WorldCat Discovery服务和ProQuest Central全文数据库用户的图书馆搜索体验。该项目共享了一些世界上使用最广泛的图书馆馆藏元数据,大大丰富了ProQuest Central以...]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[26]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[利用术语定义的汉语同义词发现]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[殷希红;乔晓东;张运良;]]></FullName>
+<Organization><![CDATA[中国科学技术信息研究所;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[04]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[术语定义;相似度算法;同义词发现;实词;出现位置]]></Keyword>
+<Keyword Lang="en"><![CDATA[Term definition Similarity algorithm Synonyms found Content words Position]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[【目的】借鉴Lesk词义消歧思想,提出并实现一种利用术语定义来发现汉语同义词的方法。【方法】将新能源汽车领域汉语科技词系统中的术语及其定义作为测试集,首先对术语定义做分词和词性标注,并进行人工校对,然后抽取出动词和名词词性的实词,再根据两个术语定义中相同的实词数量及位置信息计算术语的相似度,最后根据相似度和给定的阈值得到同义词关系的推荐。【结果】利用准确率、召回率、F值对同义词发现效果进行评价,论证该方法的有效性,结果表明该方法可以达到较高的准确率,但是召回率比较低。【局限】该同义词发现方法不能剔除反义关系和相关关系的术语对,造成召回率较低。【结论】该方法较为简便快捷有效,并且可达到较高准确率...]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[41-47]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[面向情感分析的用户评论过滤模型研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[蔡晓珍;徐健;吴思竹;]]></FullName>
+<Organization><![CDATA[中山大学资讯管理学院;中国医学科学院医学信息研究所;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[04]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[评论过滤;用户评论;情感分析]]></Keyword>
+<Keyword Lang="en"><![CDATA[Review filtration Customer review Sentiment analysis]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[【目的】针对情感分析研究中网络用户评论质量良莠不一的问题,构建过滤模型进行筛选。【方法】选取涉及产品词汇量、评论长度、情感强度、修饰词数量4个指标作为评判依据,利用多元线性回归方法和来自购物网站的数据构建模型。【结果】发现涉及产品词汇量、评论长度、情感强度、修饰词数量与评论质量存在相关性。所构建的过滤模型具有较高的召回率和准确率,为情感分析中数据源的筛选提供一种新方法。【局限】存在数据稀缺性影响,所构建的模型具有局限性。【结论】在误差允许的范围内,该模型能够对评论的质量等级进行自动判断。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[58-64]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[Innovative和Bibliotheca宣布结成战略联盟,致力于整合图书馆技术解决方案]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[本刊讯;]]></FullName>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[04]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[图书馆技术;条码技术;Bibliotheca;Innovative;triple;互联互通;提供商;技术创新;转售;图书馆自动化;]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[<正>全球领先的图书馆服务平台提供商Innovative,和全球领先的RFID和条码技术解决方案提供商Bibliotheca,于近日宣布结成战略联盟,将加强两家公司产品的整合,为全球的图书馆用户创造附加价值。根据合作协议,Innovative将有权直接转售Bibliotheca的RFID系统给Innovative全球的客户,包括美国、欧洲和澳大利亚。两家公司同意共同合作,将双方的产品线互联互通,以促进技术创新。协议还允许Innovative使用triple I商标销售Bibliotheca的产品,并在双方公司的销售、售后支持和咨询部门之间建立更加正式的工作关系,这将有效地解决集成独立的]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[84]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[Web生活服务信息的组织与可视化研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[夏立新;蔡昕;石义金;孙丹霞;王忠义;]]></FullName>
+<Organization><![CDATA[华中师范大学信息管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[04]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[信息可视化;Bertin编码原则;Web生活服务信息;加权图]]></Keyword>
+<Keyword Lang="en"><![CDATA[Information visualization Bertin coding principle Web life service information Weighted graph]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[【目的】降低用户获取Web生活服务信息的细节觉察成本和决策成本。【应用背景】Web环境下的生活服务信息,需要结合用户的情景,帮助用户快速获取信息。【方法】分析总结4种常见的用户需求,结合出行链理论和信息可视化技术中的Bertin编码原则,基于加权图的性质设计算法,进行Web生活服务信息可视化。【结果】以团购类Web生活服务信息为例,对该交互原型设计进行实现。【结论】验证Web生活服务信息可视化可以帮助用户快速建立心理定位。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[85-91]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[Andrew W.Mellon基金会资助印第安纳大学进行Kuali图书馆管理系统的研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[本刊讯;]]></FullName>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[04]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[图书馆管理系统;Kuali;印第安纳大学;学术图书馆;合作成员;图书馆环境;高校图书馆;软件系统;联合创建;数字内容;]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[<正>Kuali OLE系统主要合作成员印第安纳大学于日前收到来自Andrew W.Mellon基金会的882 000美元的资助,用于研究Kuali开放图书馆环境(Kuali Open Library Environment,Kuali OLE)。Kuali OLE是一个开源的、基于社区的图书馆软件系统,由美国一些著名的高校图书馆联合创建。Kuali OLE是一个图书馆管理系统,由研究和学术图书馆而设计并为其服务,旨在帮助他们管理其日益增长的馆藏并提]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[91]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[NISO就需求驱动的专著收购发布推荐实践]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[本刊讯;]]></FullName>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[04]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[需求驱动;NISO;图书馆联盟;项目评估;公共图书馆;记录管理;参数选择;信息标准;学术图书馆;联合主席;]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[<正>美国国家信息标准组织(NISO)正在征求公众对需求驱动的专著采购推荐实践草案(NISO RP 20 201x)的意见。NISO需求驱动采购工作小组于2012年6月成立,负责为需求驱动采购(Demand Driven Acquisition,DDA)制定灵活的模型,以方便出版商、销售商、内容集成商以及图书馆。该推荐实践草案就DDA的关键点、DDA项目的目的和目标、项目参数选择、DDA中MARC记录管理、项目评估、未拥有内容的长期访问、图书馆联盟的考虑、以及公共图书馆DDA等问题做出讨论并给]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[98]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[“2014图书馆信息技术的应用、服务和创新学术研讨会”暨“第4届数字图书馆与开放源码软件(DLIB&OSS 2014)学术研讨会”会议通知]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <Organization><![CDATA[中国图书馆学会数字图书馆研究与建设专业委员会;中国图书馆学会专业图书馆分会;《现代图书情报技术》杂志社;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[04]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[数字图书馆;开放源码软件;DLIB&OSS 2014;信息技术;知识服务平台;会议通知;图书情报机构;专业技术人员;实践空间;会议网址;]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[<正>伴随着各种新技术、新方法、新模式和新机制的不断出现,专业图书情报机构如何利用信息技术发展知识服务将面临更多新的挑战,这也是当前图书馆馆长、信息技术主管、专业技术人员及图书馆员普遍关注的一个重要问题;开源工具和开放技术的深入应用为构建开放的数字图书馆系统、提供开放的知识服务平台提供了更多创新思路和实践空间。继2010、2011年成功举办两次图书馆信息技术的应用、服务和创新学术研讨会、2006、]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[99-100]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[欢迎订阅2014年《现代图书情报技术》(月刊)]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> </Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代图书情报技术]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Issue><![CDATA[04]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[图书馆学;技术性刊物;期刊定位;报道信息;情报学领域;信息科学;信息管理技术;信息技术领域;科研人员;国外邮发代号;]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[<正>《现代图书情报技术》杂志是由中国科学院国家科学图书馆主办的学术性、信息管理技术类专业期刊。1980年创刊,原名《计算机与图书馆》,1985年更名为《现代图书情报技术》,是国内图书馆学、情报学领域唯一一份技术性刊物,入选北大核心期刊要目总览,并连续多次被授予中国图书馆学优秀期刊荣誉称号。(1)期刊定位:面向国内信息技术领域的科研人员,跨图书馆学、情报学、信息科学等几大学科,以报道信息技术的研发]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[100]]></PageScope>
+<Publisher><![CDATA[现代图书情报技术]]></Publisher>
+<Code><![CDATA[1003-3513]]></Code>
+</Bibliography>
+</Bibliographies>

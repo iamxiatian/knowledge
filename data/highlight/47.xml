@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<publication marker="gai shuangshuang">
+    <journal>International Journal of Information Management</journal>
+    <time>Volume 36, Issue 6, Part B, December 2016, Pages 1205-1217</time>
+International Journal of Information Management
+    <title>Transactional quality, relational quality, and consumer e-loyalty: Evidence from SEM and fsQCA</title>
+    <author>Jiaming Fang.</author> Author links open the author workspace.Opens the author workspaceOpens the author workspacea. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace<author>Yunfei Shao.</author> Author links open the author workspace.Opens the author workspacea. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace<author>Chao Wen.</author> Author links open the author workspace.Opens the author workspaceb. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace
+a
+Department of Management Science and E-business, School of Management and Economics, University of Electronic Science and Technology of China, No.2006, Xiyuan Ave, West Hi-Tech Zone, Chengdu, Sichuan 611731, China
+b
+School of Business, Eastern Illinois University, 600 Lincoln Avenue, Charleston, IL 61920, USA
+Show more
+    <doi>https://doi.org/10.1016/j.ijinfomgt.2016.08.006</doi>Get rights and content
+Highlights
+    <highlight id="1">We integrate transactional and relational perspective factors in the same model.</highlight>
+    <highlight id="2">fsQCA reveals several equifinal configurations leading to e-loyalty.</highlight>
+    <highlight id="3">Consumer heterogeneity results in dissimilar configurations leading to e-loyalty.</highlight>
+    <highlight id="4">Satisfaction is a necessary but not sufficient condition leading to e-loyalty.</highlight>
+    <highlight id="5">The results reveal the causal complexities of repurchasing decision.</highlight>
+
+<abstract>
+Abstract
+Customer loyalty plays a vital role in the success of e-commerce. Based on loyalty development process framework proposed by Oliver (1997), <h target="1" match="full">we propose an integrated model including factors derived from both transactional and relational perspectives to investigate the formation mechanism of consumer loyalty to online vendors in the context of e-tailing.</h> Structural equation modeling (SEM) and fuzzy set qualitative comparative analysis (fsQCA) werecausal complexities used to analyze the survey data collected from 664 online shoppers. SEM reveals the net effect of the antecedents on e-loyalty; <h target="3" match="full">while fsQCA provides the combinations of causal recipes associated with the loyalty.</h> The results from fsQCA reveal that none of the sub-constructs of transactional quality or relational quality is sufficient conditions for e-loyalty. <h target="3" match="full">Moreover, consumer heterogeneity in term of gender, age, and shopping motivation results in dissimilar configurations to achieve e-loyalty.</h>  The research results provide insights to both theory and practice.
+</abstract>
+
+    <keywords>E-tailing</keywords>
+    <keywords>Repurchase intention</keywords>
+    <keywords>Internet shopping</keywords>
+    <keywords>E-loyalty</keywords>
+    <keywords>Causal complexity</keywords>
+    <keywords>Fuzzy set qualitative comparative analysis (fsQCA)</keywords>
+    
+    <section name="Introduction" category="introduction"><![CDATA[
+1. Introduction
+In recent years, the e-commerce sector is continuing to expand quickly. A study by the Centre for Retail Research (2015) reports that e-commerce is the fastest growing retail market in both Europe and the U.S. In 2016, overall online sales are expected to grow by 18.7% and 14.2% in Europe and the U.S., respectively. A few decades ago, e-commerce growth relied primarily on enticing traditional customers to adopt online channels. Presently, e-commerce growth is mainly driven by an increase in the frequency of consumers shopping online and spending more money through online channels (Centre for Retail Research, 2015). The continued prosperity of e-commerce markets depends on retaining customers who shop online and developing closer relationships with customers (Wen, Prybutok, & Xu, 2011). However, B2C companies often face the fundamental challenge of how to retain these consumers as the Internet shoppers have relatively low switching costs in this platform. (Wu, Chen, Chen, & Cheng, 2014).
+The question of how e-loyalty develops has been subject to an abundance of research, leading to an expansive body of literature about the effects of loyalty determinants. A review of extant literature reveals that there are two main research streams related to customer loyalty: from the transactional perspective and from the relational perspective. The transactional view mainly focuses on cognitive factors, and identifies perceived value as a core factor in predicting customer loyalty (e.g., Hsu & Lin, 2015; Wu et al., 2014). The relational view generally concerns affective factors and recognizes trust as a key determinant of customer loyalty (e.g., Shin, Chung, Oh, & Lee, 2013; Zhang et al., 2011). Both transactional and relational perspectives research provides valuable insights into the drivers of online customer loyalty. Recent research reports that both affective and cognitive factors determine consumers’ intention to continuously adopt IT services (Lin, Huang, & Hsu, 2015). An investigation of the effects of and the relations between cognitive and affective factors will help researchers understand the factors that affect consumers’ e-loyalty comprehensively. ]]> <h target="1" match="part">Accordingly, it is important to integrate transactional and relational perspective factors in the same research model.</h><![CDATA[
+However, little research on customer retention has integrated these two views to understand e-loyalty formation. A recent meta-analysis of the e-loyalty literature examined both consequences and antecedents of e-loyalty (Toufaily, Ricard, & Perrien, 2013). In their meta-analysis, Toufaily et al. (2013) found that few studies included transactional/relational aspects in the research models and suggested more research on the subject. Moreover, they call on researchers to consider the hedonistic and utilitarian dimensions of shopping motivations in the further research. Based on their work, Cui, Lai, and Lowry (2016) proposed a research model including perceived utilitarian and hedonic value. However, their study still ignored the relational quality. Our literature review on the recently published literature dealing with online loyalty (see Appendix) suggests that although there is a transition from the technical and/or transactional views in studies to a relational view, research based on the technical and/or transactional view still dominates the field. There are only two studies (Shin et al., 2013; Wang, Wang, & Liu, 2016) investigated relationship commitment, trust, and satisfaction simultaneously.
+Our study differentiates in two important aspects from their studies. First, these two work generally focused on technological and relational view. Shin et al. (2013) examined the effect of site quality on repurchase intention in online shopping, and stressed the mechanisms how site quality is formed and how it affects repurchase intention. The model proposed by Shin et al. (2013) did not include transactional quality (perceived value). Wang et al. (2016) integrated the commitment-trust theory and e-commerce success model to investigate the stickiness intention of C2B group-buying websites. Their work still highlighted the technical and relational view. They claimed that the perceived value comes from the effectiveness of the technical support provided to shoppers to help their use of a website (Wang et al., 2016), and did not explicitly take into account the hedonistic and utilitarian dimensions of perceive value which are derived from the transactional itself. To distinguish these work, we, based on loyalty development process framework proposed by Oliver (1997, 1999), propose a theoretical framework explicitly including the transactional and relational view, and acknowledge that perceived value is formulated by perceived utilitarian value and hedonistic value derived from the shopping trip.
+Second, in addition to using structural equation modelling to examine the net effect of the transactional and relational antecedents on e-loyalty, our study also complementarily uses qualitative comparative analysis. ]]> <h target="2" match="part">By combining the results from the SEM and fsQCA, our study reveals general patterns and several equifinal configurations leading to consumer e-loyalty, and delivers information on the necessary or sufficiency of the configurations for high consumer e-loyalty.</h> <![CDATA[
+
+This study would like to answer the following research questions:
+(1)
+Which transactional and relational perspective factors are associated with e-loyalty?
+
+(2)
+How do these cognitive and affective factors together affect e-loyalty formation?
+
+(3)
+What is the internal relationship between these cognitive and affective factors?
+
+(4)
+Which cognitive and/or affective factors are necessary or sufficient for e-loyalty formation?
+
+
+To the best of our knowledge, this is one of the first studies using fsQCA to understand the causal impact of various patterns of transactional and relational factors on consumers’ loyalty to online vendors. The results identify several equifinal configurations associated with the high levels of e-loyalty.]]> The findings also suggest that no singular antecedent is sufficient in fostering consumer loyalty, and that there is no single exclusive causal path leading to the loyalty. <h target="5" match="full"> The study contributes to the literature by providing a comprehensive picture of the formation mechanism of consumers’ e-loyalty in B2C e-commerce, and adding more convincing explanations of causal complexities of online consumers' repurchasing decision to the existing literature.</h>  <![CDATA[ The findings of this study offer online vendors practical suggestion for developing differentiated strategies to retain consumers.
+
+]]></section>
+
+    <section name="Theoretical background and hypotheses" category="background"><![CDATA[
+2. Theoretical background and hypotheses
+2.1. Conceptual model
+Loyalty is an important strategic objective for all online vendors. It is a construct that has both intentional and behavioral components. Although there is a conceptual distinction, intentional loyalty and behavioral loyalty are suggested to be related (Liao, Wang, & Yeh, 2014). The existing research on consumer e-loyalty formation usually focuses on repurchase intention (e.g., Zhang et al., 2011; Shin et al., 2013). Considering that behavioral loyalty is not adequate to capture true loyalty levels as shoppers’ repeat purchasing behavior does not always result from their psychological commitment to a specific product or vendor through a decision-making process (Han, Kim, & Kim, 2011), we in this research also focus on intentional loyalty. Specifically, consumers’ e-loyalty in this study is measured and tested using consumers’ repurchase intention and word of mouth (WOM) in that they are regularly measured to understand the likelihood to which consumers are loyal to a retailer (Kumar, Pozza, & Ganesh, 2013; Liao et al., 2014).
+Oliver (1997, 1999) claims that customers follow an attitudinal process to develop loyalty, which can be summarized as a cognitive-affective-conative-action framework (four-stage loyalty). In the first stage, defined as cognitive loyalty development, a customer evaluates an experience in term of perceived performance of an offering relative to the cost. The second stage, affective loyalty development, involves the customer’s affective responses related to offering on the basis of cumulatively satisfying usage occasions. Previous research agrees that this phase mainly involves emotions and satisfaction, which are crucial in attitudinal loyalty formation (Han et al., 2011). Finally, behavioral intention development phase. At this stage, the customer develops a repurchase and positive WOM intention that is influenced by the positive cognitive and affective evaluation of the offering. Oliver (1997) claims that consumers can become loyal at each of these four phases. According to him, loyalty development process includes both attitudinal and behavioral loyalty phases. The first three stages belong to the attitudinal phase of loyalty (i.e., cognitive loyalty, affective loyalty, and conative loyalty), and the fourth phase is behavioral loyalty phase (Oliver, 1999). As we stated above, this study focuses on intentional loyalty and thus we used the attitudinal phase of loyalty development process as an overarching framework and excluded behavioral loyalty phase. Support for this framework has been found across offline and online contexts (e.g., Han et al., 2011; Lin et al., 2015; Shin et al., 2013).
+Based on the attitudinal phase of loyalty development process, we propose a conceptual framework depicted in Fig. 1. We propose that transactional quality captures consumers’ cognitive experience in online shopping, relational quality encapsulates the affective experience in online shopping, and the positive cognitive and positive affective evaluation facilitate customer to formulate the conative loyalty in term of repurchase and positive WOM intention. Considering that consumers’ heterogeneous characteristics may potentially influence the formation of e-loyalty (Fang, Wen, George, & Prybutok, 2016), we included age, gender, and shopping motive as control variables in the proposed model. Prior studies (e.g., Fang et al., 2016; Sanchez-Franco, Ramos, & Velicia, 2009) report that these variables can influence repurchase intention formation.
+Fig. 1
+Download high-res image (468KB)Download full-size image
+Fig. 1. The research model.
+2.2. Transactional quality
+Transactional quality is the consumer’s evaluative response to their shopping experience. A high-level of transactional quality facilitates the formation of cognitive loyalty (Blut, Evanschitzky, Vogel, & Ahlert, 2007). Prior research reports that hedonic and utilitarian motivations affect purchasing behavior (Büttner, Florack, & Göritz, 2013). Consumers with a utilitarian shopping motivation, they visit online stores for the purpose of product acquisition. These shoppers highly value low acquisition costs (relatively less time and energy expended to acquire a product or service) and put emphasis on acquiring products or services in an efficient way. In contrast to utilitarian motivation, shoppers with hedonic and experiential motivation view shopping as an experience more than a means to obtain a product or service (Kukar-Kinney & Close, 2010). These shoppers derive gratification from affective experiences.
+Perceived value is generally defined as the overall assessment trade-off of the perceived quality of product or service received, and the aggregated costs to acquire the product or service (Mosavi & Ghaedi, 2012). As such, perceived value mainly captures utilitarian dimension of online shopping. By contrast, enjoyment, defined as the extent to which the online shopping is perceived to be enjoyable in its own right, apart from any performance consequences, represents hedonic dimension of online shopping. Thus, perceived value and perceived enjoyment are the two main cognitive sub-constructs of transactional quality.
+According to Customer Value Cube model proposed by Duchessi (2004), the basic dimensions of customer perceived value are service quality, product quality, and price (Duchessi, 2004). Because of consistency between sacrifice (what is given up or sacrificed in terms of time, effort, and money in order to acquire a product or service) and price, in the service evaluation process models proposed by Brady, Knight, Cronin, and Hult (2005), sacrifice instead of price is proposed as an important dimension of perceived value. This method is also adopted by other researchers (e.g., Fang et al., 2016; Luk et al., 2013). As such, in this study e-SQ, product quality, and sacrifice are proposed as the three cognitive dimensions of perceived value. E-SQ is defined as customers’ overall evaluations and judgments regarding the quality of e-service delivered by online vendors. Product quality refers to shoppers’ judgment about the superiority or excellence of a product during or after using the product. Sacrifice reflects transaction costs in online shopping, and it includes monetary costs, such as the dollar price that the customers have to pay, and non-monetary costs, such as time and efforts that customers have to spend on the searching and purchasing process.
+To improve an individual’s desire to revisit an e-retailer, perceived value is regarded as an important determinant (Wu et al., 2014). Perceived value is a critical factor influencing satisfaction and repeat buying action in online shopping contexts (Chiu, Wang, Fang, & Huang, 2014). Satisfaction refers to a global affect evaluation or feeling state resulting from a global evaluation of performance based on the online shopping experience (Blut et al., 2007). Earlier research reports that when customers perceive the value of product and service, the level of satisfaction will increase. For instance, Kuo, Wu, and Deng (2009) report that perceived value has a positive influence on customer satisfaction of mobile value-added service. Similarly, Hsu and Lin (2015) also observe that perceived value has a significant impact on customer satisfaction levels in purchasing paid APPs. Thus, we propose:
+H1a
+
+Consumers' perceived value toward online shopping is positively associated with their shopping satisfaction.
+
+
+Repurchase intention refers to the consumer's subjective probability of re-visiting an online store, and is regarded as a major determinant of repurchasing behavior. Consumers’ decision to make a repurchase is mainly based on a value judgment resulting from whether past consumption experiences helped consumers achieve their goals (Chiu et al., 2014). The superior consumer value of online shopping delivered by online vendors can help to raise the consumers' repurchase intentions (Wu et al., 2014). Prior online purchasing studies observe that, as consumers' perception of value increases, their repurchase intention increases (Chiu et al., 2014; Hsu & Lin, 2015; Wu et al., 2014). Therefore, we propose:
+H1b
+
+Consumers' perceived value toward online shopping is positively associated with their repurchase intention toward the e-tailer.
+
+
+In addition to influencing shoppers' repurchase intention, perceived value also affects their behavioral intentions of WOM. WOM has been acknowledged for many years as a major influence on consumer purchasing decision. Delivering superior customer value increases consumers’ behavioral intentions of WOM (Gounaris, Tzempelikos, & Chatzipanagiotou, 2007). Prior empirical research (McKee, Simmers, & Licata, 2006) also showed that perceived value is an important predictor of the behavioral intentions of WOM. The results are accordant with the prediction of the expectation-confirmation model (ECM) proposed by Bhattacherjee (2001). According to the ECM model, perceived usefulness and confirmation as perceived value are viewed as the primary determinants for consumer intentional loyalty. Thus, we propose:
+H1c
+
+Consumers' perceived value toward online shopping is positively associated with their WOM toward the e-tailer.
+
+
+Perceived enjoyment encapsulates a hedonic dimension of web consumption. Shoppers with an experiential shopping motivation seek stimulation during shopping and view shopping as an enjoyable task (Büttner et al., 2013). As such, shoppers propelled by hedonic motivations perceive a high level of enjoyment during online shopping, their shopping satisfaction will increase. Nowadays, online retailors formulate many ways to increase shoppers’ experience in order to enhance their satisfaction. For example, online apparel retailers devote considerable resources to various types of virtual reality and image interactivity technology (IIT), including close-up pictures, zoom-in functions, and 3D virtual models, to enhance consumers’ online shopping experience which in turn potentially improves visitors’ satisfaction level. In addition, Zhao and Lu (2012) observe that enjoyment positively affects users' satisfaction towards micro-blogging services. Accordingly, we propose:
+H2a
+
+Consumers' perceived enjoyment toward online shopping is positively associated with their shopping satisfaction.
+
+
+High levels of enjoyment perceived by online shoppers helps to increase their repurchase intention. In an effort to gain an advantage in the increasingly competitive online retailing market, online retailers aim to increase customer perception of enjoyment (and in some cases, excitement) to ensure increased and persistent levels of repeat purchase intention (Bartl, Gouthier, & Lenker, 2013). Prior research has explored the influence of enjoyment on users’ attitude towards online services and reported that such hedonic experience is an important antecedent of repeat purchase intention. Bauer et al. (2006) assert that enjoyment is a dominant factor in influencing both relationship duration and repurchase intention in online shopping. Chiu et al. (2009), and Jeong, Fiore, Niehm, and Lorenz (2009) report that enjoyment is a significant positive predictor of customers' repurchase intentions. Similarly, Mäntymäki and Salo (2011) confirm the positive role of enjoyment on continuous virtual product buying intention. Moreover, Mouakket (2015) shows the enjoyment influences continuance intention to use social network sites. Following the literature, we expect:
+H2b
+
+Consumers' perceived enjoyment toward online shopping is positively associated with their repurchase intention toward the e-tailer.
+
+
+Apart from influencing shoppers' repurchase intention, it is expected that enjoyment also affects shoppers’ behavioral intentions of WOM. Gounaris et al. (2007) report that providing superior customer value helps to increase behavioral intentions of WOM. Shopping motivations are connected to value assessments of shopping trips. As argued above, when shopping under a hedonic motivation, shoppers seek to maximize the experiential shopping value (Büttner et al., 2013), for instance, presenting product based on augmented reality and virtual reality technologies. Perceived high levels of enjoyment during online shopping trips achieves experiential shoppers’ value which should help them increase behavioral intentions of WOM. Thus,
+H2c
+
+Consumers' perceived enjoyment toward online shopping is positively associated with their WOM toward the e-tailer.
+
+
+2.3. Relational quality
+The concept of relational quality is derived from research in the area of relationship marketing. From the online consumer’s perspective, relational quality captures previous interactions and especially future expectations with the online vendors (Tóth, Thiesbrummel, Henneberg, & Naudé, 2015). Prior literature supports the notion that satisfaction, trust, and commitment are the key sub-constructs of relational quality in online shopping settings (Sanchez-Franco et al., 2009; Shin et al., 2013). Prior research contends that a good relationship is built only when buyers feel satisfied and have trust in their relationship with their vendors (Zhang et al., 2011).
+Customer satisfaction is a “post consumption” experience, which is derived directly from a cognitive appraisal of previous buying experience (Gounaris, Dimitriadis, & Stathakopoulos, 2010). If purchasing expectations are met, buyers will be satisfied and confident. Satisfactory experience is regarded as a primary determinant for developing and retaining a long-term consumer relationship and plays a vital role in competitive environments of e-commerce (Omar, 2009; Ong & Lin, 2013). A large number of studies (e.g., Gounaris et al., 2010; Omar, 2009; Zhang et al., 2011) have validated the interrelationship among satisfaction, trust, commitment, and loyalty in online contexts.
+Satisfaction leads to the belief that the same quality of product or service will be delivered in the future. Mosavi and Ghaedi (2012) report that the consumer’s overall satisfaction with the online buying experience has a positive impact on his/her trust in the vendors. Trust is defined as a psychological state comprising the intention to accept vulnerability, based on favorable expectations of the intentions, or behaviors of an online vendor (Sanchez-Franco et al., 2009). Gounaris et al. (2010) and Shin et al. (2013) also observe that the relationship between e-trust and e-satisfaction is significantly positive. Thus, we propose:
+H3a
+
+Consumers' satisfaction is positively related to their trust in the e-tailer.
+
+
+Prior research also reports that satisfaction can lead to commitment (e.g., Gounaris et al., 2010; Omar, 2009; Sanchez-Franco et al., 2009; Shin et al., 2013). Commitment is the desire of individuals to pursue their relationship with an exchange partner (Raïes, Mühlbacher, & Gavard-Perret, 2015). Satisfaction reinforces the consumers’ decision to maintain the exchange relationship with the online vendor. The relation between satisfaction and commitment is more salient in online shopping because of the perceived uncertainty and risk in the online environment. Taken together, we propose the following hypothesis:
+H3b
+
+Consumers' satisfaction is positively related to their commitment toward the e-tailer.
+
+
+There is ample evidence that customers’ satisfaction affects their loyalty to an online vendor (Gounaris et al., 2010; Omar, 2009; Pappas, Pateli, Giannakos, & Chrissikopoulos, 2014). Expectation confirmation theory, which has been widely used to explore repeat purchasing decisions, regards satisfaction as a vital variable for customers’ continuance intention. A meta-analysis analysis by Curtis, Abratt, Rhoades, and Dion, 2011 report that satisfaction and repurchase intention exhibits strong positive relationships. Another recent meta-analysis (Blut, Frennea, Mittal, & Mothersbaugh, 2015) of 233 effects from over 133,000 customers also confirms that there exists positive association between satisfaction and repurchase intentions/behavior. Thus, we propose:
+H3c
+
+Consumers' satisfaction is positively related to their repurchase intention.
+
+
+It is expected that besides its influence on repurchase intention, shoppers' satisfaction is an important antecedent of their behavioral intentions of WOM. WOM and repurchase intention are normally regarded as two important measurement dimensions of e-loyalty (Kumar et al., 2013; Liao et al., 2014). Satisfaction leads to e-loyalty, and thus one of the key consequences of customer satisfaction is WOM (Lang & Hyde, 2013; Zhang et al., 2011). Prior empirical research (e.g., Gounaris et al., 2010; Omar, 2009) reports that the greater the degree to which a consumer experiences satisfaction with an online shopping trip, the greater the chance the consumer will spread the positive WOM. Accordingly, we propose:
+H3d
+
+Consumers' satisfaction is positively related to their WOM toward the e-tailer.
+
+
+Given the uncertainty of the online transaction environment, consumers often perceive risks during online transactions such as financial risk, product risk, privacy and security risk (Shin et al., 2013). Trust plays a vital role in engaging consumers in online transactions with vendors by helping them overcome the perception of risk and uncertainty (Zhang et al., 2011). Therefore, customer trust is regarded as one of the most important prerequisites for e-commerce success (Sanchez-Franco et al., 2009). When customers trust in a vendor, they believe that the vendor will keep their promises and fulfill customer expectations. They accordingly will be more likely to maintain the exchange relationship and repurchase from the vendor. Eastlick, Lotz, and Warrington (2006) suggest that trust is positively related to commitment. Mukherjee and Nath (2007) also confirm that e-trust is positively associated with e-commitment and e-loyalty (WOM and continued intention). The results are consistent with the recent findings of Sanchez-Franco et al. (2009) and Shin et al. (2013). Therefore, we advance the following hypotheses:
+H4a–H4c
+
+Consumers' trust in an e-tailer is positively related to their commitment, repurchase intention, and WOM toward the e-tailer.
+
+
+Commitment refers to an inclination to develop and maintain the relationship with an online vendor. Committed customers are more likely to remain loyal to the firms (Shin et al., 2013). Thus, customer commitment is recognized as a determinant to long-term relationships. Mukherjee and Nath (2007) suggest that e-commitment has a positive impact on WOM, purchase intention, and continued interaction. Shin et al. (2013) also suggest that commitment is positively associated with repurchase intention in online B2C. To be consistent with prior findings, we hypothesize:
+H5a–H5b
+
+Consumers' commitment toward an e-tailer is positively related to their repurchase intention and WOM toward the e-tailer.
+
+]]></section>
+
+    <section name="Research methods" category="methods"><![CDATA[
+3. Research methods
+3.1. Measurement
+Survey data were collected to provide empirical evidence to support the proposed framework. All the scale items used a seven-point Likert scale, which ranged from 1 = “strongly disagree” to 7 = “strongly agree,” except for sacrifice, which was measured with three items based on a seven-point semantic differential scale. To ensure validity, all of the measures were adapted from previous studies to fit the context of this study (see Table 1 and Table 2 for scales).
+Table 1. Reliability and validity of the scale of perceived value.
+Items	Factor
+loadings	t-value
+E-Services quality (Wolfinbarger & Gilly, 2003)
+(CR = 0.94; AVE = 0.85)		
+Overall, the service quality of this website is of high standards.	0.92	59.68
+Overall, the service quality of this website is excellent.	0.91	57.04
+Overall, the service quality of this website is superior.	0.89	50.93
+Product quality (Kim et al., 2012)
+(CR = 0.89; AVE = 0.68)		
+The product that I got is of superior quality.	0.73	27.11
+The product that I got is of equal quality as those in physical stores.	0.81	35.31
+The product that I got online was as I expected.	0.88	46.64
+I am satisfied with the product that I bought online.	0.87	44.79
+Sacrifice (Luk, Sharma, & Chen, 2013)
+(CR = 0.76; AVE = 0.54)		
+The price of the product charged by this website is…	0.73	27.59
+The time required to shop online is …	0.85	41.86
+The effort that I must make to receive the services/products is…	0.83	37.76
+Note: Fit of the model: Satorra-Bentler scaled χ2 = 121.76, df = 32.
+RMSEA = 0.065; CFI = 0.974; TLI = 0.964; SRMR = 0.058.
+CR = Composite reliability.
+AVE = Average variance extracted.
+
+Table 2. Reliability and validity of the scale of the model.
+Items	Factor
+loadings	t-value
+Perceived value (CR = 0.81; AVE = 0.59)		
+E-Services quality	0.84	40.53
+Product quality	0.88	47.14
+Sacrifice	0.54	16.72
+Perceived enjoyment (Chiu, Chang, Cheng, & Fang, 2009)
+(CR = 0.95; AVE = 0.84)		
+I found my visit to this website interesting	0.90	52.41
+I found my visit to this website entertaining	0.91	55.83
+I found my visit to this website enjoyable	0.94	71.03
+I found my visit to this website pleasant	0.92	61.28
+Trust (Shin et al., 2013; Wu, 2013)
+(CR = 0.95; AVE = 0.88)		
+I trust the information that this site provides.	0.95	82.72
+I trust the promises that this site makes	0.93	66.15
+I trust the products that this site provides	0.93	64.06
+Customer satisfaction (Bauer, Falk, & Hammerschmidt, 2006; Shin et al., 2013)
+(CR = 0.96; AVE = 0.86)		
+My choice to shop on this website was a wise one	0.93	63.69
+I am satisfied with the purchases at this website.	0.92	61.39
+I am satisfied with the products/services offered by this website.	0.94	70.35
+Overall, I am satisfied with my last online shopping experience.	0.93	62.74
+Customer commitment (Mukherjee & Nath, 2007; Wu, Chen, & Chung, 2010)
+(CR = 0.94; AVE = 0.74)		
+I feel this site is a part of living.	0.85	41.13
+I expect that I will continuously buy from this site.	0.89	49.79
+I am attached to this site.	0.90	51.78
+I believe that this is my favorite retail site.	0.79	33.65
+Word of mouth (Liao et al., 2014; Wolfinbarger & Gilly, 2003)
+(CR = 0.94; AVE = 0.82)		
+I say positive things about this website to other people.	0.89	50.26
+I recommend this website to someone who seeks my advice.	0.92	61.60
+I encourage friends to do business with this website.	0.93	66.36
+I refer my acquaintances to this website.	0.88	48.40
+Repurchase intention (Loiacono, Watson, & Goodhue, 2007)
+(CR = 0.96; AVE = 0.87)		
+If I need to buy a product or service in the future, I would consider buying it from this Website.	0.92	61.18
+If I need to buy products or service in the future, I would probably revisit this Website.	0.95	75.51
+If I need to buy products or service in the future, I would probably try this Website.	0.94	72.52
+If I need to buy products or service in the future, I would probably end up making a purchase from this Website.	0.92	61.22
+Following the procedure described in Forgas-Coll et al. (2012), we created the perceived value construct with an item parceling. Specially, the items measuring the same dimension were averaged to form composite measures of perceived value which were then introduced as indicator variables in the confirmatory factor analyses (CFA) analysis together with the rest of the scales considered in the model to evaluate the reliability and validity of the scales. By so doing, stability of the parameter estimates as well as the variable-to-sample-size ratio can increase, and the impact of sampling error on the estimation process will reduce (Forgas-Coll, Palau-Saumell, Sánchez-García, & Callarisa-Fiol, 2012). A single-item (What was your motivation for your most recent online purchase? 1. Need based (shopping for a necessity); 2. For fun (Not for a necessity but like shopping itself); 3. Other (Please specify):______) was used to identify respondents’ shopping motive.
+The questionnaire was reviewed by two academic experts to assess its logical consistency, comprehensibility, and sequence of items. Then we reworded and re-sequenced several items that might create confusion. The revised questionnaire was then distributed to college students to establish the scale’s reliability and validity.
+
+3.2. Data collection
+We conducted an online survey to collect data. The questionnaire was uploaded on the website of Qualtrics.com. To stimulate the responses, we posted an invitation letter and the link to the online questionnaire on a portal website of a major university in southwestern United States. The letter explained the purpose of the study and invited members to participate. The sample used for this study mainly consisted of college students and faculty from the university. The feasibility of using college student as a sample is based on the following considerations. First, college students represent a large portion of web users, and many of them have extensive experience with online shopping, which makes them appropriate subjects for an e-commerce study that examines online repurchase intention (Wen et al., 2011); second, although students sample was used, there are many variations in demographic variables such as race, age, living area, income, and culture in this study which give us a certain confidence that we can generalize the results of our study to other persons that are similar to our study; third, a large set of prior studies have suggested that college students resemble the normal population of Internet users (e.g., Shin et al., 2013; Wen et al., 2011; Wu et al., 2014; Zhang et al., 2011).
+Only those respondents who had made at least one online purchase during the last two weeks were eligible for survey participation. Respondents were first instructed to recall their overall experiences toward the most recent online shopping. To foster recollection, respondents answered various priming questions such as, name of the website visited, time elapsed since that visit, main motives for the visit, what type of products they bought, and the cost of the products.
+
+3.3. Sample and descriptive statistics
+A total of 808 respondents answered the questionnaire during the data collection period. There are 664 final usable responses, after those with missing data or with replicated answers are removed. The sample size according to Westland’s (2010) formulas meets the minimum sample size required for this study (660) to detect small effect sizes (0.10) and achieve an acceptable statistical power level (0.80). Among the 664 responses, 283 respondents were identified as task-focused shoppers who chose option 1 in the shopping motive item, 357 respondents were classified as experiential shoppers who chose option 2 in the shopping motive item, and 24 respondents who chose option 3 in the shopping motive item provided their detailed shopping motive.
+Two scholars independently judged the motive type of these respondents who chose option 3. The scholars classified the motives based on their understanding on the classification of hedonic motivation and utilitarian motivation provided in Close and Kukar-Kinney (2010). Specifically, hedonic motivations to shop online generally include adventure shopping (shopping for escapism, stimulation, and adventure), social shopping (shopping for the enjoyment of spending time with friends and/or family members), gratification shopping (shopping to overcome a bad mood and relieve stress), idea shopping (shopping to gather information about the latest fads, fashions, and trends), and value shopping (shopping to seek the thrill and rewards associated with finding a deal).
+Of the 664 usable responses, 370 respondents were finally identified as fun-seeking shoppers and 294 respondents were goal-oriented shoppers. The average age of respondent was 23.7 years, with standard deviation of 5.5 years. Approximately 57.23% of the sample is male and 42.77% is female, and around 89.80% of respondents are between 20 and 39 years old. According to the survey report by Bronto Software (2015), individuals age 18–39 are the most frequent online shoppers. The main racial categories include White (56.6%), Hispanic or Latino (14.1%), Black or African American (12.3%), and Asian (11.3%), respectively.
+
+]]></section>
+
+    <section name="Data analysis and results" category="results"><![CDATA[
+4. Data analysis and results
+4.1. SEM results
+In the first phase of the analysis we focused on testing the psychometrical properties of the perceived value scale. Since Doornik-Hansen omnibus test for normality showed that the measurement items are non-normal, we used maximum likelihood robust and Satorra-Bentler scaled test statistics to assess the research model. The results are reported in Table 1. As shown in Table 1, composite reliability and average variance extracted (AVE) values for all of the constructs exceeded 0.70 and 0.50, respectively, demonstrating good construct reliability (Forgas-Coll et al., 2012; Gefen & Straub, 2005). Table 1 also shows that the factor loadings are significant and greater than 0.5, and average variance extracted (AVE) for each of the factors is higher than 0.5, indicating high convergent validity for all the indicators (Forgas-Coll et al., 2012; Gefen & Straub, 2005). In addition, the minimum value of the square root of AVE (0.73 for sacrifice) is larger than maximum value of the correlation between constructs (0.61 between e-SQ and product quality), indicating adequate discriminant validity (Gefen & Straub, 2005). Because psychometrical properties of the perceived value scale had been established, we created composite measures from the items sharing the same dimension in the perceived value scale (Forgas-Coll et al., 2012).
+The confirmatory factor analysis (CFA) measurement model demonstrated acceptable fit. All goodness-of-fit measures are within acceptable levels (Hair, Black, Babin, & Anderson, 2014): Satorra-Bentler scaled χ2 (278) = 701.496, χ2/df = 2.52, RMSEA = 0.048, CFI = 0.966, TLI = 0.955 and SRMR = 0.040. Although the Chi square test is significant, the proposed model is relatively complex including many latent variables and their indicators, and the manifest variables in this study are non-normal which potentially leads to the small p-value of χ2 test (Hair et al., 2014). We further studied the reliability and assessed the validity of the measures by computing composite reliabilities and average variance extracted (AVE) scores (see Table 2). The results strongly confirmed the reliability of the measures. Table 2 also shows that the all factor loadings are significant and all AVEs surpassed the 0.50, indicating convergent validity was well established.
+Discriminant validity was assessed by showing that the square root of AVE for each construct was larger than the correlation coefficients with other constructs (see Table 3). The correlations among the constructs are all well below the 0.80, which suggests that all constructs are distinct from each other. Table 4 shows that the loading of each measurement item on its assigned latent variable is larger than its loading on any other constructs.
+Table 3. Discriminant validity of the scales associated with the model.
+1	2	3	4	5	6	7
+1. Perceived Value	0.77						
+2. Enjoyment	0.49	0.92					
+3. Trust	0.73	0.46	0.94				
+4. Satisfaction	0.74	0.57	0.66	0.92			
+5. Commitment	0.52	0.52	0.50	0.60	0.86		
+6. WOM	0.61	0.50	0.61	0.69	0.69	0.91	
+7. Repurchase intention	0.64	0.46	0.59	0.74	0.61	0.68	0.93
+Below the diagonal: correlation estimated between the constructs.
+
+Diagonal: square root of AVE.
+
+
+Table 4. Confirmatory factor analysis and cross-loadings.
+Value	Enjoyment	Trust	Satisfaction	Commitment	WOM	Repurchase
+Product quality	0.84	0.40	0.59	0.65	0.42	0.52	0.54
+Sacrifice	0.54	0.12	0.35	0.30	0.13	0.21	0.28
+E-Services quality	0.88	0.50	0.69	0.66	0.54	0.59	0.59
+ENJ1	0.40	0.90	0.40	0.47	0.43	0.42	0.39
+ENJ2	0.37	0.91	0.37	0.45	0.48	0.42	0.36
+ENJ3	0.49	0.94	0.45	0.56	0.50	0.50	0.45
+ENJ4	0.50	0.92	0.47	0.58	0.50	0.50	0.47
+TST1	0.69	0.45	0.95	0.63	0.49	0.60	0.58
+TST2	0.72	0.43	0.93	0.65	0.46	0.58	0.57
+TST3	0.65	0.42	0.93	0.58	0.45	0.53	0.51
+SAT1	0.67	0.52	0.60	0.93	0.57	0.66	0.71
+SAT2	0.64	0.54	0.61	0.92	0.55	0.61	0.67
+SAT3	0.71	0.53	0.63	0.94	0.56	0.63	0.68
+SAT4	0.71	0.52	0.61	0.93	0.55	0.65	0.70
+COM1	0.50	0.45	0.48	0.59	0.85	0.67	0.60
+COM2	0.45	0.44	0.41	0.52	0.89	0.59	0.53
+COM3	0.44	0.44	0.43	0.51	0.90	0.59	0.52
+COM4	0.38	0.46	0.39	0.42	0.79	0.50	0.41
+WOM1	0.58	0.49	0.56	0.66	0.61	0.89	0.66
+WOM2	0.62	0.47	0.59	0.68	0.67	0.92	0.67
+WOM3	0.55	0.45	0.56	0.59	0.64	0.93	0.59
+WOM4	0.47	0.41	0.48	0.54	0.58	0.88	0.53
+REP1	0.56	0.43	0.52	0.66	0.56	0.60	0.92
+REP2	0.62	0.44	0.57	0.71	0.55	0.65	0.95
+REP3	0.63	0.44	0.57	0.74	0.57	0.66	0.94
+REP4	0.57	0.41	0.54	0.67	0.58	0.63	0.92
+In addition, the one-factor CFA model indicates very poor fit statistics (Satorra-Bentler scaled χ2 = 4408.613 with df = 299, CFI = 0.656, TLI = 0.626, RMSEA = 0.144, SRMR = 0.092), suggesting that common method bias did not significantly affect the parameter estimates (Tóth et al., 2015).
+The fit indices of the structural model assessment are acceptable (Satorra-Bentler scaled χ2 = 1001.93, df = 354, χ2/df = 2.83, RMSEA = 0.053, CFI = 0.946, TFL = 0.938, and SRMR = 0.056). All path coefficients and explained variances for the model are shown in Fig. 2. Consistent with previous research (e.g., Fang et al., 2016; Sanchez-Franco et al., 2009), the control variables (age, gender, and shopping motives) in this study influence repurchase intention. Specifically, older, task-focused female shoppers are more likely to repurchase from the same online vendor. However, these variables have trivial impacts on the WOM.
+Fig. 2
+Download high-res image (459KB)Download full-size image
+Fig. 2. Structural model.
+Note: *denotes p < 0.05, **denotes p < 0.01, and ***denotes p < 0.001.
+4.2. Predictive validity testing
+To validate the results, this study used a 2-fold cross-validation method to test the predictive validity of the model (Wu et al., 2014). We randomly assigned 664 participants to two equal size subsamples (sample 1 and sample 2). Sample 1 then was used as a training sample to estimate the parameters in the model. These parameters were used to predict the scores of repeat purchasing intention and WOM in the holdout sample (sample 2). The correlation between the predicted and actual scores was computed. Then, the reverse was undertaken in which sample 1 is a holdout sample and sample 2 is a training sample. The results showed that, when using sample 2 as a holdout sample, the correlation coefficients between the predicted and actual scores of repurchasing intention and WOM were 0.791 (p < 0.01) and 0.768 (p < 0.01), respectively. The correlation coefficients were 0.759 (p < 0.01) and 0.763 (p < 0.01) when using sample 1 as a holdout sample. The results suggest that the model showed a satisfactory predictive validity.
+4.3. Hypotheses testing
+Table 5 reports the standardized coefficients of the structural paths in the model.
+Table 5. Results of structural paths.
+Hypothesis	Path	Coefficient	S.E.	t-value	p-value	Result
+H1a	Perceived Value −>Satisfaction	0.603	0.028	21.39	0.000	supported
+H1b	Perceived Value −>Repurchase Intention	0.134	0.041	3.27	0.001	supported
+H1c	Perceived Value −>WOM	0.077	0.041	1.86	0.032	supported
+H2a	Perceived enjoyment −>Satisfaction	0.273	0.028	9.69	0.000	supported
+H2b	Perceived enjoyment −>Repurchase Intention	−0.013	0.031	−0.42	0.672	Not supported
+H2c	Perceived enjoyment −>WOM	0.030	0.032	0.96	0.336	Not supported
+H3a	Satisfaction −>Trust	0.662	0.029	22.75	0.000	supported
+H3b	Satisfaction −>Commitment	0.480	0.041	11.73	0.000	supported
+H3c	Satisfaction −>Repurchase Intention	0.471	0.041	11.62	0.000	supported
+H3d	Satisfaction −>WOM	0.271	0.040	6.66	0.000	supported
+H4a	Trust −>Commitment	0.182	0.055	3.34	0.000	supported
+H4b	Trust −>Repurchase Intention	0.074	0.037	1.97	0.025	supported
+H4c	Trust −>WOM	0.160	0.036	4.28	0.001	supported
+H5a	Commitment −>Repurchase Intention	0.232	0.031	7.29	0.000	supported
+H5b	Commitment −>WOM	0.395	0.032	12.36	0.000	supported
+The SEM results indicated that 13 out of 15 proposed hypotheses were supported. The influence of perceived value on shopping satisfaction, repurchase intention, and WOM were positive and significant, providing supports for Hypotheses 1a-1c. Hypotheses 2a–2c posited that perceived enjoyment positively influenced shopping satisfaction, repurchase intention, and WOM. The hypothesis H2a was supported by the significant path coefficient of 0.27 (p < 0.001). However, the H2b (β = −0.013, p = 0.67) and H2c (β = 0.03, p = 0.34) were not supported. The results indicate that consumers’ perceived enjoyment will lead to their satisfaction to the shopping experience, but will not necessarily lead to their intention to repurchase or recommendation the online vendor to others. The positive impacts of satisfaction on trust, commitment, repurchase intention, and WOM were all confirmed, supporting Hypotheses 3a–3d. The results also confirmed the positive influences of trust on trust, commitment and WOM, which confirmed Hypotheses 4a–4c. The result shows consumers’ trust will directly and indirectly influence their repurchase intentions indirectly through commitment. We also observed the significant positive influences of commitment on repurchase intention and WOM, providing support for Hypotheses 5a and 5b.
+4.4. Reanalysis of the data using fsQCA
+The above analysis focused on the isolated net effect of each antecedent on consumer loyalty online, and without considering the role of consumer characteristics such as gender, age and shopping motives and their complex interplay on the loyalty. The conventional statistical approaches such as SEM and multiple regression analysis (MRA) are inherently limited in their capacity to explain the complex interaction effects including the interplay of three or more contributing factors (Ganter & Hecker, 2014; Ragin, 2008). FsQCA provides suitable means to accommodate complex complementarities and nonlinear relationships among constructs (Ganter & Hecker, 2014; Woodside, 2013).
+FsQCA is an analytical tool that uses fuzzy set theory and Boolean logic, and especially suits the problem with asymmetric data and identifies the relationships between different combinations of antecedents and the outcome (Fiss, 2011). FsQCA has not been used to investigate the formation mechanism of consumer loyalty online in prior studies. However, the complex patterns of causal interrelationships between antecedents of consumer loyalty and contextual factors such as age, gender and shopping motives, as well as the potential causal asymmetry and equifinality in forming consumer loyalty, make it necessary to conduct such explanatory research. Moreover, fsQCA helps to differentiate between necessary and sufficient causal condition of consumer loyalty (Fiss, 2011). Therefore, we further analyzed the data using fsQCA to build a configurational model of the antecedents leading to consumer loyalty. To reduce the complexity of the configurational model, we dropped product quality, e-service quality, and sacrifice as these constructs coalesce the overall perceived value and did not exert direct impact on consumer loyalty.
+4.4.1. Calibration
+According to Ragin (2008), fsQCA requires transforming variables into sets calibrated regarding three thresholds: full non-membership, full membership, and the crossover point that represents the maximum ambiguity regarding membership (Fiss, 2011). Because all constructs were unidimensional, before calibrating the constructs, we first created summated measures by summing the items used to measure each construct (Tho & Trang, 2015). This study applied the rank order transformation method (Ganter & Hecker, 2014). Consistent with prior research (e.g., Tho & Trang, 2015), the acceptable consistency for solutions was set at ≥0.85. Thus, configurations surpassing this consistency threshold are regarded as sufficient for the outcome.
+4.4.2. Configurations for the presence of consumer loyalty
+Table 6 and Table 7 report the results of the fsQCA regarding the consumers with high levels of repurchase intention and WOM toward e-tailers, respectively. The consistency index is similar to a correlation and the coverage index is analogous to the R-squared in MRA. Each configuration or antecedent portfolio constitutes a sufficient condition for presence of the outcome. The results suggest that several equifinal configurations associated with the high levels of perceived value and repurchase intention.
+Table 6. Configurations leading to consumer repurchase intention toward the e-tailer.
+Solution	Causal condition	Raw
+coverage	Unique
+coverage	Consistency	Solution
+coverage	Solution
+consistency
+value	enjoyment	satisfaction	trust	commitment					
+1				●	●	0.684	0.005	0.913	0.92	0.82
+2		●		●		0.655	0.004	0.882
+3	●				●	0.673	0.005	0.921
+4	●	●				0.658	0.004	0.888
+5	●			●		0.721	0.015	0.885
+6			●			0.846	0.064	0.864
+Black circles indicate the presence of a condition, while blank cells represent “don't care” conditions.
+
+
+Table 7. Configurations leading to consumer WOM toward the e-tailer.
+Solution	Causal condition	Raw
+coverage	Unique
+coverage	Consistency	Solution
+coverage	Solution
+consistency
+value	enjoyment	satisfaction	trust	commitment					
+1			●		●	0.716	0.008	0.914	0.93	0.80
+2		●			●	0.675	0.014	0.895
+3		●	●			0.703	0.004	0.889
+4				●	●	0.705	0.009	0.911
+5			●	●		0.753	0.008	0.878
+6		●		●		0.684	0.003	0.891
+7	●				●	0.699	0.005	0.925
+8	●		●			0.749	0.007	0.881
+9	●	●				0.688	0.004	0.898
+10	●			●		0.745	0.011	0.885
+Black circles indicate the presence of a condition, while blank cells represent “don't care” conditions.
+
+
+For repurchase intention, the fsQCA identified six equifinal configurations:
+
+trust*commitment + enjoyment*trust + value*commitment + value*enjoyment + value*trust + satisfaction − >repurchase intention.
+
+An examination of these configurations reveals that only satisfaction is the sufficient condition for the occurrence of repurchase intention. However, the combinations of the remaining antecedents (perceived value, enjoyment, trust, and commitment) may also become the sufficient conditions for the formation of the repurchase intention. For example, solution 1 states that 91.3% of all consumers with a high level of trust and commitment toward an online vendor are members of the set “consumers having high repurchase intention”. The results also indicate that the high level of transactional quality and relational quality can separately or simultaneously influence repurchase intention.
+
+For WOM, fsQCA revealed 10 solutions, which can be interpreted through a Boolean algebra algorithm:
+
+trust*commitment + enjoyment*trust + value*commitment + value*enjoyment + value*trust + satisfaction*value + satisfaction*commitment + satisfaction*enjoyment + satisfaction*trust + enjoyment*commitment − >WOM.
+
+The results indicate that none of the isolated antecedent is sufficient condition for the presence of WOM. The results revealed additional five causal paths (solution 5-solution 10) equifinally lead to high positive WOM besides the same five paths leading to high repurchasing intention. It is worth noting that satisfaction itself can lead to the presence of repurchasing intention, however, to trigger the WOM, it should combine with other antecedents such as the high levels of perceived value and commitment toward the online vendor.
+
+4.4.3. Configurations for the presence of loyalty considering consumer heterogeneity
+We attempt to further explore how three primary consumer characteristics, i.e. gender, age, and shopping motivation, combining with the five e-loyalty antecedents lead to e-loyalty. Applying identical thresholds (consistency: 0.85), several equifinal configurations leading to e-loyalty were revealed.
+
+As can be seen in Table 8 and Table 9, ]]><h target="4" match="full">the presence of satisfaction is a necessary but not sufficient condition to form repurchase intention and WOM.</h> <![CDATA[ Thus, a satisfied customer may not necessarily remain loyal. Further, none of any remaining condition is sufficient or necessary for the occurrence of e-loyalty.
+Table 8. Configurations leading to consumer repurchase intention toward the e-tailer (including demographic variables).
+Solution	Causal condition	Raw	Unique	Consistency	Solution	Solution
+value	enjoyment	satisfaction	trust	commitment	motivation	age	gender	coverage	coverage		coverage	consistency
+1	●	●	●		●	●	●	○	0.144	0.009	0.939	0.631	0.926
+2	●	○	●	●		○	●	●	0.063	0.004	0.956		
+3	●	○	●	●	○	○	●	○	0.078	0.027	0.961		
+4		●	●	●	●	●	○	○	0.138	0.006	0.945		
+5	●	●	●		●	○	○	○	0.105	0.053	0.963		
+6	●		●	●		●	●	○	0.163	0.019	0.914		
+7	●	●	●	●			○	●	0.185	0.021	0.949		
+8	●	●	●	●		●			0.351	0.033	0.920		
+9	●		●	●	●		●	●	0.182	0.021	0.975		
+For motivation, black circles indicate the hedonic motivation, empty circles indicate utilitarian motivation, and blank cells represent “don't care” conditions. For age, black circles indicate the older consumers, empty circles indicate younger consumers, and blank cells represent “don't care” conditions. For gender, black circles indicate the female consumers, empty circles indicate the male consumers, and blank cells represent “don't care” conditions. For other conditions, black circles indicate the presence of a condition, empty circles indicate its absence, and blank cells represent “don't care”.
+
+
+Table 9. Configurations leading to consumer WOM toward the e-tailer (including demographic variables).
+Solution	Causal condition	Raw	Unique	Consistency	Solution	Solution
+value	enjoyment	satisfaction	trust	commitment	motivation	age	gender	coverage	coverage		coverage	consistency
+1	●	●	●		●	●	●	○	0.151	0.011	0.954	0.663	0.939
+2		●	●	●	●	●	○	○	0.145	0.005	0.963		
+3	●	●	●	●			○		0.264	0.014	0.946		
+4	●	●	●	●			●	○	0.253	0.012	0.954		
+5	●		●	●	●			○	0.204	0.006	0.942		
+6		○	●	●	●		●	○	0.190	0.010	0.949		
+7	●		●	●	●		●		0.447	0.018	0.957		
+8	●	●	●	●	●				0.555	0.072	0.960		
+For motivation, black circles indicate the hedonic motivation, empty circles indicate utilitarian motivation, and blank cells represent “don't care” conditions. For age, black circles indicate the older consumers, empty circles indicate younger consumers, and blank cells represent “don't care” conditions. For gender, black circles indicate the female consumers, empty circles indicate the male consumers, and blank cells represent “don't care” conditions. For other conditions, black circles indicate the presence of a condition, empty circles indicate its absence, and blank cells represent “don't care”.
+
+
+The results suggest that sub-constructs of transactional quality and relational quality are necessary parts to form sufficient conditions for achieving e-loyalty. The results also show that the causal paths leading to repurchasing intention and WOM exhibit different patterns. Only two paths (value*enjoyment*satisfaction* ∼ trust*commitment*hedonic motivation*older*male + enjoyment*satisfaction*trust*commitment*hedonic motivation*younger*male) consistently as sufficient conditions lead to the occurrence of repurchasing intention or WOM.
+
+]]></section>
+    
+    <section name="Discussion and implications" category="discussion"><![CDATA[
+5. Discussion and implications
+E-commerce cannot survive without understanding the e-loyalty formation process (Kim, Galliers, Shin, Ryoo, & Kim, 2012). Thus, investigation of the most critical factors leading to consumer loyalty is important for both academics and practitioners. Previous studies on e-loyalty have largely failed to integrate transactional quality and relational quality; thereby these studies cannot draw a comprehensive picture of the formation mechanism of e-loyalty. Based on cognitive-affective-conative model, this study investigated the theoretical linkage between transactional quality, relational quality, and consumer intentional loyalty by means of both SEM and fsQCA methods.
+The SEM results show that the two sub-constructs (perceived value and perceived enjoyment) of transactional quality significantly influence on the three sub-constructs of relational quality (trust, satisfaction, and commitment). Perceived value also directly influences e-loyalty, while satisfaction fully mediates the direct effect of enjoyment on e-loyalty. The relational quality is important for fostering e-loyalty by affecting repurchase intention and WOM. ]]> <h target="4" match="full">The fsQCA reveals that satisfaction is a necessary but not sufficient condition for high e-loyalty.</h> <![CDATA[ None of the remaining factors is necessary or sufficient for high levels of e-loyalty. These findings provide a number of implications for theory and practice.
+
+5.1. Implications for theory and research
+In line with previous studies (e.g., Zhang et al., 2011), this study confirms that relational quality is a critical antecedent for fostering e-loyalty. However, prior research on e-loyalty argues that consumer relational quality is largely built on the superior website interface quality (e.g., Shin et al., 2013) and vendor characteristics such as perceived expertise and reputation (e.g., Zhang et al., 2011). This study extends the current knowledge and suggests that the high level of transactional quality is an important prerequisite for fostering relational quality. The research also indicates that satisfaction, the construct linking the transactional quality and relational quality, is the singular antecedent necessary for achieving the high level of e-loyalty.
+This research shows that fsQCA is a suitable method to explore the configurations of e-loyalty in e-commerce context. Existing research on the topic generally relies on MRA and SEM methodology and views consumer’s e-loyalty primarily as the outcome of a number of isolated antecedents. FsQCA allows for an analysis of how transactional quality and relational quality factors combination achieving e-loyalty, and therefore provides a method to deal with high levels of causal complexity (Ganter & Hecker, 2014; Tóth et al., 2015). The results from fsQCA yield three important theoretical insights on the formation mechanism of e-loyalty.]]><h target="2" match="full"> First, fsQCA reveals various causal paths equifinally lead to consumer loyalty online, </h> <![CDATA[ an important fact for which the existing research relying on the traditional statistical analysis such as SEM does not sufficiently account. The results provide nine different configurations to achieve high levels of repurchase intention and eight causal paths to foster WOM. ]]> <h target="3" match="full">The results also indicate that consumer heterogeneity influences causal paths leading to e-loyalty.</h><![CDATA[ The conclusion is consistent with some SEM-based research (e.g., Sanchez-Franco et al., 2009). However, the fsQCA provides a more comprehensive solution of the roles of age, gender and shopping motivation on forming e-loyalty.
+Second, although some theoretical models such as ECM emphasize that satisfaction plays a central role in forming, explaining and predicting customer loyalty, ]]> <h target="4" match="part">this study highlights that satisfaction is a necessary condition to develop e-loyalty. However, satisfaction is not a sufficient driver of loyalty.</h> <![CDATA[ In addition, the results suggest the satisfaction-loyalty relationship is asymmetric. None of the remaining factors identified in the research model provides a sufficient or necessary condition for achieving e-loyalty.
+
+5.2. Managerial implications
+The study makes an important managerial contribution by providing different ways with which online vendors can foster their consumers’ e-loyalty. This study suggests that vendors should take a relationship-oriented view when doing their online business. Online vendors can evaluate the three sub-constructs of relational quality that positively related with e-loyalty. Online vendors should consistently provide high transactional quality and create consumer satisfaction in every transaction, which is the fundamentals to develop high levels of relational quality. To achieve high satisfaction, promoting both perceived utilitarian value and perceived enjoyment is a superior strategy than focusing on utilitarian value alone. Satisfaction can be formed without utilitarian value, indicating that online vendors should consider more of the hedonic side of online shopping, and try to increase the entertainment value of their websites. ]]> <h target="3" match="full">The results also reveal that consumers have dissimilar paths forming loyalty, meaning that online vendors should not consider all shoppers as equal, and should take account of the consumer characteristics for the allocation of their marketing efforts.</h><![CDATA[
+
+5.3. Limitations and future research directions
+This study has some limitations. First, the data used in this research are collected in the U.S., and a large majority of respondents are American. Considering that the cognitive differences can be found among different national cultures, whether the findings in this research can be generalized to other countries is not yet clear. To overcome this limitation, further research can conduct a cross-cultural comparison research. A second limitation is the student sample. This study used college students in the southwestern United States, which is not representative of the total U.S. college student body. Although there are many variations in demographic variables in our sample, the student sample may still pose generalizability questions without further replication and validation. Further replications must broaden the sampled population to confirm the generalizability of the results of this work.
+
+]]></section>
+
+Acknowledgements
+The work described in this paper was partially supported by the grant from the National Natural Science Foundation of China (No. 71571029, No. 71572028) and Social Science Foundation of Sichuan Province (No. SC15C008).
+Appendix. Overview of studies on antecedents of online shopping customer loyalty (2012–2016).
+Study	Research contexts	Dependent variable	Antecedents	Focus on Technological/Transactional/Relational aspects?
+Audrain-Pontevia et al. (2013)	Online shopping	E-loyalty intention	Customer e-satisfaction; perceived acquisition value, perceived transaction value	Transactional quality
+Bernardo et al. (2012)	Online travel agencies	E-loyalty intention	Perceived value; functional quality, hedonic quality	Transactional quality
+Carter et al. (2014)	Online shopping sites	E-loyalty intention	Trust, switching cost	Relational quality
+Chen (2012)	Online shopping	Online loyalty intention	Satisfaction (commitment, trust, involvement, and value were used as mediators separately)	Relational quality
+Cheng and Wang (2016)	Airline online check-in system	Customer online loyalty intention	Value, satisfaction(system and company)	Transactional quality
+Chiu et al. (2012)	Yahoo! Kimo shopping mall	Repeat Purchase intention	Value, satisfaction, trust, habit, familiarity	Transactional quality
+Cui et al. (2016)	Online auction sites	Bidder loyalty intention	Perceived bidding utility, bidding enjoyment, effectiveness of bidding agent, effectiveness of WTI, network effect, product diversity	Transactional quality
+Forgas-Coll et al. (2012)	Airline websites	E-loyalty intention	E-satisfaction, e-trust, offline perceived value, e-quality	Transactional quality
+Hsu et al. (2014)	C2 B online group-buying	Repurchase intention	Perceived quality, trust, satisfaction with website, satisfaction with sellers	Transactional quality
+Hsu et al. (2014)	C2 B online group-buying	Repeat purchase intention	Website quality, value, satisfaction, trust, habit	Transactional quality
+Ismail and Safa (2014)	Online shopping sites	E-loyalty intention	Satisfaction, trust, system quality, information quality, fast response to customer inquiries, variety of goods and services, perceived site quality, perception of risk, money back warranty, security of information and privacy, customer feedback facility, etc.	Technological and transactional quality
+Kim et al. (2012)	Online shopping sites	Intent to repurchase	Information quality, system quality, service quality, utilitarian value, hedonic value, satisfaction	Technological and transactional quality
+Laroche et al. (2013)	Online brand community	Brand loyalty intention	Trust, the relationships among focal customer and brand, product, company, and other customers	Relational quality
+Lin et al. (2015)	Social networking sites	Continuance intention	Satisfaction, sense of belonging, system quality, awareness, connectedness, pleasure	Transactional quality
+Llach et al. (2013)	Online airplane ticket purchase	Consumer's loyalty	Efficiency, hedonic value, perceived value	Transactional quality
+Loureiro and Roschk (2014)	Online stores	Online loyalty intention	Positive emotions, graphics design, information design	Technological quality
+Lu et al. (2013)	Online shopping sites	E-loyalty intention	Security, privacy, non-deception, fulfillment	Technological quality
+Moriuchi and Takahashi (2016)	Japanese online supermarket	E-loyalty intention	Product, experience, satisfaction, trust	Transactional quality
+Mouakket and Al-hawari (2012)	Online reservation	E-loyalty intention	E-service quality, hedonic and utilitarian values, satisfaction, and subjective norms	Transactional quality
+Pereira et al. (2016)	Online tourism site	E-customer loyalty intention	Website image, online routine, website knowledge, innovative, satisfaction	Transactional quality
+Safa and Ismail (2013)	Online shopping	E-loyalty intention	Satisfaction, trust, system quality，information quality, fast response to customer inquiries, variety of goods and services, perceived site quality, perception of risk, customer feedback facility, etc.	Technological and Transactional quality
+Shin et al. (2013)	Students internet shopping	Repurchase intention	Site quality, trust, commitment, satisfaction	Technological and relational quality
+Tsiotsou (2015)	Social networking
+sites loyalty	SNS site loyalty intention	Group identification, group engagement, behavioral intention	Relational quality
+Wang et al. (2016)	C2 B online group-buying	Stickiness intention	Information quality, system quality, service quality, value, satisfaction, commitment, trust	Technological and relational quality
+Yoon et al. (2013)	Online shopping simulation	Customer online loyalty	Customer satisfaction, recommendation quality	Transactional quality
+Zhang et al. (2016)	Online shopping sites	E-loyalty intention	Relationship value (service-related benefit, social benefit, confidence benefit, special treatment benefit, risk cost and time  energy cost) and relationship quality	Relational quality
+</publication>

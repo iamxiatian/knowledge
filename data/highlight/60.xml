@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<publication marker="zhouzhichao">
+    <journal>International Journal of Information Management</journal>
+    <time>Volume 36, Issue 3, June 2016, Pages 441-450</time>
+    <title>Identifying factors influencing consumers’ intent to install mobile applications</title>
+    <author>Mark A. Harris.</author> Author links open the author workspace.Opens the author workspaceOpens the author workspacea. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace<author>Robert Brookshire.</author> Author links open the author workspace.Opens the author workspacea. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace<author>Amita Goyal Chin.</author> Author links open the author workspace.Opens the author workspaceb. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace
+a
+University of South Carolina, Integrated Information Technology, IT-ology Tower, Suite 1010, 1301 Gervais Street, Columbia, SC 29201, United States
+b
+Department of Information Systems, School of Business, Virginia Commonwealth University, P.O. Box 844000, Richmond, VA 23284-4000, United States
+Show more
+    <doi>https://doi.org/10.1016/j.ijinfomgt.2016.02.004</doi>Get rights and content
+Highlights
+    <highlight id="1">We survey and assess undergraduate students regarding smartphone and tablet usage.</highlight>
+    <highlight id="2">We assess factors that influence consumers to install mobile apps.</highlight>
+    <highlight id="3">Few previous studies have investigated factors that influence consumers intention to install mobile apps.</highlight>
+    <highlight id="4">Perceived security familiarity are significant factors that influence consumers intention to install mobile apps.</highlight>
+    <highlight id="5">Results show that consumers that perceive more security have greater trust and reduced perceived risk.</highlight>
+Abstract
+    <abstract><h target="2" match="full">The purpose of this research is to explore the factors that influence a consumer before installing a mobile application.</h><![CDATA[ A research model is created based on perceived risk, trust, perceived benefit, and intent to install. Seven antecedents of trust and risk include perceived security, perceived reputation, application characteristics, familiarity, desensitization, consumer disposition to trust, and consumer disposition to risk. Partial least squares (PLS) is used to test the research model. Only significant antecedents are retained and a new research model is created, which includes the antecedents of perceived security and familiarity. ]]><h target="5" match="full">Results show that consumers that perceive more security have greater trust and reduced perceived risk.</h><![CDATA[ Furthermore, consumers that feel more familiar with finding, purchasing, downloading, and installing applications have greater trust and reduced perceived risk. More than half (R2=.505) of the variability in the intention to install an app is explained.]]></abstract>
+
+    <section name="Introduction" category="introduction">
+        <![CDATA[
+1. Introduction
+As of May 2015, Google’s Google Play Market contained 1.5 million apps and Apple’s App Market contained 1.4 million (Statista, 2015a). Consumers are downloading apps at a staggering rate. As of June 2015, Apple has had 100 billion total downloads from its market since its inception in 2008 (Statista, 2015b). In the first quarter of 2015 alone, Google had an estimated 160 million downloads and Apple had 100 million downloads (Android Authority, 2015). As mobile app availability and downloads have been rapidly increasing, so has the risk to consumer privacy and security. New mobile malware for the first quarter of 2015 has reached 1.1 million variants and total mobile malware is now near 7 million variants (McAfee, 2015). Beyond malware are privacy concerns, many apps request access to consumer data that is not necessary for the apps’ functionality. Developer access to this consumer data comes in the form of permission requests, which must be granted by the consumer. While many legitimate developers then use this customer data to earn revenue, one study revealed that many app developers earn their money not from the app purchase price, but from selling consumer data to third parties (SC Magazine, 2015).
+With so many apps to choose from and so many of them having security or privacy concerns, it is important to determine the factors that influence a consumer before installing an app. From the developer and market owner’s perspectives, it is important to know these factors in order to maximize revenue. For example, if consumers are desensitized to in-app permission requests and simply ignore them, then more consumer data can potentially be collected without losing customers. From a consumer protection perspective, it is important to know the factors influencing consumers in order to determine if consumers are making judicious decisions to maximize their safety. Therefore, the purpose of this paper is to determine the factors that influence consumers before installing mobile apps. The trust-based consumer decision-making model, which is employed in this paper, is adapted from Kim, Ferrin, and Roa (2008) and is extended to investigate these factors.
+Only a few previous studies have investigated factors influencing the use of or adoption of mobile apps, and no previous study was found that employed our basic theoretical model or many of its antecedents. No previous studies were found that investigated security as potentially influencing a consumer’s decision to install and app. ]]><h target="3" match="part"><![CDATA[However, previous mobile device studies have shown that users are concerned about security (Harris, Furnell, & Patten, 2014; Jones and Chin, 2016), and this study adds to previous mobile app research by investigating security as one of the seven antecedents of trust and risk.]]></h><![CDATA[Earlier mobile device studies have also shown that consumers often read app reviews and consider star ratings before installing apps (Harris, Brookshire, Patten, & Regan, 2015; Shen, 2015), and therefore, an application characteristic antecedent is included in our model. In addition, this study introduces two new antecedents for familiarity with getting apps from the market and the potential desensitization to permission requests. Given the plethora of permission requests embedded in apps, particularly with Android apps, it is imperative to determine if users simply ignore these requests when installing an app. The integration of these new antecedents, along with the additional antecedents described below, strengthen our model and make significant contributions to existing mobile installation and usage research.
+The following section reviews previous mobile app usage and adoption research. Section three describes our research model and seven antecedents while section four specifies the details of our research methodology. Our results are presented in section five. Finally, our conclusions and suggestions for future research appear in Section 6.]]>
+    </section>
+    <section name=" Background" category="background">
+        <![CDATA[
+2. Background
+There have been many recent studies that have investigated the factors involved in a consumer’s adoption of various mobile device services, such as mobile banking (Chen, 2013), mobile payments (Lu, Yang, Chau, & Cao, 2011; Zhou, 2013), financial services (Chemingui & Ben lallouna, 2013), health services (Deng, Mo, & Liu, 2014), mobile data services (Al-Debei & Al-Lozi, 2014), mobile games (Jiang, Peng, & Liu, 2015), and mobile learning (Callum, Jeffrey, & Kinshuk, 2014). However, there have not been many studies that have investigated the factors that influence the installation of mobile apps on mobile devices.
+One study by Yang (2013) did not specify the installation of mobile apps, but instead investigated the use of mobile apps, which implies installation. The author used a model developed from the Theory of Planned Behavior (TPB), Technology Acceptance Model (TAM), and Uses and Gratification Theory to investigate young Americans’ intention to use mobile apps. The model included seven constructs for investigating the intention to use mobile apps, including behavioral control, subjective norm, mobile apps attitudes, perceived usefulness, ease of use, perceived expressiveness, and perceived enjoyment. The researcher concluded that perceived behavioral control, usefulness, and mobile Internet use are predictors of young Americans’ intention to use mobile apps.
+A study by Kim and Yoon (2013) also utilized TAM in investigating antecedents affecting app usage. Constructs used in this model included perceived informative usefulness, perceived entertaining usefulness, perceived social usefulness, perceived ease of use, attitude toward app usage, user review, and perceived cost-effectiveness. The study concluded that perceived information usefulness, perceived entertaining usefulness, and perceived ease of use all had significant influences on attitude toward app usage, which in turn had a significant influence on behavioral intention to use apps. User reviews also significantly influenced app usage, but cost-effectiveness had no influence on app usage.
+Another study by Hew and Lee (2015) also investigated the behavioral intention to use mobile apps, but used a different theoretical background in utilizing the Unified Theory of Acceptance and Use of Technology 2 (UTAUT2). The constructs were performance expectancy, effort expectancy, price value, facilitating conditions, habit, social influence, and hedonic motivation. Moderating variables were gender and education level. The authors concluded that all of the constructs except price value and social influence were significantly related to behavioral intention to use mobile apps. Habit had the strongest influence and gender and educational level were not significant.
+A study by Shen (2015) investigated user adoption of mobile apps using a framework based on TAM, Signaling Theory, and Regulatory Focus Theory. The author’s framework included reputation source (app rating scores), perceived usefulness, app type (utilitarian or hedonic app), attitude, mood, regulatory focus framing (prevention or promotion focus), and perceived risk. Results indicate that app type and perceived risk moderate reputation source’s influence on user’s attitude toward using apps.
+Network Theory was used in another study by Taylor, Voelker, and Pentina (2011) to investigate mobile app adoption and usage by young adults. The authors collected and analyzed survey data, but did not apply it to a developed theoretical model. The results indicate that the likelihood of app adoption and usage increases with app use by the consumer’s strongest relationship partner. However, there was only marginal support for adoption and usage being influenced more by friends than by family members.
+In summary, there were no studies found that investigated the installation of mobile apps, but a few studies were found that investigated the adoption or usage of mobile apps. The present study assumes that in order to adopt or use a mobile app, the app must be installed. While the act of installing an app does not necessarily mean that the app will be used, this is a likely scenario. Therefore, we perceive adoption, usage, and installation as similar, and therefore, group these studies together. Of the related studies found and reviewed, TAM, TPB, UTAUT2, Uses and Gratification Theory, and Network Theory, Signaling Theory, and Regulatory Focus Theory were utilized. However, none of these studies investigated the basic theoretical model nor the antecedents found in our model, particularly security. Only one study, Shen (2015), investigated perceived risk. Therefore, our theoretical model and related study uniquely contributes to the known body of work.]]>
+    </section>
+    <section name="Research model" category="research model and hypotheses">
+        <![CDATA[
+3. Research model
+The theoretical model presented in Fig. 1 is a trust-based consumer decision-making model adapted from Kim et al. (2008), where the authors investigated factors that influence consumers before making a purchase from a website. The basic model’s constructs are intention to install an app, trust, perceived risk, and perceived benefit. The model is based on a valence framework that uses perceived benefit and risk from Peter and Tarpey (1975), which assumes consumers use both positive and negative attributes when making decisions (Kim et al., 2008). The antecedents familiarity, perceived security, perceived reputation, and consumer disposition to trust are adapted from Kim et al. (2008). As an extension to their model, we introduce the antecedents application characteristics, desensitization, and consumer disposition to risk.
+Fig. 1
+Download full-size image
+Fig. 1. Research model.
+3.1. Intention to install
+Using the Technology Acceptance Model (Davis, 1989), the Theory of Planned Behavior (Ajzen, 1991), and the Theory of Reasoned Action (Fishbein and Ajzen, 1975), previous studies have demonstrated that a consumer’s intentions are significant predictors of a consumer’s actual behavior (Kim et al., 2008; Pavlou, 2003; Shin, 2009; Taylor & Todd, 1995; Yang, 2013; Venkatesh, Morris, Davis, & Davis, 2003). In this research, a consumer’s intention to install an application is seen as a significant predictor of actually installing the application.
+3.2. Perceived risk
+A consumer’s perceived risk can be influential in the decision to install an app. In this study, perceived risk is defined as a consumer’s subjective expectation of suffering a loss in pursuit of a desired outcome (Warkentin, Gefen, Pavlou, & Rose, 2002). There have been several forms of risk identified in the research literature. For example, Forsythe and Shi (2003) identified six types of risk: financial, product performance, psychological, time/convenience loss, social, and physical. The authors identified the first four as the most prevalent in Internet shopping. Financial risk involves a net loss of money to the consumer and can come in several forms. For example, a loss can come from a stolen credit card number during the purchase transaction or from an installed malicious app stealing account information from the consumer that leads to a financial loss. Product performance risk involves the risk that the app will not perform as expected. When choosing apps to install, consumers often do not have the opportunity to try the app with full functionality before making the purchase. Psychological risk involves disappointment, frustration, and shame a consumer encounters when their personal information is disclosed. Other research named this type of risk that includes privacy and security risk information risk (Kim et al., 2008). An example of this is an installed app containing malware or accessing personal information. Time/convenience risk refers to the loss of time and inconvenience due to difficulty in the process of selecting, purchasing, downloading, and installing an app. Examples may include a problem with the consumer’s account when trying to make the purchase or a problem with the app crashing after the purchase. In this study, the model’s items best relate to financial risk and information/psychological risk (i.e., security and privacy).
+In e-commerce research, studies have shown that a consumer’s perceived risk negatively influences the decision to perform an online transaction (Aghekyan-Simonian, Forsythe, & Chattaraman, 2012; Chang & Wu, 2012; Forsythe & Shi, 2003; Kim et al., 2008). For downloading and installing applications, it is believed perceived risk would also influence the decision to install the app. Thus, we propose (see Fig. 1) that:
+Hypothesis 1
+
+A consumer’s perceived risk negatively affects a consumer’s intention to install an application.
+
+
+3.3. Perceived benefit
+Where perceived risk might have a negative effect on the consumer’s intention to install an app, perceived benefit may have a positive influence. Perceived benefit is defined as the extent to which a consumer believes he or she will benefit from installing an app. Mobile apps can benefit consumers in many ways, such as a game app giving enjoyment, a medical app helping them maintain a healthy lifestyle, or a productivity app helping their business be more efficient. If a consumer finds such benefits with an application, it seems reasonable that the more benefit they perceive, the more likely they are to install the app. This has been demonstrated in e-commerce studies, where a consumer’s perceived benefit positively influenced their decision to perform online transactions (Chen, Yan, & Gordon, 2015; Kim et al., 2008; Lee, 2009; Wang, Wiegerinck, Krikke, & Zhang, 2013). Thus, we posit that (see Fig. 1):
+Hypothesis 2
+
+A consumer’s perceived benefit positively affects a consumer’s intention to install an application.
+
+
+3.4. Trust
+When downloading and installing mobile applications, there is a level of risk that the consumer must contend with, such as the app potentially containing malware. To combat risk in an uncertain environment, a consumer may rely on trust. For example, consumers might feel they are less likely to encounter malware or have their credit card data stolen if they get apps from a trusted market. If a consumer feels the risk of malware or other problems are high, such as when downloading from an untrusted market, they may have less intent to download and install. However, if trust in the market increases, it is reasonable to believe the consumer’s perceived level of risk would decrease, increasing the intent to install.
+
+In business research, it has been shown that trust is a significant factor in influencing consumers’ decisions in uncertain environments, especially in e-commerce (Pavlou, 2003). Studies have also demonstrated that trust has a negative relationship with perceived risk (Hong, 2015; Kim et al., 2008; Liao, Liu, & Chen, 2011; Pavlou, 2003). Research has also shown a positive relationship between trust and the intention to engage in e-commerce purchasing (Hong & Cha, 2013; Kwahk & Park, 2012; Pavlou & Gefen, 2004; Roca, Garcia, & de la Vega, 2009). Several studies have also demonstrated a positive relationship between trust and the decision to repurchase from an online vendor (Hsu, Chang, & Chuang, 2015; Shin, Chung, Oh, & Lee, 2013). Based on the above, we propose the following hypotheses (see Fig. 1):
+Hypothesis 3a
+
+A consumer’s trust negatively affects the consumer’s perceived risk.
+
+Hypothesis 3b
+
+A consumer’s trust positively affects the consumer’s intention to install an application.
+
+
+3.5. Antecedents of trust and perceived risk
+App developers and app markets can potentially benefit from understanding the antecedents of trust and perceived risk. If trust can be increased and risk decreased, it may lead to more consumer purchases. To better understand the antecedents of trust and risk, four categories were borrowed and adapted from Kim et al. (2008). The four antecedent categories are cognition (observation)-based, affect-based, experienced-based, and personality-oriented.
+Cognition-based antecedents are associated with the consumer’s observations and perceptions regarding features and characteristics of the trustee (e.g., observations about consumer privacy protection, malware protection). In the present research, perceived security is a cognition-based antecedent. Affect-based antecedents are indirect interactions with the trustee, such as inputs from others (e.g., app ratings and reviews, market and developer reputations). In the present research, perceived reputation and application characteristics are affect-based antecedents. Experience-based antecedents involve the personal experiences of the consumer with the vendor (e.g., familiarity with finding and installing apps, handling app permission requests). In the present research, familiarity and desensitization are experience-based antecedents. Personality-oriented antecedents involve the consumer’s disposition to trust and risk. Personality-oriented antecedents are typically stable and difficult for vendors to manage (Kim et al., 2008). In the present research, consumer disposition to trust and consumer disposition to risk are personality-based antecedents. Each of these antecedents and their associated hypotheses are explained in further detail in the next four subsections.
+3.5.1. Cognition-based antecedents
+The present study’s cognition-based antecedent is perceived security. If consumers perceive the app market as adequately protecting them from malware, guarding their private data, and offering other security protections, the consumers’ perceived security should increase. In e-commerce research, studies have shown a positive relationship between perceived security and trust (Bansal and Zahedi, 2014; Kim et al., 2008; Pi, Liao, & Chen, 2012; Zhou, 2011). E-commerce studies have also shown a negative relationship between consumers’ perceived security and perceived risk (Kim et al., 2008). Therefore, it’s expected that as a consumer’s perceived security increases, perceive risk will decrease and perceived trust will increase. Thus, we propose the following hypotheses (see Fig. 1):
+Hypothesis 4a
+
+A consumer’s perceived security (PS) negatively affects the consumer’s perceived risk.
+
+Hypothesis 4b
+
+A consumer’s perceived security (PS) positively affects the consumer’s trust.
+
+
+3.5.2. Affect-based antecedents
+The present study’s affect-based antecedents are perceived reputation and application characteristics. An app market or developer can have a reputation based on information from others. Sometimes markets, apps, or app developers are recommended by websites, periodicals, or friends. If a consumer perceives the market, app, or app developer to have a positive reputation, it is reasonable to think the consumer’s trust would increase and perceived risk would decrease. Therefore, we propose the following hypotheses (see Fig. 1):
+Hypothesis 5a
+
+The more positively a consumer views the reputations associated with the app market, the lower the consumer perceives the risk.
+
+Hypothesis 5b
+
+The more positively a consumers views the reputations associated with the app market, the higher will be the consumer's trust.
+
+
+Application characteristics may also play a role in a consumer’s trust and perceived risk. If other consumers discovered malware or other undesirable characteristics with an app, it is reasonable to think the app ratings and reviews would reflect their displeasure. An application with high ratings or/or positive reviews may reduce the consumer’s perceived risk and increase trust. Therefore, we propose the following hypotheses (see Fig. 1):
+Hypothesis 6a
+
+Application characteristics have a negative effect on consumer’s perceived risk.
+
+Hypothesis 6b
+
+Application characteristics have a positive effect on consumer’s trust.
+
+
+3.5.3. Experience-based antecedents
+The present study’s experience-based antecedents are familiarity and desensitization. Familiarity refers to a consumer being familiar with the overall process of finding an app on the market, completing the purchase, downloading, and installing the app. Consumers that are familiar with a process that had a favorable conclusion should be likely to engage in that process again. The more familiar consumers are with a process that had previous favorable outcomes, the more likely they expect the vendors to continue to honor their obligations; thus, the consumers view the vendors as more trustworthy (Kim et al., 2008).
+Consumers that are more familiar with finding apps, the checkout process, and installing apps may feel more comfortable with the overall process and find the vendor more trustworthy. Increased trust can decrease perceived risk. Accordingly, we propose the following hypotheses (see Fig. 1):
+Hypothesis 7a
+
+Familiarity has a positive effect on consumer’s trust.
+
+Hypothesis 7b
+
+Familiarity has a negative effect on consumer’s risk.
+
+
+The second experience-based antecedent is desensitization to application permissions. Google defines a permission as a restriction limiting access to a part of the code or to data on the device (Google, 2015). If an app needs access to code protected by a permission, the app must request access to that permission, which would then give the app access to the restricted code or data. Google’s Android displays app permissions at the time of installation, and users must decide to accept them or not install the app. Apple’s iOS also uses permissions, but displays the permission choice to the users at the time the app runs a particular feature that is requesting the permission. Other operating systems also use permissions, such as Microsoft’s Windows Mobile and Windows 8 and 10 apps.
+Sometimes apps can ask for excessive permissions, which are defined as permission requests that go beyond the necessary function of the app. For example, a solitaire card game that requests access to the consumer’s contacts, location, and phone number is an example of excessive permission requests. Excessive permissions such as these and others can be a major security and privacy risk. However, some consumers have become desensitized to excessive permissions and decide to install the app anyway because nothing bad has happened to them before or they really want the app (Harris et al., 2015). If consumers choose to ignore excessive permissions, it seems reasonable that they consider the granting of these permissions a low risk and feel the app is trustworthy. Therefore, we propose the following hypotheses (see Fig. 1):
+Hypothesis 8a
+
+Desensitization has a positive effect on trust.
+
+Hypothesis 8b
+
+Desensitization has a negative effect on perceived risk.
+
+
+3.5.4. Personality-oriented antecedents
+The present study’s personality-oriented antecedents are the consumer’s disposition to trust and risk. Disposition to trust is defined as one’s general propensity to trust others (Belanger & Carter, 2008). One’s disposition to trust is not based upon experience with or knowledge of a specific transaction, but rather is the result of ongoing lifelong experiences (Gefen, 2000). If a consumer downloading applications has a positive disposition to trust, they are generally more trusting and should have higher consumer trust. Thus, we propose the following hypothesis (see Fig. 1):
+Hypothesis 9
+
+A consumer’s disposition to trust positively affects the consumer’s trust.
+
+
+Disposition to risk is defined by the authors as one’s general propensity to avoid risk. Like one’s disposition to trust, one’s disposition to risk is personality-oriented and not based upon experience or knowledge of a specific transaction. If a consumer has a high disposition to risk, then they wish to avoid risk. Therefore, it seems reasonable that the more a consumer wishes to avoid risk, the higher perceived risk they will have when installing mobile applications. Thus, we propose the following hypothesis (see Fig. 1):
+Hypothesis 10
+
+A consumer’s disposition to risk positively affects the consumer’s perceived risk.]]>
+    </section>
+    <section name=" Data collection and analysis" category="methods">
+    <![CDATA[
+4. Data collection and analysis
+The following subsections describe the survey instrument and sample, measures, and analysis techniques.
+
+4.1. Survey instrument and sample
+Data were collected through an on-line survey designed to measure the users’ perceptions of the market they usually use to download mobile applications. The survey measured several perceptions users have about the market they usually use to download applications, including the security of the market, the risk involved in downloading applications, the reputation of the market, their trust in the market, and whether they intend to install additional applications from that market. The survey also measured users’ attitudes or dispositions, including their tolerance for risk, their trust of people in general, their familiarity with downloading and installing applications, and the extent to which they have been desensitized to applications requesting excessive permissions. The survey asked questions about the applications the users’ downloaded, including characteristics of the applications and the benefits they expect from the applications. Finally, the survey collected basic demographic information from the respondents.
+
+ ]]><h target="1" match="part">All respondents were students at a large southeastern public state university in the United States. To help obtain student diversity in the sample, all participants were chosen from a general education core course that all university students are required to take. One hundred and twenty eight surveys were collected.</h><![CDATA[ Coincidentally, an equal number of 64 males and 64 females responded to the survey. Their ages ranged from 18 to 54, with an average age of 21.64. ]]><h target="1" match="part">All of the respondents reported having a smart device, either a smartphone or tablet, and having installed applications on that device. Smartphones and tablets were considered equal for this study because they tend to use the same operating systems (e.g., Android, iOS) and download apps from the same markets and sources.</h><![CDATA[ 
+
+4.2. Measures
+Measurement scales from the research literature were adapted to measure the constructs. The items were measured using a five-point Likert scale ranging from “not at all important” to “extremely important,” or from “strongly disagree” to “strongly agree.” For the constructs desensitization and application characteristics, a five-item scale was developed for this study. Details on the questions used to measure the constructs are provided in Appendix A.
+4.3. Analysis technique
+The model was estimated with partial least squares (PLS) using SmartPLS 3.2.1. PLS has been extensively employed in the information systems literature to examine models of this type (Chin, 1998a). Sample size for PLS is less than what is required for covariance-based structural equation modeling. Research states that the sample size needs to be 5–10 times the dependent latent variable with the largest number of relationships (Chin, 1998b). In the model, perceived risk has 7 relationships, which would mean a sample size of 35–70 would be sufficient. The sample size in this study is 128.]]>
+    </section>
+    <section name="Results" category="results">
+        <![CDATA[
+5. Results
+Table 1 shows the Chronbach’s alpha, composite reliabilities and average variance extracted (AVE) for the latent variables. Values for Chronbach’s alpha range from .674 to .921, and composite reliabilities range from .269 to .950. Twenty-five of the 35 item loadings were greater than .70. The structural model was evaluated by examining the directions of the hypothesized relationships and their significance. Fig. 2 shows the results from the hypothesis testing. Hypothesis 1 was supported, as the users’ perceived risk had a significant negative impact on intention to install. Hypothesis 2 was also supported, with perceived benefit having a significant positive impact on intent to install. Hypotheses 3a and 3b were supported, as trust had a significant negative effect on perceived risk and a significant positive effect on intention to install. Likewise, Hypotheses 4a and 4b were supported, as perceived security had a significant negative effect on perceived risk and a significant positive effect on trust. Support for Hypotheses 5a and 5b was weak. Although the observed relationships were in the expected direction, neither was statistically significant. The more positively a consumer views the reputations associated with the app, the lower the consumer perceives the risk was not significantly supported. Also, the more positively a consumers views the reputations associated with the app, the higher will be the consumer's trust was not significantly supported. Hypothesis 6a was weakly supported, as the relationship was in the predicted direction but not significant. Application characteristics have a negative effect on consumer’s perceived risk was not significantly supported. Hypothesis 6b, which stated that application characteristics would have a positive effect on consumer’s trust was not supported by the analysis.
+Table 1. Construct reliabilities.
+Construct	Chronbach’s alpha	Composite
+reliability	AVE
+Perceived
+security	.823	.881	.651
+Positive
+reputation	.807	.269	.231
+Application
+characteristics	.797	.766	.431
+Familiarity	.921	.950	.864
+Desensitization	.877	.794	.434
+Disposition
+to trust	.722	.605	.326
+Perceived risk	.872	.921	.797
+Trust of market	.780	.871	.692
+Market risk	.674	.820	.702
+Perceived
+benefit	.907	.941	.842
+Fig. 2
+Download full-size image
+Fig. 2. PLS results.
+Hypothesis 7a was supported, with familiarity having a significant positive effect on trust, while Hypothesis 7b was only weakly supported, with the relationship between familiarity and risk in the expected direction but not significant. Hypotheses 8a and 8b were only weakly supported, with the effects of desensitization in the expected directions on risk and trust but failing significance.
+
+Hypothesis 9 was not supported, as disposition to trust showed no relationship with trust of the market. Hypothesis 10 was weakly supported, with users’ disposition to risk having a positive but non-significant relationship to the perceived risk of the market.
+
+The model successfully accounted for a fair amount of variability in the trust in the market (R2=.229), and substantial variability in perceived risk (R2=.402) and intention to install (R2=.504).
+Following the analysis of the hypothesis tests, a reduced model was constructed that includes only those relationships that were statistically significant. This reduced model is shown in Fig. 3.
+Fig. 3
+Download full-size image
+Fig. 3. PLS results for the reduced model.
+As shown in Fig. 3, perceived security has a significant negative relationship to perceived risk, while having a positive relationship to trust in the market. Familiarity also has a negative relationship to risk and a positive effect on trust. Trust is negatively related to risk. While somewhat less than the initial model, the reduced model still accounts for about a sixth of the variability in trust and almost a third of the variability in perceived risk.
+Looking at the predictors of intention to install, the perception of risk is negatively related, while trust and perceived benefit are positively related. A little more than half of the variability in the intention to install is accounted for by the combination of trust, perceived benefit, and perceived risk.]]>
+    </section>
+    <section name="Summary and conclusions" category="conclusion">
+        <![CDATA[
+6. Summary and conclusions
+]]><h target="2" match="full">The purpose of this paper is to explore the factors that influence consumers before installing applications on mobile devices.</h><![CDATA[ A research model has been developed to explore the primary constructs of intention to install, perceived risk, trust, and perceived benefit. Seven antecedents of trust and perceived risk were used in the original research model. All of the primary constructs had significant relationships, with over half (R2 = .504) of the variability explained for the intention to install. However, only two of the antecedents of trust and perceived risk showed significance. The five antecedents that were not significant were perceived reputation, application characteristics, desensitization, consumer disposition to trust, and consumer disposition to risk. Three of these five influenced trust and perceived risk in the hypothesized direction. Perceived reputation negatively affected perceived risk and positively affected trust. Desensitization negatively affected perceived risk and positively affected trust. Consumer disposition to risk positively affected perceived risk. However, consumer disposition to trust had no effect on trust. This result could be because the measures were very general, and about how the consumer generally trusted people and not about how the consumer generally trusts businesses. Another odd result is that application characteristics negatively affected both risk and trust, when it was hypothesized to have a positive effect on trust. A potential explanation for these results could be that the measures are specific to apps and not to markets. Many of the other antecedents had measures about the market, which related to the trust and risk constructs about markets. However, app characteristic’s measures were about apps, which are one time purchases from a market. The consumer spends just a few moments with the market, but may use the app for months or for years.
+Several variations of the original model were tried in an attempt to find other significant antecedents, but only perceived security and familiarity were significant each time and remained in the reduced theoretical model. Perceived security items involve the consumer’s feelings about how the market protects them from malware, protects their privacy, protects them from apps that have excessive permissions, and protects their personal transaction data, like credit card data. Familiarity refers to the consumer’s familiarity with finding apps on the market, purchasing apps from the market, and installing the app on their device. Again, all of the primary constructs are significant and over half (R2 = .505) of the variability of intention to install is explained.
+In determining consumer trust in the reduced model, familiarity is more powerful (β = .329 at <.001 significance) than perceived security (β = .217 at <.05 significance). This means that being familiar with finding, purchasing, and installing applications leads to more trust than perceiving the app market as protecting the consumer’s security and privacy. If markets can get repeat business, consumers may start feeling more familiar with the process and have a greater trust in the market.
+    In determining risk, perceived security (β = −.315 at <.01 significance) is more powerful than familiarity (β = −.224 at <.01 significance). This means that consumers look more at security when determining risk than they do familiarity. If markets can convince consumers that security and privacy are top priorities, consumers will view the market as less risky. Perceiving less risk leads to more trust, which then leads to more intent to install apps.
+    6.1. Research implications
+    The findings from this study contribute to information systems research in several ways. First, this research makes a theoretical contribution by extending the trust-based model originally proposed by Kim et al. (2008). The significant antecedents perceived security and familiarity extend the previous research by using them to investigate app installations, where the original model investigated website purchases. The new antecedents application characteristics, desensitization, and consumer disposition to risk also extend the theoretical model. The most promising of these new antecedents is desensitization, the degree to which consumers are desensitized to apps requesting excessive permissions. Although not statistically significant in its relationship to intention to install or trust in the market, the measurement of the construct showed substantial reliability (Cronbach’s alpha = .877, composite reliability = .794, AVE = .434). This antecedent may prove useful in future research. From a market and developer point of view, if research shows consumers have become desensitized to permissions, app developers can continue to add permission requests and collect more personal data, which in turn can generate more profits for developers and markets. From the consumer point of view, more personal data can be collected and more malware can be spread from granting more and more permission requests. This would be a major security and privacy concern. Researchers should continue to investigate this antecedent in security research, because it may help explain why some consumers knowingly take unnecessary security risks.
+    Second, this study examines the impact of perceived reputation, application characteristics, and familiarity on trust and risk. It is believed that none of these antecedents have been used to investigate app installation in the manner in which they were investigated here. Researchers and use-adapted versions of these antecedents may help explain other security or application related research questions. Developers and markets can also use these constructs, particularly familiarity, to increase sales.
+    
+    ]]><h target="4" match="part"> Third, one of the new antecedents, familiarity, was significant, along with perceived security, in the final reduced model in helping to explain perceived risk and trust.</h><![CDATA[ These items can benefit researchers, developers, and markets. Researchers can use these two antecedents to explore other research questions, particularly perceived security. This antecedent is not used in many information systems studies that investigate behavioral intention. This study demonstrated its influence on the intention to install apps, so perhaps the antecedent will also influence behavior intention in other studies. Developers and markets should also pay attention to these antecedents because they can affect sales. For consumers, familiarity with getting apps from markets and a belief in market security positively affected their intent to install apps from the market. Markets need to make sure it’s easy for consumers to get apps and that the markets are safe. Developers should sell their apps on markets that are familiar to consumers and that consumers feel are safe.
+    
+    6.2. Research limitations and future research directions
+    As with all research, the present study has some limitations. First, the analysis in this study is based on a sample size of 128. While this sample size is sufficient for the statistical techniques used in this study, a future research direction is to conduct this study using a larger sample size that may strengthen some of the insignificant relationships to the point of significance. Additionally, a sample could be collected from a more diverse group, such as students from different universities. Other sectors of the population, such as university faculty and administrators, IT and other professionals, may also be surveyed.
+    
+    Second, many of the constructs and items, such as application characteristics and desensitization are newly introduced in this study, which can lead to some items with weak loadings. Antecedents like desensitization showed substantial reliability, so minor adjustments with the measures may help with loadings. Other items, such as those measuring the disposition to trust, can be modified to measure against trust in businesses instead of trust in people.
+    
+    For future research investigating the intention to install applications, it is suggested that some of the measures used in this study be modified to help improve results. Another suggestion is to use a seven, nine, or ten point Likert scale rather than the five-point scale employed in the present study. Through statistical testing comparing rating scales, research has shown that seven, nine, and ten point scales are preferable (Preston and Colman, 2000). A final suggestion for future research is to break a privacy antecedent out of the security antecedent and investigate these separately rather than together.]]>
+    </section> 
+</publication>

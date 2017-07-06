@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<publication marker="gai shuangshuang">
+    <journal>International Journal of Information Management</journal>
+    <time>Volume 36, Issue 6, Part B, December 2016, Pages 1340–1349</time>
+
+Cover image
+    <title>Green practices of the hotel industry: Analysis through the windows of smart tourism system</title>
+
+    <author>Jin-Young Kima</author>, , <author>Sunyoung Hleeb</author>, , <author>Youhee Jounb</author>, , 
+Show more
+    <doi>https://doi.org/10.1016/j.ijinfomgt.2016.05.001</doi>
+Get rights and content
+Highlights
+    <highlight id="1">We utilized voluntary customer reviews from the smart tourism system.</highlight>
+    <highlight id="2">Green features were investigated from a broad range of actual hotels.</highlight>
+    <highlight id="3">We found a positive relationship between the green intensity and customer satisfaction only indirectly through perceived relative quality.</highlight>
+    <highlight id="4">From these findings, we provide useful implications for the hotel industry.</highlight>
+<abstract><![CDATA[
+Abstract
+Inspired by the generative characteristics of information on online travel review systems, this study revisits the relationship between the hotel industry’s green practices and customer satisfaction in a more realistic setting.  ]]> <h target="3" match="full">The results show that although a higher intensity of green practices enhances customer satisfaction, it does so only indirectly, through perceived relative quality.</h> <h target="4" match="full">From these findings, we provide useful implications for the hotel industry. </h><![CDATA[We also suggest further research to conceptualize the generativity of the information system’s content both in general and in the context of the smart tourism system.
+]]></abstract>
+    
+    <keywords>Smart tourism system</keywords>; 
+    <keywords>Green consumption</keywords>; 
+    <keywords>Hotel industry</keywords>
+    
+    <section name="Introduction" category="introduction"><![CDATA[
+1. Introduction
+Online travel review services (e.g., TripAdvisor, Yelp, and Trustyou), which allow consumers to evaluate and share the attributes and performance of businesses that they have patronized, have emerged as an active area in the smart tourism system. When successful, these platforms demonstrate a self-reinforcing mechanism (i.e., the sites attract more businesses and users to the platform, thus enlarging the user community). Most online travel agencies such as Expedia.com and Hotels.com also publish customer reviews. Consequently, a massive amount of data accumulates on the major online travel sites (Yoo & Gretzel, 2011).
+
+Online travel review sites then can be a good source of information that can be utilized for various purposes in addition to those that were originally intended. For example, hotel managers actively monitor online reviews to analyze customer preferences. Noone, McGuire, and Rohlfs (2011) quote a case in which hotel managers read customer reviews on TripAdvisor and use the information to modify their food and beverage services to increase value. More formally, data from TripAdvisor have been commercialized as a tool for hotels to benchmark their customer satisfaction score against their competitors in the market (Noone et al., 2011).
+
+In this sense, the information content of online travel review sites shares the core characteristics of the generativity of the information system. Generativity has been primarily defined in terms of a technological platform that “enables the generation of new valuable uses, which are easy to distribute and in turn could be the sources of further innovation” (Zittrain, 2008). Extending the concept of generativity of the technological platform, Zhao and Zhu (2013) define the generativity of user-generated online contents (UGC) in terms of the three dimensions of process, content, and users. Among these dimensions, content generativity was defined as the capability of individually generated online content to contribute to presenting, illustrating, or clarifying information.
+
+Although the generativity of information from online systems has not been directly mentioned in research, a number of empirical studies in various disciplines have actively used information drawn from those systems. In the IS literature, Oh, Agarawal, and Rao (2013) have used data from Twitter to analyze social crises, and Aggarwal and Singh (2013) have used information from blogs to analyze venture capitalists’ decision making.
+
+In a similar spirit, we utilize the information aggregated in the online travel review system and analyze certain consumer behaviors in a potentially less biased way. Specifically, we investigate the relationship between the hotel industry’s green practices and customer satisfaction. Instead of customer reviews on the Internet, survey methodology has been widely used to test theories with respect to customers’ perceptions. However, it has been reported that certain issues, such as ethical buying or green consumption, are prone to a social desirability bias—that is, individuals’ tendency to answer survey questions in ways that they consider socially desirable (Auger & Devinney, 2007; De Pelsmacker, Driesen, & Rayp, 2005; Follows & Jobber, 2000). Under this bias, consumers tend to over-report the strength of their environmental attitudes or intentions (Norwood and Lusk, 2011 ;  Peattie, 2010). Thus, self-reported surveys might have limitations in addressing these issues. In contrast, the validity of online consumer evaluations is expected to be more powerful because data voluntarily provided at one’s own discretion may provide a more truthful description of actual experience, thus reflecting a real-life environment (Rhee & Yang, 2015).
+
+In response to society’s growing green awareness, the hotel industry is implementing green practices as part of its competitive strategy (Dief & Font, 2009; Han, Hsu, & Lee, 2009; Manaktola & Jauhari, 2007). Additionally, cost saving is another important motivation for green practices in the hotel industry, which is a highly energy-intensive sector (Lin & Ho, 2011; Revilla, Dodd, & Hoover, 2001; Schubert, Kandampully, Solnet, & Kralj, 2010). The difficulty of implementing green practices at a hotel is that these practices can limit the guests’ comfort level. For example, customers may complain about too low lighting levels or too cold/hot room temperatures that they are unable to adjust. Often, the criticism singles out green policies that are intended to cut costs by sacrificing guest services.
+
+Still, according to Forbes magazine (4/22/2013), nearly two-thirds of travelers reported that they often or always consider the environment when choosing hotels, transportation, and meals ( Bender, 2013). Certain green activities, such as recycling cans, bottles, and paper, may have become a part of daily life, and consumers are likely to be environmentally conscious when they travel, especially while staying at a hotel, which is commonly referred to as a “home away from home”. However, other studies suggest a different view. Wearing, Cynn, Ponting, and McDonald (2002) report that the proportion of people who perform green activities while on vacation is substantially smaller than the proportion of those who do so at home (Wearing et al., 2002). Indeed, a recurring theme within the green consumer research is the attitude-behavior gap, which describes the phenomenon in which positive attitudes toward environmental issues commonly fail to translate into actual purchases of green products or participation in green activities (Peattie, 2010).
+
+The possible social desirability bias and the attitude-behavior gap associated with green consumer behavior raise a question about the relationship between green practices and customer satisfaction. In academic research on this relationship, empirical evidence has not been conclusive. Slevitch, Mathe, Karpova, and Scott-Halsell (2013) find a positive relationship between green practices and guest satisfaction that is moderated by the hotel’s core attributes. Robinot and Giannelloni (2010) report that among the various green attributes, only energy-related factors (the use of clean and renewable energies) have a positive impact on customer satisfaction. These previous studies use survey methodology or experimental design in which respondents were asked to assume a hypothetical setting or recall certain situations.
+
+Alternatively, in this study, we revisit this issue by utilizing data from online travel sites, which provide customer-generated satisfaction scores and detailed information about individual hotels’ green attributes. Green policies are largely set at the brand level, whereas the intensity of green practices varies widely among individual establishments. Thus, it is essential (albeit difficult) to collect property-level data. However, now details about individual hotels’ green attributes have become available on the online sites. For example, TripAdvisor.com provides four levels of green status—Bronze, Silver, Gold, and Platinum—determined by an evaluation of the applicant hotel’s green attributes. Thus, the purpose of this study is to provide an illustrative example of the generativity of the information content of the smart tourism system (and more specifically, the information content of online travel sites) and to investigate the relationship between green attributes and customer satisfaction in a more realistic setting for the hotel industry. For a theoretical basis of the relationship between satisfaction and green attributes, we refer to cognitive dissonance theory (Festinger & Carlsmith, 1959).
+
+This study extends the existing literature in several ways. First, we apply the concept of generativity in the context of the data and information content instead of the technological platform. The core concept of generativity refers to the capacity to create beneficial and desirable outcomes that were not initially anticipated (Avital & Te’eni, 2009). A wealth of user-generated data online has shown remarkably diverse applications beyond its original purpose. For example, Twitter data are used to detect flu epidemics (Lampos & Cristianini, 2010). This study provides an example of using user-generated content in the smart tourism system as a window for investigating consumer perceptions of green practices at hotels.Second, most previous studies on green consumer behavior used a survey methodology based on hypothetical or recalled experiences. ]]> <h target="1" match="full">Instead, we utilize voluntary customer reviews from online travel sites.</h><![CDATA[ This study illuminates the observed intention-behavior gap in the green consumer behavior. Our findings suggest that consumers may positively evaluate the green attributes, which may lead to higher intentions to buy or pay more. However, the action may not occur as an equivalent of those expressed intentions because green attributes are not a direct factor for consumer satisfaction. ]]> <h target="2" match="full">Third, we investigate a broad range of actual hotels with varying degrees of green attributes.</h><![CDATA[ Utilizing the rich information provided in the smart tourism system, we tested the validity of the impact of green features while controlling for the star-rating category, chain affiliation, and brand information, which are the factors known to affect customers’ evaluations of a hotel. As more hotels become green for both external and internal reasons, understanding of green issues will provide valuable insights into the industry with respect to effective green strategies.
+
+Although many terms are currently used to describe pro-environmental issues, such as “environmentally friendly” practices, “eco-friendly” operations, or “green” hotels, in this study, we use “green” to refer to the business practices, product attributes, and consumer behaviors intended to reduce waste, conserve energy, and generally promote environmental friendliness (Rahman, Reynolds, & Svaren, 2012).
+
+In the next section, we present related literature of online reviews and green consumer behavior. We also briefly define the smart tourism system. In Sections 3 and 4, we develop our research hypotheses and the conceptual model. We present the results and implications in the final sections.
+
+]]></section>
+
+    <section name="Literature review" category="background"><![CDATA[
+2. Literature review
+2.1. Online travel reviews
+
+Customer reviews have become widely available online for an extensive range of tourism-related products and services. Online travel review systems are recognized as a part of smart tourism systems. Formally, the term smart tourism system (or ecosystem) refers to “tourism systems that take advantage of smart technology in creating, managing and delivering intelligent touristic services/experiences, characterized by intensive information sharing and value co-creation” (Gretzel, Sigala, Xiang, & Koo, 2015). The core function of the smart tourism system is collecting, processing and exchanging tourism-relevant data within the ecosystem (Zhang, 2012), which is referred to as the “informatization” of tourism (Guo, Liu, & Chai, 2014). Information aggregation is particularly prominent in the system that contains online review systems, such as travel advice websites and online travel agency websites.
+
+Because travel-related services and products are experience goods, whose quality is unknown prior to actual consumption, consumers face a high level of ex-ante perceived risk and uncertainty (Klein, 1998). For hotels in particular, individual properties are not homogeneous within either the product tier (e.g., star-rating categories) or even the same brand. These features can further exacerbate consumers’ perceived risk and uncertainty. Consequently, online reviews based on actual experiences exert a powerful influence on consumers’ purchase decisions (Murray, 1991).
+
+With increasing customer reviews online, research in this area has been conducted in various disciplines. Overviews of the previous literature (e.g., Lee, Noh, & Kim, 2013) show that research has been conducted in terms of the impact of online reviews on sales and customer loyalty, the antecedents of the helpfulness of customer reviews, and the role of reviewer characteristics in online shopping behavior (e.g., Zhang, Cheung, & Lee, 2014).
+
+Empirically, it has been verified that online reviews have become important for increasing sales (Chen and Xie, 2008 ;  Ghose and Ipeirotis, 2006). According to Chen, Chanasobhon, and Smith (2008), review quality positively influences sales. In addition, positive ratings are found to positively influence sales (Clemons, Gao, & Hitt, 2006; Mudambi and Schuff, 2010). For consumers, online reviews are perceived as a source of detailed and reliable information based on actual consumption experiences (Gretzel, 2011 ;  Yoo and Gretzel, 2008). For travel and hospitality products that have the characteristics of experience goods with an intangible service component, online platforms are particularly active in generating and sharing information because people find it difficult to evaluate the quality of intangible products before experiencing them. Thus, consumers tend to rely on online comments (a form of e-word-of-mouth) that allow them to obtain information and to have indirect purchasing experiences, thus reducing their level of perceived uncertainty (Liu & Park, 2015; Ye, Law, Gu, & Chen, 2011). The extensive travel information available through social media enables people to decrease their cost/effort, which further stimulates the search for information online.
+
+In the context of travel-related products and services, studies have also investigated the effects of online reviews on travel behaviors (Vermeulen & Seegers, 2009) and product sales (Duverger, 2013; Racherla, Connolly & Christodoulidou, 2013; Sparks & Browning, 2011). In tourism marketing, it is crucial to identify the factors that generate the perceived usefulness of online reviews. Liu and Park (2015) report that the qualitative characteristics (i.e., perceived enjoyment and readability) of review messages make a larger contribution to review usefulness than do quantitative factors. More useful reviews offer greater potential value to consumers, helping them build their confidence in making a purchase decision (Sussman & Siegal, 2003).
+
+In terms of the generativity of online review content, the theoretical framework is in the process of being refined in a broader context of the user-generated online content (UGC). Zhao and Zhu (2013) identify the generative capability of UGC in three dimensions: process, content, and users. Among these, content generativity refers to the capability of individually generated online content to contribute to forming generative collectives, or “groups of persons with shared interests or goals who mutually engage in rejuvenating, reconfiguring, reframing and revolutionizing acts” (van Osch & Avital, 2010). Thus, generative content helps present, illustrate, or clarify something (Zhao & Zhu, 2013). For example, Twitter users can be characterized as generative collectives; given Twitter’s massive amount of users and traffic, tweets demonstrate content generativity. Because tweets are open for anyone to read (although users send a message to a specific person), Twitter, similar to other social media, often serves as a conduit to connect people and shape public opinion, influencing political movements (e.g., the Arab Spring in 2011) (Hermida, Lewis & Zamith, 2014) or business policies (e.g., GAP clothing company’s logo redesign fiasco in 2010) (Wu, Elsayed, Rand, & Raschid, 2011). To our knowledge, “generative content” has not been recognized in the context of travel-related customer reviews online. Although this concept was not directly mentioned, emerging empirical research (e.g., Aggarwal & Singh, 2013; Kim & Canina, 2015; Oh et al., 2013; Rhee & Yang, 2014), which utilizes data from travel-related customer review sites for deeper insights into the firm and consumer behavior, reflects the generative capabilities of this content.
+
+2.2. Green attributes
+
+With increasing environmental awareness, researchers have investigated green consumption from the perspectives of consumers, firms, and society. Research has provided mixed results for the impact of green practices on economic performance (Schaltegger & Synnestvedt, 2002). Although green practices are expected to be societally beneficial, these practices entail extra costs for firms and consumers. Firms may need to change their production input or process to be green, accepting lower profitability, at least in the short term. Consumers may need to pay extra for a more environmentally friendly product or sacrifice convenience, for example, if they must carry a personal tumbler instead of requesting a disposable cup.
+
+Studies in the field of consumer behavior research have investigated the characteristics of green consumers, motivations for green consumption, and the impact of green attributes on customer satisfaction. For example, Lin and Huang (2012) report that environmentally concerned consumers expressed stronger support and readiness for green products. In the hospitality research literature, Enz and Siguaw (1999), who identify best-practice green hotels as those with good recycling practices, guest involvement programs, and a management system to support environmental operations, report positive guest comments about hotels that engaged in green practices. Goodman (2000) claims that sustainability strategies contributed to customer loyalty and retention in a hotel chain in Northern Europe, where concern for the environment has a long history. Berezan, Raab, Yoo, and Love (2013) report an overall positive impact of green attributes on hotel customers’ satisfaction and return intentions.
+
+However, the positive impact of green practices is not universal in the literature. In a study of visitors to Penang, Malaysia, green consumers were found to be unconcerned about environmental features when choosing lodging (Kasim, 2004a). Tourists were found to prefer some non-green attributes to environmentally friendly alternatives (Kasim, 2004b). Slevitch et al. (2013) report a positive relationship between green practices and guest satisfaction. It has also been found that certain green attributes were defined as basic attributes (Robinot & Giannelloni, 2010) that do not affect the level of satisfaction in a hotel instead of as differentiating factors. Most of the extant research on green consumer behavior has relied on survey technology with a limited number of green attributes of a hotel.
+
+One of the research themes in green consumer behavior is the “attitude-behavior gap”, which refers to an inconsistency between attitudes and actions (Peattie, 2010 ;  Vermeir and Verbeke, 2006). In the context of environmental issues, positive attitudes and intentions often fail to translate into actual purchasing of green products or participation in pro-environmental activities. This gap may be explained by customers’ tendency to overstate the strength of their environmental attitudes or intentions because of a bias linked to the social acceptability of pro-environmental responses.
+
+]]></section>
+
+    <section name="Hypotheses" category="research model and hypotheses"><![CDATA[
+3. Hypotheses
+Cognitive dissonance theory posits that consumers seek to maintain consistency among attitudes, beliefs, and behaviors and that inconsistency among these cognitions produces unpleasant arousal (Festinger, 1957). Dissonance leads the individual to seek new information that is consonant with existing cognitions (Bawa & Kansal, 2008). The extant literature on cognitive dissonance has focused on how individuals change their attitudes to justify their behavior, thereby eliminating the unpleasant emotion from the incongruence. However, in a situation involving ethics, as in green consumer behavior, it is difficult for individuals to adjust their beliefs.
+
+As a part of ethical consumption behavior, which is defined as purchase decisions made by consumers who are concerned about a purchase’s political, social, and environmental consequences (Andorfer & Liebe, 2013), green consumer behavior is driven by an internalized moral norm influenced by a socially desirable ethical standard (Moisander, 2007). With respect to hotels, it has been reported that a majority of travelers consider themselves environmentally conscious (Anonymous, 2009). Even if green attributes are not the key factor in hotel choice, consumers are knowledgeable and care about the environment when they stay in a hotel (Millar & Baloglu, 2011). As such, the cognitive dissonance theory implies that if a hotel does not provide sufficient green attributes, consumers may feel discomfort caused by their inability to act in environmentally friendly ways.
+
+Relying on cognitive dissonance theory in the context of green practices of hotels, we postulate two hypotheses. First, we propose a positive relationship between the intensity of green practices and consumers’ quality perception.</h><![CDATA[ Greenan, Humphreys, and McIvor (1997) argue that improvements in green attributes that enhance a product’s perceived quality should improve organizational performance. Although these authors do not provide empirical evidence, their claim is based on the premise that green attributes are closely related to the quality dimension of products and/or services.
+
+A product’s green attributes, which are socially beneficial, are expected to induce a more favorable evaluation of product quality. Consistent with this notion, a survey by the Boston Consulting Group reports that nearly half of its respondents answered that green products offer quality that is either comparable or superior to conventional alternatives (Manget, Roche, & Munich, 2009). Some organizations regard environmental responsibility as a part of total quality management (Welford, 1992). Indeed, a sample of Indian hotels engaged in green practices shows that these hotels have a competitive advantage over their peers (Manaktola & Jauhari, 2007). With respect to residential housing, Jayantha and Man (2013) state that green features are considered quality attributes and that those features provide a positive image of the property to potential buyers. Thus, we propose the following hypothesis regarding green attributes and perceived hotel quality:
+
+H1.
+
+Green practices are positively associated with the perceived quality of a hotel.
+
+In the second hypothesis, we propose a positive relationship between the intensity of green practices and customer satisfaction. In ethical consumption, enhanced satisfaction might result from congruence between a product’s socially desirable features and the socially desirable norm. Consistent with this notion, consumers describe satisfaction, contentment, and pride as the emotional rewards of their ethical choices (Gregory-Smith, Smith, & Winklhofer, 2013).
+
+In the context of the hotel industry, cognitive dissonance theory suggests that if a consumer must stay in a hotel in which, for example, recycling or energy savings is impossible, then that consumer will experience an unpleasant emotion. Cognitive dissonance can lead to a feeling of discomfort (Elliot & Devine, 1994) or guilt (Bray, John, & Kilburn, 2011). However, if a hotel engages in sufficiently green practices, then cognitive dissonance will be minimal. Thus, we propose the following hypothesis:
+
+H2.
+
+The intensity of green practices adopted is positively associated with customer satisfaction.
+
+]]></section>
+
+    <section name="Conceptual model, data source, and variables" category="methods"><![CDATA[
+4. Conceptual model, data source, and variables
+The primary focus of the empirical analysis is to estimate the relationship between green practices and customer satisfaction. In addition, we considered the relationship between perceived quality and green features. Thus, we establish a conceptual model of a simultaneous equation system of customer satisfaction and perceived quality with a variable for the intensity of green practices (Green) of the focal hotel, as shown below:
+
+equation(1)
+Satisfaction = α0 + α1Rel_Quality + α2Green + ε1
+equation(2)
+Rel_Quality = β0+ β1Green + β2Chain + β3New_Brand + ε2
+Eq. (1) is the satisfaction equation with green intensity (Green) as the main independent variable and relative perceived quality (Rel_Quality) as an additional variable. It is well established that perceived quality affects satisfaction (Gotlieb, Grewal, & Brown, 1994). In the hotel industry, the star-rating system has traditionally been used to rate hotel quality—hotels in higher rating categories provide larger rooms, more facilities, and a broader range of services (Israeli, 2002). However, the level of satisfaction does not increase with the star-rating category. Instead, consumers express satisfaction or dissatisfaction within the star category depending on whether the quality of the product meets or exceeds the quality commensurate with that of its star-rating category. Thus, referring to the premise that posits that customer satisfaction is influenced by comparison of the actual experience to a reference standard (LaTour & Peat, 1979), we use the relative perceived quality (Rel_Quality) of the focal hotel from its star group’s mean as the perceived quality variable in Eq. (1).
+
+Eq. (2) formulates the relationship between perceived quality and the hotel’s green practices (Green). In addition to the main independent variable, Green, Eq. (2) includes additional explanatory variables about whether the hotel is affiliated with a chain (Chain) and whether the brand is recently launched (New_Brand). Chain hotels, for which chain-wide quality is critical, tend to exert more effort to provide quality service so that they can meet the brand standard set by the chain company (Ingram, 1996). For New_Brand, hotels under newly launched brands are likely to be more recently opened and to have more differentiation points within their star-rating category. Thus, relative perceived quality is likely to be higher for these hotels. Further details about the operationalization of the conceptual variables are illustrated in the next section.
+
+The simultaneous system of equations above was estimated by the maximum-likelihood estimation with bootstrap standard errors. H1 indicates that green practices have a positive impact on perceived quality. Thus, we expect β1 > 0 in Eq. (1). H2 is concerned with the relationship between customer satisfaction and green practices. H2 predicts α2 > 0. In addition to the direct effect of α2, there is an indirect effect of Green through Rel_Qual, which is captured in α1β1. Then, the total effect is α2 + α1β1. For the indirect effect and the total effect, we do not impose any hypothesis a priori. We expect that the other parameters—α1, β2, and β3—are all positive.
+
+The hotels’ green attributes were collected from a travel review site, TripAdvisor.com, from April to November 2015. To construct a meaningful sample, the data were collected using the following procedure. Because many hotels listed on TripAdvisor do not have a green badge, to avoid any bias by including too many samples of non-green hotels, we identified hotels with at least some green attributes by screening the online reviews. Using the search engine provided on TripAdvisor.com (http://www.tripadvisor.com/search),1 we first collected sample reviews that contained the keywords “environmentally friendly” or “eco-friendly.” For each of these reviews; we collected the green badge (none; bronze; silver; gold; and platinum) with detailed information about green practices along with the overall evaluation score; the name of the hotel; its chain affiliation; and the star category (one star for a budget hotel to five stars for a luxury hotel). We follow the industry convention and label hotels not affiliated with a chain brand as “independent”.
+
+For each focal hotel, we collected consumers’ assessment of room cleanliness, room comfort, staff and service, and facilities condition from an online travel agency, Expedia.com. We then computed the average of these four variables as a proxy measure for the perceived quality of the focal property. In addition, we constructed a demeaned variable of perceived quality from the mean of the star-rating category.
+
+Additional variables necessary to perform the analysis were constructed; a list of those variables is summarized in Table 1. Green practice intensity was measured via multiple methods: i) an ordinal variable, Green_N, which is constructed based on the TripAdvisor green category (0 for none; 1 for bronze; 2 for silver; 3 for gold; 4 for platinum); ii) dummy variables representing each of the green categories, with the non-green category as the base; and iii) the intensity of green practices by type. The type of green practice was considered because guests cannot observe all of a hotel’s green practices. For example, guests can directly observe a linen/towel reuse program or a room temperature-control system, but they may not notice whether the hotel uses wind/solar energy.
+
+Table 1.
+List of variables.
+Items	Notation	Description	Source
+Satisfaction	Satisfaction	Overall evaluation score for the focal hotel (1–5).	TripAdvisor.com
+Green	Green_N	An ordinal variable determined by TripAdvisor’s green badge status (0 for none; 1 for bronze; 2 for silver; 3 for gold; 4 for platinum).	Constructed from TripAdvisor.com data
+Platinum, Gold, Silver, Bronze	Each is a dummy variable, taking 1 if the focal hotel has the green badge specified in the name of the variable and 0 otherwise. The base is “no green badge”.
+Green_Guest	The number of green practices related to guest-apparent practices; 13 items are evaluated, including guest recycling, LED light bulbs, room temperature control, and linen and towel reuse program.
+Green_Energy	The number of green practices related to non-guest observable energy-saving practices; 7 items are evaluated, including the use of solar/wind power, energy-efficient windows and roofs.
+Green_Cert	The number of green certificates; 4 items are evaluated, including ISO, LEED, other certifications, and awards.
+Quality	Quality	Average of the scores of the room cleanliness, room comfort, staff and service, and facilities condition of the focal hotel.	Constructed from Expedia.com data
+Rel_Quality	Relative quality score computed by subtracting the mean of the focal hotel’s star category from the quality score of the focal hotel.
+Other Variables	New_Brand (a dummy variable, taking 1 if the brand was launched after 2005, and 0 otherwise), Chain (a dummy variable, taking 1 if the hotel is chain-affiliated and 0 otherwise).	TripAdvisor.com and constructed, respectively
+Table options
+Hsiao, Chuang, Kuo, and Yu (2014) propose the green dimensions of hotel operations in terms of overall environmental policy, water resources, energy, solid waste, indoor environment (safety and health), green purchasing, corporate management, staff education, public and community relationships, and consumer education. Modifying these categories, we classified green attributes into three categories: guest-identifiable green practices/attributes (Green_Guest: guest feedback on green practices, electronic car charging station, green-featured food and beverage, guest education about green practices, energy-saving room appliances, LED light bulbs, linen-reuse program, towel-reuse program, recycling bins in the common areas, recycling bins in the guest room, room energy-saving sensors, electric car charging stations, and green toiletries); energy-related green attributes, excluding those already included in Green_Guest, for example, room energy-saving sensors (Green_Energy: the use of energy-efficient kitchen appliances, energy-efficient laundry machines, energy-saving roofing, energy-saving windows, solar energy, wind turbines, and efficient water systems); and green certificates (Green_Cert: ISO, LEED, other certifications, and awards). Although hotels with green badges are likely to have more green attributes, those without green badges may have some attributes. ]]> <h target="2" match="part">Thus, we visited the websites of hotels without a green badge and checked for their green features.</h><![CDATA[
+
+Our final sample includes 217 hotel properties. Table 2 provides the profile of the sample. Among these, 148 properties (68% of the sample) have a green badge, and the remaining 69 properties do not. In terms of the star ratings, the sample is most densely distributed between 3- and 4-star segments located in North America. There are more independent hotels (119 hotels) than chain-affiliated ones (98 hotels).
+
+Table 2.
+Sample profile.
+Green Category	Count	Percent	Star Rating	Count	Percent	Chain Affiliation	N	Percent
+Platinum	30	13.8%	4.5 and above	43	19.8%	Chain	98	45.2%
+Gold	42	19.4%	4-star	77	35.5%	Independent	119	54.8%
+Silver	42	19.4%	3.5-star	41	18.9%	Total	217	100%
+
+Bronze	34	15.7%	3 star	39	18.0%	Location	N	Percent
+None	69	31.8%	2.5 and below	17	7.8%	North America	166	76.5%
+Total	217	100%	Total	217	100%	Others	51	23.5%
+Total	217	100%
+Table options
+
+]]></section>
+
+    <section name="Results" category="results"><![CDATA[
+5. Results
+Table 3 shows the descriptive statistics with correlation coefficients among the variables. With respect to the satisfaction score, relative perceived quality (Rel_Quality) indicates a strong positive correlation (0.71) and Green_N shows a moderate positive correlation (0.21). A lower degree of correlation is found for Green_Guest (0.15) and Green_Energy (0.16) in relation to satisfaction. Green_Guest, Green_Energy, and Green_Cert generate moderate to high correlations among one another (ranging from 0.47 to 0.84).
+
+Table 3.
+Descriptive statistics and correlation.a
+Mean	St. Dev	Min	Max	(1)	(2)	(3)	(4)	(5)	(6)	(7)
+(1) Satisfaction	4.25	0.37	3.00	5.00	1.00						
+(2) Green_N	1.68	1.44	0.00	4.00	0.21	1.00					
+(3) Rel_Quality	0.00	0.28	−1.25	0.65	0.71	0.26	1.00				
+(4) Star	3.73	0.69	2.00	5.00	0.26	0.29	0.33	1.00			
+(5) Green_Guest	5.74	3.87	0.00	10.00	0.15	0.82	0.33	0.28	1.00		
+(6) Green_Energy	3.00	2.29	0.00	7.00	0.16	0.76	0.31	0.18	0.84	1.00	
+(7) Green_Cert	0.49	0.62	0.00	2.00	0.04	0.55	0.21	0.22	0.47	0.49	1.00
+a
+Coefficients of 0.15 and above are significant at p < 0.05.
+
+Table options
+In terms of the green attributes of the sample hotels, Table 4 summarizes the average values of Green_Cert, Green_Guest, and Green_Energy with respect to the green category. In the top panel, unsurprisingly, the hotels with platinum and gold levels show the highest average values for Gren_Cert and Green_Guest. However, for Green_Energy, the Platinum and Silver groups show the highest mean values. In the second panel, the average satisfaction score and the star ratings are summarized. The satisfaction score is the highest for the Platinum category, but the differences across the green-badge groups are not large. When all of the properties that have green badges are pooled (148 hotels), the average satisfaction score is 4.29. In terms of the star-rating categories and the green-badge groups, the data show that in general, green practices are more intense in the higher star rating groups, but again, differences in star rating are not large across the green-badge groups.
+
+Table 4.
+Green attributes by green categories.
+(1) Average values of green intensity by types of green activities and green badges
+N	Green_Cert	Green_Guest	Green_Energy
+Platinum	30	1.03	8.80	5.07
+Gold	42	0.83	8.74	4.29
+Silver	42	0.62	8.10	4.40
+Bronze	34	0.29	7.18	3.62
+Zero	69	0.12	0.57	0.34
+(2) Green categories, average satisfaction score, and star rating
+Platinum	Gold	Silver	Bronze	None	Green Overall
+N	30	42	42	34	69	148
+
+Satisfaction Score
+Mean	4.47	4.25	4.21	4.25	4.17	4.29
+St. Dev	0.22	0.40	0.33	0.33	0.42	0.35
+Min	4.00	3.50	3.50	3.50	3.00	3.50
+Max	5.00	5.00	4.50	4.50	5.00	5.00
+
+Star rating
+Mean	4.00	3.90	3.76	3.87	3.41	3.88
+St. Dev	0.72	0.66	0.52	0.53	0.76	0.61
+Min	2.50	2.50	2.50	2.50	2.00	2.50
+Max	5.00	5.00	4.50	5.00	5.00	5.00
+Table options
+The regression results are summarized in Table 5. Before estimating the simultaneous equation model, we estimated a single equation OLS model of customer satisfaction on Rel_Quality and Green_N with other control variables. Variance inflation factors were all less than 2, indicating that there is no multicollinearity issue. The result shows that Rel_Quality is highly significant, whereas Green_N is not significant. In addition, we checked whether there is a moderating effect of perceived quality by including an interaction term of Green_N and Rel_Quality. Both the interaction term and Green_N were not significant. This result appears to support the idea that green practices do not affect customer satisfaction. However, simultaneous equation estimations show different results.
+
+Table 5.
+Regression on overall customer satisfaction score.
+Dep. Variable	OLS
+Simultaneous Equation Modeling
+Model (1)
+Model (2)
+Rel_Qual
+(1) Rel_Quality
+(2) Satisfaction
+(1) Rel_Quality
+(2) Satisfaction
+Intercept	3.76	(0.09)***	−0.13	(0.03)***	4.23	(0.03)***	−0.12	(0.03)***	4.25	(22.24)***
+Green_N	−0.01	(0.01)	0.05	(0.01)***	0.01	(0.01)				
+Platinum							0.23	(0.06)***	0.09	(0.06)
+Gold							0.12	(0.01)**	−0.03	(0.05)
+Silver							0.04	(0.05)	−0.02	(0.05)
+Bronze							0.08	(0.06)	−0.00	(0.06)
+Rel_Quality	0.98	(0.06)***			0.95	(0.07)***			0.91	(0.07)***
+New_Brand	−0.04	(0.08)	0.24	(0.07)***			0.25	(0.07)***		
+Chain	−0.07	(0.03)**	0.06	(0.04)*			0.07	(0.04)*		
+
+R-Sq.	0.51	0.14	0.50	0.15	0.51
+Testing restriction					
+α1β1			0.05	(0.01)***			0.21a	(0.05)***		
+α2 + α1β1			0.09	(0.02)***			0.43	(0.11)***		
+Dep. Variable	Model (3)
+Model (4)
+Model (5)
+(1) Rel_Quality
+(2) Satisfaction
+(1) Rel_Qual
+(2) Satisfaction
+(1) Rel_Quality
+(2) Satisfaction
+Intercept	−0.12	(0.03)***	4.26	(0.03)***	−0.11	(0.01)***	4.26	(0.03)***	−0.07	(0.04)*	4.26	(0.02)
+Green_Guest	0.01	(0.00)***	0.00	(0.00)								
+Green_Energy					0.03	(0.01)***	−0.00	(0.00)				
+Green_Cert									0.05	(0.03)*	−0.03	(0.03)
+Rel_Quality			0.96	(0.07)***			0.96	(0.09)***			0.96	(0.07)***
+New_Brand	0.25	(0.08)***			0.25	(0.08)***			0.25	(0.08)***		
+Chain	0.05	(0.04)			0.04	(0.04)			0.07	(0.04)*		
+
+R-Sq.	0.12	0.50		0.12	0.50		0.09	0.51	
+Testing restriction										
+α1β1	0.01	(0.00)***			0.02	(0.01)***			0.05	(0.03)*		
+α2 + α1β1	0.03	(0.01)***			0.05	(0.02)***			0.10	(0.06)*		
+N = 217, standard errors in parentheses.
+
+Superscripts ***, **, and * indicate significance at the 1, 5, and 10% levels.
+
+a
+Testing for the indicator variable Platinum.
+
+Table options
+In the simultaneous equation estimation, we employed various measures for the intensity of green practices and estimated Models (1) through (5). In each model, in addition to the direct effect of Green on customer satisfaction (α2), we also tested the indirect effect of Green through Rel_Quality (α1β1) and the total effect (α2 + α1β1) from the estimated parameters of Eqs. (1) and (2). In the first model, Green_N shows a positive and significant coefficient in the Rel_Quality equation, although it is not significant in the Satisfaction equation. The tests of non-linear restriction of α1β1 and α2 + α1β1 reject the null hypothesis of zero effect. Thus, Model (1) confirms the positive impact of the green practice on customer satisfaction but only indirectly, through Rel_Quality.
+
+Instead of Green_N, Model (2) used each of the green-badge groups as dummy variables. In the Rel_Quality equation, only the Platinum and Gold groups show significant positive coefficients. This means that compared to the base group (no green badge), the Platinum and Gold groups experience a significant shift in the regression line of Rel_Quality by 0.23 and 0.12, respectively, whereas the other groups do not have any significant impacts. It appears that the effect of green practices on perceived relative quality does not manifest unless a hotel’s green status is high.
+
+In terms of green intensity by the type of green activity, we estimated Models (3) through (5). We separately included Green_Guest, Green_Energy, and Green_Cert in each of these models. The results are similar to those of Model (1). The coefficients of Green_Guest, Green_Energy, and Green_Cert are positive and significant in the Rel_Quality equation. More specifically, a one-unit increase in Green_Guest, Green_Energy, and Green_Cert is found to increase the relative perceived quality by 0.01, 0.03, and 0.05, respectively. Although we constructed Green_Guest by the energy-related attributes that are most directly observable compared to Green_Energy and Green_Cert, all three variables show the same patterns in terms of direct, indirect, and total effects; thus, the direct effect on satisfaction is insignificant, but the indirect effect through relative perceived quality and total effects is significant.
+
+]]> <h target="3" match="full">In summary, the positive relationship between green practice and satisfaction is confirmed but only indirectly, through perceived relative quality.</h><![CDATA[ These results consistently support H1, which posits a positive relationship between the intensity of green practices and perceived quality. In H2, we postulated that consumer satisfaction increases with green practice intensity because these practices may reduce consumers’ cognitive dissonance. Our results indicate a positive total effect of green intensity on customer satisfaction, but they were driven by an indirect effect, through perceived relative quality. It has been noted that consumers may not be as ethically minded as commonly believed (Carrington, Neville, & Whitwell, 2010). However, the regression results show that in the context of hotel stays, consumers appear to care about environmental issues, which is translated into quality perception but only indirectly into satisfaction.
+
+We checked the robustness of the mediating effect of perceived quality in several ways. First, we performed the Sobel-Goodman mediation test for Models (1) through (5) with bootstrap standard errors. Second, we also estimated the model using the asymptotic distribution free methodology (ADF) because our data—similar to the majority of data collected in behavioral research—do not strictly satisfy the normality assumption. The indirect and total effects of the green measures were confirmed. In addition, we tested whether there is a quadratic relationship between Green_N and the perceived relative quality measure in both the OLS estimation and in the simultaneous equation Model (1). However, the quadratic term was not significant in either specification.
+
+]]></section>
+
+    <section name="Limitations;Implications for research and practice" category="conclusion"><![CDATA[
+6. Limitations
+We recognize that this study has the following limitations. First, for the intensity of green practices, we counted the number of green attributes by the various types of green activities. Although the number of green activities is the same, qualitative differences may exist. Second, the credibility of consumers’ online evaluations is a critical assumption of our analysis. However, there have been concerns about fake reviews (Yoo & Gretzel, 2009). We cannot guarantee that our data do not contain any manipulated reviews. We believe that future research could further integrate these factors into the model. For future research, it would be worthwhile to investigate a moderating variable that will change the direct relationship between satisfaction and green practices.2 For example, the relationship might be positive when guests are more environmentally aware than average. The introduction of a moderating effect will further contribute to a better understanding of green practices and consumer behavior.
+
+7. Implications for research and practice
+Considering a multitude of issues related to green consumption, such as the attitude-behavior gap and social desirability bias, we obtained information from online travel review systems and analyzed the relationship among the hotel industry’s green practices, quality perception, and satisfaction. The results show that consumer perceptions are complicated. We find that the green practices do not directly affect satisfaction. However, this does not necessarily mean that consumers are not environmentally conscious because green practices were found to affect satisfaction indirectly through the perceived quality of the hotel relative to its star-rating category.
+
+Several studies have reported a fully mediated impact of the socially desired motivations that underlie certain types of consumption. For example, in the context of collaborative consumption, Hamari, Sjöklint, and Ukkonen (2015) show that consumers’ perception of sustainability affects their behavioral intention to participate in collaborative consumption only indirectly, through attitude. Similarly, in the context of organic food consumption, Michaelidou and Hassan (2008) show that ethical self-identity affects purchase intention only indirectly, through attitude. These results imply that even if consumers do not directly show satisfaction (as in this study) or behavioral intention as in Hamari et al. (2015) and Michaelidou and Hassan (2008) toward socially desirable consumer behavior, this does not mean that consumers are not ethically concerned. Instead, there might be a significant indirect impact through a mediating factor.
+
+]]> <h target="4" match="part">This study provides several theoretical implications.</h><![CDATA[ First, motivated by the concept of “content generativity”, we utilized rich information content from online travel review systems to revisit consumers’ overall evaluation of hotels in relation to those hotels’ actual green practices. The reviews accumulated on the online travel review site are the collective output of individual human-machine interactions, which are intended to share people’s travel experiences. In addition to this original purpose, this stock of information has been used by other hotel-industry stakeholders and beyond. The information is extracted from the online system and analyzed (as in this research), commercialized, or rearranged within the online platform for specific purposes. For example, leveraging online reviews, the Singapore Tourism Board (STB) launched a customized site on TripAdvisor that focuses on “off the beaten path” sites in Singapore to provide more diverse travel experiences (Singapore Tourism Board, 2015). Certainly, the concept of content generativity both in general and in the context of the smart tourism system must be further refined in terms of its dimensions and relationship with the existing theoretical framework of generativity. There are additional issues related to the generativity of information content such as the sustainability and the negative effect. The sustainability of the information generativity depends on the openness and the reliability of user-generated reviews. There has been controversy over data ownership, reliability, privacy, and security, which are expected to affect the long-term perspective of the generativity of the information content of the smart tourism system. Theoretical and empirical clarifications over these issues are required.
+
+Second, this study contributes to the study of environmentally conscious consumer behavior in the presence of the social desirability bias. To mitigate the social desirability bias, researchers have suggested an inferred valuation, which entails asking respondents which choices they believe another person would make (Norwood & Lusk, 2011). However, inferred valuation still uses the hypothetical situation. In this study, we suggest an alternative approach of utilizing consumers’ evaluation of the product under the various real-life settings drawn from the smart tourism system.
+
+]]> <h target="4" match="part">This study also provides practical implications.</h><![CDATA[ The operator of an online review system must understand information generativity, which can affect the self-reinforcing mechanism of the review platform. For example, Skeels and Grudin (2009) illustrate how LinkedIn helps maintain relationships without imposing on others. The generative use of information may spontaneously emerge among users or operators may proactively develop the generative use of information and guide users. In doing so, the operator also needs to understand the possible side effect of the generative characteristics of the information contents.
+
+For the hotel industry, our results suggest that guests may not have a strong incentive to participate in the green program because green practices do not directly enhance satisfaction. Thus, for hotels, it is important to design green programs that motivate guest participation. Some hotel firms offer monetary rewards to guests or pledge to donate to a foundation for environmental practices if guests participate in green practices. With respect to certification and energy-saving features, because these features can enhance perceived quality, it would be beneficial to make information available to the guests. For highly differentiation-oriented segments (luxury tier), relatively fewer guest-related green practices may be in place because those practices could limit the feeling of luxury and affluence. Thus, these properties, while providing lavish and luxury service, may consider providing options for guests to participate in green practices. These options can serve as the hotels’ differentiated quality.
+
+Hotel managers also must pay close attention to whether green practices undermine guest service because customers may link inconvenience to green attributes. For example, hotels may inform guests that they use low-energy lighting and offer to make additional desk lamps available by request. Unsatisfied guests tend to more actively engage in negative word-of-mouth (Richins, 1983), which can negatively influence the purchase decision of users who search online for information about properties.
+
+]]></section>
+    
+Acknowledgements
+This work was supported by the National Research Foundation of Korea Grant funded by the Korean Government (NRF-2013S1A3A2043345).
+</publication>

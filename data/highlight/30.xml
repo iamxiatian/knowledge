@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<publication marker= "liu yang">
+    <journal>International Journal of Information Management</journal>
+    <time>Volume 36, Issue 6, Part A, December 2016, Pages 1062-1074</time>
+International Journal of Information Management
+    <title>Information technology resource, knowledge management capability, and competitive advantage: The moderating role of resource commitment</title>
+    <author>Hongyi Mao</author>. Author links open the author workspace.Opens the author workspacea. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace
+    <author>Shan Liu</author>. Author links open the author workspace.Opens the author workspaceOpens the author workspaceb. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace
+    <author>Jinlong Zhang</author>. Author links open the author workspace.Opens the author workspacec. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace
+     <author>Zhaohua Deng</author>. Author links open the author workspace.Opens the author workspaced. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace
+a
+Economics and Management School, Jiujiang University, Jiujiang 332005, China
+b
+School of Management, Xi’an Jiaotong University, Xi’an 710049, China
+c
+School of Management, Huazhong University of Science and Technology, Wuhan 430074, China
+d
+<![CDATA[School of Medicine and Health Management, Huazhong University of Science & Technology, Wuhan 430074, China]]>
+Show more
+        <doi>https://doi.org/10.1016/j.ijinfomgt.2016.07.001</doi>Get rights and content
+Highlights
+•
+<highlight id="1">IT resources positively affect knowledge management capability (KMC).</highlight>
+•
+<highlight id="2">Resource commitment positively influences KMC.</highlight>
+•
+<highlight id="3">Resource commitment positively moderates the effects of IT human and IT relationship resources on KMC.</highlight>
+•
+<highlight id="4">KMC mediates the relationships of IT infrastructure and IT human resources with competitive advantage.</highlight>
+
+Abstract
+<abstract>  <![CDATA[The role of information technology (IT) in knowledge management has always been a debatable topic in literature and practice. Despite existing documentation regarding the relationship between IT resource and knowledge management, limited information is available on the different types of IT resources describing this relationship. ]]><h target="3" match="part">We integrate two research streams emerging in knowledge management and extend the literature on IT–knowledge management linkage by investigating the moderating role of resource commitment to invoke a contingent resource perspective.</h><h target="2" match="full">Data from 168 organizations in China provide empirical evidence that three types of IT resources (i.e., IT infrastructure, IT human, and IT relationship) positively affect knowledge management capability (KMC), which is positively related to competitive advantage.</h><h target="3" match="full">Furthermore, this study identifies two positive quasi-moderating effects of resource commitment on the IT resource–KMC relationship.</h><h target="4" match="full"> Specifically, resource commitment directly and positively enhances KMC, and strengthens the effects of IT human and IT relationship resources on KMC.</h>  <![CDATA[We discuss the theoretical and practical implications of the results.]]>
+
+            </abstract>
+            
+
+Keywords
+        <keywords>Information technology resource</keywords>
+        <keywords>Knowledge management capability</keywords>
+        <keywords>Resource commitment</keywords>
+        <keywords>Resource-based view</keywords>
+        <keywords>Knowledge-based view</keywords>
+        <keywords>Contingent resource perspective</keywords>
+ 
+        <section name="Introduction" category="introduction">
+                    <![CDATA[
+1. Introduction
+For decades, the development of information technology (IT) and knowledge management in creating competitive advantage has been one of the leading concerns of managers and scholars. Today’s increasingly changing environment makes the emergence of IT-enabled knowledge management capability (KMC) as a core competency for organizations to enhance individual performance, innovation, organizational capabilities, and competitive advantage (Gold, Malhotra, & Segars, 2001; Joshi, Chi, Datta, & Han, 2010; Ko & Dennis, 2011; Tseng, 2014).]]><h target="1" match="part">KMC can be defined as the process-based ability of the organization to mobilize and deploy knowledge-based resources to gain competitive advantage.</h> <![CDATA[ For example, the German electronics and engineering company Siemens has significantly invested in its ShareNet knowledge management system to improve business operations and create customer value, thereby evolving into a knowledge-based organization (Nielsen & Ciabuschi, 2003). The advent and in-depth use of IT, particularly communication networks and the Internet, have brought a fast, safe, and convenient method of obtaining, sharing, and storing knowledge by increasing collaborations and reducing costs (Mohamed, Stankosky, & Murray, 2006). IT may enable knowledge management to gain competitive advantage. According to the 2015 Knowledge Management Priorities Report, 93% of organizations have specific funds allocated to knowledge management, and 61% positively respond to the future of knowledge management programs (APQC, 2015). Meanwhile, the report also mentions that processes by which technology investment drives knowledge management are less obvious, consequently requiring further examination regarding the linkage between IT and knowledge management. However, Three research gaps can be identified based on previous studies.
+First, the relationships between different types of IT resources and KMC remain unclear in previous research and require further investigation. The resource-based view (RBV) regards IT as a rare, valuable, and appropriable organizational resource, enabling a wide breadth and depth of knowledge flows for high KMC (Alavi & Leidner, 2001; Bharadwaj, 2000; Wade & Hulland, 2004). However, contradictory findings on the relationship between IT and knowledge management exist. Several researchers argue that the KMC of organizations can benefit from IT applications (Joshi et al., 2010; Tanriverdi, 2005), particularly a knowledge management system (Alavi & Leidner, 2001). As IT becomes more powerful, many organizations invest more on the technical aspect to manage knowledge and related processes (Iyengar, Sweeney, & Montealegre, 2015). Nevertheless, other researchers contend that the use of IT is not associated with the success of knowledge management initiatives (Mcdermott, 1999; Mohamed et al., 2006), and IT should be used only when necessary. Moreover, whether different types of IT resources enhance KMC is unknown. IT is commonly treated as a second-order variable (Pérez-López & Alegre, 2012; Tanriverdi, 2005) or a specific dimension, such as the use of IT (Choi, Lee, & Yoo, 2010; Iyengar et al., 2015). However, various types of IT resources have different attributes, which can result in different outcomes and effectiveness (Wade & Hulland, 2004). For example, the appropriability and imitability levels of an information system (IS) infrastructure are both high, whereas the levels of those attributes in the IS–business partnership are low–medium and low (Wade & Hulland, 2004). Thus, different levels of KMC may be generated by IS infrastructure and IS-business partnership. Accordingly, this study attempts to bridge this gap by exploring how different types of IT resources influence KMC.
+Second, previous studies fail to examine the condition under which the effects of IT resources on KMC are altered and to provide an integrated analysis of the effects of the technical and social–managerial factors on knowledge management. Two research streams have been presented in previous literature regarding the effects of IT resources. One research stream comes from the technical perspective, and states that knowledge management processes are supported by infrastructure, techniques, and systems (Gold et al., 2001; Tanriverdi, 2005). Technical systems within an organization determine how knowledge is acquired, shared, and stored (Gold et al., 2001). The other stream comes from the social–managerial perspective. In this perspective, knowledge management is affected by organizational culture, climate, management support, trust, and commitment (Alavi, Kayworth, & Leidner, 2005; Bock, Zmud, Kim, & Lee, 2005; Lee & Choi, 2003), considering that knowledge is bound to humans. However, few studies have integrated these two research streams. This research void was also highlighted by Tanriverdi (2005), who suggested that a comprehensively technical and social-managerial view should be provided to enhance knowledge management. Researchers of traditional RBV argue that the required resources are insufficient for knowledge management (Chen et al., 2014). A contingent resource perspective can extend the theory through an integrated analysis of the effects of environmental factors, business strategies, and other industry-level and firm-level variables (Aragon-Correa & Sharma, 2003; Cui & Lui, 2005). Therefore, this study adopts the contingent resource perspective to address the importance of the factors in two separate streams of research, which have emerged to improve knowledge management.
+This study focuses on one significant social–managerial factor (i.e., resource commitment) because of its critical role in leveraging IT resources to ensure the success of knowledge management (Li & Kozhikode, 2008; Tseng, 2008). As a type of commitment from organizations (Dong, 2001), resource commitment refers to the effort committed by an organization toward business strategies and is frequently treated as a key element of the planning process for strategy (e.g., knowledge strategy) success (Cui & Lui, 2005; Lai, Li, Wang, & Zhao, 2008; Menon, Bharadwaj, Adidam, & Edison, 1999; Wagner & Buko, 2005). Thus, resource commitment could be a direct enabler of KMC. Meanwhile, advocates of contingency theory argue that organizations with superior performance benefit from establishing a fit between IT resources and organizational context variables (e.g., resource commitment) (Aragon-Correa & Sharma, 2003; Cui & Lui, 2005; Wade & Hulland, 2004). This situation implies that resource commitment can also serve as a potential moderator of the effectiveness of IT resource. Indeed, significant relationships between IT resources and KMC are unobserved in several studies (Mohamed et al., 2006). Furthermore, several researchers argue that organizations should effectively bundle and allocate IT resources to enhance KMC (Richey, Musgrove, Gillison, & Gabler, 2014). As a social–managerial factor of an organization, resource commitment may act as a moderator in knowledge management enhancement (Amayah, 2013; Chen & Chang, 2012; Rusly, Sun, & Corner, 2014; Wade & Hulland, 2004). A high level of commitment to IT resources reflects the belief that IT will make a valuable contribution to organizations (Newman & Sabherwal, 1996). High resource commitment can promote the effective allocation of IT resources to the enhancement of KMC. However, previous research has failed to provide empirical evidence on how the effect of IT resource on KMC is contingent on resource commitment. Therefore, this study attempts to bridge this gap by exploring whether high levels of resource commitment change the relationship between IT resources and KMC.
+Third, although researchers have argued that knowledge management can mediate the correlation of IT with firm performance (Tanriverdi, 2005), whether the effects of different types of IT resources and organizational competitive advantage are mediated by KMC remains unexplored. In the relationships among IT, knowledge management, and competitive advantage, IT is frequently treated as one unified system, which causes it to become homogeneous and ubiquitous, consequently losing its way to knowledge management and competitive advantage (Bhatt & Grover, 2005; Chae, Koh, & Prybutok, 2014). However, RBV suggests that the different resource types could primarily lead to a significant difference in performance (Christmann, 2000). Thus, the process by which an organization leverages different types of IT resources for knowledge management and competitive advantage is critical. The present study attempts to extend prior research on IT–knowledge management–competitive advantage linkage by empirically examining the effects of different types of IT resources. ]]><![CDATA[By considering the effects of KMC on the long causal linkage of IT with organizational performance, ]]><h target="4" match="part">this study intends to fill this gap by examining whether KMC mediates the effects of the three types of IT resources (i.e., IT infrastructure [ITI], IT human [ITH], and IT relationship [ITR]) on competitive advantage.</h><![CDATA[
+In summary, this study intends to investigate the contingency of IT-enabled KMC by answering the following research questions:
+1)
+How do different types of IT resources affect KMC?
+2)
+Does resource commitment enhance KMC and strengthen the effects of IT resources on KMC?
+3)
+Does KMC play a mediating role in the relationship between different types of IT resources and competitive advantage?
+
+The remaining sections of this research are organized as follows: relevant literature is presented in Section 2 and research model and hypotheses are developed in Section 3. Then, a survey instrument to test the hypotheses with 168 organizations in China is developed in Section 4. Section 5 discusses the results of data analysis. Finally, research implications of this study are discussed in Section 6.]]>
+</section>
+
+         <section name="Theoretical background" category="background">
+                    <![CDATA[
+2. Theoretical background
+2.1. IT resource and KMC
+According to the RBV, IT is a potential resource for gaining KMC and competitive advantage (Bharadwaj, 2000; Tanriverdi, 2005; Wade & Hulland, 2004). Researchers in the IS field identify sets of IT-based resources at different angles for diverse purposes. For a comprehensive understanding of the role of IT in creating competitive advantage, tangible and intangible IT resources are discussed (Bharadwaj, 2000). Furthermore, a multidimensional typology is utilized to analyze the attributes of IT resources sorted into outside-in, spanning, and inside-out processes to sustain competitive advantage over time (Wade & Hulland, 2004). Several studies classify the formulation of IT resources into physical IT capital and human IT capital to gain knowledge on how IT assignment interplays with IT processes (Melville, Kraemer, & Gurbaxani, 2004; Ross, Beath, & Goodhue, 1996). Such a classification aims at interpreting the processes by which IT resources contribute to business processes. Considering that the current study attempts to examine the effects of IT resources on KMC (a process-based ability), we adopt this IT resource classification and focus on the effects of IT resources on knowledge flows among business units. Consistent with previous studies, the current study selects three types of IT resources, namely, ITI, ITH, and ITR. ITI resource is the technological foundation of an organization to ensure accurate, real-time, and comprehensive information for communication. ITH resource is defined as the technical and managerial IT skills of the employees of an organization. ITR resource refers to the relationship between IT and business units, which reflects the level of trust and willingness to share risk and responsibility.
+Developed from RBV, knowledge-based view (KBV) argues that knowledge is a critical asset of an organization to create value (Alavi & Leidner, 2001; Chuang, 2004). At its core, the notion of KMC underscores the importance of mobilizing and deploying knowledge-based resources for competitive advantages (Alavi & Leidner, 2001; Holsapple & Wu, 2011). The literature on knowledge management has focused on knowledge processes as drivers of organizational performance (Becerra-Fernandez & Sabherwal, 2001; Gold et al., 2001; Pérez-López & Alegre, 2012; Tanriverdi, 2005). Knowledge processes complement and support each other, allowing organizations to acquire, transfer, and use knowledge efficiently (Tanriverdi, 2005). Through these processes, organizations are able to absorb external knowledge, leverage existing knowledge to generate new knowledge, and make them valuable (Gold et al., 2001). Focusing on knowledge flows among business units, knowledge management also enables organizations to generate and leverage cross-unit knowledge synergies, which are critical for business performance (Alavi & Leidner, 2001). Treating knowledge management as a set of processes to generate value becomes a consensus (Alavi & Leidner, 2001; Gold et al., 2001; Pérez-López & Alegre, 2012). In this research, KMC is defined as the process-based ability of an organization to organize and utilize knowledge-based resources to gain competitive advantage (Gold et al., 2001; Pérez-López & Alegre, 2012).
+Although both qualitative and quantitative studies have investigated the relationship between IT resource and KMC, two research deficiencies can be observed in previous literature. One deficiency is the contradictory findings on the effects of IT resources on KMC. Some researchers have determined the significant effect of IT on KMC, whereas other studies identified an insignificant relationship between IT and KMC. For example, Alavi and Leidner (2001) and Choi et al. (2010) posit that knowledge management can be enhanced by a number of IT-based systems to achieve success. Holsapple (2005) argues that IT becomes inseparable from knowledge management. Therefore, IT can facilitate cross-unit knowledge synergies (Tanriverdi, 2005), increase knowledge transfer effectiveness (Iyengar et al., 2015), and change the culture in the knowledge management landscape (Sultan, 2013). From a holistic and systematic view, IT enables knowledge acquisition, assimilation, transformation, and exploitation, as well as facilitates the development of social capital essential for knowledge integration (Joshi et al., 2010). However, other scholars contend that IT is ineffective for knowledge management, arguing that technical issues are insignificant compared with organizational and human issues in managing knowledge (Davenport & Prusak, 1998). The systems themselves do not automatically deliver KMC and can occasionally cause failures in knowledge management projects (Sambamurthy & Subramani, 2005). Because current IT is still immature, these technologies cannot handle knowledge in humanistic cognitive dimensions and could fail to deliver a successful knowledge management initiative (Mcdermott, 1999; Mohamed et al., 2006). As such, a better understanding of the contradiction between IT and knowledge management is required. Another research deficiency is the dearth of studies investigating the effectiveness of specific IT resources. Previous studies have focused primarily on the effects of general IT (e.g., Internal IT use, IT, and IT relatedness) on knowledge management (Iyengar et al., 2015; Joshi et al., 2010; Tanriverdi, 2005) but failed to provide empirical evidence on a specific type of IT resource (e.g., IT human, IT relationship). One type of IT resource could have a possible significant effect on knowledge management, whereas another type could have an insignificant effect. Accordingly, further investigation on this issue is essential.
+2.2. A contingent resource view of resource commitment
+In a review of the literature, RBV is particularly relevant in explaining the effects of IT resources on KMC (Alavi & Leidner, 2001; Bharadwaj, 2000). However, valuable IT resources alone, as proposed in the traditional RBV, are insufficient for agile business processes, and IT resources cannot create value in a vacuum (Chen et al., 2014). As discussed previously, contradictory findings on the IT and knowledge management relationship exist. Therefore, we propose a general perspective of how IT resources affect the development of KMC based on the contingency theory (Aragon-Correa & Sharma, 2003). Such a theory indicates that an alignment should exist in the exogenous context and endogenous variables. A contingent resource perspective extends the traditional RBV and suggests testing the potential moderating effects of environmental factors, existing resources, and business strategies, including other industry-level and firm-level variables (Aragon-Correa & Sharma, 2003; Chen et al., 2014; Cui & Lui, 2005; Wade & Hulland, 2004).
+In the knowledge management literature, knowledge enablers, which influence knowledge management processes, can be categorized into technical and social–managerial perspectives (Lee & Choi, 2003). The social–managerial perspective contains the various factors in culture, structure, and people, whereas the technical perspective mainly refers to IT support. Apart from technical factors, social–managerial factors, such as organizational culture and structure, can also directly influence KMC (Amayah, 2013; Durmusoglu, Jacobs, Nayir, Khilji, & Wang, 2014). For example, an organizational culture identifying the expected role of behavior in an organization can demonstrate a powerful effect on the processes by which organizations share and manage knowledge (Durmusoglu et al., 2014). We adopt the contingent resource perspective to generate an integrated analysis of the technical and social–managerial perspectives to examine the alignment of IT resource and critical organizational factors in knowledge management further. According to the contingent resource perspective, the effects of IT resources are contingent on those organizational factors (Mao, Liu, & Zhang, 2015; Wade & Hulland, 2004). For example, Malhotra (2004) suggests considering moderating and intervening behavioral variables, such as attention and commitment, in the design of a knowledge management system. Wade and Hulland (2004) propose that organizational factors, such as organizational commitment and structure, can serve as potential moderators in investigating the effects of IT resources. Thus, based on the RBV and the social–managerial perspective, resource commitment is introduced as a contingent variable in the IT–knowledge management relationship.
+As an important aspect of the literature on organizational behaviors, commitment refers to the state of mind that holds organizations to a standard of behavior (Newman & Sabherwal, 1996). The notion of resource commitment indicates the degree of effort spent on organizational resource and reflects the extent to which organizations believe that investment in those resources can create valuable output (Lai et al., 2008). Prior research has shown that resource commitment plays a crucial role in improving productivity and attaining competitive advantages (Bharadwaj, 2000). The importance of resource commitment not only lies in the IS discipline (Lai et al., 2008) but also in marketing (Luo, 2004), environmental strategy (Li, 2014), and operations management (Autry, Griffis, Goldsby, & Bobbitt, 2005). Considering that the current study examines the influences of IT, we define resource commitment as the effort committed by an organization toward IT improvement, including budget, equipment, and personnel (Lai et al., 2008). Resource commitment to IT can help assure the goal of knowledge management and support organizations in designing and optimizing their knowledge management plan (Tseng, 2008). The manner by which a firm allocates its IT resources is critical (Richey et al., 2014). As an attitude of organizations toward resources, resource commitment has the potential to affect the relationship between IT resources and KMC. For example, Newman and Sabherwal (1996) find that a high level of commitment to IT resources reflects the belief of the possible constructive contribution of IT to organizations. When such belief is lacking, the necessary IT resources may not be dedicated to shaping organizational capabilities, such as KMC. Conversely, a strong resource commitment should facilitate a strong IT resource–knowledge management link. Moreover, IT resources do not always lead to high KMC (Mohamed et al., 2006). Thus, investigating the role of resource commitment in the IT–knowledge management relationship contributes to a better knowledge of the determinants of KMC.
+2.3. KMC in the relationship between IT resource and competitive advantage
+Organizations can use IT to improve their organizational performance or competitive advantage by reducing costs, increasing revenue, facilitating processes, and driving innovation (Lu & Ramamurthy, 2011; Melville et al., 2004; Mithas, Tafti, Bardhan, & Goh, 2012). However, several studies have failed to observe a positive and significant connection between IT and organizational performance (Chae et al., 2014). Carr (2003) argues that, in the 2000s, organizations with excellent IT may erode their competitive edge because of continuous IT commoditization. Large amounts of IT investments further increase costs more than competitive advantage. Similarly, Bhatt and Grover (2005) find that the quality of ITI does not significantly and positively influence the competitive advantage of a firm. Given that IT has become more homogeneous and ubiquitous, imitating the IT capabilities of competitors has become easier for organizations (Chae et al., 2014). Accumulated findings on IT and competitive advantage in the literature are contradictory. Thus, further examination of their relationship is essential.
+IS and knowledge management scholars have emphasized the importance of KMC in enhancing operational and financial performance (Lee & Choi, 2003; Tanriverdi, 2005; Teo & Bhattacherjee, 2014). An explanation for the contradictory findings on IT and competitive advantage is that the causal link between IT and organizational performance is long and that the role of intermediate organizational capabilities, such as KMC, should be included in the key topics of strategic management (Tanriverdi, 2005). Moreover, Tippins and Sohi (2003) report that the processes by which new knowledge is developed fill the gap between IT competency and organizational performance. The model of the business value of IT implies the mediating role of business processes, such as knowledge processes, in the relationship of IT resources with organizational performance (Melville et al., 2004). However, scholars usually take a holistic view and treat IT as a second-order conduct. Tracking an indirect relationship between different types of IT resources and competitive advantage through KMC seems necessary to understand how IT contributes to superior performance.]]>
+</section>
+
+<section name="Research model and hypotheses" category="research model and hypotheses">
+                <![CDATA[
+3. Research model and hypotheses
+In this study, we propose that IT resources, namely, ITI, ITH, and ITR, have significant effects on KMC. KMC acts as a mediator of the relationships between the three types of IT resources and competitive advantage. Resource commitment is a quasi-moderator (Sharma, Durand, & Gur-Arie, 1981) of the relationship between IT resources and KMC. Fig. 1 presents the research model and hypotheses.
+Fig. 1
+Download high-res image (293KB)Download full-size image
+Fig. 1. Research model.
+3.1. Effects of IT resources on KMC
+Scholars have associated KMC with the development of IT (Tanriverdi, 2005). IT can support KMC in various ways. IT enables the rapid search and retrieval of information and facilitates communication among business units, thereby leading to effective knowledge transfer (Alavi & Leidner, 2001; Iyengar et al., 2015). The specific use of IT, such as online social networking tools, makes knowledge creation easier (Sultan, 2013). Thus, IT resources seem to have positive effects on KMC.
+Infrastructure resource is the technological foundation of an organization and could contribute to KMC in three ways. First, a high level of ITI resource generally enables a wide breadth and depth of knowledge flows along knowledge processes (Alavi & Leidner, 2001). A well-designed knowledge management system can enhance knowledge integration and application by embedding tacit and explicit knowledge into organizational routines (Alavi & Leidner, 2001). Second, a common standardized ITI shared by business units could enable boundary-spanning processes for efficient knowledge exchange (Tanriverdi, 2005). A sharable platform and database could guarantee accurate, real-time, and comprehensive information for communication, which facilitates knowledge acquisition, transfer, and use (Pérez-López & Alegre, 2012; Ross et al., 1996). Third, innovations in ITI change the conventional technology base for knowledge management (Sultan, 2013). For example, cloud computing and Web 2.0 offer a flexible infrastructure for members of the organization to obtain the appropriate amount of information and knowledge stored in the system quickly and efficiently (Bhatt, Emdad, Roberts, & Grover, 2010; Sultan, 2013). Therefore, we propose our first hypothesis as follows:
+H1
+
+ITI resource positively influences KMC.
+
+
+ITH resource refers to the technical and managerial IT skills of the employees of an organization (Bharadwaj, 2000). With a valuable ITH resource, the employees of an organization can address business problems and maximize opportunities through IT solutions (Ross et al., 1996). Accordingly, ITH resource could facilitate the KMC. In particular, the technical IT skills of employees enable organizations to design and develop reliable applications that support the business needs of effective and efficient knowledge flows (Melville et al., 2004). The ability to integrate and maintain multiple systems guarantees the breadth and depth of knowledge flows, thereby leading to efficient knowledge management. Managerial IT skills involve the abilities to identify and manage IT functions to success (Bharadwaj, 2000). With a high level of managerial IT skills, organizations could obtain a high business understanding of IT functions and coordinate activities associated with knowledge processes efficiently (Melville et al., 2004; Ross et al., 1996; Tseng, 2008). Such organizations can overcome obstacles in knowledge management, speed up related activities, and anticipate future needs. In conclusion, with a high level of ITH resource, organizations are able to integrate IT and knowledge management strategies, thereby increasing competitive advantage (Bhatt & Grover, 2005). Therefore, our second hypothesis is proposed as follows:
+H2
+
+ITH positively influences KMC.
+
+
+ITR resource, which is defined as the relationship between IT and business units, reflects the level of trust and willingness to share risk and responsibility (Ross et al., 1996). A strong ITR resource indicates that the members of the IT staff communicate, coordinate, negotiate, and share with customers, suppliers, and other business partners to allow all the business units the possible effective use of IT. Bhatt and Grover (2005) report that the interaction between IT groups and business units allows for knowledge flow and diffusion throughout an organization. During collaboration, organizations can easily generate, share, and use knowledge from suppliers, customers, and partners. With a high degree of trust, knowledge can effectively flow along the processes, thereby possibly allowing easy sharing and use of knowledge. Consequently, enhancing KMC becomes possible. Therefore, we propose the following hypothesis:
+H3
+
+ITR resource positively influences KMC.
+
+
+3.2. Quasi-moderating role of resource commitment
+This study models resource commitment as a quasi-moderator. We believe that resource commitment can have a direct effect on KMC. Resource commitment enables the configuration of valuable resources to maximize benefits (Richey, Genchev, & Daugherty, 2005) and helps an organization effectively gather and employ those resources in a manner that would enhance organizational capabilities (Bharadwaj, 2000), such as KMC. Knowledge management requires resource commitment to maintain efficiency. Organizational commitment to technical and personal resources can not only assure the understanding of knowledge management (Tseng, 2008) but also lead to the formation of flexible knowledge management routines (Li & Kozhikode, 2008). Thus, we believe that resource commitment is crucial in establishing efficient KMC. Scholars also regard management and commitment to resources as an important issue in innovation (Capon, Farley, Lehmann, & Hulbert, 1992), which is positively related to KMC (Joshi et al., 2010; Li & Kozhikode, 2008). Empirical evidence shows that resource commitment can positively enhance knowledge sharing (Wagner & Buko, 2005). Therefore, we argue that resource commitment to IT will positively affect KMC. The hypothesis is presented as follows:
+H4
+
+Resource commitment positively influences KMC.
+
+
+We further contend that resource commitment positively moderates the effects of different IT resources on KMC. On one hand, the commitment to IT resources reflects the investments and efforts in IT functions (Lai et al., 2008). When IT investment is correctly managed, conditions are created conducive to the alignment of IT resources and business strategies. For example, Lu and Ramamurthy (2011) point out that focused and wise IT spending would strengthen the link between IT capability and the organizational ability of internal business processes to cope with changes rapidly (Lu & Ramamurthy, 2011). Similarly, we believe that strong resource commitment will strengthen the link from IT resources to KMC. Moreover, the disadvantages of IT, such as becoming an obstacle in the effort of an organization to compete (Van Oosterhout, Waarts, & Van Hillegersberg, 2006), can be offset if organizations commit bundles of important IT resources to develop capabilities (Luo, 2004). On the other hand, the commitment to IT resources indicates an enduring desire to maintain IT resources with potential value and implies the organizational perception of the importance of IT resources (Newman & Sabherwal, 1996). In other words, organizations with a strong resource commitment trust the value of IT resources and are willing to allocate IT resources required for the development of KMC. Thus, at a high level of resource commitment, organizations are willing to promote and support the IS function that IT resources can be effectively bundled and easily dedicated to KMC (Wade & Hulland, 2004). Therefore, we assume that strong resource commitment to IT will interact with IT resources to affect KMC positively.
+The technical infrastructure of IT resource is critical in forming KMC (Gold et al., 2001). However, the lack of effort in keeping pace with technological advances can place an organization in a disadvantageous position. Thus, the interaction between ITI and a high degree of commitment to improve the systems can guarantee the benefits of ITI in managing knowledge (Newman & Sabherwal, 1996). The human aspect of resource commitment comprises the training of employees and enhancing the understanding of the business aspect of IT and knowledge management strategies (Ross et al., 1996). Dyer and Reeves (1995) find that human resource strategy moderates the relationship between human resource and organizational outcomes and that commitment strategy implies considerable productivity. The same conditions may be achieved in the case of IT applications. For example, the commitment of organizations to train the skills of their staff may eliminate resistance from staff and strengthen their ability to use IT to solve problems in knowledge management. In terms of the relationship aspect, IT alignment between partners, which serves as the basis for knowledge integration, requires resource commitment and coordination (Wu, Yeniyurt, Kim, and Cavusgil, 2006). Thus, the effect of ITR on KMC is strong in an organization with high levels of resource commitment. Therefore:
+H5a
+
+Resource commitment positively moderates the relationship of ITI resource with KMC.
+
+H5b
+
+Resource commitment positively moderates the relationship of ITH resource with KMC.
+
+H5c
+
+Resource commitment positively moderates the relationship of ITR resource with KMC.
+
+
+3.3. Effect of KMC on competitive advantage
+The relationship between knowledge management and organizational performance is widely known (Tanriverdi, 2005; Tseng, 2014). Given that knowledge is socially complex and could be difficult to imitate based on KBV, KMC is a major determinant of competitive advantage and organizational performance (Alavi & Leidner, 2001; Chuang, 2004). Useful knowledge can be fairly absorbed, applied, or created to promote competitive advantage with strong KMC. The effective management of knowledge processes, including the acquisition, transfer, and use of knowledge, effectively enhances the interaction of partners with organizations, contributes to product or service quality and new product or service development, and develops unique and valuable capability. Among the key issues in strategic management, KMC has a positive relationship with financial performance, organizational effectiveness, innovation, and organizational agility (Gold et al., 2001; Holsapple & Wu, 2011; Joshi et al., 2010; Mao et al., 2015); these issues assist organizations in achieving competitive advantage. Thus, we propose the following hypothesis:
+H6
+
+KMC positively influences competitive advantage.
+
+
+3.4. Mediating role of KMC
+Competitive position and organizational performance can be indirectly affected by IT resources through their interactions with other resources or capabilities (Wade & Hulland, 2004). The leveraging role of business processes for strategic purposes has also provided opportunities for IT to improve related processes in an organization (Melville et al., 2004). Therefore, KMC, as a process-based organizational capability, can rely on the use of IT resources for superior performance (Tanriverdi, 2005). These arguments suggest that KMC mediates the relationship between IT resources and competitive advantage. On one hand, high-quality ITI, ITH, and ITR resources enable organizations to enhance business process capability (Chen et al., 2014; Melville et al., 2004), particularly knowledge management processes. On the other hand, strengthened KMC results in the effective management of intellectual capital, which facilitates the development of valuable and inimitable resources (Chuang, 2004). Thus, competitive advantage is created. Without KMC, organizations may experience negative returns from investment in IT resources. Thus, KMC is expected to function as a mediator of the relationship between IT resources and competitive advantage. We posit the following hypotheses:
+H7a
+
+KMC mediates the relationship between ITI resource and competitive advantage.
+
+H7b
+
+KMC mediates the relationship between ITH resource and competitive advantage.
+
+H7c
+
+KMC mediates the relationship between ITR resource and competitive advantage.
+
+
+3.5. Control variables
+The control variables include organization age and size (i.e., quantities of full-time employees) and IS age (i.e., the number of years an organization has used an IS). Considering that old and large organizations have competed in the market for a relatively long time, these organizations have invested in resources and processes to gain competitive advantage. IS age is commonly used in research to control for the expected effects (Lu & Ramamurthy, 2011). Thus, IS age is included in the model as a control variable.]]>
+</section>
+
+    <section name="Research methodology" category="methods">
+        <![CDATA[
+4. Research methodology
+4.1. Construct measurement
+The measurement items for all constructs were adopted from existing studies where the instrument was carefully tested (Table 1). In line with previous studies, we used a seven-point Likert-type scale to measure the items. The scales for ITI resource, ITH resource, ITR resource, KMC, and resource commitment range from “strongly disagree” to “strongly agree.” For competitive advantage, the scale ranges from “unsatisfactory” to “satisfactory.” Each construct contained at least three items. Pretesting was also conducted among 11 business and IT managers to ensure the quality of the questionnaire. Small modifications were made.
+Table 1. Constructs and measures.
+Constructs	Item	Measurement	Reference
+IT infrastructure resource (ITI)	ITI1	The data management services and architectures in my organization are adequate.	Lu and Ramamurthy (2011), Ross et al. (1996); Weill, Subramani, and Broadbent (2002)
+ITI2	The network communication is sufficient with good connectivity, reliability, and availability.
+ITI3	The quality of IT application and services (e.g., ERP and ASP) can meet the organizational needs.
+ITI4	IT management services can coordinate the physical infrastructure and manage its relationship with business units effectively and efficiently.
+IT human resource (ITH)	ITH1	My organization has an adequate IT skill base.	Bhatt and Grover (2005), Ross et al. (1996); Zhang (2005)
+ITH2	My organization has skilled technical support staff.
+ITH3	The staff in my organization knows how to solve problems related to IT.
+ITH4	The IT groups are knowledgeable in business strategies for IT planning.
+ITH5	The staff in my organization can evaluate and control IT projects.
+IT relationship resource (ITR)	ITR1	My organization has technology-based links with customers.	Bhatt and Grover (2005), Chen et al. (2014); Ross et al. (1996)
+ITR2	My organization has technology-based links with suppliers.
+ITR3	We have a good line management sponsorship of IT initiatives.
+ITR4	My organization has a good relationship between line management and IT service providers.
+Resource commitment (RC)	RC1	My organization exerts considerable effort in improving information systems.	Lai et al. (2008)
+RC2	My organization exerts considerable effort in improving IT and its application to business operations.
+RC3	My organization exerts considerable effort in improving the IT skills of employees through training.
+Knowledge management capability (KMC)	KMC1	My organization has processes to gain knowledge on our suppliers, customers, and partners.	Gold et al. (2001), Pérez-López and Alegre (2012)
+KMC2	My organization can generate new knowledge from existing knowledge.
+KMC3	My organization has processes in place to distribute knowledge throughout the organization.
+KMC4	My organization holds periodic meetings to inform employees about the latest innovations.
+KMC5	My organization has formal processes to share the best practice among the different fields of activities.
+KMC6	In my organization, knowledge is accessible to those who need it.
+KMC7	My organization has processes for using knowledge to develop new products or services.
+Competitive advantage (CA)	Relative performance with respect to the competitors for the past three years	Bhatt and Grover (2005), Zhang (2005)
+CA1	Customer retention
+CA2	Sales growth
+CA3	Profitability
+CA4	Return on investment
+4.2. Data collection
+We selected 192 organizations from different industries in the central and western regions of China from a contact list in Wuhan Information Management Research Center to test our model and hypotheses. The Chinese government has exerted considerable efforts in the development campaign of the central and western regions for more than a decade. The development plan of central China has been in operation since 2004, whereas that of western China started in 2000. Although several organizations continued to have a low level of competence, most organizations in both regions have experienced rapid development. The results enable us to collect solid data from firms with both low and high levels of KMC and competitive advantage.
+
+In December 2012, we received 168 usable questionnaires from senior executives in these organizations with IT experience, 44 of whom were in charge of their IS departments. The respondents had an average of 5.13 years of work experience in their current positions. The senior executives were asked to provide information on the IT and knowledge practices of their organizations, including their activities. Our samples cover a wide range of industry sectors, including power, IT, finance, and manufacturing. Of our sample, 48.8% is composed of large companies with more than 1000 employees and 62.5% has been running their businesses for more than 10 years. Several firms also have subsidiary companies in the eastern region of China. Table 2 lists the characteristics of the research sample.
+Table 2. Sample profile.
+Characteristic	Range	Frequency	Percentage
+Industry sector	Power	19	11.3%
+Information technology	20	11.9%
+Public sector	15	8.9%
+Education	17	10.1%
+Finance	31	18.5%
+Manufacturing	52	31%
+Othersa	14	8.3%
+Total	168	100%
+Ownership	State-owned	77	45.8%
+Private	53	31.6%
+Joint venture	20	11.9%
+Foreign	18	10.7%
+Total	168	100%
+Organization age	<5 years	18	10.71%
+6–10 years	45	26.79%
+11–20 years	45	26.79%
+21–50 years	41	24.4%
+>50 years	19	11.31%
+Total	168	100%
+Organization size
+(Number of employees)	<50	12	7.1%
+50–100	10	6%
+101–200	23	13.7%
+201–500	22	13.1%
+501–1000	19	11.3%
+>1000	82	48.8%
+Total	168	100%
+a
+Other industries include agriculture, retail industry, and hotel/restaurant.
+
+We used various procedures with the assistance of the Wuhan Information Management Research Center to ensure an acceptable response rate of 87.5%. A wave test for non-response bias was conducted to determine the differences among key variables between late and early responses. Late respondents pertain to respondents who answered the second wave of questionnaires, which were mailed out one month after the initial survey. The t test on the means of ITI resource (p = 0.29), ITH resource (p = 0.57), ITR resource (p = 0.85), KMC (p = 0.18), resource commitment (p = 0.56), and competitive advantage (p = 0.69) showed no significant difference between late and early respondents. This finding indicates that our research is free from possible non-response bias.
+We conducted Harman’s single-factor test suggested by Podsakoff, MacKenzie, Lee, and Podsakoff (2003) to confirm the threat of common method bias. Results revealed that the maximal variance accounted for by a single factor is below 18%. Thus, common method bias is an insignificant threat in our sample.]]>
+</section>
+
+    <section name="Results" category="results">
+        <![CDATA[
+5. Results
+5.1. Measurement model
+The partial least squares (PLS) method maximizes the variance observed in the dependent variable and requires a relatively small sample size (Chin, 1998). Therefore, we selected PLS to test our research model. SmartPLS 2.0 was used for data analysis. Jarvis, MacKenzie, and Podsakoff (2003) note that constructs should be treated as reflective when (1) the direction of causality is obtained from the constructs to the indicators, (2) the indicators require interchangeability, (3) the indicators have covariation, or (4) the indicators’ nomological net cannot be different. Based on these criteria, all constructs were measured to be reflective and consistent with those in prior studies.
+The internal consistency and convergent validity of constructs were assessed. The results of exploratory factor analysis are presented in Appendix A. A six-factor structure was formulated with all predefined indicators. All indicators load high ( > 0.55) on their respective constructs but load low (<0.4) on other constructs. Appendix B presents the cross loadings. The minimum cross loading of all items is 0.792, which is higher than 0.707 (Chin, 1998; Liu, 2016). The maximal loading of the item to the other constructs is 0.66. The difference between the loadings of the item with its primary construct and those of the item to the other constructs are greater than 0.1 (Gefen & Straub, 2005). Appendix C shows the statistical description, correlations, and reliability. The Cronbach’s alpha and composite reliability of each construct are higher than 0.7 (Liu & Wang, 2016; Nunnally & Bernstein, 1994). The minimum average variance extracted (AVE) is 0.70, which is higher than 0.5 and the square root of AVE exceeds variable correlations (Hair, Anderson, Tatham, & William, 1998). These values provide reliable evidence of good discriminant validity and convergent validity of our study. Multicollinearity was also tested by calculating the variance inflation factors. These values are less than three, which show that multicollinearity does not exist. These results demonstrate good measurement properties of the model.
+5.2. Hypotheses testing
+Following the procedure proposed by Sharma, Durand, & Gur-Arie (1981), hierarchical regression analysis was performed for hypothesis testing. Several models were developed in PLS, starting with control variables to the primary and moderating effects. Models 1 and 2 were developed to evaluate the influences of the control variables and the three IT resources on KMC. Models 3 and 4 were developed to assess the extent of moderation of resource commitment. Model 3 evaluates the direct effect of resource commitment on KMC. Model 4 evaluates its interaction effects. Thus, Models 3 and 4 essentially capture the quasi-moderating effect of resource commitment. We followed the procedure to test the moderating effects recommended in previous studies (Keil, Rai, & Liu, 2013; Liu & Wang, 2014a; Liu, 2015a). We also developed Models 5–7 to evaluate the effects of the control variables, the three IT resources, and KMC on competitive advantage, respectively. Model 5 evaluates the effects of control variables on competitive advantage. In the regression equation, IT resources and KMC were added to Models 6 and 7. In the bootstrap analysis, the number of the real sample size was set as the size of the bootstrap sample. Table 3 lists the results of regression analysis, including the standardized path coefficients, variances explained by the independent variables (R2), incremental changes in R2 (ΔR2), goodness of fit (GoF), and effect sizes (f2).
+Table 3. Results of regression analysis.
+Knowledge management capability (KMC)	Competitive advantage
+M1	M2	M3	M4	M5	M6	M7
+Control variable							
+Organizational size	0.050	0.028	0.048	0.062	−0.035	−0.065	−0.074
+Organizational age	−0.045	0.034	−0.001	−0.022	0.039	0.087	0.072
+IS age	0.301**	−0.040	−0.017	−0.025	0.220*	0.032	0.046
+
+Independent variable							
+IT infrastructure (ITI) resource		0.161*	0.122*	0.088		0.180*	0.117
+IT human (ITH) resource		0.492**	0.423**	0.445**		0.297**	0.106
+IT relationship (ITR) resource		0.182**	0.128*	0.139*		0.006	−0.062
+KMC							0.388**
+Resource commitment			0.196**	0.193**			
+
+Interaction							
+Resource commitment × ITI resource				−0.061			
+Resource commitment × ITH resource				0.128*			
+Resource commitment × ITR resource				0.102*			
+
+R2	0.090	0.549	0.567	0.589	0.054	0.223	0.292
+ΔR2		0.459	0.018	0.022		0.169	0.069
+f2		0.504	0.040	0.051		0.179	0.089
+F		81.208**	6.386*	7.977**		28.762**	14.208**
+GoF		0.686	0.653	0.767		0.440	0.497
+*
+p < 0.05.
+**
+p < 0.01.
+In Model 1, IS age has a significant and positive effect on KMC (β = 0.301, p < 0.01), but organization age and size insignificantly affect KMC. Results show that organizations can easily build effective KMC and competitive advantage with an old IS department. In Model 2, all three types of IT resources have significant and positive effects on KMC (ITI resource β = 0.161, p < 0.05; ITH resource β = 0.492, p < 0.01; and ITR resource β = 0.182, p < 0.01). The explained variance in KMC is 0.549. Moreover, the value of GoF is 0.686, which is higher than the suggested threshold of 0.36 (Wetzels, Odekerken-Schroder, & Van Oppen, 2009). Therefore, H1, H2, and H3 are supported.
+Model 3 with direct effects included 56.7% explained variance. The direct effect of resource commitment on KMC is positive and significant (β = 0.196, p < 0.01). Thus, H4 is supported. In Model 4, the two interaction terms with positive and significant coefficients (with ITH resource β = 0.128, p < 0.05 and with ITR resource β = 0.102, p < 0.05) indicate significant effects on KMC. However, the effect of the interaction term between ITI resource and resource commitment (β = −0.061, p > 0.05) on KMC is insignificant. The GoF value of Models 3 and 4 in Table 3 is higher than 0.36, which shows an acceptable global fit of the PLS model. The F values of Models 3 and 4 indicate that changes in the explained variance of knowledge management are significant. Thus, H5b and H5c are supported, whereas H5a is unsupported.
+In Models 5–7, we further performed a regression analysis to test the mediating effect of KMC (Baron & Kenny, 1986). Model 5 indicates that IS age positively influences competitive advantage (β = 0.220, p < 0.05). In Model 6, ITI resource (β = 0.180, p < 0.05) and ITH resource (β = 0.297, p < 0.01) have positive and significant effects on competitive advantage, but the effect of ITR resource (β = 0.006, p > 0.05) is insignificant. However, in Model 7, the effects of ITI resource (β = 0.117, p > 0.05) and ITH resource (β = 0.106, p > 0.05) on competitive advantage are positive but insignificant, whereas the effect of KMC is positive and significant (β = 0.388, p < 0.01). Thus, KMC mediates the relationship among ITI resource, ITH resource, and competitive advantage. The values of GoF in Models 4 and 5 are also higher than 0.36. Thus, H6, H7a, and H7b are supported, but H7c is unsupported.
+Table 4 summarizes the results of hypothesis testing. H1, H2, H3, H4, H5b, H5c, H6, H7a, and H7b are supported and H5a and H7c are unsupported.
+Table 4. Results of hypothesis testing.
+Hypothesis	Results
+H1: IT infrastructure (ITI) resource → Knowledge management capability (KMC)	Supported
+H2: IT human (ITH) resource → KMC	Supported
+H3: IT relationship (ITR) resource → KMC	Supported
+H4: Resource commitment → KMC	Supported
+H5a: Resource commitment × ITI resource → KMC	Unsupported
+H5b: Resource commitment × ITH resource → KMC	Supported
+H5c: Resource commitment × ITR resource → KMC	Supported
+H6: KMC → Competitive advantage	Supported
+H7a: Mediating effect of KMC on the relationship between ITI resource and competitive advantage	Supported
+H7b: Mediating effect of KMC on the relationship between ITH resource and competitive advantage	Supported
+H7c: Mediating effect of KMC on the relationship between ITR resource and competitive advantage	Unsupported]]>
+</section>
+
+    <section name="Discussions and implications" category="discussion">
+        <![CDATA[
+6. Discussions and implications
+6.1. Theoretical implications
+This study investigates the antecedents and outcomes of KMC through an empirical study. A contingent resource view is applied to integrate technical and social–managerial perspectives in enhancing KMC in the IS discipline.]]><h target="1" match="part"> From a technical perspective, we specifically investigate how three IT resources could contribute to knowledge management.</h> <h target="2" match="part">In the social–managerial perspective, resource commitment is introduced as a quasi-moderator of the relationship between IT resources and KMC.</h><![CDATA[ Moreover,]]> <h target="3" match="part">we examine the mediating role of KMC in the relationship between different IT resources and competitive advantage.</h> <![CDATA[Several theoretical contributions can be concluded.]]>
+    <![CDATA[
+First, as organizations increasingly rely on IS to support and drive their knowledge practices, IS scholars are calling for intensive research to understand the role of IT in knowledge management (Joshi et al., 2010; Tanriverdi, 2005). Thus, our empirical investigation of the contingency of different types of IT resource-enabled KMC significantly enriches this part of the literature. Prior literature usually treats IT as an aggregate factor (such as IT capital) or as a holistic view of IT (such as a second-order IT relatedness) in the IT–knowledge management linkage. Each dimension of IT resource is distinguished, but they are correlated in certain aspects. An unbalanced view of IT resources may cause disharmony in the IT and knowledge management relationship (Mohamed et al., 2006). Our results show the positive and significant effects of different IT resources on KMC. This finding fills the gap in the IT–knowledge management linkage, which is highlighted by Tanriverdi (2005). Furthermore, this finding provides a positive empirical evidence for the contradictory IT–knowledge management relationship, thereby enriching RBV. The results show that IT resource is the basis of KMC. A common ITI is necessary, but insufficient for KMC (Tanriverdi, 2005). Other dimensions of IT resources, such as ITH and ITR, are also required.
+Second, our study responds to the debate on the relationship of IT and KMC by investigating the moderating role of resource commitment based on a contingent resource perspective. Moreover, we identified two positive and significant interactions between IT resources and KMC. Existing studies have suggested the examination of the moderating effects of internal and external factors in the relationship of IT with firm performance (Wade & Hulland, 2004). Continuous investment in IT resources is an organizational strategy, but only a few studies have investigated the commitment to IT resources and its moderating role on the relationship between IT and KMC. This result offers an explanation for the inconsistent findings on the implications of IT (Lu & Ramamurthy, 2011) and the relationship between IT and KMC. The positive moderating effect of resource commitment shows that the ITH and ITR resources perform well in high levels of resource commitment. However, a high level of resource commitment will not strengthen the relationship between ITI resource and KMC. This finding is consistent with that of Mohamed et al. (2006, p. 112), who note that “knowledge is human-driven and depends heavily on human relationships and community communication and interaction.” When organizations believe that IT resource investment on humans can produce a valuable output, the function of IT resources on KMC is strengthened.
+Our results also highlight that resource commitment has a direct and positive relationship with KMC. This finding implies that, except for the three IT resources, resource commitment can be a new antecedent for KMC. The allocation of IT resources for the processes of knowledge acquisition, transfer, and use is important. Given that resource commitment represents the level of IT behavior and shows the supportive attitude of an organization toward IT resources, this finding extends the knowledge management enablers in the social–managerial perspective (Lee & Choi, 2003).
+Third, the moderating effect of resource commitment on ITI resource and KMC is insignificant. The effect of ITI remains the same no matter how high or low the level of resource commitment is or no matter how much effort is spent on IT resources. This phenomenon may be attributed to the physical properties of ITI resource. Given that ITI “determines the business degree of freedom a firm enjoys in its business plan” (Keen, 1991, p. 184), ITI could restrict plans in knowledge processes (Chuang, 2004).
+Finally, the present study contributes to the IS literature by introducing KMC as a crucial factor in the relationships between different types of IT resources and competitive advantages. In particular, KMC mediates the effects of ITI and ITH resources on competitive advantage. No significant direct relationship is observed between ITR resource and competitive advantage. Organizations with high-quality ITI and ITH resources can manage their knowledge processes, which are a form of business process, to attain business value. This view is consistent with the IT–business value framework (Melville et al., 2004), which indicates that IT resources influence organizational performance via intermediate business processes. By integrating RBV and KBV, we explain how IT resources are combined with other resources and capabilities, such as KMC, to achieve competitive advantage (Wade & Hulland, 2004; Melville et al., 2004).
+In our case, the mediating effect of KMC on ITR resource and competitive advantage is insignificant because it fails to show a direct, significant, and positive relationship with competitive advantage. This dimension of IT resources indicates technology-based linkages between the organization and business partners, as well as the partnerships between IT groups and business units (Chen et al., 2014). Chatterjee and Ravichandran (2013) argue that the lack of ownership and control may result in an interorganizational system failure. Thus, technology-based linkages require formal processes (e.g., knowledge management processes) to generate competitive advantage effectively. Other organizational capabilities that can increase the ownership and control of technology-based linkages may transform ITR into a competitive resource. Likewise, this finding demonstrates the social complexity of the partnerships between IT groups and business units. Given that friendship and trust take years to develop (Bhatt & Grover, 2005), developing a competitive IT business relationship can be difficult for organizations. Therefore, other procedures to promote friendship and trust within IT business partnerships should be considered.
+6.2. Practical implications
+This study has several implications for business practice. First, our results demonstrate that resource commitment is an antecedent of knowledge management. Resource commitment can directly influence KMC in an organization. Increasing the level of resource commitment will enhance KMC. Shaping resource commitment is crucial to the ability of an organization to manage its knowledge effectively. Instead of direct investment on KMC, organizations can create appropriate conditions for its development. A high level of resource commitment represents the supportive attitude of an organization. Given this support, knowledge will flow more effectively throughout the organization, and the business units will be delighted to use tools to generate and share knowledge. Organizations should increase its understanding of IT business value to gain this support. Time and money should be spent not only on IT itself but also on training people who use it. In this manner, organizations can learn to allocate value resource to maximize benefits and develop sustainable commitment.
+
+Second, the amount of investments on IT resources should fit the commitment level of organizations in building KMC. ITH and ITR resources rely heavily on resource commitment to facilitate their effectiveness. The level of organizational IT behavior should be particularly considered in building KMC with IT resources, particularly those related to human activities. Given that knowledge is a human-driven resource (Mohamed et al., 2006; Liu & Wang, 2014b), KMC is further driven by humans and their communications. Organizations should focus on the IT skills of their employees and on the relationship between IT and business units to develop IT resources for KMC development. Significant and continuous IT investment frequently implies a good quality of KMC and competitive advantage. As organizations continue to focus on the development of their IT resources, they develop sustainable competitive advantage through the strength of KMC. Organizations should commit to invest in IS, employee IT skills training, and IT applications particularly because “IT has become more powerful, relatively cheaper, and has spread throughout organizations at a rapid rate” (Iyengar et al., 2015, p. 616).]]><![CDATA[
+
+Finally, ]]><h target="1" match="full">IT resources play a fundamental role in gaining KMC. </h> <h target="2" match="part">ITI, ITH, and ITR resources have positive and significant effects on KMC, which is positively related to competitive advantage.</h><h target="3" match="part">Organizations should invest in technical foundation, staff training, and relationship building in the IT area to enhance the value of IT resources and develop inimitable and appropriate resources for developing KMC.</h><![CDATA[ Moreover, the synergy of IT resource and KMC should be considered to attain efficient IT resources. The ITI and staff have to be implemented and trained, respectively, in accordance with knowledge processes. Employees involved in knowledge processes should share responsibilities with the IT staff and trust one another in the development of KMC.]]><h target="4" match="part"> Given that IS age has a positive and significant effect on KMC and competitive advantages, organizations should continue to use different types of IT resources in business operations to achieve a mature knowledge management process and a substitute competitive advantage.</h><![CDATA[
+
+</section>
+
+
+    <section name="Conclusions" category="conclusion">
+        <![CDATA[
+7. Conclusions
+This study offers theoretical contributions by integrating contingent resource perspective, RBV, and KBV by conducting an integrated analysis of knowledge enablers in the technical and social–managerial perspectives within the IS discipline. ]]><h target="2" match="part">In particular, resource commitment is observed to be a quasi-moderator of the IT resource–knowledge management relationship.</h><![CDATA[ This finding fills the gap in the IT–knowledge management linkage and offers an explanation for the contradictory findings in the literature. In particular, resource commitment acts as an antecedent of KMC and shows a positive and direct influence. Moreover, ]]><h target="3" match="part">resource commitment positively moderates the relationship between ITH and ITR resources, which highlights the importance of alignment between human-related IT resources and resource commitment.</h><h target="1" match="part">This study also applies a detailed investigation of the internal IT resource dimensions and determines that the three types of IT resources have positive and significant effects on KMC, which can lead to competitive advantage.</h> <h target="4" match="part">In particular, KMC can mediate the relationship among ITI resource, ITH resource, and competitive advantage.</h><![CDATA[
+ These findings enrich the studies on IT–knowledge management linkage literature.
+
+8. Limitations and directions for future research
+Our research has several limitations. First, the sample size of 168 organizations in our study is relatively small. A higher statistical power can be achieved with a larger sample size. Second, our findings are not based on a pairwise design. A paired survey where IT resources and KMC are evaluated by IT managers and competitive advantage is assessed by chief executive officers is required in future research. This approach can largely overcome social desirability concerns. Third, our research is limited to organizations in central and western China. We attempted several approaches to ensure the generalizability of the sample. However, whether the findings of this study can be generalized to other countries remains unknown because of existing differences in technical, social, and economic environments among countries. Future research can gather data from different countries and regions to test the research model.
+
+Our study offers a few directions for future research. First, the moderating effects of other factors, such as environmental factors and organizational climate, on the relationship between IT and KMC can be examined. For example, information intensity in the product and the supply chain may influence the effects of IT resources. Organizations in highly information-intensive environments require high-quality IT resources for building KMC. In addition, the organizational climate may create barriers to the development of IT-based knowledge systems. Thus, the fit between IT resources and information intensity or organizational climate should be examined. Second, other intermediate variables (e.g., agility and business process management) can be examined with respect to the relationship between IT resource and competitive advantage. Different organizations rely on different aspects of capabilities for their own competitive advantage. For example, retailers require additional customer relationship management and supply chain management capabilities for competitive advantage, whereas manufacturers may rely on agile manufacturing and business reengineering. In these situations, IT resources can support these processes and capabilities for organizations to compete in the market. Third, future research can focus on several particular IT resources and examine their links with KMC. IT for service provision or for cloud computing is an important strategic issue in contemporary organizations (Wang, Wang, & Liu, 2016; Wu, Rossetti, & Tepper, 2015). Investigations on IT resources in the specific context may assist organizations to become aware of the additional effect and value of IT. Fourth, complementary effects among the three IT resources can be explored. The collective effect of ITI, ITH, and ITR resources may be superior to the sum of their separate effects. Finally, the perspectives of different stakeholders (e.g., IT executives and general managers) on the linkage between IT resources and KMC are worth exploring (Liu, 2015b). IT executives and general managers may have different attitudes toward the value of IT resources, which can provide novel approaches to leverage IT resources for improving KMC.]]>
+</section>
+
+Acknowledgement
+This work was supported by the National Natural Science Foundation (NSFC) Programs of China [71471141 and 71271095].
+    <section name="Results of exploratory factor analysis;Item to construct loadings;Descriptive statistics, correlations and reliability." category="appendix">
+        <![CDATA[
+Appendix A. Results of exploratory factor analysis.
+Factor1	Factor2	Factor3	Factor4	Factor5	Factor6
+KMC1	0.737	0.169	0.172	0.238	0.248	0.084
+KMC2	0.801	0.207	0.208	0.136	0.127	0.090
+KMC3	0.773	0.238	0.243	0.190	0.127	−0.007
+KMC4	0.664	0.138	0.221	0.121	0.225	0.291
+KMC5	0.738	0.276	0.149	0.181	0.228	0.207
+KMC6	0.676	0.256	0.182	0.131	0.300	0.244
+KMC7	0.693	0.278	0.091	0.208	0.028	0.257
+ITH1	0.325	0.554	0.187	0.248	0.301	0.092
+ITH2	0.307	0.755	0.191	0.184	0.262	0.180
+ITH3	0.237	0.643	0.042	0.235	0.270	0.295
+ITH4	0.361	0.787	0.145	0.173	0.251	0.134
+ITH5	0.316	0.758	0.181	0.192	0.279	0.205
+CA1	0.281	0.072	0.733	0.148	0.108	0.256
+CA2	0.170	0.010	0.834	0.099	0.151	0.128
+CA3	0.198	0.147	0.875	0.009	0.136	0.065
+CA4	0.157	0.264	0.872	0.037	0.039	0.007
+ITR1	0.209	0.070	0.037	0.834	0.199	0.261
+ITR2	0.210	0.101	0.057	0.846	0.140	0.206
+ITR3	0.243	0.380	0.105	0.738	0.145	0.070
+ITR4	0.173	0.274	0.117	0.750	0.210	0.143
+ITI1	0.204	0.155	0.087	0.161	0.735	0.172
+ITI2	0.201	0.251	0.098	0.242	0.751	0.243
+ITI3	0.224	0.316	0.151	0.210	0.746	0.186
+ITI4	0.247	0.400	0.224	0.140	0.679	0.012
+RC1	0.211	0.360	0.204	0.226	0.111	0.704
+RC2	0.204	0.161	0.108	0.326	0.177	0.790
+RC3	0.267	0.146	0.164	0.167	0.295	0.743
+
+Note: (1)Factor 1: Knowledge management capability; Factor 2: IT human resource; Factor 3: Competitive advantage; Factor 4: IT relationship resource; Factor 5: IT infrastructure resource; Factor 6: Resource commitment.
+(2) Rotated factor solution was based on principal component analysis with varimax rotation.
+
+Appendix B. Item to construct loadings.
+ITI	ITH	ITR	KMC	RC	CA
+ITI1	0.792	0.523	0.413	0.468	0.441	0.283
+ITI2	0.881	0.630	0.519	0.527	0.557	0.322
+ITI3	0.912	0.659	0.513	0.558	0.539	0.370
+ITI4	0.859	0.665	0.445	0.552	0.423	0.409
+ITH1	0.596	0.799	0.504	0.598	0.469	0.394
+ITH2	0.652	0.902	0.527	0.644	0.550	0.426
+ITH3	0.597	0.826	0.523	0.558	0.555	0.291
+ITH4	0.655	0.922	0.521	0.669	0.532	0.393
+ITH5	0.666	0.936	0.535	0.654	0.576	0.430
+ITR1	0.478	0.456	0.899	0.475	0.541	0.227
+ITR2	0.434	0.459	0.897	0.467	0.504	0.232
+ITR3	0.516	0.608	0.880	0.535	0.479	0.292
+ITR4	0.509	0.563	0.860	0.480	0.510	0.290
+KMC1	0.532	0.591	0.493	0.830	0.469	0.415
+KMC2	0.468	0.575	0.416	0.849	0.477	0.435
+KMC3	0.472	0.577	0.451	0.839	0.421	0.456
+KMC4	0.519	0.541	0.431	0.805	0.537	0.448
+KMC5	0.567	0.655	0.510	0.886	0.533	0.425
+KMC6	0.591	0.651	0.471	0.850	0.538	0.453
+KMC7	0.423	0.581	0.479	0.803	0.488	0.358
+RC1	0.496	0.606	0.510	0.534	0.877	0.403
+RC2	0.482	0.512	0.564	0.505	0.920	0.314
+RC3	0.546	0.519	0.472	0.551	0.889	0.379
+CA1	0.387	0.416	0.346	0.521	0.457	0.847
+CA2	0.354	0.323	0.253	0.412	0.344	0.867
+CA3	0.364	0.389	0.217	0.447	0.342	0.908
+CA4	0.320	0.427	0.223	0.415	0.298	0.900
+
+Appendix C. Descriptive statistics, correlations and reliability.
+Mean.
+(Standard deviation)	Cronbach’s alpha	ITI	ITH	ITR	KMC	RC	CA
+ITI	5.31	0.88	AVE = 0.74					
+(0.95)		CR = 0.92					
+ITH	5.19	0.93	0.72**	AVE = 0.77				
+(1.04)			CR = 0.94				
+ITR	5.40	0.91	0.55**	0.59**	AVE = 0.78			
+(1.00)				CR = 0.93			
+KMC	5.35	0.93	0.61**	0.71**	0.56**	AVE = 0.70		
+(0.84)					CR = 0.94		
+RC	5.54	0.88	0.57**	0.61**	0.57**	0.59**	AVE = 0.80	
+(0.91)						CR = 0.92	
+CA	4.98	0.90	0.40**	0.44**	0.30**	0.51**	0.41**	AVE = 0.78
+(0.98)							CR = 0.93
+
+Two-tailed tests were performed.
+
+*p < 0.05.
+**p < 0.01.]]>
+</section>
+
+</publication>

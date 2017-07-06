@@ -1,0 +1,852 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bibliographies>
+<BibliographiesCount>50</BibliographiesCount>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[美国政府社交媒体保管政策分析及其启示]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[周文泓;]]></FullName>
+<Organization><![CDATA[中国人民大学信息资源管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[美国;社交媒体;政策]]></Keyword>
+<Keyword Lang="en"><![CDATA[USA;social media;policy]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[社交媒体已经成为美国的联邦政府与州政府履行职能和开展业务的重要工具,由此形成了大量具有证据和历史价值的记录,有着归档保管的需求。美国文件与档案署(NARA)和各州的档案、图书馆、信息技术等部门制定了社交媒体保管的政策,以指导政府机构的社交媒体保管工作。文章对这些政策做了简要梳理,并对代表性的政策进行具体介绍。依据对这些政策分析,对我国的社交媒体保管政策提出开放应对新技术、关注政策的价值、开展实践调研以及循序渐进制定政策的启示性建议。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[134-139]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于用户的改进的协同过滤推荐算法]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[陈海涛;宋姗姗;李同强;]]></FullName>
+<Organization><![CDATA[吉林大学管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[协同过滤;用户兴趣;动态兴趣]]></Keyword>
+<Keyword Lang="en"><![CDATA[collaborative filtering;user interest;dynamic interest]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[现有的基于用户的协同过滤推荐算法使用用户—项目评分矩阵计算用户的评分相似性作为用户的相似度,存在矩阵稀疏的问题,而且不能对用户的兴趣进行动态衡量。由此提出一种改进的基于用户的协同过滤推荐算法,通过历史数据计算用户对各类项目的购买数量比例矩阵,衡量用户对各类项目的兴趣;根据用户购买项目的时间的先后衡量用户兴趣的动态变化。融合以上两点得出用户兴趣相似性作为用户相似性的权重,改进的用户相似性计算方法避免了用户—项目评分矩阵的稀疏性和不能动态衡量用户兴趣变化的问题。采用Movie Lens数据集进行实验,结果表明该算法提高了推荐结果的准确性并且具有稳定性。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[100-103+133]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[产品分类本体构建的语义分析]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[郑建国;黄奇;]]></FullName>
+<Organization><![CDATA[南京大学工程管理学院;南京大学国家信息资源管理南京研究基地;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[产品分类;体系结构;本体构建;语义分析]]></Keyword>
+<Keyword Lang="en"><![CDATA[product classification;architecture;ontology architecture;semantic analysis]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[在充分理解产品分类意义的基础上,指出了产品分类存在的五大问题,描述了产品分类的体系结构。针对这五大问题提出了产品分类本体构建语义分析模型,对每一要素进行了分析,重点突出了概念划分、类的处理、属性处理和语义细化,阐述了语义关系之间细微的语义差异。通过对产品分类进行语义分析,构建产品分类本体。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[104-109]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[我国信息资源开发利用指数的设计与测度]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[冯惠玲;张斌;朝乐门;]]></FullName>
+<Organization><![CDATA[数据工程与知识工程教育部重点实验室(中国人民大学);中国人民大学信息资源管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[信息资源;信息资源开发利用指数;比较分析;模型]]></Keyword>
+<Keyword Lang="en"><![CDATA[information resources;iRUC index;comparative analysis;model]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[以信息资源开发利用为研究对象,从模型设计、数据处理、结果分析3个层面,深入分析了信息资源开发利用指数(iRUC)设计所遵循的设计原则、理论框架、变量选择、权重设计和有效性分析的方法,探讨了数据获取、标准化处理、数据估算、结果值的预测、结果值的回溯和结果分析方法。在此基础上,结合2009—2012年度统计数据的测度结果,分析我国信息资源开发利用工作的发展特点,并提出了对策建议。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[32-37]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[研究数据管理生命周期模型及在服务评估中的应用]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[李伟绵;崔宇红;]]></FullName>
+<Organization><![CDATA[北京理工大学图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[研究数据;数据管理;生命周期;成熟度模型;服务评估]]></Keyword>
+<Keyword Lang="en"><![CDATA[research data;data management;lifecycle;maturity model;service evaluation]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[在e-Science时代,研究数据管理日益成为当前国内外研究热点,对研究数据在其整个生命周期内进行管理能够充分发挥研究数据的价值。文章在总结和梳理研究数据管理的生命周期模型的基础上,结合研究数据管理流程,重点介绍了软件工程的能力成熟度模型在研究数据管理的构建及在知识库服务评估的应用,为e-Science环境下研究数据管理实施提供借鉴。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[38-41]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于LDA模型的科研合作推荐研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[刘萍;郑凯伦;邹德安;]]></FullName>
+<Organization><![CDATA[武汉大学信息管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[09]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[科研合作;社会网络;科研社区;兴趣模型;相似度]]></Keyword>
+<Keyword Lang="en"><![CDATA[S&T collaboration;social network;research-oriented community;interest model;similarity]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[为了更准确更合理地进行科研合作推荐,文章运用社会网络理论,在社区划分的基础上,构建基于LDA的作者兴趣模型,然后对作者的相关文献进行分析,实现科研合作推荐的目的。实验证明,该方法能够有效地进行科研合作的推荐。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[79-85]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[数据引用的共同原则]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[宋宇;真溱;汤珊红;]]></FullName>
+<Organization><![CDATA[中国国防科技信息中心;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[08]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[共同原则;科学技术协会;学术出版;研究成果;科研成本;Bulletin;互操作性;学术研究;国防科技信息;学术活动;]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[<正>M.Latman 2015年2月在《美国信息科学技术协会通讯》上发表《数据引用共同原则》一文,介绍了数据引用的作用、共同原则以及这些原则的普及情况。数据引用是可以支持数据访问、共享和再利用的一种重要方法。降低科学数据发现和利用的壁垒,增强数据与出版物的链接将有利于学术出版形式的创新,同时可以促进跨学科研究,降低科研成本,扩展先前的研究成果。出于这些原因,《科学》规定学术文章中涉及的所有数据必须对读者开放,引用未公布的数据不能用来作为学术文章的论据。然而,]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[145]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于网络三元组的知识流动模型研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[张江甫;顾新;]]></FullName>
+<Organization><![CDATA[四川大学商学院;绵阳师范学院法学与社会学院;四川大学创新与创业管理研究所;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[08]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[网络距离;知识流动;网络三元组;结构洞;知识模型]]></Keyword>
+<Keyword Lang="en"><![CDATA[network distance;knowledge flow;network triples;structural holes;knowledge model]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[文章针对网络距离障碍知识流动的问题,构建了网络三元组的知识流动模型,分析了紧密有向三元组和结构洞有向三元组模型中的知识流动结构及其属性,并以克拉克哈特社会网络风筝图为例,进一步阐释了网络三元组知识流动的动态过程。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[120-123+140]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于认知失调的网络信息生态系统结构模型研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[杨雪;陈为东;马捷;]]></FullName>
+<Organization><![CDATA[吉林大学高等教育研究所;吉林大学管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[08]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[认知失调;网络信息生态系统;优化模型;技术支持]]></Keyword>
+<Keyword Lang="en"><![CDATA[cognitive dissonance;network information ecosystem;optimization model;technical support]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[文章在梳理了信息人认知失调的心理过程并结合网络信息生态系统构成要素的基础上,描绘了认知失调对网络信息生态系统的影响,揭示出认知失调造成网络信息生态系统失衡、运行不畅、阻滞、崩溃等不良现象;并以认知失调理论为指导,提出减少认知失调对网络信息生态系统影响的策略;构建了以相应技术支持减少认知失调的网络信息生态系统优化模型。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[50-55]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[政府信息公开背景下的个人信息保护策略研究——基于美国图书馆成功模式]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[赵蓉英;胡丹丹;]]></FullName>
+<Organization><![CDATA[武汉大学信息资源研究中心;武汉大学中国科学评价研究中心;武汉大学信息管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[08]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[政府信息公开;个人信息;信息保护]]></Keyword>
+<Keyword Lang="en"><![CDATA[government information disclosure;personal information;information protection]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[政府信息公开中的个人信息保护问题日益成为政府、人民关注的热点。文章重点分析了美国图书馆个人信息保护这一成功案例,深度剖析了其在模式、制度以及技术层面的相关措施和经验,希望对我国政府信息公开中的个人信息保护提供一定指导和借鉴。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[16-20]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[日本高等教育信息素养标准及启示]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[梁正华;张国臣;]]></FullName>
+<Organization><![CDATA[北京工商大学图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[08]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[日本;信息素养教育;信息素养标准;高等教育;信息检索课]]></Keyword>
+<Keyword Lang="en"><![CDATA[Japan;information literacy education;information literacy standards;higher education;information retrieval course]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[近期,日本国立大学图书馆协会和教育学习支援检讨特别委员会联合公布了日本《高等教育信息素养标准》,该标准是目前亚洲国家较为系统和权威的信息素养标准。文章对日本信息素养教育的发展状况以及该标准的内容作了详细的介绍,并在此基础上提出了对我国高校信息素养教育的启示,以期为我国信息素养教育和相关标准的研究提供参考和借鉴。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[141-144]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于细粒度语义化描述的医学文本检索]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[郭少友;李亚菲;梁园园;]]></FullName>
+<Organization><![CDATA[郑州大学信息管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[08]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[细粒度语义描述;文本检索;医学信息资源]]></Keyword>
+<Keyword Lang="en"><![CDATA[fine-grained semantic description;text searching;medical information resources]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[在检索过程中充分利用医学文本中的语义信息有助于提高检索性能。文章在分析现有相关工作的基础上,提出了一种基于细粒度语义化描述的医学文本检索算法:首先从文本中抽取概念和语义命题,生成文本的细粒度语义化描述;其次对查询请求进行同样的处理,并在此基础上计算二者之间的相似度;最后通过实验对上述算法进行了验证。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[130-134]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于双向信息发掘的电子图书馆优化系统研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[王征;王林森;谭龙江;]]></FullName>
+<Organization><![CDATA[西南财经大学经济信息工程学院&中国西部经济研究中心;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[08]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[电子图书馆;信息发掘;信息融合;网站优化]]></Keyword>
+<Keyword Lang="en"><![CDATA[electronic library;information mining;information fusion;website optimization]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[文章研究并提出了基于双向信息发掘的电子图书馆网站优化系统。该系统对所在电子图书馆网站的页面及后台数据库进行深入挖掘,以发现与当前外部热点匹配程度较高的信息,并根据反向搜索获取的热点信息与站内监测数据来预测网络读者的需求和未来热点,以这两类信息为依据,通过灰色关联匹配等算法,实施网站优化。实验结果证明,该系统对外能够提高电子图书馆的点击率和搜索引擎排名,对内能够有效利用电子图书馆既有的信息资源,提升自动网页生成的效果。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[110-114]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[信息生态视角下移动网络隐私问题及防治措施]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[谢刚;冯缨;田红云;李文鹣;]]></FullName>
+<Organization><![CDATA[江苏大学管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[08]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[信息生态;隐私权;移动互联网;防治措施]]></Keyword>
+<Keyword Lang="en"><![CDATA[information ecology;privacy right;mobile internet;prevention and control measure]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[移动互联网环境下用户隐私保护成为移动信息生态持续平衡发展亟待解决的难题。文章首先阐述移动信息生态系统的概念、构成以及要素间相互关系,其次从信息生态视角分析移动隐私侵犯的原因,最后基于移动信息生态系统框架提出移动互联网用户隐私侵犯问题的防治措施。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[21-26]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[网民沉默因素的元胞自动机舆情演化建模及仿真]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[宋姜;吴鹏;甘利人;]]></FullName>
+<Organization><![CDATA[南京理工大学经济管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[08]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[网络舆情;舆情演化;演化模型;元胞自动机]]></Keyword>
+<Keyword Lang="en"><![CDATA[online public opinion;public opinion evolution;evolution model;cellular automata]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[通过理论分析和仿真的方法,探析网络舆情中个体网民的沉默现象对整个网络舆情演化的影响。基于元胞自动机原理,提出网民在舆情演化中的沉默与发声规则,构建包含网民沉默因素的元胞自动机舆情演化模型,重点仿真研究了网民不同观点的比例和沉默阈值对舆情的影响。研究发现,部分网民的沉默会导致观测到的舆情扭曲实际的舆情:初始占据优势地位的观点在演化中优势被夸大,而处于劣势观点的网民大量保持沉默;个体网民沉默阈值越大,最终沉默的网民比例越小。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[124-129]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[网络媒体信息质量控制的博弈研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[冯缨;周婷惠;]]></FullName>
+<Organization><![CDATA[江苏大学管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[08]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[网络媒体;信息质量控制;演化博弈]]></Keyword>
+<Keyword Lang="en"><![CDATA[network media;information quality control;evolutionary game]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[为研究网络媒体和政府管理部门信息质量控制行为的交互影响,文章借助演化博弈理论,从信息经济学角度,构建了网络媒体与政府管理部门的群体演化模型。通过交互过程的演化模型分析,揭示网络媒体和政府群体的策略选择对系统的影响,研究发现:网络媒体信息质量控制的实现有赖于以政府为主导的,与网络媒体相互协调、合作的调控机制。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[37-42]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[加强动态信息工作的几点设想]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[黄锋;肖安琪;]]></FullName>
+<Organization><![CDATA[工业和信息化部电子科学技术情报研究所;技术基础管理中心;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[08]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[动态信息;科技信息工作;情报研究]]></Keyword>
+<Keyword Lang="en"><![CDATA[dynamic information;scientific and technical information service;intelligence research]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[文章首先基于动态信息变化情况分析动态情报工作的历史演变,从动态跟踪、动态分析、动态情报服务3个方面总结动态情报工作的特点;然后研究了动态情报工作的发展现状,包括主要成绩和存在问题;最后从体系建设、基础环境建设、研究方法改进、服务模式创新、人才队伍建设5个方面提出强化动态工作的设想。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[1-4]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[面向科研的嵌入式知识服务系统动力学研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[李立睿;邓仲华;]]></FullName>
+<Organization><![CDATA[武汉大学信息管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[08]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[嵌入式服务;知识服务;系统动力学;科学研究]]></Keyword>
+<Keyword Lang="en"><![CDATA[embedded service;knowledge service;system dynamics;scientific research]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[文章分析了科研项目导向下嵌入式知识服务要素及其关系,在此基础上,构建了支持科学研究的嵌入式知识服务系统动力学模型,并对模型模拟结果进行了分析,从而获得了影响面向科研的嵌入式知识服务效果的关键因素及其影响方式,据此揭示了面向科研的嵌入式知识服务能力提升的途径,以期为嵌入式知识服务质量的优化提供依据。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[43-49]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[期刊论文“引用时滞”现象初探——以《科研管理》期刊为例]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[王元地;胡锐峰;胡谍;]]></FullName>
+<Organization><![CDATA[四川大学商学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[08]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[引文分析;引用时滞;论文质量;被引频次]]></Keyword>
+<Keyword Lang="en"><![CDATA[citation analysis;citing time lag;quality of paper;citation frequency]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[文章用引用时滞来表示引文新旧,并定义论文发表时间与其引文发表时间之差为引用时滞,且以《科研管理》(2003—2012)为例进行初步的探索性分析,主要考察引用时滞的分布规律及其是否对论文质量产生影响。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[56-60+4]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[情报视角下的突发事件应急决策研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[李纲;李阳;]]></FullName>
+<Organization><![CDATA[武汉大学信息资源研究中心;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[08]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[突发事件;应急决策;情报;情报体系]]></Keyword>
+<Keyword Lang="en"><![CDATA[emergency;emergency decision-making;intelligence;intelligence system]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[从情报视角研究突发事件应急决策具有重要意义。情报需求和情报效用是应急决策的动力、价值体现以及进行相关研究的基础。文章探讨了情报视角下突发事件应急决策研究目前存在的问题,指出其难点在于知识表示、知识推理和情报分析。描述了情报学对突发事件应急决策的场力作用,认为构建快速响应的突发事件应急决策情报体系有助于决策主体进行科学决策。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[61-65+26]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[中小企业竞争情报服务体系评价]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[彭玉芳;郑荣;]]></FullName>
+<Organization><![CDATA[南京大学信息管理学院;吉林大学管理学院;吉林大学信息资源研究中心;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[08]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[中小企业;竞争情报服务体系;评价模型;评价指标]]></Keyword>
+<Keyword Lang="en"><![CDATA[small and medium-sized enterprise;competitive intelligence service system;evaluation model;evaluation indicator]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[文章在中小企业竞争情报服务体系构建的基础上,构建中小企业竞争情报服务体系评价,旨在提高中小企业竞争情报能力。首先阐述了中小企业竞争情报服务体系评价的原则,并运用文献研究法、系统论方法及科学抽象法,构建了中小企业竞争情报服务体系评价模型,最后描述了中小企业竞争情报服务体系评价指标。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[66-70+20]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[信息搜寻过程中的情感因素影响研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[刘利华;]]></FullName>
+<Organization><![CDATA[西南科技大学经济管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[08]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[网络信息搜寻行为;情感因素;评估理论]]></Keyword>
+<Keyword Lang="en"><![CDATA[web information search behavior;emotional factor;appraisal theory]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[通过对以往的信息搜寻过程中情感因素研究的分析,提出了基于评估理论的信息搜寻行为情感因素影响机制的研究框架,并从开启、扩展、限制、终止和规避信息搜寻这5种方式具体阐述了情感因素具体是如何发挥其影响作用的。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[71-74]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于协调理论的应急情报部门跨组织工作流程研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[杨巧云;姚乐野;]]></FullName>
+<Organization><![CDATA[四川大学公共管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[08]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[协调理论;应急情报;工作流程;依赖关系]]></Keyword>
+<Keyword Lang="en"><![CDATA[coordination theory;emergency information;workflow;dependency relationship]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[文章在协调理论的基础上,对应急情报工作流程中的活动过程及其依赖关系进行描述,构建应急情报部门协同工作流程概念模型,最终提出了应急跨组织协作的集成框架,以期提高应急情报决策的高效性和科学性。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[75-78+84]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[Web 3.0环境下供应链客户信息体验价值创造及信息竞争优势构建]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[蒋宁;汪卫霞;]]></FullName>
+<Organization><![CDATA[安徽财经大学工商管理学院;安徽财经大学管理科学与工程学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[08]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[供应链;客户信息体验;价值创造;信息竞争优势]]></Keyword>
+<Keyword Lang="en"><![CDATA[supply chain;customer information experience;value creation;information competition advantage]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[Web 3.0环境下供应链运营管理中的客户信息需求不断增长。客户信息体验及其价值创造对于供应链信息竞争优势构建的促进作用显著,更好地满足供应链信息化运营中的客户信息诉求,成为供应链信息化建设的重要推动力。结合Web 3.0发展与供应链信息服务的特征分析,阐述Web 3.0环境对于供应链客户信息体验的要求,探讨Web3.0中供应链客户信息体验价值创造的来源,提出基于客户信息体验价值满足的供应链信息竞争优势构建途径,从而实现更好的供应链客户信息体验价值创造,获得较强的信息竞争优势。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[79-84]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[新兴技术的扫描监测——美国“科学论述的预测解读”项目综述]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[胡开博;陈丽萍;]]></FullName>
+<Organization><![CDATA[工业和信息化部电子科学技术情报研究所;中国农业大学;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[08]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[新兴技术;技术体系;自然语言处理;提名质量]]></Keyword>
+<Keyword Lang="en"><![CDATA[emerging technology;technical system;natural language processing;nomination quality]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[近年来,科技信息尤其是科技论文和专利的数量呈现爆发增长,利用计算机技术开展科技文献分析、预测新兴技术的需求越来越迫切。文章围绕美国情报机构开展的科学论述的预测解读项目,介绍了其发展背景、研究目标,系统分析了扫描监测新兴技术的技术体系,最后归纳总结了该项目的创新之处及未来前景。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[85-90]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于会话合作原则的知识组织方法及其实证研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[李千驹;宋培彦;]]></FullName>
+<Organization><![CDATA[北京邮电大学民族教育学院;中国科学技术信息研究所;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[08]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[知识组织;会话结构;用户交互;模型]]></Keyword>
+<Keyword Lang="en"><![CDATA[knowledge organization;conversational structure;user interaction;model]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[研究人机交互过程中的会话原则有助于提高知识组织的有效性和易用性。以语言会话的合作原则为理论基础,研究了知识组织的用户交互策略和准则,构建了用户自然语言向叙词表受控语言的映射模型,提出了用户自然语言向叙词表映射的6条处理规则,最后,以用户检索日志为语料开展实证研究,在会话合作原则指导下探讨了知识组织的优化方法。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[91-94+99]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于海量数字资源的科研关系揭示方法研究述评]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[杨瑞仙;林进祯;]]></FullName>
+<Organization><![CDATA[郑州大学信息管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[08]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[科研关系;语义关联;聚类分析;述评]]></Keyword>
+<Keyword Lang="en"><![CDATA[scientific research relationship;semantic association;cluster analysis;review]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[为了更深层次地全面揭示科研实体关系,文章系统梳理和分析了国内外数字资源科研关系揭示方法,即引文分析、共现分析、聚类分析、语义和本体、关联数据这5种方法,并对现有的研究方法进行了述评,提出未来应从科研关系揭示原则、科研实体识别与抽取、揭示方法的完善和揭示工具的辅助、深层次科研关系揭示几个方面开展相关研究。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[95-99]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于知识协同的嵌入式服务模型的构建]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[于曦;]]></FullName>
+<Organization><![CDATA[天津师范大学图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[08]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[知识协同;嵌入式服务;学科服务;高校图书馆]]></Keyword>
+<Keyword Lang="en"><![CDATA[knowledge collaboration;embedded service;subject service;university library]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[嵌入式服务是一种新型的学科服务模式,要求馆员主动融入用户的信息环境,随时解决用户遇到的各种问题,满足用户在学习、教学和科研过程中的各种需求。文章分析了嵌入式服务开展的影响因素,阐释了知识协同理论与嵌入式服务的关系以及应用在嵌入式服务中的意义,构建了基于知识协同的嵌入式服务模型,对模型中各相关要素进行了分析,以期提高嵌入式服务的质量。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[100-105]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[国防科技情报用户需求调查与分析]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[姜晓菊;肖莹;张晔;]]></FullName>
+<Organization><![CDATA[北方科技信息研究所;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[08]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[国防科技情报;用户需求;信息服务]]></Keyword>
+<Keyword Lang="en"><![CDATA[DSTI;user demand;information service]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[对国防科技情报用户在使用情报信息的目的、参考信息类型与范围、倾向的信息呈现方式、情报信息获取障碍以及期望的信息服务方面进行问卷调查,在对调查结果进行统计分析的基础上,提出情报机构应加强动态跟踪基础工作,加强国内情况的掌握,强化情报成果尤其是情报报告的推介,加强用户交流与培训,进一步拓宽情报研究的范围。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[106-109+105]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于用户体验的数字图书馆用户交互模型构建]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[徐芳;金小璞;]]></FullName>
+<Organization><![CDATA[苏州大学社会学院;南京大学信息管理学院;西交利物浦大学图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[08]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[数字图书馆;用户交互;用户体验]]></Keyword>
+<Keyword Lang="en"><![CDATA[digital library;user interaction;user experience]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[首先分析数字图书馆用户交互的概念等基本问题;然后通过分析交互式信息检索的3个经典模型,将数字图书馆用户交互分为:用户与数字图书馆系统的交互、用户与用户的交互以及用户与环境的交互3种,构建基于用户体验的数字图书馆用户交互模型;最后,提出模型应用需要注意的问题:设计用户交互体验评价指标、注意用户交互类型的交叉特征、用户与用户的交互需要注意保护个人隐私、提供分类用户入口以及让系统从礼貌到体贴等。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[115-119+134]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[知识关联研究述评]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[高继平;丁堃;潘云涛;袁军鹏;]]></FullName>
+<Organization><![CDATA[中国科学技术信息研究所;大连理工大学WISE LAB;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[08]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[知识元;知识关联;知识网络;知识计量;计量指标;述评]]></Keyword>
+<Keyword Lang="en"><![CDATA[knowledge unit;knowledge interaction;knowledge network;knowledge measuring;calculation index;review]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[文章从知识元间内在的联系对知识关联进行了分类介绍,并从知识关联的方向出发将知识关联划分为无向知识关联、有向知识关联和双向知识关联。之后,对当前主要的知识关联计量指标进行了介绍,并探讨了知识关联在图书情报学、计算机和科技管理等领域的应用。最后结合10项国家级基金对知识关联研究的资助,认为知识关联的研究不仅要挖掘潜在的隐藏的知识关联,更要突破常规认识,发现普遍认识中不同的知识关联,这样才能使人类的知识进一步增殖。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[135-140]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[公开源情报理论模型构建]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[董尹;蒋立琦;]]></FullName>
+<Organization><![CDATA[合肥学院管理系;对外经济贸易大学保险学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[08]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[公开源情报;案例研究;扎根理论;理论模型]]></Keyword>
+<Keyword Lang="en"><![CDATA[open source intelligence;case study;grounded theory;theory model]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[文章在扎根理论思想指导下,运用案例研究方法,以英、美等发达国家的情报、安全、执法、商业诸领域的政府和私营机构为分析单位,以规范的定性研究程序进行数据处理和模型构建。整个过程分为3个阶段:原型构建、模型精炼和模型验证与确立。最终,得出以7个核心范畴为支撑的公开源情报理论模型:效用、情境信息、沟通协作、分析、聚焦、应变能力、交叉检验。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[27-32]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[情报学视角下的守门人角色及技术情报能力建设]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[彭靖里;可星;李建平;]]></FullName>
+<Organization><![CDATA[云南省科学技术情报研究所;昆明理工大学管理与经济学院;卡尔国际信息科学与竞争政策研究所;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[08]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[情报学;技术守门人;技术竞争情报;能力建设]]></Keyword>
+<Keyword Lang="en"><![CDATA[information science;technological gate keepers;competitive technical intelligence;capacity building]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[在对传统守门人内涵与功能拓展状况的总结基础上,从情报学的视角定义了技术守门人的概念,并就技术守门人在技术创新和发展中对企业外部信息/知识的感知与理解、广泛搜集、识别与评价、吸收与定向传递等能力进行阐述,认为技术守门人机制的建设和完善能够有效推动企业技术情报能力由小到大的迅速成长,而且针对我国企业发展实际提出了如何推进技术竞争情报能力形成和不断提升的5项具体措施。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[11-15]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[我国国家安全情报体系构建及运作]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[张家年;马费成;]]></FullName>
+<Organization><![CDATA[武汉大学信息资源研究中心;淮北师范大学教育学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[08]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[国家安全情报;情报体系;运作机制;情报教育]]></Keyword>
+<Keyword Lang="en"><![CDATA[national security intelligence;intelligence system;operating mechanism;information education]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[习近平总书记提出的总体国家安全观为我国国家安全构建一个整体性的建设框架。国家安全,情报先行,因此,统一、高效的国家安全情报体系的建立显得尤为必要。首先,结合总体国家安全观的理念,提出了国家安全情报概念。其次,根据国家安全情报类别与对应政府机构的关系,构建了国家安全情报的组织结构模型。再次,依据总体国家安全观的辩证思想,揭示国家安全情报运作流程、情报立法和监督的机制。最后,提出国家安全情报还应重视国家安全情报教育与培训、国家安全情报素养教育和智库群建设等方面的内容。总之,本文为我国国家安全情报体系实际构建和运作提供初步参考。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[5-10]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[我国企业知识管理及研究的困境和出路——基于全国大中小型企业300份样本调查结果的分析]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[刘良灿;王华;张同建;]]></FullName>
+<Organization><![CDATA[贵州财经大学工商管理学院;江苏大学管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[08]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[企业;知识管理;知识资本;理论研究;实践]]></Keyword>
+<Keyword Lang="en"><![CDATA[enterprise;knowledge management;knowledge capital;theoretical study;practice]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[知识管理是现代管理学的一个重要研究方向,在西方企业得到广泛的应用。知识管理的研究在我国取得了很大的进展,积累了大量的研究成果。然而,我国企业知识管理的实施基本处于空白状态,现有的研究存在着严重的价值缺失,未能发挥预期的作用。知识管理理论与实践相分离的状态明显阻碍知识管理研究的进程,使知识管理研究迷失了方向。对知识管理的研究应专注于企业的应用,而不是寻求空洞式的理论说教和虚无式的公式游戏。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[33-36]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[科学图谱简介:过去、现在和未来]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[宋宇;真溱;汤珊红;]]></FullName>
+<Organization><![CDATA[中国国防科技信息中心;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[07]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[印第安纳大学;信息科学与技术;研究机构;可视化处理;数据可视化;色彩模式;可视化平台;http;数据挖掘;物理学发展;]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[<正>《美国信息科学与技术协会通讯》2014年×××期上刊登了印第安纳大学情报学教授Katy B·rner和Todd N.Theriault、Kevin W.Boyack撰写的一篇文章,首先介绍了第十届科学图谱展览会的状况,然后阐述了当前科学图谱是如何使用的,最后指出科学图谱面临的机遇和挑战。一、关于科学图谱展览会该展览会开办于2005年,旨在向广大市民和不同学科领域的专家介绍科学图谱技术。最初展览了由12家研究机构]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[145]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[引用与合作关联关系研究概述]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[左丽华;]]></FullName>
+<Organization><![CDATA[浙江工业大学图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[07]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[引用;合作;学科领域;科研人员]]></Keyword>
+<Keyword Lang="en"><![CDATA[citation;collaboration;disciplinary area;scientific research personnel]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[文章全面总结近些年国内外学者对引用和合作关联关系的相关研究,分析现有研究成果。通过系统梳理国内外引用和合作关系的研究现状与研究结果,发现目前研究存在的不足之处:1现有的研究虽然从多个角度研究引用和合作关联关系,但有的研究角度探讨较少,不能全面评价两者之间关系;2国内对引用和合作之间规律研究的论文相对较少且方法单一。最后,对引用和合作关联关系的后续研究提出相关建议。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[44-47+58]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[图书馆大数据功能实现的障碍与对策研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[王玉林;曾咏梅;]]></FullName>
+<Organization><![CDATA[安徽科技学院图书馆;四川农业大学图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[07]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[图书馆;大数据;隐私保护;信息安全]]></Keyword>
+<Keyword Lang="en"><![CDATA[library;big data;privacy protection;information security]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[图书馆大数据具有读者行为识别与串联、图书馆运行状态描述、读者信息与服务需求预判等功能。图书馆大数据功能实现受到数据完整程度、技术条件和读者隐私保护状态等制约。文章在分析图书馆大数据的功能基础上,讨论图书馆大数据功能实现的基础和存在的障碍,并对大数据功能实现过程中障碍清除给出建议。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[48-51+71]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[文献引文轨迹:分类及测度]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[杜建;武夷山;]]></FullName>
+<Organization><![CDATA[南京大学信息管理学院;中国医学科学院医学信息研究所;中国科学技术信息研究所;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[07]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[引文轨迹;零被引;低被引论文;类型;识别方法]]></Keyword>
+<Keyword Lang="en"><![CDATA[citation trajectory;uncitedness;low cited thesis;type;identification method]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[文章就文献引文轨迹的类型及识别方法进行综述,分析曲线拟合和四分位数分布统计等不同方法的优缺点,梳理睡美人文献的基本理论及其测度方法,分析将Faculty of 1000作为挖掘低被引文献潜在价值数据源的可行性。最后总结目前存在问题,提出有效地识别不同特征的引文轨迹,定量描述睡美人文献,分析有潜在价值的零被引、低被引文献的特征以及探索睡美人文献突然高被引的诱发因素的初步思路。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[52-58]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于多源社会化媒体评论的竞争情报挖掘研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[张洋;凌婉阳;]]></FullName>
+<Organization><![CDATA[中山大学资讯管理学院;广东省工业技术研究院生物工程研究所;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[07]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[社会化媒体;竞争情报;用户评论;评论挖掘;共现分析;网络计量学]]></Keyword>
+<Keyword Lang="en"><![CDATA[social media;competitive intelligence;user review;review mining;co-occurrence analysis;webometrics]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[为了探讨多源社会化媒体信息在网络情报挖掘中的整合利用,在已有研究的基础上,提出了一个基于多源社会化媒体平台的竞争情报挖掘方案,并通过实证研究对其可行性进行验证。以Surface产品为研究对象,选取新浪微博、豆瓣网、京东商城、中关村在线4个社会化媒体平台中相关的产品评论,综合利用内容分析、情感分析和共现分析等方法对竞争情报中用户情报、企业自身产品情报、竞争对手情报等多方面进行分析探讨。研究表明,通过该挖掘方案在用户的关注热点分析、产品的竞争优劣势分析以及发现竞争对手及其竞争领域方面具有可行性。不同信息来源平台在数据数量与质量上具有明显差别,并且在用户关注点和情感表现等上挖掘效率和结果存在差异,但...]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[59-66]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[高校图书馆计量分析服务实践探索——以武汉大学图书馆为例]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[刘颖;刘霞;]]></FullName>
+<Organization><![CDATA[武汉大学图书馆;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[07]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[高校图书馆;计量分析服务;科研评价]]></Keyword>
+<Keyword Lang="en"><![CDATA[university library;bibliometric analysis service;scientific research evaluation]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[文章对武汉大学图书馆计量分析服务过程进行总结和思考,以期为其他高校开展相关服务提供参考。首先从用户信息需求、服务实施、反馈与服务效果等角度介绍了武汉大学图书馆计量分析服务案例,随后总结探讨在寻找工作切入点、服务团队建设、服务推广机制中的经验与体会。最后,重点分析高校图书馆在计量分析服务中普遍面临的4个重要问题,即用户需求把握、计量用数据库及计量指标使用、计量数据存档机制及计量服务人员培养,提出改进工作的思路。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[92-96]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[大数据环境下中小企业竞争情报系统模型构建]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[王洪亮;张琪;朱延涛;]]></FullName>
+<Organization><![CDATA[河海大学商学院;河海大学水利水电学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[07]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[竞争情报系统;中小企业;大数据]]></Keyword>
+<Keyword Lang="en"><![CDATA[competitive intelligence system;small and medium-sized enterprises;big data]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[当前中小企业竞争情报工作的开展远远落后于大企业,而大数据的发展为中小企业情报系统构建提供了机遇。文章阐述了大数据的内涵与特征,然后分析了大数据环境下中小企业竞争情报面对的主要变化。基于经典的Herring模型,构建了基于大数据的中小企业竞争情报系统模型。创新之处在于将情报搜集、分析、服务环节外包给第三方情报数据公司,让中小企业情报工作人员专注于大数据环境下决定企业情报工作成效的情报规划、情报安全与情报控制协调工作。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[109-114]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[开放存取的业务模式比较研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[文燕平;丁波涛;]]></FullName>
+<Organization><![CDATA[上海师范大学商学院;上海社会科学院信息研究所;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[07]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[开放存取;机构知识库;比较研究]]></Keyword>
+<Keyword Lang="en"><![CDATA[open access;institutional repository;comparative study]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[文章采用业务模式画板,对传统出版、开源期刊模式(金色OA)和机构知识库(绿色OA)3种科研成果发布模式进行了分析,指出传统出版模式、金色OA和绿色OA模式在促进科研成果传播方面各有优势,并提出应当从成果发布时间、成果获取对象以及知识组织方式3个角度协调运用3种模式加快科研成果传播。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[123-126]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[知识动员的运行机理及实施策略]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[姚伟;徐荣贞;武开;]]></FullName>
+<Organization><![CDATA[天津科技大学经济与管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[07]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[知识动员;知识表征;运行机理;知识管理;实施策略;知识情境]]></Keyword>
+<Keyword Lang="en"><![CDATA[knowledge mobilization;knowledge representation;operating mechanism;knowledge management;implementation strategy;knowledge situation]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[为了探讨知识动员的运行机理及知识动员的实施策略,首先从知识类别、知识认知及知识情境3个方面对知识动员过程中的知识表征进行理论分析。然后基于复杂情境,阐述了知识动员的3种机理,即协同交互、实践社区及行为模式,在此基础上,从动员过程涉及对象和动员过程涉及环节两方面论述了知识动员的实施策略,动员过程涉及对象包括人、知识及行动,动员过程涉及环节包括创建空间、日常参与、评价、研究、学习、共享、协同、文化构建、最佳实践,可为相关研究提供参考。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[15-20]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于专利分析的企业技术定位研究——以红外探测技术为例]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[李宏宇;李艳;彭齐治;]]></FullName>
+<Organization><![CDATA[北京林业大学经济管理学院;国家知识产权局专利局;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[07]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[专利分析;企业技术定位;分析方法]]></Keyword>
+<Keyword Lang="en"><![CDATA[patent analysis;enterprise technical position;analysis method]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[企业专利申请情况作为研发能力的一种体现,可以用于测度企业的技术定位。文章以Chang对商业方法的技术定位四象限的研究思想为基础,建立起包含技术研发活跃程度测度、核心技术识别、技术领域归类、技术定位识别4个步骤的企业技术定位分析框架,并以此框架为依据,对红外探测技术进行实证分析。采用专利组合分析、专利引文分析和专利权人合作网络分析等定量分析方法,结合产业实际发展状况的定性分析,旨在帮助企业在技术定位过程中作出更加明确的决策。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[86-91]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[知识元研究述评]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[高继平;丁堃;潘云涛;袁军鹏;]]></FullName>
+<Organization><![CDATA[中国科学技术信息研究所;大连理工大学WISELAB;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[07]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[知识元;知识关联;知识网络;知识系统;知识计量]]></Keyword>
+<Keyword Lang="en"><![CDATA[knowledge unit;knowledge correlation;knowledge network;knowledge system;knowledge measuring]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[文章从知识元的起源及其发展开始,研究了其在科学计量学和知识计量学中的定义和作用,进而介绍了当前主要的知识元计量指标。之后,研究了知识元渗透到图书情报与数字图书馆、知识科学与知识工程、知识管理和教育学等领域的应用,以及当前国家级基金对知识元的资助情况,发现知识元已经成为知识分析、知识组织、知识工程、知识发现、知识管理、知识体系的基本单位,可用于实现知识表示、知识生产、知识存储、知识检索、知识计量、知识服务、知识挖掘、知识创造等。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[134-138+133]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[都柏林大学图书情报教育及对我国图情教育的启示]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[谢笑;谢阳群;]]></FullName>
+<Organization><![CDATA[安徽大学管理学院;淮北师范大学;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[都柏林大学;图书情报学;教育]]></Keyword>
+<Keyword Lang="en"><![CDATA[University College Dublin;library and information science;education]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[文章介绍了爱尔兰都柏林大学图书情报学院的基本教育情况,包括教育计划、课程设置和职业规划。从爱尔兰的图书情报教育中总结了对我国图书情报教育的启示,包括要做到及时全面的信息公开、合理的课程设置及安排、教学与就业指导的结合、研究理论与实践的结合、拓展全面综合的研究领域、面授课程与远程授课相结合和采用良好的教务管理系统。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[134-139]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[基于SimRank的作者相似度计算]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[刘萍;黄纯万;]]></FullName>
+<Organization><![CDATA[武汉大学信息管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[算法;链接关系;作者相似度;SimRank]]></Keyword>
+<Keyword Lang="en"><![CDATA[algorithm;linking relationships;author similarity;SimRank]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[现有的相似度计算方法大都依赖于作者间的直接关联,忽略了间接关联。文章提出一种新的基于SimRank的作者相似度计算方法,充分考虑作者关键词二分图网络的整体结构特性,利用图结构相似度算法挖掘出作者间以及词汇间的潜在关联关系。初步实验表明该方法能够有效地识别作者之间的相似度,相比于传统的关键词耦合,该方法可以明显提高作者相似度计算的准确性。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[109-114]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[面向科学工作流服务发现的语义查询、匹配与组合]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[李进华;全薇;孙祚旭;]]></FullName>
+<Organization><![CDATA[华中师范大学信息管理学院;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[语义Web服务;语义网;语义查询;形式化描述;查询匹配]]></Keyword>
+<Keyword Lang="en"><![CDATA[semantic web service;semantic web;semantic query;formal description;query matching]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[科学工作流是数字化科研的强有力工具,其基本构成部分是Web服务。在生物信息学应用领域,Web服务一般通过本体进行语义描述,并封装成语义Web服务。文章以描述逻辑及其SHIQ语言为基础,研究目的在于定义生物信息学领域的Web服务语义描述框架,主要方法包括服务的语法与语义定义,语义Web服务的查询与匹配以及多服务的组合机制。最后以DNA序列查询以及格式转换为例,论述了具体的应用方式,实际使用有较好的效果。研究结论是:语义封装以及语义查询可以很好解决无状态Web服务查询匹配的精确度问题。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[115-120]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type> <Language>zh-CHS</Language>
+<PrimaryTitle> <Title Lang="zh-CHS"><![CDATA[中文短文本自动分类中的汉字特征优化研究]]></Title> </PrimaryTitle>
+<Authors> <Author> <Info lang="zh-CHS"> <FullName><![CDATA[王昊;邓三鸿;苏新宁;]]></FullName>
+<Organization><![CDATA[南京大学信息管理学院;南京大学江苏省数据工程与知识服务重点实验室;]]></Organization>
+</Info> </Author> </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[情报理论与实践]]></Media></Medium>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[06]]></Issue>
+<Keywords> <Keyword Lang="zh-CHS"><![CDATA[短文本;文本分类;汉字特征;自动分类;优化]]></Keyword>
+<Keyword Lang="en"><![CDATA[short-text;text classification;Chinese character features;automatic classification;optimization]]></Keyword>
+</Keywords>
+<Abstracts> <Abstract Lang="zh-CHS"> <![CDATA[采用含语义的词语或篇幅更长的语言片段作为中文短文本的特征描述存在明显的可操作性问题。文章综合探讨了汉字特征在中文短文本分类计算中的可行性以及影响规律,比较了关键词、词语和汉字的类目区分能力,认为后者的分类效果略低于篇幅大的语言片段,但其具有可计算性强和文本覆盖率高的优点;基于类现频次和信息增益复合方法对汉字特征进行了筛选,总结了汉字特征数量减少对分类效果的影响规律;分析了不同特征权重设置对汉字特征分类效果的影响及其原因,认为汉字在词语中的位置参数及其频次参数的有效结合可以在一定程度上提高汉字特征的分类效果。]]> </Abstract> </Abstracts>
+<PageScope><![CDATA[121-127]]></PageScope>
+<Publisher><![CDATA[情报理论与实践]]></Publisher>
+<Code><![CDATA[1000-7490]]></Code>
+</Bibliography>
+</Bibliographies>

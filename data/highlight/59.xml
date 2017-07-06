@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<publication marker="zhouzhichao">
+    <journal>International Journal of Information Management</journal>
+    <time>Volume 36, Issue 3, June 2016, Pages 258-270</time>
+    <title>Factors influencing electronic health record adoption by physicians: A multilevel analysis</title>
+    <author>Marie-Pierre Gagnon.</author> Author links open the author workspace.Opens the author workspaceOpens the author workspacea. Numbers and letters correspond to the affiliation list. Click to expose these in author workspaceb. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace<author>David Simonyan.</author> Author links open the author workspace.Opens the author workspacea. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace<author>El Kebir Ghandour.</author> Author links open the author workspace.Opens the author workspacea. Numbers and letters correspond to the affiliation list. Click to expose these in author workspacec. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace<author>Gaston Godin.</author> Author links open the author workspace.Opens the author workspaceb. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace<author>Michel Labrecque.</author> Author links open the author workspace.Opens the author workspacea. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace<author>Mathieu Ouimet.</author> Author links open the author workspace.Opens the author workspacea. Numbers and letters correspond to the affiliation list. Click to expose these in author workspaced. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace<authhor>Michel Rousseau.</authhor> Author links open the author workspace.Opens the author workspacee. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace
+a
+Research Centre of the Centre Hospitalier Universitaire de Québec, 10 rue de l'Espinay, Quebec City, QC G1L 3L5, Canada
+b
+Faculty of Nursing Sciences, Université Laval, QC, Canada
+c
+Research Centre on primary health care and services of Université Laval (CERSSPL-UL), CSSS de la Vieille-Capitale, 880 rue Père-Marquette, 3e étage, Québec City, QC G1S 2A4, Canada
+d
+Department of Political Science, Université Laval, Pavillon Charles-De Koninck, office 4453, Cité Universitaire, QC G1V 0A6, Canada
+e
+Department of Psychoeducation, Université du Québec à Trois-Rivières (UQTR), QC, Canada
+Show more
+    <doi>https://doi.org/10.1016/j.ijinfomgt.2015.12.002</doi>Get rights and content
+Highlights
+    <highlight id="1">We aimed to assess the influence of organization-level characteristics on physician intention to use EHR.</highlight>
+    <highlight id="2">We used a multilevel regression model to explore organization-level and individual-level effects.</highlight>
+    <highlight id="3">In Quebec, organization-level characteristics have no significant impact on EHR adoption by physicians.</highlight>
+    <highlight id="4">Strategies are more likely to succeed if targeting individual physicians.</highlight>
+Abstract
+<abstract>
+In Canada, the healthcare system remains paper-laden, and EHR adoption by physicians lags behind many other industrial countries. Recent reviews identified individual and organizational factors as having the most important influence on EHR adoption and proposed taking a multidimensional perspective to study these adoption determinants. However, most studies have focused on physician EHR adoption measured at the individual level.
+
+Objectives
+
+<h target="2" match="full">First, we used a multilevel regression model to assess whether organizations' characteristics influenced physician behavioral intention to use EHR.</h> Second, we sought to identify individual and organizational factors that explain physician intention.
+
+Methods
+
+We conducted a prospective cross-sectional study among physicians in 49 primary healthcare organizations in four regions of the province of Quebec (Canada). We first analyzed relationships between individual and organizational variables and intention. <h target="2" match="full">Second, we performed multilevel modeling to explore organizational characteristics' impact on physician intention to use EHR.</h>
+
+Results
+
+278 completed questionnaires were returned from the 31 organizations that had at least 5 participants (response rate: 39.8%). Questionnaires showed satisfactory psychometric properties. The multilevel modeling found no significant overall influence of organizational level on physician intention to use EHR. Second, six of the individual level constructs had a positive and strongly significant impact on physician intention.
+
+Conclusion
+
+    <h target="3" match="full">In the Quebec context, organization-level seems to have no significant impact on EHR adoption by physicians.</h> <h target="4" match="full">Hence, particular strategies are more likely to succeed if they target individual physicians rather than organizations.</h>
+</abstract>
+Keywords
+    <keywords>Electronic health record</keywords>
+    <keywords>Physicians</keywords>
+    <keywords>Adoption</keywords>
+    <keywords>Primary healthcare organizations</keywords>
+    <keywords>Multilevel analysis</keywords>
+    <section name="Introduction;Objectives" category=" introduction">
+        <![CDATA[
+1. Introduction
+1.1. Background
+The electronic health record (EHR) enables authorized healthcare providers to gather, handle, store, and share health-related information about an individual (Canada Health Infoway, 2014). EHR have the greatest potential for enhancing health care services (Raymond et al., 2015). Using EHR could improve many aspects of medical practice and make the healthcare system safer and more efficient (Alvarez, 2004Committee on Identifying Priority Areas for Quality Improvement, 2003; Romanow, 2002). Several benefits of the EHR have been documented in the literature (Blumenthal, 2010; Buntin, Burke, Hoaglin, & Blumenthal, 2011; Cebul, Love, Jain, & Hebert, 2011; DesRoches et al., 2008; Hollingworth et al., 2007; Holroyd-Leduc, Lorenzetti, Straus, Sykes, & Quan, 2011; Samaan, Klein, Mansour, & DeWitt, 2009; Shachak, Hadas-Dayagi, Ziv, & Reis, 2009; Shekelle, Morton, & Keeler, 2006; Simon et al., 2007). Some studies emphasize that EHR could increase the quality of care through making essential health data accessible to different healthcare providers, thus improving the coordination of care (Canada Health Infoway, 2006; Cebul et al., 2011; DesRoches et al., 2008; Staroselsky et al., 2006) and efficiency of primary care practice (Greenhalgh, 2011; Pare et al., 2014; Raymond et al., 2015). For teamwork improvement, EHR use could facilitate communication and task delegation in primary care teams (O'Malley, Draper, Gourevitch, Cross, & Scholle, 2015) improve the quality of professionals' clinical decisions (Pare et al., 2014). It also enriches patient–provider interactions (Police, Foster, & Wong, 2010) and helps to empower citizens to actively take part in decisions regarding their health and to track preventive care recommendations across primary care practices (Adler & Stead, 2015; De Leon & Shih, 2011; Ueckert, Goerz, Ataian, Tessmann & Prokosch, 2003; Urowitz et al., 2008). Likewise, EHR adoption improves staff productivity and leads to cost savings for physician groups (Police et al., 2010) Finally, its use could facilitate the exchange of relevant, timely, and up-to-date information among healthcare providers in distinct locations and support decision making (Canada Health Infoway, 2006; Cebul et al., 2011; Raymond et al., 2015).
+For organizations, EHR use can solve the problems associated with paper systems (Pare et al., 2014). However, it is suggested that certain changes and reforms at the organizational level are needed for an improvement in care quality via EHR use (Baron, 2007). Also, EHR use can be a part of the efforts to improve the population health by integrating primary care and public health. Recently, the Institute of Medicine proposed capturing social and behavioral domains in EHR systems (Institute of Medicine, 2015). Thus, EHR systems could allow clinicians to obtain and store some standard measures of social and behavioral determinants to efficiently identify conditions that may modify diagnoses and treatment plans (Adler & Stead, 2015).
+Many developed countries are currently implementing EHR systems, but even though the rate of EHR adoption by physicians is in progress, it remains slow in most of these countries (Schoen et al., 2009; Schoen et al., 2012; Simon et al., 2006). In Canada, a network of interoperable EHR solutions is currently being implemented (Canada Health Infoway, 2006, 2012). These EHR solutions link primary care clinics, hospitals, pharmacies and other points of care. However, the Canadian healthcare system remains paper-laden, and EHR implementation lags behind many other industrial countries (Rozenblum et al., 2011; Silversides, 2010).
+The Canadian publicly funded health care system is decentralized, and each of the 10 provinces and 3 territories is responsible for the administration of their health insurance plan, the funding of hospitals and other care facilities, and the remuneration of health care providers within the public system.
+
+In 2010, the federal government Economic Action Plan funded Canada Health Infoway to co-invest with provinces, territories, and health care providers in EHR in primary care (Zelmer & Hagens, 2014). Recently, provinces and territories have developed specific programs and agencies enabling the implementation, support and adoption of EHR, but some are at the early stages (Canada's Health Informatics Association, 2013).
+Unlike other incentives programs implemented in the US (Blumenthal, 2009, 2010) and the UK (Greenhalgh et al., 2010; Hendy, Fulop, Reeves, Hutchings, & Collin, 2007), EHR implementation in Canada is mostly under the responsibility of provincial and territorial jurisdictions. Furthermore, as primary care organizations are relatively autonomous in Canada, the decision to implement EHR remains largely dependent upon the willingness of physicians, although some organizational factors, such as the presence of incentives and support for clinicians, are likely to influence individual decision to adopt the EHR (Pare et al., 2014).
+Several studies on EHR implementation have showed that a majority of projects did not sustain over the experimentation phase (Lapointe, 1999; Simon et al., 2007). Factors such as high start-up investments and maintenance costs, lack of financial incentives, uncertain payoffs, suboptimal technology, low priority, and resistance of potential users are frequently reported barriers to EHR adoption (Anderson, 2007; Gans, Kralewski, Hammons, & Dowd, 2005; Miller & Sim, 2004).
+Previous EHR projects have often failed due to technical shortcomings, lack of user acceptance (Brender, Ammenwerth, Nykanen, & Talmon, 2006) and lack of integration into healthcare practices and organizations (Berner, Detmer, & Simborg, 2005; Brender et al., 2006; Lorenzi et al., 1997). The adoption of EHR by healthcare providers is key to ensuring its optimal integration in the healthcare system and, ultimately, to guaranteeing that expected benefits materialize (Li et al., 2013; Ludwick et al., 2010; Nov & Schecter, 2012). Particularly, adoption of EHR systems in primary care is a priority in several countries (Pare et al., 2014).
+1.2. EHR adoption: individual and organizational drivers
+Recent reviews identified individual and organizational factors as having the most important influence on EHR adoption by physicians (Abdekhoda, Ahmadi, Gohari, & Noruzi, 2014; Ajami & Bagheri-Tadi, 2013; Boonstra & Broekhuis, 2010; Castillo, Martinez-Garcia, & Pulido, 2010; Li et al., 2013; Najaftorkaman et al., 2014). However, most previous studies have examined physician acceptance of EHR based on psychosocial variables measured at the individual level. The Technology Acceptance Model (TAM) (Davis, 1989) is the framework that has generally been applied to study physician intention to use EHR.
+For instance, a study assessed factors associated with physicians' attitude toward using EHR based on the TAM (Morton & Wiedenbeck, 2009). Overall, the model explained 73% of the variance in physicians' attitude toward EHR use. Perceived usefulness had the greatest impact on attitude about EHR usage, whereas perceived ease of use was not found to be significantly associated with attitude. Recently, Hamid and Cline (2013) explored acceptance factors and barriers associated with care providers' intention to adopt EHR. Findings from this study indicate that management support for training, resolving technical issues, and provider involvement are the factors most strongly associated with EHR adoption. Perceived lack of usefulness was a barrier toward EHR adoption in this study (Hamid & Cline, 2013).
+In Canada, Archer and Cocosila (2011) compared EHR perceptions of physicians already using electronic medical record (EMR) systems with those not yet using them by way of a model based on an extension of the TAM that includes key concepts from other models of technology acceptance (Venkatesh, Morris, Gordon, & Davis, 2003). The theoretical model explained 55.8% of the variance in intention to use the EHR among physicians already using an EMR, and 66.8% for non-EMR users. Effort expectancy (a concept similar to perceived ease of use) was found to be the strongest determinant of intention among EHR users, while performance expectancy (equivalent to perceived usefulness) was the strongest determinant for non-EMR users.
+A recent study applied an integrated theoretical model to understand physician intention to use EHR in the province of Quebec (Canada) (Gagnon et al., 2014). This model was based on a combination of the TAM and other theoretical constructs that have emerged in recent studies on physician acceptance of information technologies: information about change, personal identity, professional norm, social norm, demonstrability of the results, resistance to change, and computer self-efficacy. This model explained 55% of the variance in physician intention to use EHR, with perceived ease of use, perceived usefulness, social norm and demonstability of the results as the main predictors.
+Overall, previous studies support using the TAM and other acceptance models to understand EHR acceptance by physicians at the individual level. However, these models omit other potential determinants of EHR acceptance that could be related to the working environment of physicians.
+
+Other studies have investigated the influence of organizational or contextual factors on EHR adoption (Abdekhoda et al., 2014; Bramble et al., 2010; Simon et al., 2007; Simon et al., 2006). For instance, Simon et al. (Simon et al., 2007; Simon et al., 2006) analyzed organizational, professional, and technological factors associated with EHR adoption by medical practices in Massachusetts. Larger practices (seven physicians or more), hospital setting and teaching status were significant predictors of EHR adoption.
+Bramble et al. (2010) have studied the impact of characteristics of the practice setting on physician EHR adoption. Their results show that physicians who have internal information technology support, who work in a group practice (versus solo practice), whose practice is part of a larger health system (versus free-standing or independent practice), and who are younger are more likely to use EHR.
+Recently, Abdekhoda et al. (2014) conducted a study to determine the organizational contextual factors affecting physician adoption of EMR in Iran. (Abdekhoda et al., 2014). Physicians' attitudes toward EMR adoption was assessed by a modified model combining TAM variables and organizational context variables. The proposed model explained about 56% of the variance in EMR adoption. Perceived usefulness, perceived ease of use, management support, physician involvement, physician autonomy, and doctor–patient relationship had direct and significant effects on physicians' attitudes toward EMR adoption. In this research, the authors recognized that considerable part of physicians' attitude toward EMR adoption is controlled by organizational contextual factors (Abdekhoda et al., 2014).
+Some authors have proposed taking a multidimensional perspective to study the influence of individual and organizational determinants on information technology adoption in healthcare settings (Agarwal, Mishra, Angst, & Anderson, 2007; Gagnon et al., 2010; Lapointe, 1999). For instance, Agarwal et al. (2007) have used the ability-motivation framework and the self-determination theory to identify factors associated with EHR adoption, accounting for variables associated with both individual physicians and their working environment. However, data were analyzed at the practice level only, thus not accounting for the potential influence of individual physicians' characteristics.
+The study by Abdolrasulnia et al. (2008) also assessed the impact of individual and contextual determinants on physician EHR adoption in Florida. Their results indicate that EHR use varied significantly from county to county. Indeed, physician concentration in the county influenced adoption: physicians practicing in a milieu where there was more competition were more likely to use EHR. Individual physician characteristics that were positively associated with EHR use were those working in a group practice, with higher technology readiness, and fewer years in practice.
+In her study of clinical information system adoption in Quebec hospitals, Lapointe (Lapointe, 1999; Lapointe & Rivard, 1999) found that an individual decision to adopt the system or not may conflict with the organization's decision to implement the system. This study also supports the idea that organizational, group, and individual factors could influence the adoption of information systems to varying degrees.
+However, we found no support in the literature for the contention that organizational factors could influence EHR adoption by physicians over and above individual determinants based on quantitative data. Our study thus sought to fill this gap by using a multilevel regression model to assess the specific contribution of organizational and individual factors on physician intention to use EHR.
+
+2. Objectives
+The first objective of this study was to assess whether characteristics of healthcare organizations influenced physician intention to use EHR in the province of Quebec (Canada) using a multilevel regression model. ]]><h target="1" match="part">Secondly, the study sought to identify individual and organizational factors that explain physician intention to use EHR.</h><![CDATA[ Our research hypotheses are summarized in Table 1.
+Table 1. Summary of research hypotheses to test.
+Hypotheses	Model used to test hypotheses
+H1	Physicians’ BIU varies significantly between healthcare organizations	Model 1
+H2	PEoU has a positive direct effect on BIU	Model 2
+H3	PU has a positive direct effect on BIU	Model 2
+H4	CSE has a positive direct effect on BIU	Model 2
+H5	IC is positively associated with BIU	Model 2
+H6	PI is positively associated with BIU	Model 2
+H7	PN is positively associated with BIU	Model 2
+H8	SN is positively associated with BIU	Model 2
+H9	CSE has a positive direct effect on PEoU	Model 2
+H10	RC is negatively associated with BIU	Model 2
+H11	DR has a positive direct effect on PU	Model 2
+H12	Age modifies the association between theoretical variables and BIU	Model 3
+H13	Gender modifies the association between theoretical variables and BIU	Model 3
+H14	Specialty modifies the association between theoretical variables and BIU	Model 3
+H15	Prior EHR experience modifies the association between theoretical variables and BIU	Model 3
+H16	Supplementary education modifies the association between theoretical variables and BIU	Model 3
+H17	Type of organization modifies the association between theoretical variables and BIU	Model 3
+H18	Type of region modifies the association between theoretical variables and BIU	Model 3
+H19	Organizational Climate for ERH implementation is positively related to EHR adoption by physicians	Model 3
+H20	Organizational receptivity toward change is positively related to EHR adoption by physicians	Model 3
+H21	Organizational Climate for ERH implementation will mediate the effect of organizational receptivity toward change on EHR adoption by physicians	Model 3
+H22	Innovation-values fit is positively related to EHR adoption by physicians	Model 3
+BIU: behavioral intention to use.
+
+PEoU: perceived ease of use.
+
+PU: perceived usefulness.
+
+CSE: computer self-efficacy.
+
+IC: information about change.
+
+PI: personal identity.
+
+PN: professional norm.
+
+SN: social norm.
+
+RC: resistance to change.
+
+DR: demonstrability of results.]]>
+    </section>
+
+    <section name="Material and methods" category="methods">
+        <![CDATA[
+3. Material and methods
+3.1. Study design
+We conducted a prospective cross-sectional study among physicians working in 49 primary healthcare organizations in four regions of the province of Quebec (Canada) between April 2010 and July 2011.
+
+3.2. Population and settings
+3.2.1. Individual level
+A priori sample size calculation was based on the results of our previous study (Gagnon et al., 2014). Thus, 331 participants would assure 80% of power for random linear multiple regression model that explained at least 55% of physician behavioral intention to use EHR (Gagnon et al., 2014).
+To collect individual-level data, we sent a survey package by regular mail to all primary care physicians working in the four health regions selected for this study. It included the questionnaire and the consent form to participate in the study. The study questionnaire included sociodemographic characteristics of participants in the first section and questions measuring psychometric parameters in the second. Physicians were invited to read and sign a consent form, indicating their agreement to participate in the study. Participants returned their completed questionnaire and consent form using a stamped and addressed envelope included in the mailing.
+
+3.2.2. Organizational level
+To collect organization-level data, we contacted all primary care organizations that participated in the individual level survey (organizations with five or more physicians who had completed the individual-level questionnaire). We selected two key informants in each organization, usually the head physician and the chief executive officer (CEO). An initial phone contact was made by a research team member to present the project to potential participants and to arrange an appointment to complete the questionnaire for those who agreed to participate. Participants were invited to complete the questionnaire by phone or face-to-face interview or by completing an electronic copy that could be sent back by email or fax. We sent two reminders to participants, thanking those who had already participated and inviting others to complete the questionnaire and to return it to the research team.
+
+The study received ethical approval from the Research Centre of the Centre Hospitalier Universitaire de Québec (SIRUL #93155).
+
+3.3. Data-collection instruments
+3.3.1. Individual level
+The individual-level questionnaire was developed and validated during previous work by the research team (Gagnon et al., 2014). The term EHR was defined at the beginning of the questionnaire (see Appendix A). In this study, the dependent variable was physician behavioral intention to use (BIU) EHR.
+All questions, except those aimed at collecting sociodemographic information, captured responses via a 7-point Likert scale with responses ranging from “strongly disagree” to “strongly agree.” Consequently, all constructs were specified as the mean of their corresponding items. We used confirmatory factor analysis to assess construct validity, and we calculated the Cronbach alpha for each theoretical construct to assess their reliability.
+
+3.3.2. Organizational level
+The organization-level questionnaire was adapted from Holahan, Aronson, Jurkat, and Schoorman (2004) using a transcultural validation process (Ghandour, 2012). Consistent with the research model, the survey questions covered three main constructs: receptivity toward change, climate for implementation, and innovation-values fit (see Appendix B). The items used to measure the dependent variable, i.e, EHR adoption, were developed by the research team. All items were assessed on 5-point Likert scales ranging from “strongly disagree” to “strongly agree”.
+The questionnaire also included sociodemographic variables of the respondent (age, sex, medical specialty, other qualifications and years of practice) and the organization's characteristics (type of organization, work environment, number of physicians, specialties, EHR use).
+
+3.4. Statistical analyses
+3.4.1. Descriptive analysis and uni-level modeling
+First, we conducted descriptive analyses to explore sociodemographic and theoretical data distribution. Then we performed confirmatory factor analysis and computed Cronbach alpha to estimate the validity and reliability of the individual and organizational questionnaires (Appendix C). We kept items having factor loadings of 0.60 and over for analysis. We first analyzed relationships between individual-level variables and physician intention to use EHR and between organization-level variables and intention to use EHR.
+3.4.2. Multilevel modeling
+Contemporary healthcare systems present a naturally clustered environment involving physicians working in hierarchically structured organizations (Chuang, Hripcsak, & Heitjan, 2002). Thus we performed multilevel modeling to explore the impact of organizational characteristics on physician intention to use EHR. We used multilevel Gaussian regression models to assert physician BIU using three models. In all models, we used the restricted maximum likelihood estimation technique. Following recommendations for using multilevel regression analysis in the healthcare field (Estabrooks, Midodzi, Cummings, & Wallin, 2007; Maas & Hox, 2004), we only included in this analysis organization-level data from clinics for which five or more physicians had completed the individual-level questionnaire.
+Model 1 was the empty multilevel Gaussian regression model having healthcare organizations as a random factor, which had no predictor variable at any level. This model was used to meet the first objective of the study and to determine the proportion of variation in BIU that could be explained by the healthcare organization level.
+
+The aim of Model 2 was to identify predictors that significantly explained variation in physician intention. This model included variables from the Integrated Theoretical Model (Gagnon et al., 2014) as independent predictors of physician BIU.
+Finally, in Model 3, we tested the influence of external factors on Model 2: individual-level factors (sociodemographic variables) and organization-level factors (climate, receptivity and innovation-values fit).
+
+In order to maintain a minimum of five respondents for each organization, we imputed missing data using the regression method available in AMOS 18.0. We checked multicollinearity diagnostics before modeling, and the results were satisfactory. We performed all statistical analyses with SAS®9.3, G*Power 3.1, and AMOS 18.0. We set a p-value ≤0.05 as the level of statistical significance. The final models presented in this paper include only significant predictors of BIU.]]>
+    </section>
+    <section name="Results" category="results">
+        <![CDATA[
+4. Results
+4.1. Organizations and participants' characteristics
+4.1.1. Individual level
+We sent 962 questionnaires to physicians from 49 eligible primary healthcare organizations in 4 health regions of the province of Quebec. A total of 314 completed individual questionnaires were returned, for an initial response rate of 32.6%.
+
+Among the 49 eligible organizations, 31 had at least 5 physicians who had completed the individual questionnaire, totaling 278 physicians on a potential sample of 699, for an effective response rate of 39.8%. The socio-demographic characteristics of participating physicians are presented in Table 2. Comparison by chi-square tests did not reveal significant differences in sociodemographic characteristics between participants and nonparticipants (data not shown). The sample size per organization ranged from 5 to 17, with an average of 9 physicians per clinic. The data set included a small quantity of missing values, ranging from 2 (0.64%) to 14 (4.46%) per item. The difference before and after imputation for all items is negligible and non-significant according to t-test comparisons (results not shown).
+Table 2. Individual level: physicians socio-demographic characteristics (n = 278 participants).
+Variable		Frequency	%
+Age group	<30	9	3.26
+    30–39	45	16.3
+    40–49	100	36.23
+    50–59	93	33.7
+    ≥60	29	10.51
+    
+    Sex	(Female = 1)	134	48.38
+    Medical specialty	(GP = 1)	263	94.95
+    Supplementary diploma (other than MD)	(No = 1)	88	31.77
+    Practice in hospital	(Yes = 1)	153	55.43
+    Prior electronic record experience	(Yes = 1)	111	40.66
+    
+    Type of region	Urban	145	52.54
+    Semirural	65	23.55
+    Rural	63	22.83
+    Region	Bas Saint-Laurent	14	5.04
+    Saguenay-Lac St-Jean	53	19.06
+    Capitale-Nationale	143	51.44
+    Chaudiere-Appalaches	68	24.46
+    4.1.2. Organizational level
+    Most participating organizations were family medicine groups (58.1%), located in urban areas (58.3%), and also included medical specialists in addition to family physicians (61.3%). Most participants were men (57, 9%), with dominance of 50–59 years age group (34.4%). They were Physicians (DSP or equivalent) (77, 1%) with an average of over 14 years of experience in the profession.
+    
+    4.2. Multilevel modeling
+    In Model 1, we tested an empty two-level Gaussian regression model estimation, where variation of physicians' BIU was nested in healthcare organization (Table 3). In order to assess whether the random effect of healthcare organization could be eliminated from the model, we calculated the p value based on a mixture of chi-squares for the restricted likelihood-ratio test (Table 3). As this p value is largely above 0.05 for Model 1, we have no sufficient evidence to reject the hypothesis (H0) that healthcare organization-level does not play an important role in physician behavioral intention to use EHR. This result indicates that the proportion of variation in physicians' BIU explained by healthcare organization-level is not significantly different from zero. We also note that, according to Model 1, less than 2% of the total variation in physicians' BIU is explained by the organization level (Table 3). Thus we eliminated the random effect from further analyses.
+    Table 3. Model 1: covariance parameter estimates and tests of covariance parameters based on the restricted likelihood.
+    Estimate	SD
+    Organization-level	0.03	0.07
+    Residual	1.90	0.17
+    ICC organization-level	0.02	
+    Test	DF	−2 Res log like	ChiSq	p Value based on a mixture of chi-squares
+    No random effects	1	974.56	0.28	0.29
+    In a second step, we tested Model 2, consisting of a multivariate Gaussian regression without random effect. The initial model included nine variables (CSE, PEoU, IC, PI, PN, SN, RC, DR, and PU) as the independent predictors of BIU. Following a stepwise selection algorithm, the final Model 2 contains six predictors significant at 0.05 level (Table 4).
+    Table 4. Model 2: individual level predictors of physician BIU EHR.
+    Variable	Standardized parameter estimate	Parameter estimate	SD	t Value	p Value
+    Intercept	0.00	−2.25	0.40	−5.68	<.0001
+    CSE	0.18	0.24	0.05	4.39	<.0001
+        PEoU	0.24	0.29	0.05	5.53	<.0001
+            PI	0.15	0.20	0.06	3.52	0.0005
+            PN	0.26	0.33	0.07	4.59	<.0001
+                SN	0.12	0.16	0.07	2.21	0.0280
+                PU	0.16	0.21	0.07	2.82	0.0051
+                CSE: computer self-efficacy	PEoU: perceived ease of use	PI: personal identity
+                PN: professional norm	SN: social norm	PU: perceived usefulness
+                All constructs remaining in the final Model 2 had positive regression parameters. This indicates that perceived ease of use and perceived usefulness, professional and social norms, computer-self efficacy, and personal identity all have a positive and significant contribution in increasing physician BIU. This model explains 64% of physician intention to use EHR in their clinical practice.
+                
+                In order to check for healthcare organization-level impact on this model, we added the random effect, which led to essentially the same results (data not shown). This confirms that Model 2 does not change in the presence or absence of organization-level random effect. The p value based on a mixture of chi-squares for the restricted likelihood-ratio test for the random effect is 0.48 and the intraclass correlation coefficient is small (ICC = 0.001).
+                In Model 3, we tested the addition of fixed individual and organizational factors, one by one, in the final Model 2. Thus we added five organizational factors: type of organization (hospital or other), type of region (urban, semirural, and rural), organizational climate for EHR adoption, organizational receptivity for change, and innovation-values fit. We then added five individual characteristics: age, gender, specialty (GP versus specialist), prior electronic record experience in clinical practice, and additional diploma other than MD (e.g.: MSc or PhD), also tested one-by-one as independent variables.
+                
+                Following these analyses neither organizational nor individual characteristics had a statistically significant modifying effect on physicians' intention to use EHR.]]>
+    </section>
+    <section name="Discussion" category="discussion">
+        <![CDATA[
+                
+                5. Discussion
+                ]]><h target="1" match="part">The aim of this study was to identify whether healthcare organization characteristics influenced primary care physician intention to use EHR in the province of Quebec (Canada) over and above determinants at the individual level.</h><![CDATA[ Additionally, we tested an integrated theoretical model to find which constructs were most significant in explaining physician intention to use EHR.
+                
+                Many studies have investigated physician EHR adoption in different countries. However, to the best of our knowledge, our study is the first that explores healthcare organization characteristics' impact on physician behavioral intention to use EHR using a multilevel model.
+                
+                First, our results show that the overall influence of organizational level characteristics on physician intention to use EHR is not significant. Moreover, none of the specific organizational factors (size, region, climate for change, receptivity for change, innovation-values fit) have a significant impact on physician intention to use EHR. In their study, Abdolrasulnia et al. (2008) found a small relationship between contextual factors and EHR adoption by physicians. ]]><h target="3" match="part">In the context of Quebec, where most physicians practice as liberal professionals and are largely independent in their decision-making processes, it is not surprising that organization-level factors have no significant impact on their intention to use EHR.</h><![CDATA[ Hence this decision is largely determined by individual factors.
+                Second, our results confirm that six constructs of the Integrated Theoretical Model (Gagnon et al., 2014), namely perceived ease of use, perceived usefulness, professional and social norms, computer-self efficacy, and personal identity, have a positive and strongly significant impact on physician intention to use EHR. This model explains 64% of BIU variability among primary care physicians, similar to other studies conducted in Canada (Archer & Cocosila, 2011; Gagnon et al., 2014).
+                In our study, PU and PEoU from the TAM explained a great proportion of the variance in physician intention to adopt EHR, which is consistent with other studies on physician adoption of information technologies (Chismar & Wiley-Patton, 2003; Ilie et al., 2009; Seeman 2009; Wu, Shen, Lin, Greenes, & Bates, 2008). Regarding the variable PU, a recent study showed that physicians in Quebec are somewhat skeptical about the extent of the benefits that could be achieved with an EMR in a primary care medical clinic (Paré et al., 2013).
+                Furthermore, computer self-efficacy has a significant overall effect on behavioral intention to use EHR, in accordance with Venkatesh, Sykes, and Xiaojun (2011) who showed that physicians with high competency in information technologies have little difficulty in using electronic records.
+                Similar to our previous results (Gagnon et al., 2014), normative factors were important determinants of physicians' intention to use EHR in this study. Professional norm (PN) is the main determinant of physician intention to use EHR. Other studies provide support for the importance of professional norm to explain behavioral intention in healthcare professionals (Gagnon, Sanchez, & Pons, 2006; Godin, Belanger-Gravel, Eccles, & Grimshaw, 2008).
+                Social norm (SN) is also significantly associated with EHR adoption by physician. In spite of their professional autonomy, physicians' decision regarding EHR adoption could be influenced by their peers, which is consistent with the strong acculturation associated with the medical profession (Agarwal et al., 2007; Holden, 2011).
+                Contrary to other studies, sociodemographic characteristics did not significantly influence physician intention to use EHR in our study. In their studies, Venkatesh et al. (2011) and Walter and Lopez (2008), found that age had a modifying effect on physician intention to use electronic records.
+                Our study highlights key factors to consider in the design of strategies for improving EHR adoption by primary care physicians. These findings are particularly relevant and timely in the context of an ambitious interoperable EHR project promoted by the Canadian healthcare system (Canada Health Infoway, 2012). They can also inform other studies on EHR adoption in various healthcare systems. To the best of our knowledge, this study is the first to jointly consider organizational and individual factors that influence EHR adoption by physicians. Moreover, the study incorporates a wide range of primary healthcare settings to ensure greater generalizability of results.
+                6. Study limitations
+                The study has some limitations that need to be considered in interpreting the results. Our results must be considered in light of the limitations of survey research (self-administered questionnaire) and the low response rate. First, due to the observational and cross-sectional study design, it is not possible to infer causality relationships between variables due to the high risk of endogeneity. Longitudinal studies would be needed in order to assess the impact of organizational variables on EHR adoption over time.
+                
+                Second, due to the limited participation rate, our study results do not necessarily reflect the determinants of EHR adoption by all Quebec physicians. Third, as in other questionnaire-based studies, self-reported information can lead to a social desirability bias that could also affect results. Fourth, in order to comply with multilevel modeling requirements, the sample only included practices with five or more physicians; thus we did not consider smaller and solo practices, which show lower EHR adoption rates (Rao et al., 2011; Xierali et al., 2013). However, we performed a comprehensive assessment process of the psychometric characteristics of the instruments in order to ensure accuracy of measurements.
+                7. Implications for practice
+                These results can inform particular strategies to increase physician adoption of EHR.  ]]><h target="4" match="full">First, such strategies are more likely to succeed if they target individual physicians rather than organizations.</h><![CDATA[ The integration of EHR into professional and personal norms could be supported by better integrating information technology into the medical curriculum. Strategies using well-respected medical champions for EHR implementation would foster positive social norms as regards this technology. Also, to increase physician perception that EHR systems are easy to use, it is important to provide proper training that enables familiarization with the technology (Rozenblum et al., 2011). Finally, perceived EHR usefulness could be enhanced by disseminating the benefits for patient care resulting from using this technology.]]>
+    </section>
+    <section name="Conclusion" category="conclusion">
+        <![CDATA[
+                8. Conclusion
+                Using a multilevel modeling approach, this study found that organizational characteristics were not significantly associated with primary care physician intention to use EHR. This intention is mostly influenced by physicians' perceptions that EHR is easy to use, has tangible benefits, and is consistent with professional and social norms. However, organizations could support EHR adoption and use through leaders championing and implementation motivating policies for physicians' participation in this process. These results can inform strategies to promote EHR adoption in primary care settings in order to accelerate its implementation across the healthcare system. However, as a large amount of variance in physician intention to use EHR remains unexplained by individual factors, more studies are needed to document the challenging organizational aspects of implementing EHR in PHC organisation in Quebec. Also, a potential avenue for future research could be to explore factors at the macro level such as government policies and incentives. To do so, studies comparing physician EHR adoption across jurisdictions would be needed. Finally, government health policy has played a huge part in the high level of EHR use by physicians in many countries (Denmark, New Zealand and the United Kingdom). In the Quebec context, government health policies that encourage new healthcare models that pay providers for higher value in clinical care, rather than fee-for-services, or mandate EMR use for all patients could be relevant avenues.
+                
+                Conflicts of interest
+                None.]]>
+    </section>
+                
+                Acknowledgements
+                This study was funded by the Canadian Institutes of Health Research (CIHR Grant #200603MOP-159757-KTE-CFBA-111141). We are grateful to Julie Duplantie, Haïfa Mezni, and Amélie Trépanier for their help with data collection.
+</publication>

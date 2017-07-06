@@ -10,6 +10,8 @@ cd target/universe/stage
 bin/knowledge
 ```
 
+数据集： http://abc.com/1.zip
+
 
 ## 文献导入
 

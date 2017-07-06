@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<publication marker="zhouzhichao">
+    <journal>International Journal of Information Management</journal>
+    <time>Volume 36, Issue 6, Part B, December 2016, Pages 1248-1259</time>
+    <title>A computational literature review of the technology acceptance model</title>
+    <author>Michael J. Mortenson.</author> Author links open the author workspace.Opens the author workspacea. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace<author>Richard Vidgen.</author> Author links open the author workspace.Opens the author workspaceOpens the author workspaceb. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace
+a
+WMG, University of Warwick, United Kingdom
+b
+University of New South Wales Business School, Australia
+Show more
+    <doi>https://doi.org/10.1016/j.ijinfomgt.2016.07.007</doi>Get rights and content
+Highlights
+    <highlight id="1">An automated approach to the analysis of large bodies of literature is proposed.</highlight>
+    <highlight id="2">Analysis includes impact (citations), structure (co-authorships), and content (topic modeling of abstracts).</highlight>
+    <highlight id="3">The technology acceptance literature is reviewed using a fully automated method.</highlight>
+    <highlight id="4">Latent Dirichlet Allocation (LDA) is introduced.</highlight>
+    <highlight id="5">Further use cases include journal ranking and researcher analysis.</highlight>
+Abstract
+    <abstract><![CDATA[A literature review is a central part of any research project, allowing the existing research to be mapped and new research questions to be posited. However, due to the limitations of human data processing, the literature review can suffer from an inability to handle large volumes of research articles.  ]]><h target="1" match="part">The computational literature review (CLR) is proposed here as a complementary part of a wider literature review process.</h> <h target="2" match="part">The CLR automates some of the analysis of research articles with analyses of impact (citations), structure (co-authorship networks) and content (topic modeling of abstracts).</h><![CDATA[ A contribution of the paper is to demonstrate how the content of abstracts can be analyzed automatically to provide a set of research topics within a literature corpus. The CLR software can be used to support three use cases: (1) analysis of the literature for a research area, ]]><h target="5" match="full">(2) analysis and ranking of journals, and (3) analysis and ranking of individual scholars and research teams.</h><![CDATA[ The working of the CLR software is illustrated through application to the technology acceptance model (TAM) using a set of 3,386 articles. The CLR is an open source offering, developed in the statistical programming language R, and made freely available to researchers to use and develop further.]]></abstract>
+Keywords
+    <keywords>Literature review</keywords>
+    <keywords>Computational literature review</keywords>
+    <keywords>Topic modelsLda</keywords>
+    <keywords>Social network analysisCo-authorship analysis</keywords>
+    <keywords>Citation analysis</keywords>
+    <keywords>Technology acceptance model</keywords>
+    <keywords>Journal ranking</keywords>
+    <section name="Introduction" category="introduction">
+        <![CDATA[
+1. Introduction
+Making sense of prior research is at the very heart of academic endeavor: a researcher, such as a doctoral student, coming new to a field needs to quickly get an overview of the literature associated with their research area; academic disciplines are interested in understanding which journals have the greatest impact and the topics on which they publish; and hiring committees are interested in individual academic profiles and academic managers in the performance of research groups. However, conducting such reviews can be difficult. Bornmann and Mutz (2015) estimate that scientific output is growing at a rate of 8–9% per annum − a doubling of research outputs roughly every nine years. The rising volume of outputs makes it difficult for researchers, editors, and academic managers to get a grip on the existing research output if they are relying solely on human coding of outputs.
+ ]]><h target="3" match="part">The computational literature review (CLR) package has been developed in the statistical programming language R to provide a fully automated analysis of user specified collections of research outputs.</h><![CDATA[ The CLR analysis of a research corpus comprises three dimensions:
+•
+Impact: what are the sources of high impact with regard to citations (individual research articles, authors, publication venues) of the research corpus? For research articles impact is assessed by a citation count; for authors by a corpus-specific h-index (Hirsch, 2005); and for publications by a journal citation impact metric. All three impact analyses are specific to a corpus.
+•
+Structure: what is the structure of the research community, as represented by the co-authorship network, of the corpus? The CLR tackles this through social network analysis (Wasserman & Faust, 1994).
+•
+Content: what are the underlying (latent) topics in a large corpus of research articles in a given research corpus? This is addressed though topic modelling, which “enables us to organize and summarize electronic archives at a scale that would be impossible by human notation” (Blei, 2012, p. 78).
+
+The research outputs that constitute a corpus to be analyzed are determined by the user, depending on their aim. We have identified three primary use cases for the CLR:
+
+1.1. Literature review
+This might be research outputs concerned with a theory, such as the technology acceptance model, articles that address a general area of interest, such as online extremism, or a phenomenon such as Facebook or Twitter. This analysis would typically be of value to a researcher coming new to a field (e.g., a doctoral researcher) or any researcher who wants to make an analysis of a research area constituted of thousands of papers rather than tens of papers (Jahangirian et al., 2011).
+1.2. Journal analysis
+This covers the analysis of the contents of a single journal, a basket of journals (e.g., the Association of Information Systems (AIS, 2011) basket of 8), or a larger selection of journals, such as those contained in the Association of Business Schools (ABS) journal ranking (Harvey, Kelley, Morris, & Rowlinson, 2015).
+1.3. Research management
+Hiring committees are interested in comparing individual candidates with regard to the impact, network, and content of their research. Academic managers can use the CLR to analyze groups of researchers, e.g., in a department, School, or research centre (and compare performance in and between groups).
+
+The CLR does not distinguish between the three use cases − the same analysis (impact, structure, content) is performed for all three. Most importantly, the CLR is fully automated and can handle thousands of research outputs rather than the small numbers of papers that an individual can analyze manually.]]>
+    </section>
+    <section name="Literature reviews;Design and development of the computational literature review (CLR)" category="background">
+        <![CDATA[
+2. Literature reviews
+Tranfield, Denyer, and Smart, 2003 say “the aim of conducting a literature review is often to enable the researcher both to map and to assess the existing intellectual territory, and to specify a research question to develop the existing body of knowledge further.” (p. 208). They note that management literature reviews have been criticized for being “singular descriptive accounts of the contributions made by writers in the field”, and that selection for inclusion is subject to the biases of the researcher (e.g., Hart, 1998). Additionally, Jennex (2015) argues that as the number of journals rise then the time and effort required to conduct a literature review is growing, leading researchers to choose to allocate this resource to doing empirical research rather than extensive literature reviews: the outcome is that literature review quality is declining (p. 140).
+One response to the problems of literature reviews is to conduct a systematic literature review (SLR), which follows a set of transparent and reproducible steps (an algorithm), rather than a heuristic, and thus improves the quality of the review process (e.g., see McKibbon, 2006; Petticrew & Roberts, 2006; Crossan & Apaydin, 2010). While data analysis can be quantitative or qualitative, the great majority of SLRs in management research aim to make a conceptual review of a research area and thus rely on qualitative analysis and descriptive approaches with the result that they have to “sacrifice depth for breadth” (Crossan & Apaydin, 2010, p. 1157), affording “the researcher considerable liberties in choosing (and excluding) and interpreting past research” (Tate, Furtmueller, Evermann, & Bandara, 2015, p. 104). Jahangirian et al. (2011) propose the use of automation to help in the searching and screening stages of the SLR in order to reduce a large number of articles to a smaller set that can be analyzed by human researchers in a practicable way.
+The CLR is a response to the issue of selecting, filtering, and analyzing large volumes of research articles. It complements rather than replaces the human researcher in the SLR process, and is useful for more generic analysis of journals and individual scholars and teams.]]>
+</section>
+
+    <section name="Design and development of the computational literature review (CLR)" category="methods">
+<![CDATA[
+3. Design and development of the computational literature review (CLR)
+The CLR approach is shown in Fig. 1. The process begins with a researcher identifying the type of CLR use case (literature review, journal analysis, research management) they wish to investigate and then expressing this as a set of search criteria for a literature search. For the literature review these search terms will be the same as those used in a systematic literature review (SLR); for journal analysis the search term will involve one or more journal ISSNs (International Standard Serial Number) to identify the journals to be included in the analysis; for research management the search will be based on author names.
+Fig. 1
+Download high-res image (253KB)Download full-size image
+Fig. 1. Overview of the computational literature review (CLR) process.
+The source of data for CLR is the Scopus database. Scopus claims that it is “the largest abstract and citation database of peer-reviewed literature: scientific journals, books and conference proceedings.” (www.elsevier.com/solutions/scopus). While Scopus is recognized as a high quality source of data for systematic reviews, it is not a complete resource and other databases, such as Thomson Reuters Web of Science, have different coverage. Google’s Scholar gives the widest coverage but at the expense of quality. Scopus allows citation and abstract data to be downloaded in csv (comma separated variable) format, subject to a maximum of 2,000 items per search, making it a convenient source of data. Breadth of coverage, quality of data, and ease of extraction make Scopus an ideal choice for starting a computational literature review. However, we would expect other databases to be added to the CLR process as download mechanisms, interfaces, and APIs become available.
+3.1. Impact analysis
+When a research article references another research article the recipient article has acquired a citation. The impact of a research article can be assessed in terms of the number of citations it receives. From the raw citation count for the articles included in a CLR we can create summaries by author (showing how many citations an author received for their work in this corpus) and for publication venue (how many citations a journal has received for the articles contained in this corpus). However, simple citation counts are not without issues. The h-index (Hirsch, 2005) is commonly used to assess a researcher’s impact in a standardized form. A researcher with an index of 10 has published 10 papers each of which has been cited at least 10 times. While not without problems (e.g., ‘one-hit wonders’ who produce one paper with a large number of citations are under-estimated; established researchers with articles that have been in print for a longer period of time have more time to acquire citations; and newer articles, which might be indicative of a new trend in a research area, will have fewer citations and thus may be overlooked) the h-index is generally accepted as a useful measure of impact.
+The CLR provides an analysis of the impact of individual articles through a total citation count. For author impact the CLR provides: a total citation count; an impact factor calculated as the total citation count divided by the total number of papers; and, an h-index. For source impact, the CLR provides: a total citation count; and, an overall impact metric (total number of citations divided by number of papers).
+
+3.2. Structure analysis − co-authorship networks
+Co-authorship analysis has been popular in the IS community as a way of understanding the structure of the research community and to identify the key researchers in that community. For example, co-authorship analyses have been conduced of the European conference on IS (ECIS) (Vidgen, Henneberg, & Naude, 2007) and the Pacific Asia Conference on Information Systems (PACIS) (Cheong & Corbitt, 2009). A component in the co-authorship network is one in which all the authors in that component are reachable. A research community will likely comprise a number of discrete components − authors within a component are mutually reachable but authors in different components are not. Over time, networks tend to produce a single ‘giant’ (main) component: if a research field did contain two large components then it is highly likely that an author in one component would connect to an author in the other, thus creating a single and larger component (Watts, 2003). This is likely to be the case for a CLR addressing a mature field or a cohesive community (e.g., a long-established conference). It may not be the case in an emerging area of research or for a theory that has been adopted by different and separate communities. Regardless of the presence and size of the main component there will typically be a long tail of components representing the researchers who have produced one paper meeting the CLR search criteria but who have not connected with any of the authors in the main component.
+In social network analysis (SNA) a network consists of nodes and edges in which each node is a point on the network and an edge is a line that connects two nodes (Wasserman & Faust, 1994). In a co-authorship network nodes represent authors and an edge that a pair of authors have written an article together. In a co-authorship network the edges are modeled as non-directional (in a network for advice seeking, for example, the edges would be directional). A common network analysis technique is to measure author centrality, which is concerned with the types and quantity of connections that one author has to other members of their network component. There are three principal measures of centrality: degree, betweenness, and closeness (Freeman, 1979). Degree centrality measures how many co-authorships a given author has with other authors. Betweenness centrality measures the number of times a node intersects the shortest path between two other nodes and thus gives an indication of the extent to which one author plays a linking role between other authors. Farness is calculated as the sum of a node’s shortest distance to all other nodes; closeness centrality is the reciprocal of farness and the higher the score then the lower a node’s total distance to all other nodes in the component. Authors with high closeness centrality will receive new information more quickly and be able to disseminate their ideas more quickly.
+3.3. Content analysis
+For any researcher engaged in a literature review an important concern is identifying the “topics” contained in the corpus. In many cases the evaluation of previous work can be performed on the basis of reviewing abstracts alone. This is reasonable on pragmatic grounds due to the quantity of work to be reviewed (i.e., the cost saving in terms of time of not reading the full text when making an initial review), and the amount of information a well-constructed abstract will contain. Indeed this is the very purpose of an abstract: “to facilitate quick and accurate identification of the topic of published papers” (Luhn, 1958, p. 159). The CLR uses topic modeling to automate the analysis of abstracts.
+Topic models are a collection of algorithmic approaches that seek to find structural patterns within a collection of text documents, producing groupings of words that represent the core themes present across a corpus. They are dimension-reduction techniques that offer an automated way to dissect the documents presented and identify the most common subjects within them (Blei, 2012). While there are examples in the information systems literature of the use of topic models to analyze academic papers (e.g., Larsen, Monarchi, Hovorka, & Bailey, 2008; Indulska, Hovorka, & Recker, 2012; Evangelopoulos, Zhang, & Prybutok, 2012; Li & Joshi, 2012) these authors use latent semantic analysis (LSA) presented in Deerwester, Dumais, Landauer, Furnas, and Harshman, 1990.  ]]><h target="4" match="part">Whilst LSA can be an effective method for topic analysis, it has several limitations in comparison to latent Dirichlet allocation (LDA), an algorithm developed by Blei, Ng, and Jordan, 2003 and which has become the de facto standard for topic modeling.
+            LDA belongs to a class of statistical approaches known as ‘generative models’. The algorithm, being presented with an output (the corpus of text documents), seeks to replicate the way in which this data may have been generated. LDA seeks to establish (through replication) the intentions of a document’s writer in respect to the topics they discuss.</h><![CDATA[ Of course, to do so precisely would be impossible. However a reasonable approximation can be reached through making a general assumption about this process; that the choice of words used is essentially arbitrary, and motivated only by a desire to incorporate one topic or another in the document. This is known as the ‘lazy writer’ assumption (e.g., Saphra, 2012); that the document is merely a collection of words chosen on the basis of the writer wishing to incorporate a specific number of topics and at specific proportions. So if the writer wanted the document to be 100 words long, of which 60% were about cats and 40% about dogs, she would simply select 60 words from a list of words associated with the former, and 40 from a list linked to the latter. If this process were repeated across a whole collection of documents, we would then be able to see multiple instances in which different writers had produced content based on the same topics, and be able to calculate the relative frequency with which different words from each topic list are used.
+LDA tries to backtrack from this point, and estimate which words belong in which topic lists. It does so by, having been given the number of topics as a researcher input, simply randomly assigning every word in every document to one of the topic lists. Clearly, the result of this “allocation” is likely to be completely inaccurate. However, from this initial step we are able to find ways in which this can be improved. If we assume that all of our guesses were correct except for the allocation of just one of the words, we can then evaluate the probability that the word in question actually does fit in this topic, in comparison to the probability that it would fit in one of the other topics. If topic one is about “cats” and topic two “dogs”, then the documents with a high proportion of their content drawn from the “dogs” topic list would be likely to feature the word “bark” and documents that focus on the “cats” topic rarely would. If our initial allocation had been that this word in a particular document was in the “cats” topic list, then comparing the conditional probability of this assignment (the likelihood of the word belonging to the “cats” topics considering the relatively low frequency it occurs in documents that feature the “cats” topic) with the conditional probability of a different assignment (i.e. the “dog” topic) the system can recognize this mistake and re-allocate the word. We follow the same process for each of the remaining words in each document in the corpus, completing the first pass through the dataset, and then repeat this all again a large number of times (1,000 passes in the case of our example). With each pass the accuracy improves, before our final solution will typically provide a close representation of the topics discussed in the documents.
+
+As with many related statistical methods (e.g. factor analysis or clustering) the researcher is required to input the number of topics (denoted by K) in advance. In reality, of course, this number is unknowable. One area of current research is algorithmic solutions for approximating K (e.g., Lee & Mimno, 2014). Whilst this is a rich and promising area of research, at present these solutions are still in development and not as “road-tested” as LDA and the other methods used here. Further, they tend towards selecting high-numbers of topics on certain corpora (such as those with a high number of documents and/or those with a wide range of subject matters). An alternative approach is through experimentation. Instead of running the algorithm just once, several runs can be performed, with incremental increases in the number of topics (K), and the results compared. This can be done either quantitatively (through comparison of certain statistical metrics), or, and usually more effectively, qualitatively. In the case of the latter, typically this means the researcher can inspect the words most associated with each topic (for instance, using a word cloud) for multiple values of K, and select the number of topics that produces results that make the most sense to them.
+3.4. Technical design
+With regard to the design objectives of the CLR as an artifact the solution should (1) allow for systematic, repeatable, transparent, and resource efficient literature analysis. The solution should (2) be developed as an open source software artifact that can be made freely available to the research community for use and further development. The CLR should (3) be able to run with minimal effort and technical knowledge on the part of the user. The CLR should (4) support visualization of the results and (5) produce output in a reusable form, including data tables in csv (comma separate variable) format, graphical images in pdf format, interactive visualizations, and be able to export files for input to specialist software packages (e.g., for network analysis and network visualization).
+
+To meet the requirement for an open source implementation that can be used freely and further developed by the research community we decided to use the statistical programming language R, an open source powerful programming language for statistical computing, machine learning and graphics. While the CLR can be run without ability to program in R, a degree of technology familiarity is required to install the R environment and an integrated development environment, such as RStudio (https://www.rstudio.com).
+The R source code for the CLR, together with instructions for running the software, can be found in the GitHub repository: https://github.com/rvidgen/clr.]]>
+    </section>
+    <section name="A demonstration of the clr using the technology acceptance model (TAM)" category="results">
+        <![CDATA[
+4. A demonstration of the clr using the technology acceptance model (TAM)
+The technology acceptance model (TAM) is one of the most widely used theories in information systems (IS) research. The TAM was introduced by Davis (1989) and is used to predict whether a new technology will be adopted by individuals, groups, or organisations. TAM draws on the theory of reasoned action (Fishbein & Ajzen, 1975) and in its simplest form proposes that perceived ease of use, perceived usefulness, attitude toward use, and behavioral intention will predict actual usage of a technology. The TAM has been subject to numerous additions and developments, such as the unified theory of the acceptance and use of technology (Venkatesh, Morris, Davis, & Davis, 2003).
+In their literature review of the TAM, Marangunić and Granić (2015) identified seven prior TAM literature reviews: Lee, Kozar, and Larsen, 2003, Legris, Ingham, and Collerette, 2003, King and He (2006), Sharp (2007), Chuttur (2009), Turner, Kitchenham, Brereton, Charters, and Budgen, 2010, and Hsiao and Yang (2011). Each of these seven studies involved small sample sizes, ranging from 22 (Legris et al.) to 101 (Lee et al.). Two of the studies, Sharp and Chuttur, did not conduct systematic reviews, preferring to produce a critique using a limited set of literature (a “narrative synthesis” (Tate et al., 2015) of less than 20 sources). Marangunić and Granić themselves reviewed a set of 85 papers and studies from other areas, such as Yarbrough and Smith (2007) who found only 18 articles reporting on technology acceptance among physicians. The narrowing of the set size seems to be either practical (the researchers cannot manage large volumes of articles) or research domain related (e.g., TAM for physicians).
+The aims of the seven reviews and the analysis methods employed varied, for example Legris et al. (2003) and Turner et al. (2010) considered the question of whether the TAM explains actual use, Hsiao and Yang (2011) conducted factor analysis to identify trends in the application of the TAM, while King and He (2006) conducted a meta-analysis (see Houy, Fettke, and Loos, 2015 for a taxonomy of literature review analysis approaches). Clearly, the CLR is not a replacement for the qualitative analysis conducted in these studies. However, it can be used to make sense of research areas that have large volumes of articles and then integrated with the one of a range of subsequent analysis methods (Houy et al., 2015) that might be deployed in the literature review.
+In summary, we have chosen the technology acceptance model (TAM) to illustrate the CLR method as TAM is a prominent theory in IS research, it has been taken up in many fields, and the large volume of TAM literature available makes it difficult to interpret without machine assistance.
+
+4.1. Data acquisition and descriptive analysis
+We used the search term “technology acceptance model*” in Scopus and included all databases (Life Sciences, Health Sciences, Physical Sciences, Social Sciences & Humanities) to get as broad coverage as possible. See Appendix A for details of how to execute a search in Scopus and save the results to a csv (comma separated variable) file.
+The search was conducted in September 2015 and returned 3,386 articles searching on “Article, Title, Abstract, Key Words”. This is a sufficiently large dataset to pose difficulties for human interpretation and largely beyond the reach of an individual researcher, such as a PhD student. Articles were extracted for the range “All Years” to “Present”, which for this search covered the period 1991–2015. Scopus limits the download of abstract data to 2,000 records per search. We therefore split the search into two, using “All years” to 2010 and then 2011 to “Present”. The CLR software combines the separate files into a single file and checks for duplicate records, which could be introduced if multiple searches are conducted and then combined in the CLR. In Fig. 1 we present a graph produced by the CLR of the number of articles published in each year (1991 to the last complete year, 2014); as can be seen, the TAM continues to rise in popularity (Fig. 2).
+Fig. 2
+Download high-res image (113KB)Download full-size image
+Fig. 2. number of TAM articles published per year.
+4.2. Impact analysis
+Impact is assessed using Scopus citation counts. At the most fundamental level this is simply the number of citations that an article has attracted. Table 1 is a simple sort of the articles extracted form Scopus using the search term(s) sorted by citation count. We show the top 20 articles, although citation counts for all articles are written to a spreadsheet for the researcher to conduct further inspection and analysis. Of the 3,386 articles, there are 1,504 that have zero citations in Scopus.
+Table 1. Top twenty TAM articles ranked by citation count (1504 of 3386 articles have zero citations).
+Authors	Title	Year	Source	Cites
+Venkatesh V., Morris M.G., Davis G.B., Davis F.D.	User acceptance of information technology: Toward a unified view	2003	MIS Quarterly: Management Information Systems	5666
+Venkatesh V., Davis F.D.	Theoretical extension of the Technology Acceptance Model: Four longitudinal field studies	2000	Management Science	3860
+Taylor S., Todd P.A.	Understanding information technology usage: A test of competing models	1995	Information Systems Research	2397
+Venkatesh V.	Determinants of Perceived Ease of Use: Integrating Control, Intrinsic Motivation, and Emotion into the Technology Acceptance Model	2000	Information Systems Research	1559
+Bhattacherjee A.	Understanding information systems continuance: An expectation-confirmation model	2001	MIS Quarterly: Management Information Systems	1425
+Mathieson K.	Predicting user intentions: Comparing the technology acceptance model with the theory of planned behavior	1991	Information Systems Research	1353
+Venkatesh V., Morris M.G.	Why don't men ever stop to ask for directions? Gender, social influence, and their role in technology acceptance and usage behavior	2000	MIS Quarterly: Management Information Systems	1281
+Pavlou P.A.	Consumer acceptance of electronic commerce: Integrating trust and risk with the technology acceptance model	2003	International Journal of Electronic Commerce	1183
+Moon J.-W., Kim Y.-G.	Extending the TAM for a World-Wide-Web context	2001	Information and Management	1140
+Davis F.D.	User acceptance of information technology: system characteristics, user perceptions and behavioral impacts	1993	International Journal of Man-Machine Studies	1096
+Legris P., Ingham J., Collerette P.	Why do people use information technology? A critical review of the technology acceptance model	2003	Information and Management	1032
+Venkatesh V., Davis F.D.	A model of the antecedents of perceived ease of use: Development and test	1996	Decision Sciences	1025
+Koufaris M.	Applying the Technology Acceptance Model and flow theory to online Consumer Behavior	2002	Information Systems Research	919
+Van Der Heijden H.	User acceptance of hedonic information systems	2004	MIS Quarterly: Management Information Systems	908
+Taylor S., Todd P.	Assessing IT usage: The role of prior experience	1995	MIS Quarterly: Management Information Systems	832
+Gefen D., Straub D.W.	Gender differences in the perception and use of e-mail: An extension to the technology acceptance model	1997	MIS Quarterly: Management Information Systems	831
+Agarwal R., Prasad J.	A Conceptual and Operational Definition of Personal Innovativeness in the Domain of Information Technology	1998	Information Systems Research	760
+Agarwal R., Prasad J.	Are individual differences germane to the acceptance of new information technologies?	1999	Decision Sciences	753
+Wixom B.H., Todd P.A.	A theoretical integration of user satisfaction and technology acceptance	2005	Information Systems Research	723
+Venkatesh V., Bala H.	Technology acceptance model 3 and a research agenda on interventions	2008	Decision Sciences	644
+Total number of papers = 3386				
+The articles are then summarized by publication venue to identify the venues that have the greatest impact in terms of citations. The CLR produces a count of the number of articles published in a venue to get a sense of level of activity and divides total citations by number of papers to get an overall idea of impact. Table 2 shows the top 20 sources for the TAM dataset (from a total of 1,283 venues).
+Table 2. Top twenty publication venues ranked by citation count and by impact (for TAM).
+Rank	Venue	Total cites	Rank	Venue	Impact
+1	MIS Quarterly: Management Information Systems	13911	1	Management Science	1582.0
+2	Information and Management	12175	2	International Journal of Man-Machine Studies	1096.0
+3	Information Systems Research	9271	3	MIS Quarterly: Management Information Systems	772.8
+4	Management Science	4746	4	Information Systems Research	713.2
+5	Decision Sciences	3572	5	International Journal of Electronic Commerce	367.3
+6	Computers in Human Behavior	2951	6	Decision Sciences	357.2
+7	Computers and Education	2290	7	Journal of Strategic Information Systems	278.0
+8	Journal of Management Information Systems	2095	8	Information and Management	213.6
+9	Decision Support Systems	1966	9	Journal of Management Information Systems	190.5
+10	International Journal of Human Computer Studies	1870	10	International Journal of Human Computer Studies	170.0
+11	International Journal of Electronic Commerce	1469	11	Omega	155.7
+12	Internet Research	1284	12	Journal of the Association of Information Systems	149.3
+13	International Journal of Man-Machine Studies	1096	13	Data Base for Advances in Information Systems	143.5
+14	Journal of Business Research	1076	14	IEEE Transactions on Software Engineering	137.0
+15	Information Systems Journal	1050	15	Journal of Information Technology	135.8
+16	International Journal of Information Management	916	16	International Journal of Service Industry Management	129.8
+17	Journal of the Association of Information Systems	896	17	Journal of End User Computing	128.5
+18	Electronic Commerce Research and Applications	887	18	Information Systems Journal	116.7
+19	Behaviour and Information Technology	848	19	Medical Care Research and Review	116.0
+20	IEEE Transactions on Engineering Management	829	20	IEEE Software	114.0
+Total number of Venues = 1283					
+Unsurprisingly, the highest impact venues are the core IS journals, with seven of the AIS ‘basket of 8′ journals (MIS Quarterly, Information Systems Research, Journal of MIS, Information Systems Journal, Journal of the AIS, Journal of Information Technology, Journal of Strategic Information Systems) being represented. Of the 1,283 distinct venues, 598 have zero citations for their TAM articles. The full results, 1,283 publication venues, are written to a spreadsheet for further inspection and analysis.
+
+Next, the articles are summarized by author to identify which researchers have the greatest impact. Table 3 shows the top 20 researchers (from a total of 6159) in the TAM dataset ranked according to total citations and by h-index. It is interesting to note that of these 6159 researchers 2,561 have no citations recorded in Scopus for their work on TAM. It should be noted that the Scopus data is not entirely consistent, for example the same scholar might be entered into Scopus as “A. Aardvark” and again as “A. C. Aardvaark”. While it is possible to sort the data into author order and look for duplicate authors, the volume of data makes this difficult and we accept that some ‘noise’ is inevitable. The impact is typically low for author data and has little or no effect on the venue and article citation analysis or on the topic modeling of abstracts.
+Table 3. Top twenty authors ranked by citation count and by corpus-specific H-index (for TAM).
+Rank	Author	Citations	Rank	Author	h-index
+1	VenkateshV	15394	1	VenkateshV	15
+2	DavisFD	12246	2	TeoT	12
+3	MorrisMG	7205	3	OoiK-B	9
+4	DavisGB	5666	4	DavisFD	8
+5	ToddPA	3475	5	ShinD-H	8
+6	TaylorS	3229	6	ChauPYK	7
+7	PavlouPA	2201	7	LuH-P	7
+8	ChauPYK	1976	8	KimJ	7
+9	BhattacherjeeA	1953	9	ChongAY-L	7
+10	AgarwalR	1860	10	ThongJYL	6
+11	MathiesonK	1765	11	HanI	6
+12	PrasadJ	1678	12	TungF-C	6
+13	StraubDW	1480	13	ShinDH	6
+14	GefenD	1401	14	ParkN	6
+15	KoufarisM	1230	15	RamayahT	6
+16	KimY-G	1140	16	LinB	6
+17	MoonJ-W	1140	17	LeeS	6
+18	InghamJ	1032	18	HernandezB	6
+19	ColleretteP	1032	19	JimenezJ	6
+20	LegrisP	1032	20	TanGW-H	6
+Total number of authors = 6159					
+4.3. Social network analysis
+A co-authorship network was constructed (single authored papers are not included in this analysis) and the individual connected components extracted. The co-authorship network comprises 1237 components, of which the first 50 components are graphed in Fig. 3, ordered by the number of nodes (authors) in each component.
+Fig. 3
+Download high-res image (156KB)Download full-size image
+Fig. 3. component size (first 50 of a total of 1371 components are shown).
+As can be seen, the distribution of component size follows a long-tailed distribution with the main component containing 1,371 authors, followed by components of size 55, 32,12, 11, 11, and then a long tail indeed. This suggests that the TAM community is well established and cohesive with many authors being connected in the main component. For the 10 largest components the CLR software calculates the centrality measures for the authors in that component. For illustration purposes, the top 10 authors on the basis of closeness centrality in each of the 6 largest components are shown in Table 4, together with the author citation counts. This helps to identify the key authors based on their network position. It is interesting to note that two of the scholars with the greatest individual impact (Venkatesh and Davis, G. B.) are in the second largest component and in this Scopus corpus are not linked with any of the authors in the main component.
+Table 4. 6 largest components with their 10 highest scoring authors ranked by closeness centrality (citation count is shown for information synthesis purposes).
+Component 1	Component 2	Component 3
+Author	Cites	Author	Cites	Author	Cites
+ChenC.-Y.	81	ThongJ.Y.L.	756	TeoT.	488
+SunY.	18	HuP.J.-H.	805	NoyesJ.	56
+LuY.	205	VenkateshV.	15394	WongK.-T.	17
+WangT.	5	BrownS.A.	366	RussoS.	12
+YanZ.	7	ChanF.K.Y.	62	SingC.C.	51
+LiC.-C.	13	TamK.Y.	869	WongS.L.	64
+ZhangJ.	131	HongS.	250	SchaikP.V.	33
+WeiK.K.	43	DavisG.B.	5666	JarupunpholP.	NA
+WangM.	25	ChasalowL.C.	9	ZhouM.	1
+ZhouT.	155	WongW.-M.	287	LeeC.B.	177
+No. authors = 1371		No. authors = 55		No. authors = 32	
+Component 4	Component 5	Component 6
+Author	Cites	Author	Cites	Author	Cites
+AshaariN.S.	1	ConteT.	1	RoyneM.B.	74
+AlsmadiM.	12	GomesM.	NA	SternB.B.	38
+AlmrashdahI.A.	1	OliveiraH.A.B.F.	NA	SherrellD.	22
+ZinN.A.Hj.Mat.	NA	VieiraS.R.C.	NA	SmithR.	7
+AlthunibatA.	1	VianaD.	NA	DeitzG.	7
+SahariN.	12	DoNascimentoR.	NA	HansenJ.D.	7
+ZainN.A.M.	1	RiveroL.	1	GrunhagenM.	7
+ZinN.A.Hj.M.	1	KalinowskiM.	1	WitteC.	7
+AlmarashdehI.A.	11	VazV.T.	NA	StaffordT.F.	70
+ZinN.A.M.	11	TravassosG.H.	NA	BienstockC.C.	67
+No. authors = 12		No. authors = 11		No. authors = 11	
+As well as the spreadsheets that were used to produce Table 4, the CLR software generates a visualization of the entire network plus visualizations of the 10 largest components. Fig. 4a is a visualization of the entire network of 6159 (the main component of 1371 authors is clearly visible in the centre of the graph) and 5b a visualization of the eleven authors in component 5 (both produced using R package igraph). In component 5, author Conte can be clearly seen to be most central.
+Fig. 4
+Download high-res image (774KB)Download full-size image
+Fig. 4. Component visualization with R package igraph.
+The CLR software produces visualizations of as many of the components as the user wants to view. For large components, such as the main component of 1371 authors, visualization with names may be too messy to be useful. For those users who wish to dig deeper into the network structure of the research community being studied the CLR software produces export files for two popular network analysis programs: a proprietary product, UCINET (Borgatti, Everett, & Freeman, 2002), and Gephi, a community and free to use product.
+4.4. Topic Modeling
+The next task was to build a topic model of the abstracts. In most cases this would first necessitate fairly extensive data cleaning. In general though, the Scopus output requires relatively little work in this regard beyond standard transformations of case, white space, removal of stop words, etc. However, there are still some important concerns.
+
+Firstly, is the determining the number of topics (K) to use. After some experimentation, and in consideration of the relatively small size of the dataset, we selected a value of 30. The researcher using the CLR has the option of either experimenting with different values and visually inspecting the outputs (as we have done here), or to take a default value determined by the CLR based on the size of the dataset.
+Secondly, we elected to remove some of the words in the dataset as they have limited discriminatory value. For example, terms such as “tam” or “technology”, “acceptance”, and “model” occur in almost all of the abstracts extracted. Whilst this does not necessarily limit the effectiveness of the model, it does make the outputs harder to interpret as these terms will feature in almost all of the topics. We therefore recommend that the user exclude the individual words that are used in the CLR search term. Additionally, again on the basis of visually inspecting the outputs, we also removed ‘noise’ words, such as “study”, “research”, “findings”, “analysis”, and commercial words such as “elsevier”, “emerald”, “ieee”, “springer” and “verlag”. For the researcher using the CLR, such a list can be determined a priori, and/or created on the basis of inspecting the frequency of terms in the topic clouds.
+With these preliminary steps performed, and setting some of the other required parameters (such as the number of passes to make through the dataset) to commonly used levels (which are accordingly default values in the CLR software), the model was executed. The great majority of the 30 topics extracted clearly represent distinct research areas. For example, in Fig. 5 the word clouds for six of the 30 topics are shown (the full set of word clouds is included in the online appendix). The word clouds show the top 30 most frequent terms for each topic with the word size being determined by the frequency of the word. We can clearly see topics in TAM research that relate to e-learning, the elderly, health, internet banking, enterprise resource planning (ERP), and demographics (gender, age). The topic modeling has discriminated between age in the demographic topic and age as an aspect of the elderly topic.
+Fig. 5
+Download high-res image (1MB)Download full-size image
+Fig. 5. Word clouds for selected topics.
+Further topics clearly address social media, cloud computing, e-government, software development tools, e-commerce trust, hedonic motivation and flow, continuance theory, online shopping, country cultural aspects, SMEs, usability, and virtual worlds. As with exploratory factor analysis, the topic modeling software does not label the topics − this is something the user must do based on the content of the topics.
+
+A further visualization technique is provided by the LDAVis package (Sievert & Shirley, 2014). LDAvis is a web-based interactive visualization written in R and D3 (data-drive documents) that gives an overview of all the topics showing differences between topics as well as enabling perusal of the terms most highly associated with each individual topic. LDAVis is a powerful tool that allows the user to look at individual topics while keeping the entire topic landscape in view and is thus helpful to the user when interpreting and labeling topics. Fig. 6 shows the LDAVis interface. Selecting a topic on the left hand side (in this case the topic that appears to address demographics) highlights the most useful terms for interpreting the selected topic on the right hand side. Conversely, selecting a term on the right hand side exposes the conditional distribution over topics on the left for the selected term.
+Fig. 6
+Download high-res image (477KB)Download full-size image
+Fig. 6. interactive LDAVis presentation of topics (Sievert and Shirley, 2014).
+Once the topic model has been run there will be a set of posterior probabilities for each of the articles against the twenty topics. Posterior probabilities, inferred from the model itself, demonstrate the ‘topic distribution’ of each document; that is, the relative proportion of the document assigned to each topic. In other words, if a document has a posterior probability of 0.5 for a given topic, then that broadly suggests that 50% of the document’s content relates to that topic. The “top topic” for an article is the topic that it ‘loads’ on with the highest probability. The CLR software writes the posteriors and identifies the top topic for each article, allowing the user to check the paper titles in each topic. For example, 20 paper titles selected at random from the 119 articles assigned to the ‘Online Banking’ topic are shown in Table 5. The CLR software has allocated articles that address online banking and mobile payments to this topic.
+Table 5. a random selection of 20 article titles allocated to “Internet Banking” (topic 2).
+Toward an understanding of the behavioral intention to use mobile banking
+Consumer acceptance of online banking: An extension of the technology acceptance model
+Determinants of user acceptance of Internet banking: An empirical study
+Effect of trust on customer acceptance of Internet banking
+Mobile internet acceptance in Korea
+Factors influencing the adoption of internet banking: An integration of TAM and TPB with perceived risk and perceived benefit
+Predicting consumer intention to use mobile service
+Understanding Internet Banking adoption and use behavior: A Hong Kong perspective
+Adoption of internet banking: An empirical study in Hong Kong
+The relationship between consumer innovativeness, personal characteristics, and online banking adoption
+An investigation into the acceptance of online banking in Saudi Arabia
+An empirical investigation of the determinants of user acceptance of Internet banking
+Factors affecting the adoption of Internet Banking in Hong Kong-implications for the banking sector
+Customer acceptance of internet banking in Estonia
+Factors influencing the utilization of Internet purchasing in small organizations
+Investigating the drivers of internet banking adoption decision: A comparison of three alternative frameworks
+Online banking adoption: An empirical analysis
+Consumer resistance to internet banking: Postponers, opponents and rejectors
+Adoption of 3G services among Malaysian consumers: An empirical analysis
+An investigation of consumer acceptance of M-banking
+4.5. Journal and researcher use cases
+We have shown how the CLR can be used to understand a research area (TAM). The CLR can also be used to analyze journals, e.g., if the AIS ‘basket of 8′ journals are used as source data then the CLR will produce a researcher ranking based on corpus specific citation counts and h-index, provide a network analysis of the researchers publishing in those journals, and give an indication of the topics addressed in those journals. If the unit of analysis is an individual researcher then their impact can be assessed (their total citations and their h-index), their co-authorship network exposed, and the content of their research illuminated. Where a set of researchers is included then the analysis will provide an idea of how connected the group is internally, who they work with externally, and the topics covered by the group. Both of these use case are accomplished using the standard CLR package − only the data provided to the packages changes (i.e., the Scopus search terms are adjusted according to the unit of analysis required).
+
+4.6. Performance
+In addition to the TAM we have explored literature in business models, actor network theory, sociomateriality, online activism, insider threats, anti-money laundering, viable systems model, the soft systems methodology, as well as the information systems discipline as a whole. The CLR has been tested with larger datasets. We have run models with more than 15,000 articles and a K value set to 100. Such runs do take longer (around one to two hours on a MacBook Pro rather than the 5 min it takes to analyze the TAM corpus) but given the volume of data and the size of the topic model this is still a remarkably quick and efficient process.]]>
+    </section>
+    <section name="Discussion" category="discussion">
+        <![CDATA[
+5. Discussion
+The contributions of the research are three-fold. ]]><h target="1;2" match="part;full"> Firstly, as detailed above, the CLR offers a fully functional and automated tool that allows the researcher to evaluate large volumes of the existing literature with regard to impact, structure, and content.</h><![CDATA[ Research managers can use the CLR to analyze journals and researchers. Secondly, the CLR offers an approach that can offer greater academic validity to literature reviews. Performed over similar datasets, the results from the CLR are generally replicable and the approach used is essentially transparent, thus offering a more objective approach to determining relevancy and importance of sources than is often seen in literature reviews. Thirdly, we consider this work to represent a further contribution to growing debates as to how academic research may embrace the opportunities of Big Data analytics. Whilst its use in organizations of all types has been well documented, its application in academia, particularly in social science research, remains an under-explored area.
+
+Thus, given the speed and power of the CLR we can see no reason why a researcher would not start their literature review with a CLR analysis, if only to get a broad understanding of the area before focusing in and adopting a more traditional literature review approach. This suggests that all social scientists, including those adopting interpretive/qualitative methods, should have sufficient ICT skills to run software such as the CLR and have a basic grounding in languages such as R. Indeed, it is likely that qualitative researchers will adopt methods similar to the CLR in their analysis of large volumes of research data (e.g., open comments in surveys, social media data, and/or interview transcripts).
+
+Thus, we suggest that all management researchers should be trained in the basics of machine learning and programming and that this become a core part of doctoral training programmes in business schools and the social sciences. As Big Data continues to grow in both its influence in the business community, and in the opportunities it offers to conduct new methods of analysis that would not have been possible in previous eras, so too will these skills become increasingly prized. Whilst it is unrealistic to imagine that all business school students become fully versed in the finer details of matrix algebra and Bayesian inference, having the ability and the confidence to use machine learning algorithms (as the natural partner to Big Data analyses) via software such as R, has the promise to open up a wealth of research opportunities, not least to include the CLR and other algorithmic tools to support literature reviews.
+
+5.1. Future work
+There are several extensions and improvements that may be made. Firstly, on the basis that much research (e.g. a PhD thesis) will be conducted over a long period of time, a useful addition would be a measure of the degree of change in the literature since the initial review was conducted. Again, this can be measured across the three main dimensions identified: impact, structure and content. Secondly, there are other algorithms and approaches within the topic model family that may offer additional benefits to the CLR. One example includes being able to measure the correlations between topics (through the correlated topic model of Blei and Lafferty (2006)) that can potentially reveal new lines of related enquiry for the researcher. Another, using the dynamic topic model (Blei & Lafferty, 2006), would allow researchers to measure changes in the popularity of different topics over a period of time. Using the structural topic model (Roberts et al., 2014), it would be possible for the researcher to incorporate metadata such as journal title and key words into the model to help shape the content of the topics presented. Thirdly; developments such as the altmetrics movement (www.altmetrics.org) could be included in the CLR. Altmetrics is a movement that allows greater diversity in the measurement of article-level impact by including data from non-traditional media (e.g.; social media; blogging). This would allow recent articles that are being mentioned by academics to be included and weighted in the impact analysis; even though they may yet to have achieved citations. Lastly; an end goal of this research is to create a “relevancy index” for the social science researcher. By incorporating the three elements of the CLR; along with any further useful indicators that can be identified; we aim to produce a ranked order for the papers on the basis of the likely usefulness to the research project. In effect this would produce a search-engine type output; but unlike current offerings; the sources would be entirely focused on the researcher’s area; and the topics of its content would be restricted accordingly. The results could also then be customized according to criteria set by the researcher; such that; for example; more recent or more impactful (more heavily cited) results could be given higher weighting.]]>
+    </section>
+    <section name="Summary" category="conclusion">
+        <![CDATA[
+6. Summary
+This paper, and the accompanying CLR software, offers a new and innovative approach to the social scientist engaged in the analysis of research outputs, whether as part of a literature review, journal analysis and ranking, or for the evaluation of individual scholars and research centres. A major benefit is that large volumes of research articles can be analyzed quickly and consistently. The use of LDA topic modeling to analyze the content of abstracts moves the automation of literature reviews beyond simple counting and quantitative analysis to text analysis that supports the search for patterns and meaning. The CLR is designed to be accessible to a far wider audience than the majority of text analytics applications, and it is the authors’ hope that the researcher community will begin to consider the use of machine learning as a new de facto starting point for social science literature reviews.]]>
+    </section>
+</publication>

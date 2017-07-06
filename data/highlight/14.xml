@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<publication marker="wanghongmei">
+    <journal>International Journal of Information Management</journal>
+    <time>Available online 13 April 2016</time>
+    <title>Importance-Performance Analysis based SWOT analysis</title>
+    <author>Boonyarat Phadermrod.</author> Author links open the author workspace.Opens the author workspaceOpens the author workspacea. Numbers and letters correspond to the affiliation list. Click to expose these in author workspaceb. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace<author>Richard M. Crowder.</author> Author links open the author workspace.Opens the author workspacea. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace<author>Gary B. Wills.</author> Author links open the author workspace.a. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace
+a
+Electronics and Computer Science, University of Southampton, Southampton SO17 1BJ, United Kingdom
+b
+Department of Computer Engineering, Faculty of Engineering at Kamphaengsaen, Kasetsart University, Nakhon Pathom 73140, Thailand
+Show more
+    <doi>https://doi.org/10.1016/j.ijinfomgt.2016.03.009</doi>Get rights and content
+Highlights
+<highlight id="1">A new approach of SWOT analysis that generates prioritizes SWOT factors based on customers’ perception called IPA based SWOT analysis is presented.</highlight>
+<highlight id="2">The application of IPA based SWOT analysis was presented to illustrate how it can be used to process customer satisfaction survey and generate SWOT.</highlight>
+<highlight id="3">The validity of the IPA based SWOT analysis was demonstrate and evaluated using statistical techniques through the real organisation.</highlight>
+
+<abstract><![CDATA[
+Abstract
+SWOT analysis, a commonly used tool for strategic planning, is traditionally a form of brainstorming. Hence, it has been criticised that it is likely to hold subjective views of the individuals who participate in a brainstorming session and that SWOT factors are not prioritized by their significance thus it may result in an improper strategic action.]]><h target="1" match="full"> While most studies of SWOT analysis have only focused on solving these shortcomings separately, this study offers an approach to diminish both shortcomings by applying Importance-Performance Analysis (IPA) to identify SWOT based on customer satisfaction surveys which produces prioritized SWOT corresponding to the customers’ perception.</h><![CDATA[ Through the use of IPA based SWOT analysis, it is expected that a organisation can efficiently formulate strategic planning as the SWOT factors that should be maintained or improved can be clearly identified based on customers’ viewpoints.]]><h target="2" match="part"> The application of the IPA based SWOT analysis was illustrated and evaluated through a case study of Higher Education Institutions in Thailand.</h><![CDATA[ ]]><h target="3" match="part">The evaluation results showed that SWOT analysis of the case study accurately reflected the organisation's situations thereby demonstrating the validity of this study.</h><![CDATA[
+]]></abstract>
+    
+    <keywords>SWOT analysis</keywords>
+    <keywords>Importance-Performance Analysis</keywords>
+    <keywords>Customer satisfaction surveys</keywords>
+    
+    <section name="Introduction" category="introduction"><![CDATA[
+1. Introduction
+Understanding the business environment is central to a strategic planning process. Among the most important tools to facilitate such understanding is the SWOT analysis (Hill & Westbrook, 1997; Ying, 2010). It helps organizations to gain a better insight of their internal and external business environment when making strategic plans and decisions by analysing and positioning an organization's resources and environment in four regions: Strengths, Weaknesses, Opportunities and Threats.
+SWOT analysis has been praised for its simplicity and has been in continued use since the 1960s. However, in practice it cannot offer an efficient result and sometimes may lead to a wrong business decision (Coman & Ronen, 2009; Wilson & Gilligan, 2005). This is because the traditional approach of SWOT analysis is based on qualitative analysis in which SWOT factors are likely to hold subjective views of managers or planner judgements. Besides, SWOT factors in each region are either not measurable or ranked by the significance towards an organisation's performance. In addition, the SWOT analysis should be evaluated by considering the customer's perspective rather than being evaluated solely on the organisation's point of view to ensure that the capabilities perceived by the organisation are recognized and valued by the customers (Piercy & Giles, 1989; Wilson & Gilligan, 2005).
+]]><h target="1" match="full">This deficiency in the traditional approach of SWOT analysis motivated our research to exploit the Importance-Performance Analysis (IPA), a technique for measuring customers’ satisfaction from customer satisfaction survey (Levenburg Magal,2005; Martilla James, 1977Matzler, Sauerwein,  Heischmidt, 2003), to systematically generate prioritized SWOT factors based on customers’ perspectives.</h><![CDATA[ This in turn produces more accurate information for strategic planning. Specifically, strengths and weaknesses of the organisation are identified through an IPA matrix which is constructed on the basis of an organisation's performance and the organisation's importance. Opportunities and threats are obtained by comparing the IPA matrix of the organisation with that of its competitor.
+This paper is structured as follows. Section 2 reviews the relevant literature including SWOT analysis and IPA. Section 3 introduces a framework of IPA based SWOT analysis. Subsequently, Section 4 illustrates the implementation of the proposed IPA based SWOT analysis at one department of a leading university in Thailand. Section 5 concludes this paper.
+
+]]></section>
+
+    <section name="Literature review" category="background"><![CDATA[
+2. Literature review
+This section reviews the literature relating to two main topics of the work reported in this paper: SWOT analysis and IPA. For a review of SWOT analysis, a general introduction to SWOT analysis is described, and the research studies involved with quantitative SWOT analysis and customer oriented SWOT are investigated. An overview of IPA is provided where the main focus is approaches that have been used for measuring attribute importance.
+
+2.1. SWOT analysis
+SWOT analysis is a commonly used method for analysing and positioning an organization's resources and environment in four regions: Strengths, Weaknesses, Opportunities and Threats (Samejima, Shimizu, Akiyoshi, & Komoda, 2006). Strengths and Weaknesses are internal (controllable) factors that support and obstruct organizations to achieve their mission respectively. Whereas Opportunities and Threats are the external (uncontrollable) factors that enable and disable organizations from accomplishing their mission (Dyson, 2004). By identifying the factors in these four fields, the organization can recognize its core competencies for decision-making, planning and building strategies.
+SWOT analysis is one of many tools that can be used in an organization's strategic planning process. Other tools that are commonly used for strategy analysis are PEST analysis, Five Forces analysis, and 3C (Company–Customer–Competitor) analysis (Akiyoshi & Komoda, 2005). Regarding the survey conducted by the Competitive Intelligent Foundation (Fehringer, Hohhof, & Johnson, 2006) which received responses from 520 competitive intelligent (CI) professionals, SWOT is the second-most frequently used analytic tool with 82.6% of respondents. It was ranked after competitor analysis with 83.2% of respondents. Additionally, the survey based on the answers supplied by the Chief Executive Officers of wide range organizations in the UK shows that SWOT analysis is the most widely applied strategic tool by organizations in the UK (Gunn & Williams, 2007). Recently, a survey about analytical methods used by enterprise in South African for environmental scanning also shows that SWOT analysis is the most frequently used analytic tool with 87% of respondents followed by competitor analysis with 85% of respondents (du Toit, 2016).
+The main advantage of SWOT analysis is its simplicity have resulted in its continued use in both leading companies and academic communities (Ghazinoory, Abdi, & Azadegan-Mehr, 2011) since it was developed in the 1960s. Despite its advantages, there are shortcomings existing in the traditional SWOT approach as it produces superficial and imprecise list of factors, relies on subjective perception of an organisation's staff who attended the brainstorming session and lacks factor prioritization regarding the importance of each SWOT factor.
+Due to the disadvantage in prioritization of SWOT factors, a number of researchers proposed a new variation of SWOT analysis approaches that integrated SWOT with others quantitative methods such as Analytic Hierarchy Process (AHP)-SWOT (Kangas, Pesonen, Kurttila, & Kajanus, 2001; Kurttila, Pesonen, Kangas, & Kajanus, 2000), fuzzy analytic hierarchy process (FAHP)-SWOT (Lee & Lin, 2008) and Analytic Network Process (ANP)-SWOT (Fouladgar, Yakhchali, Yazdani-Chamzini, & Basiri, 2011; Yüksel & Dagdeviren, 2007) which make SWOT factors commensurable regarding their relative importance.
+The main steps of these approaches can be summarized as follows. First, the SWOT analysis is carried out through a brainstorming session to identify the SWOT factors in each group. Then, the relative importance of the SWOT factor is determined through the pair-wise comparison within and between SWOT groups. Finally, the importance degree of the SWOT factors is computed based on the comparison matrix.]]><h target="1" match="part"> These quantitative SWOT analysis approaches prioritize SWOT factors solely on the organisation's perspective and ignore the customer's perspective even if it can ensure that the capabilities perceived by an organisation are recognized and valued by the customers. Therefore, this research aims to fill this gap in previously reported SWOT approaches.</h><![CDATA[
+
+Regarding customer oriented SWOT analysis, there have been two studies that applied text mining and sentiment analysis to analyse customers’ feedback from unstructured data sources. The first study by Dai, Kakkonen, and Sutinen (2010) proposed a decision support model that utilized text mining to identify SWOT factors from unstructured data sources such as customers’ feedback, competitors’ press releases, e-mail and organisation reports. However, Dai et al. (2010) focuses on the extraction of information from data sources and a mechanism to justify SWOT factors is not described. The second study by Pai, Chu, Wang, and Chen (2013) developed an ontology-based SWOT analysis mechanism that analyses the structure of online Word-of-Mouth (WOM) appraisals and interprets them as the strengths, weaknesses, opportunities, and threats of an organisation. Specifically, Pai et al. (2013) extracted WOM appraisals for on-line resources then applied sentiment analysis in cooperation with an Ontology to classify extracted appraisals into positive/negative appraisals. Then, both positive and negative appraisals were used to assess the SWOT of the organisation. Pai et al. (2013) evaluated the proposed system by using user satisfaction questionnaire and the result showed that it can be used to accommodate strategic planning. ]]><h target="1" match="part">Pai et al.'s work is closely related to this study since it takes customers’ perspective into account. However, the SWOT factors produced based on their approach cannot be prioritized and have no means to measure the importance.</h><![CDATA[
+2.2. Importance-Performance Analysis
+Importance-Performance Analysis (IPA) is a technique for analyzing customer satisfaction towards an organisation's product or service as proposed by Martilla and James (1977). For a considerable period of time, IPA has been used as a tool for understanding customers’ needs and desires so as to develop marketing strategies to respond to them. IPA is widely used in many areas in which customer satisfaction is a key to a thriving business including higher education (Silva & Fernandes, 2012), tourism (Taplin, 2012), government service (Seng Wong, Hideki, & George, 2011), convenience store (Shieh & Wu, 2009) and bank service (Wu, Lee, Cheng, & Tasi, 2012).
+Since customer satisfaction is a function of customer perceptions, it involves the quality of the organisation's product or service and customer expectations.]]><h target="2" match="part"> Therefore, IPA measures the satisfaction from customer satisfaction surveys based on two components of product or service attributes: the importance of a product or service to a customer and the performance of organisation in providing that product or service</h><![CDATA[ (Martilla & James, 1977).
+The intersection of these two components creates a two-dimensional matrix, Fig. 1., where the importance is shown by the x-axis and the performance is shown by the y-axis. Depending on cell location, the attributes related to an organisation's product or service are considered as major or minor strengths and weaknesses described as follows (Hosseini & Bideh, 2013; Martilla & James, 1977; Silva & Fernandes, 2012):
+The Importance-Performance Analysis (IPA) matrix (Hosseini & Bideh, 2013)
+Download high-res image (186KB)Download full-size image
+Fig. 1. The Importance-Performance Analysis (IPA) matrix (Hosseini & Bideh, 2013).
+Quadrant 1
+contains the attributes that are perceived to be very important to customers, and the organisation seems to provide high levels of performance. Thus attributes in this quadrant are referred to as the major strengths and opportunities for achieving or maintaining competitive advantage.
+
+Quadrant 2
+contains the attributes that are perceived as low importance to customers, but the organisation seems to provide high levels of performance. In this case, the organisation should reallocate resources committed to attributes in this quadrant to other quadrants in need of improved performance.
+
+Quadrant 3
+contains the attributes with low importance and low performance which are referred to as the minor weaknesses. Thus attributes in this quadrant do not require a great deal of priority for improvement
+
+Quadrant 4
+contains attributes that are perceived to be very important to customers but performance levels are fairly low. These attributes are referred to as the major weaknesses that require immediate attention for improvement.
+
+
+Generally, data regarding customer perceptions toward a product or service gathered via customer satisfaction surveys are examined for constructing an IPA matrix in which the main task is measuring attributes’ importance and attributes’ performance. Typically, method for measuring an attributes’ performance is well-established by using direct rating from customers survey in which the customers are asked to rate the performance of the attribute ranging from “very dissatisfied” to “very satisfied” in a 5-point or 7-point Likert scale. Whereas attributes’ importance can be measured either on a rating scale (self-stated importance) or estimated on the basis of performance (implicitly derived importance).
+
+The customers’ self-stated approach asks respondents to rate the importance of each product or service's attribute and calculate attributes’ importance based on customer preference. Although this is a commonly used approach, this method has some limitations. Firstly, adding questions for asking customers to rate importance increases the survey length which might affect the response rates (Garver, 2003). Secondly, self-stated importance tends to have low discrimination power as customers tend to consider that all attributes are very important (Gustafsson & Johnson, 2004). In addition, many researches argued that the customers’ self-stated importance is not an adequate method to measure importance (Deng, Kuo, & Chen, 2008; Matzler et al., 2003) since this approach depends on two assumptions1 that are erroneous in the real world.
+Consequently, the statistically inferred importance is introduced as a method to implicitly derive attributes’ importance based on the relationships between attributes’ performances and overall performance measures such as overall satisfaction (Garver, 2003; Pezeshki, Mousavi, & Grant, 2009; Tontini & Silveira, 2007). The commonly used statistical methods for deriving importance measures are multiple regression analysis (MLR) (Ho, Feng, Lee, & Yen, 2012; Matzler & Sauerwein, 2002; Pezeshki et al., 2009) and partial correlation (Deng, Kuo, et al., 2008; Matzler et al., 2003). Recently, Back-Propagation Neural Network (BPNN) has become an alternative method for implicitly deriving importance (Deng, Chen, & Pei, 2008), due to its ability to detect non-linear relationships between attributes’ performances and overall satisfaction.
+
+]]></section>
+
+<section name="IPA based SWOT framework;Case study of Higher Education Institutions in Thailand" category="results"><![CDATA[
+3. IPA based SWOT framework
+]]><h target="2" match="part">The main idea of this work is to use IPA to analyse survey data of the organisation and its competitors, then the organisation's SWOT factor is derived from the IPA matrix as shown in Fig. 2. The IPA based SWOT analysis comprises of four steps:</h><![CDATA[
+Proposed framework for applying IPA to SWOT analysis
+Download high-res image (320KB)Download full-size image
+Fig. 2. Proposed framework for applying IPA to SWOT analysis.
+Step 1: Undertake a customer satisfaction survey. First and foremost, attributes of an organisation's product or service are identified based on a thorough literature review in each application area or by interviews (Levenburg & Magal, 2005; Martilla & James, 1977; Skok, Kophamel, & Richardson, 2001). Then, a survey is developed regarding the identified attributes of an organisation's product or service.
+Generally, a survey that is suitable for applying IPA consists of an assessment of respondents’ satisfaction for an organisation's product or service which is measured by a Likert scale with either five or seven levels (Lai & Hitchcock, 2015). In addition, the survey should contain an assessment of overall satisfaction on the Likert scale. Two surveys using the same set of questions are required in this study. The first survey focuses on the service quality of the target organisation, while the second survey concentrates on the service quality of the organisation's competitor.
+Step 2: Conduct an IPA on the customer survey. After the surveys are administered to customers of a target organisation and customers of an organisation's competitor, the customer survey data is processed to compute importance and performance for an individual attribute of an organisation's product or service. Procedures associated to this step are shown in Fig. 3, and discussed below.
+•
+Calculate the attributes’ importance. Through this work, attributes’ importance is derived from survey responses based on the relationships between attributes’ performance and overall satisfaction instead of asking customers to rate the importance. Specifically, MLR is chosen to analyse the survey data and compute attribute’ importance as MLR is the best implicitly derived importance method with regard to an empirical comparison2 conducted by the authors.
+MLR is applied to the survey data to create a model for discovering the relationship between the attribute performance of the product or services and overall satisfaction which reveals the attributes that influence the overall satisfaction. All attributes’ performance is set as independent variables and overall satisfaction is set as dependent variable.
+
+The regression coefficients obtained from the MLR model can be referred to as implicit importance since the regression coefficient generally indicates how much a one unit increase in the independent variable results in an increase or decrease in the dependent variable with all other variables held constant (Nathans, Oswald, & Nimon, 2012).
+•
+Calculate the attributes’ performance. The performance for each attribute of organisation's products or services is computed by averaging performance ratings from all respondents to the questionnaire which is called “actual performance”.
+
+•
+Construct the IPA Matrix. The grand mean of attributes’ importance and grand mean of attributes’ performance are calculated, and then used to divide the IPA matrix into four quadrants. Finally, all attributes’ importance and attributes’ performance calculated in previous procedures are plotted on the x-axis and y-axis of IPA matrix respectively.
+
+Steps for conducting IPA of customer survey data
+Download high-res image (341KB)Download full-size image
+Fig. 3. Steps for conducting IPA of customer survey data.
+Step 3: Identify strengths and weaknesses through the IPA matrix. With regard to the IPA matrix produced in Step 2, an organisation's attributes located in Quadrant 1 and Quadrant 2 are identified as strengths as they are having high performance. Whereas an organisation's attributes located in Quadrant 3 and Quadrant 4 are identified as weaknesses as they are having low performance. Based on the same principle, strengths and weaknesses of the organisation's competitor are identified from the IPA matrix of competitor.
+Step 4: Identify opportunities and threats through IPA matrix. By comparing the attributes of an organisation and its competitor that were previously labelled as strength and weakness, opportunities and threats of the organisation can be identified based on the ideas of Pai et al. (2013) which stated that “the strengths of competitor become the threats of the organisation and the weaknesses of competitors can become the opportunities of the organisation”.
+A summary of the identification for all aspects of SWOT and their managerial implication is presented in Table 1 (Lee, Hsieh, & Huang, 2010; Matzler et al., 2003) and described as follows:
+Strength (S). Attribute is labelled as an organisation's strength, since it is identified as a strength of an organisation and its competitor. This means both a target organisation and its competitor are performing well at providing this attribute. The organisation should maintain the performance of this attribute to ensure that the attribute is not turned into a threat when its performance is lower than that of the competitor.
+Weakness (W). Attribute is labelled as an organisation's weakness, since it is identified as a weakness of an organisation and its competitor. This means both a target organisation and its competitor are not performing well at providing this attribute. The organisation should improve the performance of this attribute in order to obtain a competitive advantage in the target market over the competitor.
+Opportunity (O). Attribute is labelled as an organisation's opportunity, since it is identified as strength of an organisation but it is identified as a weakness of a competitor. This means the competitor is not performing as well as the organisation at providing this attribute, implying that the organisation has a competitive advantage over the competitor. The organisation should maintain or leverage the performance of this attribute to stay competitive.
+Threat (T). Attribute is labelled as an organisation's threat, since it is identified as a weakness of an organisation but it is identified as a strength of a competitor. This means the organisation is not performing as well as the competitor at providing this attribute, implying that the organisation has a competitive disadvantage to the competitor. Hence, an organisation should be aware of it and take an immediate action to improve the performance of this attribute in order to prevent a potential loss of profit.
+
+Table 1. SWOT identification table.
+Strength – Weakness	SWOT aspect	Implication
+Organisation	Competitor		
+S	S	S	Head-to-head competition
+W	O	Competitive advantage
+W	S	T	Competitive disadvantage
+W	W	Neglected opportunities
+Additionally, each SWOT factor is weighted as the product of importance and performance. Specifically, a positive value of performance is assigned to the strength and opportunity factors since these factors have performance higher than or equal to the means of overall performance. On the other hand a negative value of performance is assigned to the weakness and threat factors since these factors have performance less than means of overall performance.]]><h target="3" match="part"> This weighting scheme enables factors in each SWOT aspect to be prioritized regarding the magnitude of the weight for which a factor with high magnitude that has higher priority in maintaining or improving than the lower one.</h><![CDATA[
+
+4. Case study of Higher Education Institutions in Thailand
+To evaluate the proficiency of the IPA based SWOT analysis in the real-world situation, the case study of Higher Education Institutions (HEIs) in Thailand was conducted. Specifically, two Computer Engineering departments (henceforth, department A and B) of Thailand's leading university were selected. Department A is referred to as the target organisation while Department B is referred to as the competitor of the target organisation.
+
+Department A, the selected target organisation, was established in 2006 and located in the second campus of the selected university. Department A was chosen as a target organisation because this department needed an improvement to be in the Thailand top 10 for computer engineering. However, Department A still has no concrete future plan since the department's future plan was formulated based on an imprecise SWOT lists in which some ideas were raised from personal attitudes in the brainstorming with no supporting evidence or documents. Department B, the selected competitor, was established in 1989 and located on the main campus of the selected university in the state capital. Department B was chosen as a competitor of Department A because it has academic strengths and expertise in computer engineering which is evidenced by both national and international awards. It is also ranked in the Thailand top three for computer engineering with regard to central university admissions test of Thailand in 2014.
+
+The datasets used as a case study, an implementation of IPA based SWOT analysis and result evaluation are described in the following sub-sections.
+
+4.1. Data collection
+Regarding the first step of an IPA based SWOT framework, input data for conducting IPA was collected in the classroom via a questionnaire responded by undergraduate students of Department A and Department B. A questionnaire using closed-response questions on a five-point Likert scale (1 = Very Dissatisfied to 5 = Very Satisfied) was designed and developed. The questionnaire comprised of questions asking students about their level of satisfaction (performance) toward six attributes of department and one overall student satisfaction (see Appendix A). These attributes were selected based on a list of attributes defined in previous studies of student satisfaction (Grebennikov & Shah, 2013; Silva & Fernandes, 2011; Siskos & Grigoroudis, 2002)
+The questionnaire was piloted among 32 undergraduate volunteers of Department A and Department B, and the reliability of the questionnaire was assessed by Cronbach's alpha as one of the most frequently used methods for calculating internal consistency (Saunders, Lewis, & Thornhill, 2009). As a rule of thumb Cronbach's alpha value greater than 0.7 is considered reliable (De Vaus, 2002). The Cronbach's alpha for each attribute of the department ranged from 0.86 to 0.97 as shown in Table 2. The Cronbach's alpha of all groups was greater than 0.7 thus it can be concluded that the questionnaire has good internal consistency.
+Table 2. List of attributes used in the case study and Cronbach's alpha.
+Attribute	Question/Factor	Cronbach's alpha
+Academic	Teaching ability of teaching staff	0.86
+Personal	Subject expertise of teaching staff	
+(Teacher1-5)	Friendliness of teaching staff	
+Availability of teaching staff	
+Advice and support in learning	
+
+Teaching	Lecture materials	0.92
+and Learning	e-learning resources	
+(Teaching1-6)	Assessments (clarity and timely feedback)	
+Class size	
+Accurate and up-to-date unit content	
+Teaching facilities and classroom condition	
+
+Administration	Knowledge of rules and procedures of staff	0.97
+(Admin1-5)	Knowledge of the information about courses, exams, activities of staff	
+Interest in solving student's problems by staff	
+Friendliness of staff	
+Ability of staff to provide services in a timely manner
+
+Computer	Quality of computer facilities	0.95
+Facilities	Availability of computer facilities	
+(CompFac1-4)	Availability of Internet access	
+Availability of printing and photocopying facilities
+
+Extra-Curricular	Cultural exchange programs with foreign country	0.97
+Activities	Field trips	
+(xActivity1-7)	Moral development activities	
+Health development activities	
+Interpersonal skills development activities	
+Personal learning and thinking skills development activities
+Social volunteer activities	
+
+Additional Services	Financial aid for students	0.96
+(AddService1-4)	Medical support to students	
+Department website	
+Library	
+The questionnaire was distributed online to undergraduate students (four consecutive years) of the two departments during April and May of 2014, in the second semester of 2014/2015 academic year. A total of 155 and 43 valid questionnaires were collected for analysis from Department A and Department B respectively. Note that the sample size of both department were greater than 30 which is the minimum required sample size for data analysis using MLR computed by G*Power (see Appendix B). Thus, it can be assured that the MLR was properly conducted which results the reliable regression coefficients obtained from both dataset.
+4.2. Implementation of IPA based SWOT
+After the questionnaires which were developed in the first step of IPA based SWOT framework were administered to students of the two departments, the student survey data was then processed following step 2–step 4 of IPA based SWOT framework as described in Section 3 in order to generate SWOT of Department A.
+]]><h target="3" match="part">To create the IPA matrix of the two departments, importance and performance for individual attribute of the department were computed. For each attribute, importance was obtained as a regression coefficient by regressing the performance of questions related to the attribute (independent variables) with the overall student satisfaction (dependent variables) using SPSS.</h><![CDATA[
+
+To make the importance measured as regression coefficient from data of Department A and Department B comparable, all importance was expressed as a percentage contribution of factor, with the negative importance set to zero. This approach has been used in some previous comparative studies of importance measures (Gustafsson & Johnson, 2004; Pokryshevskaya & Antipov, 2014).
+For each factor, the performance of Department A and Department B is calculated as a mean of satisfaction. Finally, a mean of all performance and mean of all importance were calculated. Then, the grand mean of performance and importance were calculated as the average of these means. Subsequently, the grand means were used as the intersection to create the IPA matrix of the Department A and Department B. The use of grand means provides a fair comparison between the IPA matrix of both departments.
+
+The IPA result including importance (I), performance (P) and IPA quadrant of Department A and Department B is presented in Table 3 in which the first column is a short name of factors and their description is provided in Table 2. These short names of factors are also used in the other tables of this paper.
+Table 3. Importance-performance of the two departments.
+Factor	Department A	Department B
+I	P	IPA quadrant	I	P	IPA quadrant
+Teacher1	4.477	4.335	1	1.362	4.000	2
+Teacher2	5.195	4.452	1	5.284	4.395	1
+Teacher3	3.043	4.387	2	3.940	4.349	1
+Teacher4	2.565	4.090	2	3.795	3.767	4
+Teacher5	1.934	4.232	2	0.000	3.791	2
+Teaching1	5.847	3.987	1	10.496	3.605	4
+Teaching2	3.086	4.006	2	0.000	3.512	3
+Teaching3	1.521	3.929	2	0.163	3.395	3
+Teaching4	0.739	4.135	2	0.000	4.093	2
+Teaching5	0.000	4.129	2	3.977	3.605	4
+Teaching6	7.020	3.761	4	3.723	4.116	1
+Admin1	0.000	3.877	2	0.708	4.000	2
+Admin2	9.346	3.916	1	5.538	3.860	1
+Admin3	0.000	3.761	3	0.000	4.070	2
+Admin4	2.978	3.748	3	0.000	4.279	2
+Admin5	2.652	3.781	3	8.989	4.116	1
+CompFac1	4.043	3.697	4	0.000	3.674	3
+CompFac2	5.868	3.684	4	6.955	3.651	4
+CompFac3	0.000	3.568	3	3.033	3.884	2
+CompFac4	5.151	3.426	4	3.850	2.698	4
+xActivity1	1.326	3.716	3	4.739	3.535	4
+xActivity2	1.739	3.819	2	7.009	3.233	4
+xActivity3	2.760	3.852	2	0.000	3.302	3
+xActivity4	4.608	3.774	4	0.000	3.209	3
+xActivity5	0.630	3.916	2	8.407	3.674	4
+xActivity6	6.390	3.961	1	0.399	3.767	3
+xActivity7	0.000	3.916	2	2.451	3.209	3
+AddService1	0.826	3.748	3	0.000	3.581	3
+AddService2	5.803	3.729	4	5.266	3.605	4
+AddService3	2.499	3.839	2	9.733	3.116	4
+AddService4	7.955	3.729	4	0.182	2.930	3
+Mean	3.226	3.900		3.226	3.678	
+Grand Mean	3.226	3.789				
+The result of IPA shown in Table 3 is then interpreted as strength and weakness. Factors located in Quadrant 1 and Quadrant 2 are identified as strengths as their performance is higher than the grand mean of performance, whereas factors located in Quadrant 3 and Quadrant 4 are identified as weaknesses as their performance is lower than the grand mean of performance. The identification of strength and weakness is shown in the second and third column of Table 4.
+Table 4. Result of IPA based SWOT.
+Factor	Strength–Weakness	SWOT	Weighta
+Department A	Department B	Department A	
+Teacher1	S	S	S	19.411
+Teacher2	S	S	S	23.124
+Teacher3	S	S	S	13.349
+Teacher4	S	W	O	10.490
+Teacher5	S	S	S	8.187
+Teaching1	S	W	O	23.310
+Teaching2	S	W	O	12.364
+Teaching3	S	W	O	5.978
+Teaching4	S	S	S	3.056
+Teaching5	S	W	O	0.000
+Teaching6	W	S	T	−26.403
+Admin1	S	S	S	0.000
+Admin2	S	S	S	36.598
+Admin3	W	S	T	0.000
+Admin4	W	S	T	−11.160
+Admin5	W	S	T	−10.026
+CompFac1	W	W	W	−14.945
+CompFac2	W	W	W	−21.619
+CompFac3	W	S	T	0.000
+CompFac4	W	W	W	−17.648
+xActivity1	W	W	W	−4.927
+xActivity2	S	W	O	6.640
+xActivity3	S	W	O	10.633
+xActivity4	W	W	W	−17.389
+xActivity5	S	W	O	2.468
+xActivity6	S	W	O	25.310
+xActivity7	S	W	O	0.000
+AddService1	W	W	W	−3.096
+AddService2	W	W	W	−21.640
+AddService3	S	W	O	9.595
+AddService4	W	W	W	−29.663
+a
+Compute by multiplying the importance by positive/negative performance (for strength, opportunity/weakness, threat).
+
+By comparing the factors of Department A and Department B that were previously labelled as strength and weakness, opportunities and threats of Department A were identified regarding the SWOT identification table presented in Table 1. Finally, the SWOT of Department A with weights is presented in the fourth and fifth column of Table 4.
+The SWOT of Department A in Table 4 is also represented as a SWOT matrix and shown in Table 5. Within a SWOT group, factors are prioritized by their weight. For strength and opportunity, the factors with highest priority for maintaining or improving are “Admin2 – Knowledge of the information about courses, exams, activities of staff members” and “xActivity6 - Personal learning and thinking skills development activities” respectively. For weakness and threat, the factors with highest priority for improving are “AddService4 - Library” and “Teaching6 - Teaching facilities and classroom condition” respectively.
+Table 5. SWOT matrix of Department A.
+Strength	Weakness
+Factor	Weight	Factor	Weight
+Admin2	36.598	AddService4	−29.663
+Teacher2	23.124	AddService2	−21.640
+Teacher1	19.411	CompFac2	−21.619
+Teacher3	13.349	CompFac4	−17.648
+Teacher5	8.187	xActivity4	−17.389
+Teaching4	3.056	CompFac1	−14.945
+Admin1	0.000	xActivity1	−4.927
+AddService1	−3.096
+Opportunity	Threat
+Factor	Weight	Factor	Weight
+xActivity6	25.310	Teaching6	−26.403
+Teaching1	23.310	Admin4	−11.160
+Teaching2	12.364	Admin5	−10.026
+xActivity3	10.633	Admin3	0.000
+Teacher4	10.490	CompFac3	0.000
+AddService3	9.595		
+xActivity2	6.640		
+Teaching3	5.978		
+xActivity5	2.468		
+Teaching5	0.000		
+xActivity7	0.000		
+In total, there are 7 strengths, 8 weaknesses, 11 opportunities and 5 threats of Department A that were identified based on the student satisfaction survey. The strengths are mainly in Academic Personal as four out of five factors of Academic Personal were identified as strength. Most of the weaknesses are factors related to Computer Facility and Additional Service. Factors of Teaching and Learning, and Extra-curricular activity are mostly defined as opportunity where as factors of Administration are mostly defined as threat. It can be simply stated that Department A has Academic personal strength and has great opportunity in Teaching and Learning, and Extra-curricular activity. The weakness of Department A is mainly relied on Computer Facility and Additional Service and a threat of the department is related to Administration.
+
+4.3. Result evaluation
+For the purpose of evaluation, another questionnaire was created to assess that the outcome of IPA-based SWOT analysis accurately reflected the Department A's situation, since, currently there are no direct methods and tools for validating the effectiveness of SWOT analysis (Ayub, Razzaq, Aslam, & Iftekhar, 2013). The evaluation questionnaire comprised of closed questions asking a level of agreement of staff in the Department A towards the outcome of IPA-based SWOT analysis shown in Table 4. Each question was rated on a four-point Likert scale (1 = Completely disagree to 4 = Completely agree) without the midpoint that acts as a neutral option, part of the questionnaire is shown in Appendix C.
+]]><h target="3" match="part">The even point scale is preferable to be used in this study with regard to the reason that the authors would prefer staffs to make a definite choice whether they agree or disagree with the produced SWOT rather than choose neutral option, in order to ensure that the evaluation result regarding SWOT output is valid.</h><![CDATA[ The use of even point scale yields some advantages such as eliminating possible misinterpretation of midpoint and revealing the leaning direction of the respondents in the middle.
+
+Additionally, the use of even point scale also reduces the social desirability bias as some respondents who actually lean toward negative response but understated their standpoint by choosing the midpoint to avoid reporting what they perceive to be a socially unacceptable (Garland, 1991). Specifically, the survey experiment by Garland (1991) showed that the absence of a midpoint has resulted in more negative ratings than were achieved when it was available. This result is consistent with the study of (Johns, 2005).
+The questionnaire was piloted and distributed to 14 lecturers and staff who work in Department A. Subsequently, the average level of agreement of staff for each SWOT group (denoted as Savg, Wavg, Oavg, Tavg) was computed. To test whether staff agree or disagree with the outcome of IPA-based SWOT analysis, the one-sample t-test was conducted using SPSS to compare the average level of agreement for each SWOT group with an acceptable threshold of 2.5 out of 4.0.
+This threshold was set according to the fact that the negative response was increased when using even point scale as reported by Garland (1991), thus if staff mostly disagreed with the produced SWOT, the average of staff level agreement should be lower than 2.5. The null and alternative hypotheses can be stated as follows:
+  H0: The mean response is equal to 2.5
+  Ha: The mean response is not equal to 2.5
+This hypothesis was tested at the 5% significance level. The descriptive statistic of variables and the result of the one-sample t-test is shown in Table 6.
+Table 6. Result of the one-sample t-test for each SWOT group (Test Value = 2.5).
+Variable	Mean	SD	Mean difference	t	df	p (2-tailed)
+Savg	2.93	0.355	0.43	3.196	6	0.019
+Wavg	2.35	0.224	−0.15	−1.916	7	0.097
+Oavg	3.19	0.184	0.69	12.389	10	<0.001
+Tavg	2.89	0.179	0.39	4.811	4	0.009
+Based on t-test results reported in Table 6, the average of agreement level toward weakness was slightly lower than, but not significantly different to the threshold score of 2.5 (p-value > 0.05). Thus it can be concluded that the mean of average weakness items is equal to 2.5 indicated that staff seemed to agree with the weakness produced from IPA-based SWOT analysis.
+Table 6 also showed that the average of agreement level toward strength, opportunity and threat was significantly higher than the threshold score of 2.5 indicated that staff seemed to agree with the strength, opportunity and threat produced from IPA-based SWOT analysis. Specifically, the average of agreement level toward strength and threat was close to 3.0 and the average of agreement level toward opportunity was higher than 3.0.
+To confirm that staff were mostly agreed with these three aspects of SWOT, the one-sample t-test was further conducted with the threshold of 3.0 which mean agree. The result is shown in Table 7.
+Table 7. Result of the one-sample t-test for three SWOT group (Test Value = 3.0).
+Variable	Mean	SD	Mean difference	t	df	p (2-tailed)
+Savg	2.93	0.355	−0.07	−0.533	6	0.613
+Oavg	3.19	0.184	0.19	3.390	10	0.007
+Tavg	2.89	0.179	−0.11	−1.425	4	0.227
+With regards to Table 7, the average of agreement level toward opportunity was significantly higher than 3.0 and the average of agreement level toward strength and threat was lower than, but not significantly different to 3.0. It can be confirmed that staff were mostly agreed with strength, opportunity and threat produced from IPA-based SWOT analysis.
+Taken together, results from Tables 6 and 7 suggest that staff of Department A agreed with factors within each SWOT aspect. Therefore, it can be reasonably concluded that the outcomes of IPA-based SWOT analysis accurately reflect the Department A's situation.]]><h target="2" match="part"> They also demonstrated that the IPA-based SWOT analysis can be used to process and analyze customer satisfaction survey to generate SWOT of the organisation.</h><![CDATA[ In addition, using the IPA-based SWOT analysis making SWOT outcomes more measurable and reliable on the basis of Importance-Performance Analysis, and thus better for strategic planning.
+
+]]></section>
+
+    <section name="Conclusion" category="conclusion"><![CDATA[
+5. Conclusion
+]]><h target="1" match="part">This study proposes an IPA-based SWOT analysis that adopts the Importance-Performance Analysis, a technique for measuring customers’ satisfaction from customer satisfaction surveys, to systematically generate SWOT factors.</h><![CDATA[ As mentioned in the literature review, this study bridges the gap of the current SWOT analysis approaches by providing both quantitative and customer customer oriented SWOT factors which improves a deficiency of traditional SWOT analysis. The IPA-based SWOT analysis also makes the best use of data from customer satisfaction surveys that the organisation generally collects.
+
+]]><h target="2" match="part">The key steps of the IPA based SWOT analysis are the IPA matrix construction in which a customer satisfaction survey is analyzed to calculate the attributes’ importance and the attributes’ performance, and SWOT factors identification based on the IPA matrix. Specifically, strengths and weaknesses are identified through an IPA matrix of the organisation. Opportunities and threats are obtained by comparing the IPA matrix of an organisation with that of its competitor.</h><![CDATA[
+
+]]><h target="3" match="part">To demonstrate an application of IPA-based SWOT analysis, the case study of HEIs in Thailand was conducted. The outcome of the case study, SWOT factors of target organisation, showed that the proposed approach can be used practically in a real-world situation. Also, the evaluation of the outcome on the basis of staff's agreement using a one-sample t-test indicated that the outcome of IPA-based SWOT analysis accurately reflect the target organisation's situation.</h><![CDATA[
+By using IPA-based SWOT analysis, the generated SWOT factors are not only measurable regarding the importance and performance but also meaningful as they are identified based on customers’ points of view. A measurable SWOT factor enables an organisation to prioritise SWOT factors in creating an action plan while a customer oriented SWOT factor guarantees that the capabilities perceived by an organisation are recognized and valued by the customers. This facilitates an organisation to efficiently formulate strategic planning for maintaining or enhancing customer satisfaction, thereby gaining a competitive advantage.
+
+Note that IPA-based SWOT analysis is not intended to replace the traditional SWOT analysis but rather to provide a complete view of an organisation's situation from the customer side, while the traditional SWOT analysis provides information from the organisation side and information of macro external factors such as economy, politics, technology and trends. The authors have confidence in the contribution of this work and expect that our IPA based SWOT analysis is able to provide useful and more comprehensive information for strategic planning.
+
+]]></section>
+    
+Appendix A. Student satisfaction survey
+Instruction: Considering your educational experience at the Department A, please indicate your level of satisfaction with the aspects of this department by ticking the response that best corresponds to your opinion using the following scales: 1 = Very Dissatisfied to 5 = Very Satisfied.
+1. Academic Personal	Level of satisfaction
+5	4	3	2	1
+Teaching ability of teaching staff					
+Subject expertise of teaching staff					
+Friendliness of the teaching staff					
+Availability of teaching staff					
+Advice and support in learning					
+...					
+...					
+Overall satisfaction level with your 
+educational experience at Department A					
+
+The rest questions of the questionnaire can be referred to Table 2, in Section 4.
+Appendix B. Sample size estimation of student satisfaction survey
+A minimum required sample size for conducting multiple linear regression in order to derive attribute importance was estimated through G*Power. The major input parameters and their value are:
+•
+]]><h target="3" match="part">Statistical test: multiple linear regression</h><![CDATA[
+
+•
+Alpha error probability: 0.05 – normal convention
+
+•
+Power: 0.95 – to maximise the power of the test
+
+•
+Effect size f2: 1 – to explore whether there is a relationship between attribute performance and overall customer satisfaction
+•
+Number of predictor:4-7 (depending on number of questions associated to the attributes)
+
+
+Given these input parameters, G*Power gives the minimum required sample size corresponded to the number of predictors (questions) for each attribute, as shown in Table B.8.
+Table B.8. Minimum required sample size for building multiple linear regression model of each attribute.
+Attribute	Number of questions/predictors	Minimum required sample size
+Academic personal	5	27
+Teaching and learning	6	28
+Administration	5	27
+Computer facilities	4	24
+Extra-curricular activities	7	30
+Additional services	4	24
+Appendix C. Survey on the level of agreement toward SWOT of department
+This survey forms part of a study into the development of SWOT based on customer satisfaction survey. The survey asks about your level of agreement towards the SWOT of the department A that have been identified based on an earlier department A student satisfaction survey.
+
+Instruction: Please assess your level of agreement with the following sentences according to your view and experience by ticking the appropriate response using the following scales: 1 = Completely disagree to 4 = Completely agree.
+Sentences about SWOT	Level of agreement
+4	3	2	1
+1. Teaching ability of teaching staff is a strength of the department				
+2. Subject expertise of teaching staff is a strength of the department				
+3. Friendliness of the teaching staff towards students is a strength of the department				
+4. Ability of teaching staff to give advice and support to student learning is a strength of the department				
+5. Appropriate number of students per class is a strength of the department				
+6. Knowledge of rules and procedures of non-academic staff members is a strength of the department				
+7. Knowledge of the information about courses, exams and activities of non-academic staff members is a strength of the department				
+8. Poor quality of computer facilities for students (Hardware and Software) is a weakness of the department				
+9. Lack of availability of computer facilities for students is a weakness of the department
+</publication>

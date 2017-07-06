@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<publication marker="zhouzhichao" >
+    <journal>International Journal of Information Management</journal>
+    <time>Volume 36, Issue 1, February 2016, Pages 73-88</time>
+    <title>Impacts of electronic process guides by types of user: An experimental study</title>
+    <author>Manuel Mora.</author> Author links open the author workspace.Opens the author workspaceOpens the author workspacea. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace<author>Rory V. O′Connor.</author> Author links open the author workspace.Opens the author workspaceb. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace<author>Mahesh Rainsinghani.</author> Author links open the author workspace.Opens the author workspacec. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace<author>Ovsei Gelman.</author> Author links open the author workspace.Opens the author workspaced. Numbers and letters correspond to the affiliation list. Click to expose these in author workspace
+a
+Information Systems Department, Autonomous University of Aguascalientes, Ave. Universidad 940, Aguascalientes, Ags 20131, Mexico
+b
+School of Computing, Dublin City University, Glasnevin, Dublin 9, Ireland
+c
+School of Management, Texas Woman’s University, 1215 Oakland St., Denton, TX 76201, USA
+d
+CCADET, Universidad Nacional Autónoma de México, Circuito Exterior S/N, C.P. 04510, Cd. Universitaria, México D.F., Mexico
+Show more
+<doi>https://doi.org/10.1016/j.ijinfomgt.2015.10.001</doi>Get rights and content
+Highlights
+    <highlight id="1">Our research investigates the perceptions on several usability metrics on Electronic Process Guides (EPGs) through an experimental repeated-measure design with an international sample collected from 4 countries.</highlight>
+    <highlight id="2">Our research advances on two previous similar studies (of the four only found in the top literature) regarding data collected from a more professional and specialized sample vs undergraduate students or full-time graduate students used in these other two papers.</highlight>
+    <highlight id="3">Our research helps to understand the non-expected results reported in previous experimental studies on EPGs through the differentiation of types of EPGs and types of Users (practitioners vs academicians; and novices vs experts).</highlight>
+Abstract
+<abstract><![CDATA[The design and utilization of Electronic Process Guides (EPGs) have been studied in Software Engineering (SwE) since the 1990s. However, the empirical findings from surveys, case studies, and experiments on the beneficial effects of their utilization are still lacking. Thus, we suggest that further research on the utilization of EPGs is required. ]]><h target="1" match="part">In this study, we are interested in gaining insights on the effects of using EPGs on objective metrics (learning score, time effort) and subjective metrics (perceived usefulness, ease of use, and value), by comparing three EPG designs (a simple PDF-based EPG, a normal HTML-based EPG, and a sophisticated Java-based EPG) with different blocks of experimental subjects (practitioners, academicians, novices, and experts).</h><![CDATA[ To this end, we have conducted a controlled experiment with a sample of international participants in the domain of IT Service Management. We found that the utilization of EPGs improves the objective metrics while no improvements were perceived on the subjective ones, and that the sophisticated EPG design is more appropriate for the academic and expert types of users than for the practitioner and novice types. Thus, our main recommendation for the design and utilization of EPGs is to consider the type of end-user.]]></abstract>
+Keywords
+    <keywords>Electronic Process Guide (EPG)</keywords>
+    <keywords>CMMI-SVC</keywords>
+    <keywords>IT Service Management (ITSM)</keywords>
+    <keywords>Process-oriented intensive IT areas</keywords>
+    <keywords>Experimental research</keywords>
+    <keywords>Repeated-measures design</keywords>
+    <section name="Introduction" category="introduction">
+        <![CDATA[
+1. Introduction
+In the Software Engineering domain a problem faced by software engineers—learning from inherently complex documents for executing a software development process correctly—has been under study from the 1990s (Kellner, Becker-Kornstaedt, Riddle, Tomal, & Verlage, 1998; Makela & Kunnamo, 2001; Neerincx, 2011). This complexity arises for the huge number of concepts (e.g., terms, phases, activities, tasks, roles, work products, techniques, tools, templates, guidelines) that are employed and their interrelationships (Dougmore, 2006; Mora, Cervantes-Pérez, Garrido, Wang, & Sicilia, 2010). Thus, the utilization of software engineering process frameworks such as CMMI-DEV (SEI, 2006) and ISO/IEC 12207 (ISO, 2008) involves a complex knowledge structure, which limits the ease of implementation of such frameworks in organizations (Roedler, 2006). CMMI-DEV (SEI, 2006), for instance, is reported in a document of 561 pages that describes 2 representations (continuous and staged), 5 maturity levels, 6 continuous capability levels, 22 key process areas, 5 generic goals, 17 generic practices with about 150 elaborations (specific recommendations for each one of the 22 areas for some of the 17 generic practices), 47 specific goals, 161 specific practices, and about 250 typical work products.
+In this research, we are interested in addressing a similar problem found in the emergent IT Service Management (ITSM) area. ITSM is an important organizational theme in large and mid-sized organizations because its utilization has the potential to deliver more efficient and effective IT management, and ultimately better organizational value (Sallé, 2004; Johnson, Hately, Miller, & Orr, 2007) than without an ITSM approach. From a research and academic perspective, elaboration of ITSM research and ITSM curriculum design has been encouraged (Gallup, Dattero, Quan, & Conger, 2009; Rai & Sambamurthy, 2006). For instance, Rai and Sambamurthy (2006, p.328) alert us to the need to integrate (p.331) IT services management frameworks (e.g., ITIL) into curricula and research. In turn, Gallup et al. assert that ITSM is an emerging discipline (2009, p.127), which requires conceptual and empirical research.
+However, ITSM practitioners and academicians interested in implementing and teaching ITSM process frameworks are faced with the challenge to learn and consult inherently complex documents similar to those found in the software engineering area (Mora, Gelman, Raisinghani, & Macias-Luevano, 2011; Mora, O'Connor, & Gelman, 2010). Thus, given that successful ITSM implementations require adequate training and staff awareness (Pollard & Cater-Steel, 2009), among other critical success factors, we believe that ITSM professionals and academicians can benefit from process guidance support on the selected ITSM process, similar aspects of software engineering, and possibly other areas.
+This process guidance support has been provided in the software engineering area through Electronic Process Guides (EPGs) (Kellner et al., 1998; Makela & Kunnamo, 2001; Neerincx, 2011). EPGs are digital documents, which are designed to support the understanding, training, and execution of a particular set of processes. EPGs are not intended for enacting an organizational process (like a business process management system) but rather for supporting their correct execution by human participants (Kellner et al., 1998).
+Consequently, given that the ITSM area suffers from similar problematic issues as in the Software and Systems Engineering areas, in this paper we are interested in gaining insights into the effects of use of EPGs by different types of users in the application domain of ITSM utilizing both objective and subjective metrics for data collection. Thus, we conducted a controlled experiment with a sample of 38 international practitioners and academicians in the domain of ITSM utilizing both objective (learning score, time effort) and subjective metrics (perceived usefulness, ease of use, and value) by comparing two enhanced EPG designs (HTML-based EPG, and Java-based EPG) with a PDF-based EPG, between four types of users (practitioners, academicians, novices, and experts). In summary, we found that the utilization of EPGs resulted in improvements for the objective metrics despite the lack of differences for the subjective ones for all experimental subjects, and that the sophisticated Java-based EPG design is more appropriate for the academic and expert types of users.
+
+The remainder of the paper continues as follows: in Section 2, a review of the foundations of ITSM process models and EPGs is reported; in Section 3, the formulation of this research is described; in Section 4, the insights of this experimental research are reported; in Section 5, a discussion of findings and implications for ITSM theory and practice is presented. Finally, this paper provides conclusions, limitations, and recommendations for further research.]]>
+    </section>
+    <section name="On IT Service Management and EPGs foundations" category="background">
+        <![CDATA[
+2. On IT Service Management and EPGs foundations
+2.1. IT Service Management
+An IT service is a more complex entity than a software system or an information system. An IT service involves the interactions of several human and technology components (hardware, software, DBMS, networks, data, applications, environment, and internal and external teams) (Mora, Raisinghani, O'Connor, Gomez, & Gelman, 2014b). Consequently, a software system or an information system is a critical part of an IT service (Mora, Raisinghani, O'Connor, Marx-Gomez, & Gelman, 2014a; Uebernickel, Bravo-Sànchez, Zarnekow, & Brenner, 2006). An IT service can be defined as a service provided to one or more customers by an IT service provider, based on the use of IT, which supports the customer's business processes and consists of a combination of people, processes, and technology as defined in a Service Level Agreement (OGC, 2007).
+IT Service Management (ITSM) process models (and standards) are conceptual process frameworks, which report the best managerial and engineering practices for delivering high quality IT services. In general, IT Service Management (ITSM) can be defined as a management system of organizational resources and capabilities for providing value to organizational customers through IT services (van Bon et al., 2008). Several ITSM process models have been reported: ISO/IEC 20000 (ISO, 2005, 2010) ITIL v2 (van Bon, Pieper, & van deer Veen, 2005); ITIL v3 (Cartlidge et al., 2007; van Bon et al., 2008); CobIT 4.0 (ITGI, 2005); CMMI-SVC (SEI, 2010); ITUP® (EMA, 2006; Ganek & Kloeckner, 2007; IBM, 2010); and MOF® 4.0 (Microsoft, 2008). From these ITSM process models, in particular the CMMI-SVC is unique in its free-access, and in this research it is the ITSM process model, which is studied.
+The purpose of the CMMI-SVC ITSM process model is to provide guidance for applying CMMI best practices in a service provider organization (SEI, 2010; p.3). CMMI-SVC integrates best practices from several previous ITSM process frameworks and the CMMI models developed for the software and systems engineering disciplines. CMMI-SVC is organized into four process categories: Support (SUP), Process Management (PRM), Project Management (PM), and Service Establishment and Delivery (SED). It includes 24 process areas where 7 are focused on service process areas (capacity and availability management, service continuity, service delivery, incident resolution and prevention, service transition, service system development, and strategic service management).
+The other published ITSM process models share similar structures with categories of processes, process descriptions with goals, activities, tasks, procedures, roles and artifacts. Hence, all of the ITSM process models can be considered inherent complex documents to be learnt and correctly applied.
+
+2.2. Electronic process guides
+According to Kellner et al. (1998) a Process Guide (EPG) is “a reference document for an intended process, providing guidance to process participants in carrying it out” (p.11), and its core function is “to facilitate process understanding” (Kellner et al., 1998; p.12). An EPG is a process guide released in electronic format. Thus, an EPG can be defined as an: electronic document with graphical and textual representations of a process model, which enable multiple views of such processes (Koolmanojwong, Aroonvatanaporn, & Charoenthongtrakul, 2008).
+EPGs have been posited for overcoming the natural limitations of printed documents or their digital versions (without a specific EPG design), which are: deficient in form and content; difficult to understand, to use, and to access; and scarcely used in practice (Hauck, von Wangenheim, de Souza, & Thiry 2008; Kellner et al., 1998; Leuser, Porta, Bolz, & Raschke, 2009). Research findings on EPGs have found benefits of EPG utilization such as: training and process execution improvement (Kellner et al., 1998); gradual tailoring of process, reuse, process conformance, resulting in better process management (Becker-Kornstaedt, 2000); and process communication improvement (Koolmanojwong et al., 2008). In contrast, the paper-based process guides have several limitations: absence of updated critical process information (Kellner et al., 1998); a linear-based organization (Becker-Kornstaedt, 2000); omission of process hierarchically-based views (Koolmanojwong et al., 2008); poor navigation capability (Kellner et al., 1998); version control and update problems (Becker-Kornstaedt, 2000); and poor utilization of diagrams and guidance charts (Koolmanojwong et al., 2008). In particular Dingsøyr, Moe, Dybå, & Conradi (2004) visualize the traditional printed process guides with such negative effects as: few consulted, difficult to read, and as just “dust collectors”.
+However, EPGs have also some limitations: the development of EPGs for small and mid-sized organizations may not be affordable given their complex design and high development costs (Kellner et al., 1998); EPGs can be wrongly designed and become isolated documents not linked with relevant current process information (Becker-Kornstaedt, 2000); and EPGs can lack user-expected process support tools (Koolmanojwong et al., 2008).
+Nevertheless, it has been also reported that EPGs may be developed from a simple design and gradually evolve to avoid an “overdone” and badly designed EPG (Dingsøyr et al., 2004), with the result of successful use. General EPGs design recommendations are (Kellner et al., 1998): (i) minimal content structure, (ii) inclusion of all core process information, (iii) a flexible page navigation for users, (iv) ease of use, (v) standard format of pages, (vi) and minimal effect of windows juggling. In the Healthcare domain, EPGs (known as computerized Clinical Practice Guidelines) are reported as support tools with regular and successful utilization (Barr, Chin, & Yeong, 2013; Lyng, 2013; Makela & Kunnamo, 2001; Peleg, 2013). Similarly EPGs have started to be used in the Systems Engineering domain (Kawinfruangfukul, Koolmanojwong, & Kukreja, 2013; Neerincx, 2011).
+An EPG usually contains (Kellner et al., 1998; Becker-Kornstaedt, 2000) the following sections: overview, phases, activities, tasks, roles, work products, and additional resources (i.e., list of terms, tasks guidelines, templates, examples, whitepapers, and tools). An overview is a concise textual description of the process guidance. Phases refer to texts and diagrams, which describe the integrated view of the process from an overall organization. Activities refer to the workflow of tasks, inputs, outputs, control metrics, and tools and roles participating in them. Tasks describe the specific steps realized in each workflow. Roles describe the types of human agents in the process. Work products describe the required and generated artifacts, which are created through the process. Finally, additional resources describe complementary material.
+Similarly, from a comprehensive review of the literature, we can report the following functional properties: to present an organized scheme of the knowledge chunks; to use a similar user interface in all digital pages; to provide user navigation flexibility; to present information in an adequate language; and to provide complementary tools.
+
+2.3. Experimental studies on the utilization of EPGs
+The utilization of EPGs has been studied with survey, case study, and experimental approaches. A common research goal in all of these studies has been the identification of beneficial impacts of the utilization of EPGs. However, the findings of some studies have been contradictory or some of the expected benefits have not been found.
+
+Table 1 summarizes the main studies on EPGs consulted in establishing the theoretical background for this research. Table 1 reports the study, the domain area, the type of research approach, the research setting, and main finding. In particular, we are interested in experimental studies (Koolmanojwong et al., 2008; Lott, 1997; Leuser et al., 2009; McDonald and Miller, 1998).
+Table 1. Summary of main EPGs studies.
+Study	Domain	Type of research design	Evaluation setting	Benefits by the utilization of EPGs
+Lott (1997)	Software engineering	Experiment	20 PhD and MSc candidates at a German University	Partially
+McDonald and Miller (1998)	Software engineering	Experiment	43 Undergraduate students in a British University	No
+Becker-Kornstaedt et al. (1999)	Software engineering	Multi-case study	Three medium-sized companies in the domains of telecommunications and space (200 developers)	Yes
+Becker-Kornstaedt and Verlage (1999)	Software engineering	Case study	Internal evaluation (Fraunhofer Institute for Experimental Software Engineering, Germany)	Yes
+Mannio (2001)	Software engineering	Case study	A Finnish telecom large company	Yes
+Scott, Carvalho, and Jeffery (2002)	Software engineering	Case study	A small-sized software development company (20 developers)	Yes
+Scott, Carvalho, Jeffery, D'Ambra, and Becker-Kornstaedt (2002)	Software engineering	Survey	A small-sized software development company (12 developers)	Yes
+Dyba, Moe, and Mikkelsen (2004)	Software engineering	Survey	97 Developers at a Norway medium-sized software development company	Partially
+von Wangenheim, Weber, Hauck, and Trentin (2006)	Software engineering	Multi-case study	Two small Brazilian software development companies (22 and 10 employees)	Yes
+Phongpaibul, Koolmanojwong, Lam, and Boehm (2007)	Software engineering	Case study	3 SwE PhD students	Yes
+Shin, Choi, and Baik (2007)	Software engineering	Case study	Internal evaluation (Information and Communications U. Korea)	Yes
+Koolmanojwong et al. (2008)	Software engineering	Experiment	Two groups of SwE graduate students (advanced and beginners) at a USA University	Partially
+Hauck et al. (2008)	Softwarengineering	Case study	Internal evaluation (a Brazilian University), and a small Brazilian software development company	Yes
+Dingsøyr and Moe (2008)	Software engineering	Case study	31 People in a Norway medium-sized software development company	Partially
+Leuser et al. (2009)	Software engineering	Experiment	6 Groups of undergraduate software students in a German University	Partially
+Leppäniemi and Mäkinen (2010)	Systems engineering	Case study	A Finnish Agency for Disaster and Emergency Management	Yes
+Pino, Pedreira, García, Rodríguez, and Piattini (2010)	Software engineering	Multi-case study	2 Small Spanish software development companies (with 7 and 21 people)	Yes
+Neerincx (2011)	Systems engineering	Multi-case study	45 Students of physics and chemistry; and 10 real participants involved in spatial missions	Partially
+Kawinfruangfukul et al. (2013)	Systems engineering	Survey	54 Graduate students in a MSc program at a USA University	Yes
+Barr et al. (2013)	Healthcare	Field study	18 Physicians at the Hospital	Yes
+Mohagheghi, Gilani, Stefanescu, and Fernandez (2013)	Software engineering	Multi-case study	4 Small-sized software development companies in Norway	Partially
+In Lott (1997) a repeated-measures experimental design with 20 individuals is reported in the context of Software Engineering process guidance. The following main hypotheses were tested: individuals accomplish their work more efficiently when using on-line process guidance as compared to off-line guidance; individuals are willing to use an on-line system for guidance, and subjects comprehend on-line versions of process guidance better than they comprehend conventional, off-line guidance (p.269, 272). Lott suggested that on-line process guidance (e.g., EPGs) can provide the following general benefits: process consistency–correctness checks by access to the same process version; process model complexity reduction through sophisticated support visualization techniques; process understanding improvement through learning activities on the EPG; and reduction of time effort. In summary, Lott found that an EPG provides process document access improvement. Main treatments studied were paper-based and online-based process guidance. Unexpected results include the following: overall, all subjects (PhD and MSc candidates) operated more efficiently with paper-based guidance than with the on-line. However, PhD candidates showed more efficient behavior with online guidance. Overall intention of use of online guidance was not confirmed but when viewed by degree level, it was supported. No differences were found on better comprehension by online-based guidance. The main implication is that the user’s experience level and personal work style can affect the expected effects of using online guidance (e.g., EPGs).
+McDonald and Miller (1998) conducted a repeated-measures experimental design with 43 software engineering undergraduate students. They tested the null hypothesis of no significant difference in performance between individuals performing tool-based inspection and those performing paper-based inspection, measured by the total number of defects found during a given time period (p.236). The authors also report that tool-based guidance (for software process inspection in this case) is expected to provide the following benefits: process consistency-correctness checks by the using the most updated version of the process; process document access improvement by search and more sophisticated support capabilities; and time efficiency. Overall, the null hypothesis could not be rejected.
+In Koolmanojwong et al., (2008) a similar experimental study was conducted. Elaborating an EPG of the incremental Commitment Model (ICM), their approach compared EPF and Little-JIL EPG generators. The four Humphrey and Kellner’s (1989) process-modeling criteria were used. These are: enable process communication, facilitate process reuse, support process evolution, and facilitate process management. Overall, both EPG generators produced EPGs with satisfactory assessment for the first three criteria. Both are considered with limited support for the fourth criteria. An exploratory usability test was also conducted with two groups of graduate students in software engineering (one with advanced students and other with beginners). The advanced group of graduate students preferred the EPF EPG for the greater level of information provided (activities, tasks, roles, work products, templates, examples, and additional links to information), while the group of beginning students preferred the Little-JIL EPG for its simplicity and ease of use. The main limitations reported in this study were that: excessive additional information provided by EPF EPG caused page navigation problems, and lack of interrelationships in core concepts in Little-JIL EFP caused confusion in some activities and tasks.
+Finally, in Leuser et al. (2009) an experimental study contrasting the utilization of an EPG for Requirements Engineering versus paper-based documents was conduced with 6 groups of undergraduate software engineering students. Two initial metrics collected were: process understandability and correctness of guidance. Both were rated with a median score of 3.0 in a 5-point Likert scale. Additional collected metrics were: quality of specifications, specification effort, and implementation quality. Only differences in the quality of specification—in favor of the EPG utilization—were found.
+In contrast, other EPG studies using survey and case study research approaches have reported some benefits to EPG use. Hence, the extant knowledge on the realization of benefits by using EPGs is characterized by gaps or inconsistency among research findings.]]>
+    </section>
+    <section name="Research formulation" category="methods">
+        <![CDATA[
+3. Research formulation
+3.1. Research goal and hypotheses
+Due to the inconsistency of findings from the four experimental studies of EPG use (Koolmanojwong et al., 2008; Lott, 1997; Leuser et al., 2009; McDonald & Miller, 1998), this study addresses the resulting knowledge gap.
+]]><h target="1" match="part">Here we pursue the general goal to identify the positive impacts (improvements) on objective (learning score, and time effort) and subjective (perceived usefulness, ease of use, and value) metrics, by comparing two enhanced EPG designs (HTML-based EPG, and Java-based EPG) regarding a base PDF-based EPG, with different types of users (practitioner, academician, novice and expert).</h><![CDATA[ Table 2 lists the research hypotheses.
+Table 2. General research hypotheses.
+H.1	Some types of EPGs (PDF-based, HTML-based or Java-based) are perceived as useful, ease of use, and with value by some types of users (practitioners, academicians, novices or experts)
+H.2	Some objective metrics (learning score and time effort) and subjective metrics (perceived usefulness, perceived ease of use, and perceived value) are improved by using an enhanced EPG design (HTML-based) or a sophisticated EPG design (Java-based) regarding a simple EPG design (PDF-based), by some types of users (practitioners, academicians, novices or experts)
+3.2. Research design
+ ]]><h target="1" match="part">This study uses a repeated-measures experimental design (also known as within-subjects design).</h><![CDATA[ In this experimental design all of the treatments are applied to all of the participants but in a randomized order (counterbalancing approach) to avoid a sequence effect (Kirk, 1982; Ross & Morrison, 1996). Thus, each participant can be considered as his/her own control when a baseline treatment is defined. Thus the problematic of using a control group (with no stimulus managed) in the Software Engineering area is eliminated (Kitchenham, Linkman, & Law, 1994). It is also known that the repeated-measures design provides better statistic power than a between-subjects design, is suitable for small samples, and eliminates the systematic (non-sampling) error by the application of all of the treatments to all participants (Kirk, 1982; Ross & Morrison, 1996). A similar experimental research design was used in two previous EPGs studies (Lott, 1997; McDonald & Miller, 1998)
+A Wilcoxon matched-pairs signed-rank test is used for analyzing the collected data (Sheskin, 2000; Wohlin, Höst, & Henningsson, 2003). This nonparametric statistical test was selected because the repeated measures design implies dependent sample data, and requires minimal data conditions for its utilization (e.g., no required assumption of normality in the data distribution; no required assumption of homogeneity of variance; and suitable for both small and large samples) (Sheskin, 2000).
+The independent variable (e.g., treatments) considered in this investigation was the type of EPG with three levels: a PDF-based EPG (used as base), an HTML-based EPG, and a Java-based EPG. The dependent objective variables were: learning score (measured through a test score) and time effort (measured by spent time in answering the test). The dependent subjective variables were: perceived usefulness, perceived ease of use, and perceived value.
+
+Table 3 reports the characteristics of the independent and dependent variables. The full questionnaires for measuring the subjective dependent metrics are reported in the Appendix A.
+Table 3. Independent and dependent variables.
+Variable	Definition	Scale
+Type of EPG (independent)	Electronic process guide (unique experimental factor with three levels or treatments)	{PDF-based EPG, normal HTML-based EPG, sophisticated Java-based EPG}
+Learning score (dependent)	Extent of correct knowledge learned on CMMI-SVC process model	{1–5} From 1 (minimal value) to 5 (highest value)
+Time effort (dependent)	Time interval spent for answering the applied 5-question test on CMMI-SVC process model	{1–100} Minutes
+Perceived usefulness (dependent)	“the degree to which using the IT innovation is perceived as being better than using the practice it supersedes” (Moore & Benbasat, 1991)	5-Point Likert from 1 (high disagreement) to 5 (high agreement)
+Perceived ease of use (dependent)	“the degree to which using a particular system is free of effort” (Davis, 1989)	5-Point Likert from 1 (high disagreement) to 5 (high agreement)
+Perceived compatibility (dependent)	“the degree to which using the IT innovation is compatible with people do” (Karahanna, Straub, & Chervany, 1999)	5-Point Likert from 1 (high disagreement) to 5 (high agreement)
+Perceived value (dependent)	“the degree to which using the IT innovation is perceived as a value delivery entity for users by savings on money, time, and the provision of a variety of valuable resources, and by an overall value” (adapted from Lee, Park, & Ahn, 2001)	5-Point Likert from 1 (high disagreement) to 5 (high agreement)
+3.3. Research experimental materials
+For this research we needed to have, at least, both a PDF-based EPG (baseline level treatment) and an HTML-based EPG of the same ITSM process model and of free-access. Given the various ITSM process models (i.e., as ISO/IEC 20000 (ISO, 2005, 2010)ITIL v2 (van Bon et al., 2005); ITIL v3 (Cartlidge et al., 2007; van Bon et al., 2008); CobIT 4.0 (ITGI, 2005); ITUP® (EMA, 2006; Ganek & Kloeckner, 2007; IBM, 2010); MOF® 4.0 (Microsoft, 2008); and CMMI-SVC (SEI, 2010)), there are not both free-access PDF-based and HTML-based EPGs for the first six ITSM process models (Mora et al., 2010a,b).
+However, a normal HTML-based EPG and an additional sophisticated Java-based EPG for the CMMI-SVC process framework were available to the authors. Consequently, the CMMI-SVC process model was selected for the free availability of the full PDF-based EPG document and for being one of the main international ITSM process frameworks. Next is a brief description of the experimental material (the three treatments or levels of the single experimental factor EPG).
+
+3.3.1. Base treatment PDF-based EPG
+This 608-page PDF document can be considered a simple monolithic EPG. It is the official description for CMMI-SVC published by the SEI (2010). The document reports: (i) overview of the CMMI for services; (ii) the process areas structure (i.e., types of models, types of areas, processes, generic goals, generic practices, specific goals, specific practices, work products, notes, examples, and references); (iii) the description of the staged and continuous models; (iv) the description of the generic goals and generic practices; and the (v) the specific description for each process area. Each process area is described with the following items: purpose, introductory notes, related process areas, specific goals and practices summary, and full description of each specific practice with sub-practices and work products. PDF documents have a simple keywords search capability, as well as the navigation outline provided by the table of contents. This EPG model has no cost.
+3.3.2. Treatment 1-based EPG
+This EPG was elaborated by the research team. We used the open source EPF (Eclipse Process Framework) tool for developing it. The EPG includes part of the full CMMI-SVC (it was controlled for the purposes of the evaluations in this study). The content of the EPG includes: (i) the overall description of the four types of process areas, (ii) the full description (i.e., purpose, description, specific goals, specific practices, roles, and work products) for the Service Establishment and Delivery process area (which includes up to five process); (iii) a list of core concepts; (iv) a glossary; (v) 10 checklists; and (vi) five whitepapers (including the PDF CMMI-SVC document). As it is an HTML document, it offers find, hyperlink, and active mapping capabilities.
+
+3.3.3. Treatment 2 Java-based EPG
+This EPG was also elaborated by the research team with the open source Protégé tool. The EPG also includes a part of the full CMMI-SVC (it was controlled for the purposes of the evaluations in this study). The content of the EPG includes: (i) the overall description of the four types of process areas, (ii) the full description (i.e., purpose, description, specific goals, specific practices, roles, and work products) for the Service Project Management process area (which includes up to 9 process); (iii) a list of core concepts; (iv) a glossary; (v) 10 checklists; and (vi) five whitepapers (including the PDF CMMI-SVC document). As it is a java-based application, it has the following advanced capabilities: hyperlinks, knowledge tree navigation, simple search, query constructor, and an ontology map visualizer (all of them are free open access Protégé pluggings).
+
+Appendix B provides illustrative figures for each of these treatments.
+
+3.4. Research participants and tasks
+]]><h target="2" match="part">The four previous experimental studies on EPGs were conducted with either undergraduate (Leuser et al., 2009; McDonald  Miller, 1998) or graduate students (Koolmanojwong et al., 2008; Lott, 1997). In this study, a group of 38 participants was recruited from four countries (Ireland, Mexico, India and USA).</h><![CDATA[ The target population was defined as: IT professionals and IT academicians located in medium or large-sized international organizations. The 38 participants were contacted through the IT graduate programs where the authors are Professors. No reward was assigned to the participants and their involvement was totally voluntary. Randomization was exercised through a random order of application of the EPGs (treatments) as it is required in the repeated-measures experimental designs. The experiment was performed asynchronously in Irish, Mexican, American, and Indian academic settings to facilitate the participation of individuals from four countries with different work schedules. The experiments were managed by the researcher, who is located in Mexico, and took place over a two-month period.
+No training session was provided to participants to avoid any bias or sensitization toward one particular treatment. However, a 3-page document with detailed instructions on the tasks that were to be performed by the participants and the three CMMI-SVC EPGs were provided to all of the participants. The participants were asked: (i) to read the general instructions for downloading and installing the experimental materials; (ii) to schedule a 2-h period for performing the experimental tasks; (iii) to return the questionnaires to their contact (e.g., the researcher located in the particular international setting). During the 2-h experimental period, the specific tasks were as follows: (i) to randomly select one EPG treatment; (ii) to navigate freely in the selected EPG over a 5-min period for familiarization with the EPG; (iii) to open the associated mini-test with the EPG and answer the 5 questions using only the information provided by the selected EPG and registering the spent time; (iv) to repeat the steps (ii) to (iv) with a new EPG; (v) to answer the demographic and perception questionnaire; and (vi) to return these questionnaires by email to the researcher in charge. The research team designed the three mini-tests. Each 5-question test was applied in random order to each participant to avoid a sequence effect. One researcher, who was most knowledgeable of the CMMI-SVC process model, reviewed and evaluated the 114 mini-tests (38 participants by 3 mini-tests). Another researcher conducted an additional review of evaluations with minimal discrepancies. For a few cases, a score of 0.5 points was assigned to a response. Appendix 2 reports one of the three applied tests. This package set of experimental materials (instructions, three EPGs, and three mini-tests) is available from the lead author upon request for replication studies.
+
+3.5. Internal and external validity threats
+The internal and external validity of any experimental research can be jeopardized by several factors. Internal validity refers to the extent that the observed effects in the independent variables can be really attributed to the administered treatments (Campbell, Stanley, & Gage 1963). External validity refers to the extent that the effects observed in the particular experimental groups of participants and experimental settings will be observed in other populations or settings (Campbell, Stanley, & Gage 1963). Generalization to the population studied in the experiment is assumed as true when the external validity condition is satisfied.
+In the literature of experimental research, a set of typical threats for internal and external validity has been identified (Cambell & Stanley, 1963; Ross & Morrison, 1996). Table 4 summarizes the threats to internal and external validity addressed in this study.
+Table 4. Internal and external threats.
+Threat and problem	Countermeasure
+History (internal): exogenous events happen during the measurement periods for the dependent variables	Each participant was instructed to perform the three tasks in a single session between 30 and 60 min without interruptions and communication with other participants
+Maturation (internal): physical or psychological changes occur during the experimental period	Given the short duration of the experimental period (from 30 to 60 min) this threat is considered inexistent
+Testing (internal): to be influenced by pre-tests or previous knowledge on the applied tests in the experiment	We did not apply pre-tests and none participant was informed previously of the experimental material
+Instrumentation (internal): inconsistent calibration or utilization of measurement instruments	We applied a unique instrument for measuring the perceived variables (already validated in the literature). Time effort was measured in a scale of minutes. Learning score was assessed by a single researcher by using three solution templates for the three tests, and thus a single criterion was applied
+Statistical regression (internal): a biased selection of participants by extreme scores on a particular criterion	A particular score did not guide our selection of participants. It was voluntary based on the inclusion criterion
+Selection (internal): a biased selection of participants in the experimental sample	Our repeated-measures experimental design eliminates errors by demographic differences on participants
+Experimental mortality (internal): loss of experimental participants during the experimental period	This threat happens usually in long experimental periods (months or years). Our experimental session was very short, and thus this threat was not existent
+Interaction of testing-treatments (external): effects not wished of pre-tests on participants	We did not apply pre-tests
+Interaction of selection-treatments (external): effects not wished by a biased application of treatments to participants	The order of application of the three treatments was random
+Reactive experimental arrangements (external): effects not wished by the conditions in the experimental setting	Each experiment occurred in each country was managed with an experimental setting in similar conditions (no rewards for participation, similar time periods, and no additional instructions to the official document of instructions)]]>
+    </section>
+    <section name=" Experimental results" category="results">
+        <![CDATA[
+4. Experimental results
+4.1. Demographic results
+Table 5 shows the demographic profile of this experimental sample of 38 international participants. They were contacted in four countries (Ireland, Mexico, USA, and India).
+Table 5. Demographic data.
+DD.1: country of participant by user type
+Country	Practitioners	Academicians	Novices	Experts
+India	6	0	6	0
+Ireland	13	2	8	7
+Mexico	7	3	7	3
+USA	4	3	6	1
+Total	30	8	27	11
+DD.2: scope of participant’s affiliation
+Scope	Practitioners	Academicians	Novices	Experts
+Worldwide	9	1	8	2
+Nationwide	11	6	8	9
+Regional	10	1	9	0
+Mode	Nationwide	Nationwide	Regional	Nationwide
+DD.3: highest academic degree of participant
+Degree	Practitioners	Academicians	Novices	Experts
+PhD	4	8	7	5
+MSc	10	0	6	4
+BSc	16	0	14	2
+Mode	BSc	PhD	BSc	PhD
+DD.4: age range of participant
+Age	Practitioners	Academicians	Novices	Experts
+<30 years	24	0	18	6
+30–34 years	4	2	4	2
+≥35 years	2	6	5	3
+Mode	<30 years	≥35 years	<30 years	<30 years
+DD.5: self-rate expert score on ITSM models
+Practitioners	Academicians	Novices	Experts
+Mean	2.2	2.4	1.8	3.2
+This sample was blocked by the user's occupation (DD.1: practitioner or academician), and for the self-rate expert score on ITSM process models (DD.5: novice for a score less than or equal to 3.0 vs expert for a score greater than 3.0). For the first block based on DD.1, we had 30 practitioners and 8 academicians. For the second block based on DD.5, we had 27 novices and 11 experts.
+
+The additional demographic data revealed interesting differences between the practitioner and academician blocks on D.3 highest academic degree (BSc for practitioners and PhD for academicians) and D.4 age (less than 30 years for practitioners and greater than 35 years for academicians), and similarities on the other demographic variables (DD.2 scope of participant’s affiliation is nationwide, and DD.5 self-rate expert score about 2.2–2.4).
+
+For the case of the novice and expert blocks, the main differences were found on DD.2 scope of participant’s affiliation (regional for novices and nationwide for experts); the DD.3 highest academic degree (BSc for novices vs PhD for experts); and the DD.5 self-rate expert score (a mean of 1.8 for novices and 3.2 for experts).
+
+Hence, we consider that the demographic profile of the experimental sample, blocked by the user’s occupation (practitioner vs academician), and by the self-rate expert score (novice vs expert) is representative for our target populations of practitioners, academicians, novices, and experts.
+
+4.2. Experimental results
+Table 6 reports the hypothesis tests on adequate perception on usefulness, ease of use, and value for the four types of users. The significance levels for the values 0.01, 0.05, and 0.10 are reported with the symbols ***, ** and *, respectively in all of the tables.
+Table 6. Hypotheses tests on objective and subjective metrics for types of EPGs and types of users.
+Dependent variables	Base treatment: PDF-based EPG	Treatment 1: HTML-based EPG	Treatment 2: Java-based EPG
+Usefulness	Mean	Std. Dev.	Mean	Std. Dev.	Mean	Std. Dev.
+Practitioners block	3.98***	0.76	3.90***	0.62	3.00	0.98
+Academicians block	2.75	0.73	3.50**	0.37	3.81*	0.84
+Novices block	3.57***	0.81	3.71***	0.56	2.88	0.89
+Experts block	4.09*	1.03	4.06***	0.64	3.86*	0.94
+Ease of use	Mean	Std. Dev.	Mean	Std. Dev.	Mean	Std. Dev.
+Practitioners block	4.38***	0.84	4.12***	0.74	3.12	0.93
+Academicians block	4.33*	0.79	4.08**	0.58	3.70*	0.54
+Novices block	4.41***	0.74	4.02***	0.76	2.97	0.85
+Experts block	4.27*	1.03	4.33***	0.49	3.90***	0.61
+Value	Mean	Std. Dev.	Mean	Std. Dev.	Mean	Std. Dev.
+Practitioners block	3.95***	0.66	3.77***	0.47	3.05	0.85
+Academicians block	3.12	0.86	3.62**	0.29	4.18**	0.56
+Novices block	3.69***	0.57	3.74***	0.46	3.13	0.96
+Experts block	4.00	1.14	3.75***	0.40	3.65*	0.74
+In Tables 7 and 8, we report the statistical tests of differences on the objective metrics (learning score, time effort) among the base PDF-based EPG and the two treatments HTML-based EPG and Java-based EPG by types of users. In these Tables the labels Yes, No, and the symbol –, stand for the occurrence of an improvement, the occurrence of the opposed effect, or no changes, statistically identified through the hypotheses tests. From the results presented in the Table 7, we identify that the treatment 1 (HTML-based EPG) produced improvements in all of the four types of users regarding the learning score metric. The treatment 2 (Java-based EPG) produced improvement only in the expert block of users. In Table 8, we identify that the Treatment 1 (HTML-based EPG) improved the time effort for the academician and novice blocks, and there were no statistically significant changes in the other two blocks (practitioners and experts). The Treatment 2 (Java-based EPG) produced improvements only in the academician block.
+Table 7. Hypotheses tests on objective metric 1 (learning score) for types of EPGs and types of users.
+Dependent variables	Base treatment: PDF-based EPG	Treatment 1: HTML-based EPG	Wilcoxon test of paired comparisons	Was there an improvement?
+Learning score	Mean	Std. Dev.	Mean	Std. Dev.	T	Z	p-Value	Improvement?
+Practitioners block	2.51	0.99	3.66	1.42	16.00***	3.94	<0.01	Yes
+Academicians block	2.62	0.64	3.81	1.36	4.00**	1.96	<0.05	Yes
+Novices block	2.33	0.91	3.27	1.40	28.50***	3.18	<0.01	Yes
+Experts block	3.04	0.75	4.72	0.64	0.00***	2.93	<0.01	Yes
+Dependent variables	Base treatment: PDF-based EPG	Treatment 2: Java-based EPG	Wilcoxon test of paired comparisons	Was there an improvement?
+Learning score	Mean	Std. Dev.	Mean	Std. Dev.	T	Z	p-Value	Improvement?
+Practitioners block	2.51	0.99	2.68	1.67	110.50	0.83	>0.10	–
+Academicians block	2.62	0.64	3.18	1.38	4.00	1.36	>0.10	–
+Novices block	2.33	0.91	2.27	1.50	101.50	0.13	>0.10	–
+Experts block	3.04	0.75	4.04	1.17	0.00***	2.66	<0.01	Yes
+Table 8. Hypotheses tests on objective metric 2 (time effort) for types of EPGs and types of users.
+Dependent variables	Base treatment: PDF-based EPG	Treatment 1: HTML-based EPG	Wilcoxon test of paired comparisons	Was there an improvement?
+Time effort	Mean	Std. Dev.	Mean	Std. Dev.	T	Z	p-Value	Improvement?
+Practitioners block	16.06	11.88	13.30	7.56	53.50	1.39	>0.10	–
+Academicians block	12.50	7.07	10.62	1.76	2.00***	0.00	<0.01	Yes
+Novices block	14.14	10.89	11.14	4.14	13.00*	1.77	<0.10	Yes
+Experts block	18.18	11.46	16.63	10.22	13.50	0.63	>0.10	–
+Dependent variables	Base treatment: PDF-based EPG	Treatment 2: Java-based EPG	Wilcoxon test of paired comparisons	Was there an improvement?
+Time effort	Mean	Std. Dev.	Mean	Std. Dev.	T	Z	p-Value	Improvement?
+Practitioners block	16.06	11.88	20.53	16.52	31.00***	2.76	<0.01	No
+Academicians block	12.50	7.07	11.25	3.53	2.00***	0.00	<0.01	Yes
+Novices block	14.14	10.89	15.70	13.32	25.00*	1.72	<0.10	No
+Experts block	18.18	11.46	25.63	17.78	4.00*	1.69	<0.10	No
+The Tables 9, 10 and 11 report the hypotheses tests regarding the impacts on the subjective metrics (usefulness, ease of use, and value) between the PDF-based EPG and the two treatments (HTML-based EPG and Java-based EPG). From the results reported in the Table 9, we identified that usefulness is improved only in the academician block for both Treatments 1 and 2. The block of experts did not perceived changes on usefulness in the two treatments regarding the PDF-based EPG. The block of practitioners and novices similarly did not perceived improvements on usefulness regarding the Treatment 1 (HTML-based EPG) and, in contrast, they considered the PDF-based EPG more useful than the sophisticated Java-based EPG.
+Table 9. Hypotheses tests on subjective metric (usefulness) for types of EPGs and types of users.
+Dependent variables	Base treatment: PDF-based EPG	Treatment 1: HTML-based EPG	Wilcoxon test of paired comparisons	Was there an improvement?
+Usefulness	Mean	Std. Dev.	Mean	Std. Dev.	T	Z	p-Value	Improvement?
+Practitioners block	3.98	0.76	3.90	0.62	164.00	0.29	>0.10	–
+Academicians block	2.75	0.73	3.50	0.37	4.00**	1.96	<0.05	Yes
+Novices block	3.57	0.81	3.71	0.56	119.50	0.87	>0.10	–
+Experts block	4.09	1.03	4.06	0.64	27.50	0.00	>0.10	–
+Dependent variables	Base treatment: PDF-based EPG	Treatment 2: Java-based EPG	Wilcoxon test of paired comparisons	Was there an improvement?
+Usefulness	Mean	Std. Dev.	Mean	Std. Dev.	T	Z	p-Value	Improvement?
+Practitioners block	3.98	0.76	3	0.98	24.00***	4.18	<0.01	No
+Academicians block	2.75	0.73	3.81	0.84	3.50*	1.77	<0.10	Yes
+Novices block	3.57	0.81	2.88	0.89	66.50***	2.94	<0.01	No
+Experts block	4.09	1.03	3.86	0.94	19	0.41	>0.10	–
+Table 10. Hypotheses tests on subjective metric (ease of use) for types of EPGs and types of users.
+Dependent variables	Base treatment: PDF-based EPG	Treatment 1: HTML-based EPG	Wilcoxon test of paired comparisons	Was there an improvement?
+Ease of use	Mean	Std. Dev.	Mean	Std. Dev.	T	Z	p-Value	Improvement?
+Practitioners block	4.38	0.84	4.12	0.74	60.00*	1.92	<0.10	No
+Academicians block	4.33	0.79	4.08	0.58	5.50	1.04	>0.10	–
+Novices block	4.41	0.74	4.02	0.76	28.00**	2.50	<0.05	No
+Experts block	4.27	1.03	4.33	0.49	21.00	0.17	>0.10	–
+Dependent variables	Base treatment: PDF-based EPG	Treatment 2: Java-based EPG	Wilcoxon test of paired comparisons	Was there an improvement?
+Ease of use	Mean	Std. Dev.	Mean	Std. Dev.	T	Z	p-Value	Improvement?
+Practitioners block	4.38	0.84	3.12	0.93	21.50***	4.23	<0.01	No
+Academicians block	4.33	0.79	3.7	0.54	6	1.35	>0.10	–
+Novices block	4.41	0.74	2.97	0.85	0.00***	4.54	<0.01	No
+Experts block	4.27	1.03	3.9	0.61	13	1.12	>0.10	–
+Table 11. Hypotheses tests on subjective metric (value) for types of EPGs and types of users.
+Dependent variables	Base treatment: PDF-based EPG	Treatment 1: HTML-based EPG	Wilcoxon test of paired comparisons	Was there an improvement?
+Value	Mean	Std. Dev.	Mean	Std. Dev.	T	Z	p-Value	Improvement?
+Practitioners block	3.95	0.66	3.77	0.47	110.00	1.14	>0.10	–
+Academicians block	3.12	0.86	3.62	0.29	9.50	1.19	>0.10	–
+Novices block	3.69	0.57	3.74	0.46	116.00	0.34	>0.10	–
+Experts block	4.00	1.14	3.75	0.40	22.00	0.56	>0.10	–
+Dependent variables	Base Treatment: PDF-based EPG	Treatment 2: Java-based EPG	Wilcoxon test of paired comparisons	Was there an improvement?
+Value	Mean	Std. Dev.	Mean	Std. Dev.	T	Z	p-Value	Improvement?
+Practitioners block	3.95	0.66	3.05	0.85	33.50***	3.85	<0.01	No
+Academicians block	3.12	0.86	4.18	0.56	5.00*	1.82	<0.10	Yes
+Novices block	3.69	0.57	3.13	0.96	90.00**	2.17	<0.05	No
+Experts block	4	1.14	3.65	0.74	19	0.86	>0.10	–
+In Table 10, we identified that the blocks of academicians and experts are not affected on their perceptions on ease of use regarding the two treatments (HTML-based EPG and Java-based EPG). In contrast, the blocks of practitioners and novices are affected and they considered the two treatments more difficult to use than the PDF-based EPG.
+Finally, in the Table 11, we identified that the perceptions of the value of the treatment 1HTML-based EPG regarding the PDF-based EPG by the four types of users were not affected (no changes). . In contrast, with Treatment 2 (Java-based EPG), the expert block is not affected (no changes), the blocks of practitioners and novices are affected with less perceived value, and only the academician block had improvements on the perceived value.
+4.3. Discussion of results
+Table 12 summarizes the results of the hypothesis tests, and Table 13 summarizes the effects. The symbols (✓, ×), in Table 12, illustrate, respectively, that the hypothesis is supported or is not supported. In Table 13 the notation (Yes, –, No) means respectively that the hypothesis is supported, is not supported because no statistically significant changes occurred, or the contrary effect occurred.
+Table 12. Summary of results of H.1 hypotheses tests.
+Blocks	H.1: the metric is considered as adequate (a mean value greater than 3.0)
+Usefulness	Ease of use	Value
+PDF EPG	HTML EPG	Java EPG	PDF EPG	HTML EPG	Java EPG	PDF EPG	HTML EPG	Java EPG
+Practitioners	✓	✓	×	✓	✓	×	✓	✓	×
+Novices	✓	✓	×	✓	✓	×	✓	✓	×
+Academicians	×	✓	✓	✓	✓	✓	×	✓	✓
+Experts	✓	✓	✓	✓	✓	✓	×	✓	✓
+Table 13. Summary of results of H.2 and H.3 hypotheses tests.
+Blocks	H.2 AND H.3: the objective and subjective metrics are improved with the enhanced EPGs regarding the simple pdf-based EPG
+Learning score	Time effort	Usefulness	Ease of use	Value
+HTML EPG	Java EPG	HTML EPG	Java EPG	HTML EPG	Java EPG	HTML EPG	Java EPG	HTML EPG	Java EPG
+Practitioners	Yes	–	–	No	–	No	No	No	–	No
+Novices	Yes	–	Yes	No	–	No	No	No	–	No
+Academicians	Yes	–	Yes	Yes	Yes	Yes	–	–	–	Yes
+Experts	Yes	Yes	–	No	–	–	–	–	–	–
+We established H.1 as follows: “Some types of EPGs (PDF-based, HTML-based or Java-based) are perceived as useful, easy to use, and with value by some types of users (practitioners, academicians, novices or experts)”. This hypothesis H.1 is supported for practitioner and novice blocks for the PDF-based and HTML-based EPGs. Both types of users exhibit a similar behavior by perceiving as adequate the simple EPG (PDF-based) and the enhanced but not sophisticated EPG (HTML-based), and rating as not adequate the sophisticated EPG (Java-based). An interesting and contrasting situation was found for the academician and expert blocks. Both perceived as adequate the enhanced (HTML-based) and the sophisticated (Java-based) EPGs, and not the simple EPG (PDF-based).
+These results support the evidence from previous experimental studies (Koolmanojwong et al., 2008; Lott, 1997; McDonald and Miller, 1998) regarding the need for an adequate theoretical knowledge background in the domain of the EPG. For instance, Lott (1997) found in his experimental study that PhD students performed better on some performance metrics than MSc students. McDonald and Miller (1998) also found no improvements with an experimental sample of novices (undergraduate students). In the experimental study of Koolmanojwong et al., (2008), advanced graduate students preferred a sophisticated EPG and beginning graduate students a simple EPG. Finally, in the experimental study of Leuser et al. (2009), with a sample of undergraduate students, only one improvement was found among the tested metrics.
+Our hypotheses H.2 was stated as: “Some objective metrics (Learning score and Time effort) and subjective metrics (perceived usefulness, perceived ease of use, and perceived value) are improved by using an enhanced EPG design (HTML-based) or a sophisticated EPG design (Java-based) regarding a simple EPG design (PDF-based), by some types of users (practitioners, academicians, novices or experts)”. For the practitioner and novice blocks it was found that while they did not perceive better usefulness, ease of use, or value on the enhanced (HTML-based) or sophisticated (Java-based) EPG designs versus the simple EPG (PDF-based), they did effectively improve their learning score. For the case of the academician and expert blocks, we also found that learning score was improved, but there were only improvements for specific combinations of EPG-user types. The most interesting finding is the contrast of academician vs expert perceptions regarding the sophisticated EPG (Java-based). Academician metrics are overall improved by the sophisticated EPG design (Java-based), and expert metrics are not affected except on the learning score.
+Despite the scarcity of experimental research on EPGs, it has been recently identified in the domain of Software Engineering (Pino, Garcia, & Piattini, 2008) that the utilization of EPGs has an important influence on software process improvement initiatives for small and medium size software companies. Eighteen out of a total of 45 selected core studies noted the need for Establishment of software processes (Use of electronic process guides and experience repository—EPG-ER), (p.249) as a key recommendation for software process improvement initiatives.
+Under this situational research context, we consider that our empirical experimental study contributes to the literature on EPGs with particular findings on the types of EPGs and types of users. It also supports the initial experimental evidence of no improvements across all type of users. Rather specific user categories (e.g., academicians and experts) are characterized by a higher level of theoretical knowledge in the domain of the EPG.
+
+Our study also provides empirical evidence supporting the general assumption on adequate perceptions on EPGs, but it has also identified that basic (practitioners and novices) and advanced (academicians and experts) users can prefer different types of EPGs (simple or normally enhanced EPGs for basic users, or normally enhanced and sophisticated EPGs for advanced users).
+
+As a summary of the scientific findings of this study: (1) basic (practitioner and novice) and advanced (academician and expert) users perceive overall the EPGs as adequate; (2) basic (practitioner and novice) and advanced (academician and expert) users can benefit from using EPGs on an objective metric of Learning score; (3) basic (practitioner and novice) users prefer simple (PDF-based) or normally enhanced (HTML-based) EPG designs; (4) advanced (academician and expert) users prefer normally enhanced (HTML-based) or enhanced (Java-based) EPG designs; (5) academician users perceive more benefits than expert users on normally enhanced (HTML-based) or enhanced (Java-based) EPG designs; and (6) the benefits of using EPGs is dependent on the pairing of EPG and user type.
+
+This study also provides valuable contributions for practice:  ]]><h target="3" match="part">(1) it helps IT Service Management scholarly and professional communities with the establishment of empirical insights on the potential positive impacts and requirements of utilization of EPGs, which are consistent with the previous experimental studies; </h><![CDATA[(2) it brings to the IT service process management research stream the need of further conceptual and empirical research on EPGs; and (3) it presents an initial evaluation model of metrics (correct learning, time effort, usefulness, ease of use, compatibility, and value) for EPGs.]]>
+    </section>
+    <section name=" Conclusions" category="conclusion">
+        <![CDATA[
+5. Conclusions
+In this paper, we have identified that the utilization of and the research on EPGs in the domain of IT Service Management has been inadequate, despite the availability of two relevant proprietary ITSM EPGs (one for ITUP and one for MOF 4.0), and the need for ITSM practitioners and scholars to be assisted by automated process guidance tools. However, in other domains such as Software Engineering, Healthcare, and Systems Engineering, EPGs have been studied and promoted. In particular, in this research we reviewed the core literature on EPGs in the Software Engineering domain, and we unexpectedly found that several expected benefits were not found in the four previous experimental research studies. A plausible main reason is that in all these studies the participants were full-time undergraduate or graduate students, with little or no professional experience.
+
+In this experimental study (a repeated-measures design), a sample of 38 international IT participants was blocked by practitioner-academician (30 vs 8 participants) and novice-expert (27 vs 11 participants). These participants were exposed to three EPGs (a PDF-based EPG (control-baseline treatment)), an HTML-based EPG (Treatment 1), and a Java-based EPG (Treatment 2). Two objective metrics (correct learning and time effort) and three subjective perceived metrics (usefulness, ease of use, and value) were measured. We found our overall findings to support the general assumption of benefits by using EPGs, but these benefits are dependent on the specific pair combination of EPG and user type. We found statistically significant differences on perceptions from basic (practitioner and novice) to advanced (academician and expert) users by types of EPGs.
+
+Hence, this empirical repeated-measure experimental design study contributes to the advance of the research stream on the design and utilization of EPGs in the new domain of ITSM and shows an overall positive effect of the utilization of EPGs but alerts us to the dependence of the type of EPG and type of user.
+
+As any research study, this study had methodological limitations: (1) our study collected data in an asynchronous experimental mode (in four locations managed by four researchers) and plausible differences in the voluntary motivation and willingness of participants to participate in the experiment might introduce interactions in the measured effects; (2) each participant was asked to apply the set of instructions reported in the sent material (one PDF document of instructions, three EPGs, one demographic questionnaire, three tests, and one evaluation questionnaire; (3) each participant was self-trained (no author explained the instructions to participants); (4) the overall assigned time was relatively short given that for initial navigation (first and unique time) for each EPG was assigned a period of 5 min and for answering the associated questionnaire was limited to other 5 min but in the event of uncompleted test, additional time was allowed; (5) the demographic profile of the sample suggests that over 70% were neophytes with regard to their knowledge of IT Service Management process schemes; (6) the participation was totally voluntary and no one was rewarded for their participation; and (7) the survey was conducted during the end of the scholarly semester where more stress and pressure exists on participants (IT professionals enrolled as part-time students in IT MSc programs and IT Faculty).
+We expect that, through additional similar experimental designs, our initial insights can be confirmed and augmented with the aim to provide computer-based tools for improving the learning and utilization of process in the IT Service Management domain. EPGs may be, at least, one type of such required computer-based tools.]]>
+    </section>
+
+Acknowledgments
+This research was supported by the Autonomous University of Aguascalientes (grant PIINF-10-4) and partially by a PROMEP RIGSTI research network grant.
+</publication>

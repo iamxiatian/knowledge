@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<publication marker="gai shuangshuang">
+    <journal>International Journal of Information Management</journal>
+    <time>Volume 36, Issue 3, June 2016, Pages 374-388</time>
+International Journal of Information Management
+    <title>Influence of social media on operational efficiency of national scenic spots in china based on three-stage DEA model</title>
+    <author>Jia Xu.</author> Author links open the author workspace.<author>Jiuchang Wei.</author> Author links open the author workspace.Opens the author workspaceOpens the author workspace<author>Dingtao Zhao.</author> Author links open the author workspace.
+School of Management, University of Science and Technology of China, Hefei, PR China
+Show more
+    <doi>https://doi.org/10.1016/j.ijinfomgt.2016.01.002</doi>Get rights and content
+Highlights
+    <highlight id="1">Social media adoption behaviors significantly influence the operational performance of scenic spots.</highlight>
+    <highlight id="2">Micro-blog marketing is more important in developing regions than developed regions.</highlight>
+    <highlight id="3">Difference of operational efficiency mainly form pure technical efficiency.</highlight>
+    <highlight id="4">5A scenic spots are better at using social media to improve operation performance.</highlight>
+    <highlight id="5">Eastern region have the much higher operational efficiency than other regions.</highlight>
+
+<abstract>
+Abstract
+An increasing number of national scenic spots around the world use social media, such as micro-blogs and Twitter, to promote their popularity and improve their operational performance. National scenic spots may adopt different social media behaviors that lead to unbalanced operational performance. This study takes the perspective of social media adoption in national scenic spots by looking into the influence of social media adoption behaviors on operational performance based on the three-stage data envelopment analysis model. <h target="1" match="full">We found that most of the national scenic spots in China have low pure technical efficiency and that operational performance, including social media popularity and operational performance, is significantly determined by various social media adoption behaviors.</h>
+</abstract>
+    
+    <keywords>Social media</keywords>
+    <keywords>Operational performance</keywords>
+    <keywords>Three-stage DEA</keywords>
+    <keywords>National scenic spots</keywords>
+    
+    <section name="Introduction" category="introduction"><![CDATA[
+1. Introduction
+Nowadays, social media serves an important role in our lives, as it influences the manner through which we communicate with each other (Qualman, 2012) and makes news reporting be presented in a faster, trendier and digital manner (Hermida, 2010). As a result, an increasing number of companies are changing their communication strategies to engage more consumers in social media communication to enhance brand loyalty and attract more potential consumers (Culnan, McHugh, & Zubillaga, 2010; Casaló, Flavián, & Guinalíu, 2010; Sinderen & Almeida, 2011; Hong & Cho, 2011; Laroche, Habibi, & Richard, 2013). Earlier research on social media has shown that consumers' intensity engagement is positively related to corporate reputation (Hollebeek, 2011; Dijkmans, Kerkhof, & Beukeboom, 2015).
+As managers become more comfortable with social media and treat it as their integrated marketing communication, they naturally become distracted to the issue of effective social media measurement (Hoffman & Fodor, 2010) while different industries gain significantly different benefits from the use of social media (Bughin, Chui, & Miller, 2009). Scholars have also addressed this issue depending on samples from specific industries, such as the hotel industry (Oliveira, Pedro, & Marques, 2013) and the manufacturing industry (Fernández-Menéndez, López-Sánchez, Rodríguez-Duarte, & Sandulli, 2009). Tourism is an important part of online commerce, which has deeply changed the industry structure (Milano, Baggio, & Piattelli, 2011) and is anticipated to be the new market dynamics (Werthner & Klein, 1999; Werthner & Ricci, 2004). As the tourism sector is a key sector for micro-blogs in China, it is chosen as the sample source in this study.
+In previous research, technological resources such as Information and Communication Technology (ICT) have been analyzed by quantifying efficiency (Sigala, 2003; Serrano-Cinca, Fuertes-Callén, & Mar-Molinero, 2005; Fernández-Menéndez et al., 2009). Social media as a kind of new technical resource has attracted scholars' attention on its efficiency measurement (Hoffman & Fodor, 2010), but a dearth exists in its related empirical studies. This study aims to analyze the operational performance of national scenic spots in China by adding social media indicators based on three-stage data envelopment analysis (DEA) model. Moreover, this study intends to excavate and determine the significant corporate social media adoption behaviors that can significantly promote returns of social media investment and deepen the theories about the evaluation of operational performance.
+This paper begins with a literature review about the connection between social media and operational performance from the perspective of the theory of resource-based view of the firm and the micro-blog adoption behaviors based on some classic information theories. The methodology and data are presented in Section 3. Section 4 describes the data analysis and the DEA results in three stages. Section 5 presents the discussion on different aspects. Section 6 is the conclusion includes managerial implications, theoretical and empirical contributions and limitations.
+
+]]></section>
+
+    <section name="Literature review" category="background"><![CDATA[
+2. Literature review
+2.1. Social media and operational performance: through RBVF lens
+According to the literature on strategic management, the resource-based view of a firm indicates that firms should acquire unique corporate resources to gain sustainable competitive advantage (Barney, 1991) through the VRIO framework, a resource model that consists of value, rarity inimitability and organization (Terziovski, 2010). Resources include both tangible and intangible assets (Grant, 1991) that can improve the productivity and the quality of service (Rungtusanatham, Salvador, Forza, & Choi, 2003). Tangible resources are composed of financial capital and various kinds of physical assets (e.g., plant, equipment, or stocks of raw materials), whereas intangible resources are assets such as reputation, brand image, and so on (Bharadwaj, 2000). To explore how these resources can create and sustain competitive advantages, scholars have argued that the concept of organizational capacity is the same as core competence (Hamel & Prahalad, 1990; Grant, 1991). Therefore capabilities refer to a firm's capacity to deploy resources, and they are tangible or intangible processes based on information (Amit & Schoemaker, 2012). Both information collection and processing practices are capabilities that facilitate a firm to acquire more knowledge assets (Grant & Badern-Fuller, 1995; Galunic & Rodan, 1997).
+The conceptual framework for augmenting the analysis of social media effects on organizational performance is the resource-based view that combines the operational performance of organizations with resources. Many studies have addressed this aspect in financial resources, but other resources such as human resources (Durand & Vargas, 2003) or technological resources (Okazaki, 2006; Emrouznejad, Cabanda, & Gholami, 2010) should be incorporated into the analysis of strategic performance. In previous research, information technology (IT) was considered as an important investmentin business value (Markus & Soh, 1993), and the effects of IT on intermediate business processes were examined (Mooney, Gurbaxani, & Kraemer, 1996). Moreover, the association between IT capacity and business performance was strictly examined from the theoretical and empirical perspectives (Bharadwaj, 2000; McAfee, 2002).
+Social media is considered a technology that has greatly developed in recent years, is treated as an interactive technological resource, and is regarded as a specific service and application with ICT (Martínez-Núñez & Pérez-Aguiar, 2014). How to quantify the return generated by investing in social media has attracted much attention and consideration from managers and scholars (Hoffman & Fodor, 2010). Hoffman and Fodor (2010) proposed that in calculating social media return of investment, managers should start by identifying what marketing objectives such a blog may satisfy (e.g., brand engagement), what interests the consumers (e.g., new products), and the approaches customers engage in (e.g., comment) instead of measuring social media investments in dollars (e.g., sales, cost reduction and increase in market share).
+Martínez-Núñez and Pérez-Aguiar, (2014) analyzed the productive efficiency of the companies that make up the telecommunications sector in Spain, and proved that adding 2.0 technology indicators into the evaluation could improve the efficiency through a super-efficiency analysis. In this study, the productive efficiency was measured by the indicators of sales and profits while the efficiency of social media investment was measured by number of followers of the profile. Such evaluation process was called the strategic performance assessment in that study (Martínez-Núñez & Pérez-Aguiar, 2014). Although the concept of strategic performance is comprehensive and contained various contents, including all-round operational activities (Atkinson, Waterhouse, & Wells, 1997), social media marketing is regarded as a corporate operational effort. Therefore, in this study, productive efficiency and social media efficiency are called by the joint term operational performance.
+Followers of the micro-blogs tend to be loyal and committed to the organization, and they easily accept the information released by the organization (Bagozzi & Dholakia, 2002). The organization can give its followers a better impression on the organization and generate positive word-of-mouth (Dholakia & Durham, 2010). The increasing number of travelers who seem to have tapped into social media (Litvin, Goldsmith, & Pan, 2008) challenges the established marketing practices of most tourism businesses (Xiang & Gretzel, 2010). The number of followers is used to measure the effectiveness of social media efforts, especially to evaluate brand awareness and brand engagement (Hoffman & Fodor, 2010).
+Similar to other social media tools such as Facebook, micro-blogs offer the public an opportunity to obtain organizational information through three different engagement channels appearing at the bottom of each update: like, share, and comment (Cho, Schweickart, & Haase, 2014). A set of public engagement measurements can be subjective or objective (Attfield, Kazai, Lalmas, & Piwowarski, 2011). Considering the advantages of the principal component analysis (PCA) that can reassemble many indicators into a new set of comprehensive indices, we conducted PCA on like, share, and comment and used a final score to represent the degree of public engagement in the official micro-blogs of national scenic spots.
+2.2. Social media adoption behaviors
+Social media adoption by organizations is a growing area of interest in various fields (Talukder, Quazi, & Djatikusumo, 2013). With the popularization of social media, the issue of how this new technology is accepted and practiced is an area that requires further analysis (Oh, Cruickshank, & Anderson, 2009). As micro-blogging is still an innovation at the beginning stage of diffusion, it presents a valuable opportunity to understand the characteristics of this early adoption process in depth (Kaplan & Haenlein, 2010). According to existing research, the theoretical bases of social media adoption behavior are theory of diffusion of innovation (Liu, 2012; He, Wang, Chen, & Zha, 2015), unified theory of acceptance and use of technology (Venkatesh, Morris, Davis, & Davis, 2003), and the technology acceptance model (Zhou, 2008). With every wave of new technologies in organizations, research focuses on the process of innovation usage, the adoption trend, and how it fits in the existing standard operating structure and shapes adopter behavior (Orlikowski, 2000; Mergel, 2013).
+As most related research has focused on the issue of why individuals or organizations adopt such new technology, only a few studies have described the utilization of social media based on social media functions. The item of social media adoption behavior in this study refers to the practices through which organizations operate their official social media. In terms of segmentation, social media in the scenario of micro-blogging are characterized by two types of variables. The number of followers, likes, shares, and comments received from each update is considered at the response level, and the organizational activity level is generated by updates, followers, comments, responses, and so on (Martínez-Núñez & Pérez-Aguiar, 2014). These practices conducted by individuals or organizations on social media can be called social media activities (Kaplan & Haenlein, 2011; Kietzmann, Hermkens, McCarthy, & Silvestre, 2011), social media adoption behaviors (Talukder et al., 2013; He et al., 2015), or marketers' social media efforts (Hoffman & Fodor, 2010). As the specific practices were not defined explicitly in previous research, the potential significance of different behaviors should be explored in depth. We present a comprehensive understanding of the information field to combine with classical information theory and explore four significant behaviors in micro-blogs, namely, following, update, picture updating, and time to micro-blog, which are considered the major factors influencing operational performance.
+2.2.1. Two-way symmetrical communication and following
+Two-way symmetrical communication facilitates the building of a quality relationship between an organization and its public (Grunig, 2013). Between the two, the public is more likely to comment on organizational two-way symmetry-based messaging strategies (Cho et al., 2014). Social media as an interactive vehicle (Martínez-Núñez & Pérez-Aguiar, 2014) makes every individual a news reporter (Wei, Bu, & Liang, 2012) by releasing information he/she wants to share. It also provides the function of following through which everyone can become followers of those they like or those they want to receive information from. Followers can like, share, and comment on updates of their followings, and then share their opinions below the updates. Therefore, the function of following is the most important step to establish two-way communication channels between organizations and individuals and is the most direct action they can do to connect with the public.
+2.2.2. Recency effect and updates
+Social media appears to have been designed to satisfy the need for immediate information (Westerman, Spence, & Van Der Heide, 2014). Individuals are significantly influenced by the recent effect as the end information is more highly accessible than the primary one. This phenomenon can is called the recency effect (Greene, 1986; Ariely, 1998). Objectives can acquire higher credibility through more frequent updating of information(Fogg & Tseng, 1999). Advertising research emphasizes that the position of information on a website has a positive effect on audience attention (Drèze & Hussherr, 2003; Goodrich, 2011). Recent studies have shown that information ads at the top of a social media page can attract more clicks than those positioned anywhere else (Rutz & Bucklin, 2011). Therefore, the behavior of updating affecting the position of information on their followers' page should be treated seriously.
+2.2.3. Vividness and picture updating
+Vividness is defined as “the representational richness of a mediated environment as defined by its formal features; that is, the way in which an environment presents information to the senses” (Steuer, 1992). Vividness embodies the perspicuity and tangibility of an image (Murphy & Jowdy, 1992), and it involves the different senses (Vealey & Greenleaf, 2001). Vividness is measured by a photo, an event, and a video to represent the different levels of vividness. High vividness attracts more likes, which is an important indicator of brand post popularity on social media (De Vries, Gensler, & Leeflang, 2012). As a micro-blog page contains a model of the photo wall, the number of photos can be recorded clearly and objectively. Compared with the number of events or videos screened and justified by researchers subjectively, the number of photos shown on the page is more reliable on a social media page.
+2.2.4. Foot-in-the-door effect and time to micro-blog
+The foot-in-the-door effect, which was proposed by Freedman and Fraser (1966), means that when individuals initially accept a small request, they are more likely to accept larger and more undesirable requirements later to maintain the same image. In the circumstances of computer-mediated communication, compliance to the first request increases the likelihood of later compliance to the second (Guéguen, 2002). According to studies, the acceptance of information is similar to the approach of product acceptance. If the organization adopts such innovation technology earlier, then the public will be able to identify their information easily.
+
+]]></section>
+
+    <section name="Methodology" category="methods"><![CDATA[
+3. Methodology
+3.1. Research method-three stage DEA
+This study presents a three-stage approach to assess technical efficiency that controls for external variables affecting national scenic spots operational performance. The three-stage DEA model was proposed by Fried, Lovell, Schmidt, & Yaisawarng, (2002). It is a better method to assess the efficiency of the decision-making unit (DMU), including the following three stages:
+Stage 1: The traditional DEA model
+
+The traditional DEA model is BCC model based on VRS (variable scale reward). We can calculate the pure technical efficiency (PTE) with the help of this model. Before using this model, we should do some basic hypotheses. Assuming that there are a number of DMUs and corresponding to each DMU exiting m different input items and s different output items. BCC model were input and output oriented and according to the research of Oliveira et al. (2013) for the tourism industry, an output orientation might be more relevant. So we used the output oriented BCC model. Given the traditional DEA model has been quietly mature, we did not go into the linear programming principle.
+Stage 2: SFA model
+
+In the second stage, PTE of national scenic spots for external variables outside managerial control is adjusted so that all PTE of national scenic spots fall into an identical operating environment. By building a SFA model to observe the influence of three factors such as management inefficiency, environmental effect and random error and reject the environmental effect and random error so that we can retain the slack of inputs just caused by management inefficiency.
+
+We structure the similar SFA model with slacks of inputs as dependent variables and environmental variables as independent variables. As shown in Eq. (1)
+(1)snk−=fn(zk;βn)+vnk+unkn=1,2,⋯,N;k=1,2,⋯,Kwhere snk− denotes the input slacks, fn(zk;βn) is stochastic frontier function generally taking a linear form representing the effect of environmental factors to input slacks, zk represents a vector of external variables likely to the influence the efficiency of national scenic spots, βn is a parameter vector requiring estimation, vnk+unk is hybrid error, vnk represents random disturbance obeying N(0,σv2) distribution, uit represents the management inefficiency obeying the nonnegative tail of normal distribution that is to say unk obeys N+(u,σ) distribution and unk has no relation with vnk.
+Further, in order to measure the impact of random disturbance. Random disturbances need to be separated from the management inefficiency using the estimated values (βn^, un^, σuk2^, σvk2^) resulting from SFA model regressions and the conditionally unbiased estimation E^[unk(vnk+unk)] because of management inefficiency. The method is:
+(2)E^[unk(vnk+unk)]=snk−−zkβn^−E^[unk(vnk+unk)]To remove the environment factors and the influence of random disturbance, we need to adjust the inputs. Through the adjustment, DMUs in different environment would be adjusted to the same environment. We had to adjust the DMUs in poor environment. The adjustment method is:
+(3)xnk′=xnk+[max(zkβn^]+[max(vnk^)−vnk^]n=1,2,⋯,N;k=1,2,⋯,Kwherexnk′, xnk are respectively the inputs after the adjustment and before the adjustment. The first bracket on the right side of the equation includes all DMUs that would be dispatched to the same environment and they are the worst part of samples. The second bracket adjusted all DMUs to the same state of nature, namely the most unfortunate state of the samples.
+Stage 3: Adjusted DEA model
+
+By increasing the quality of inputs and unchanging the outputs, the external advantage of operational performance is removed. The new efficiency is obtained by re-running the BBC output oriented model on the adjusted data set and they represent the net component of national scenic spots' operational performance.
+
+3.2. Sample and variable selection
+The research sample included 203 national scenic spots identified from the 2013China Urban Construction Statistical Yearbook published in November 2014. Based on the search results of the SINA micro-blog, the number of official micro-blogs of national scenic spots that were launched was 156. Among them, 109 national scenic spots established their official micro-blogs before 2013. Moreover, nine national scenic spots did not have data in the yearbook critical for this study. Thus, we removed these samples and obtained 100 national scenic spots as the final research sample with complete data for all indicators.
+
+To acquire micro-blog data, we studied the SINA brand pavilion to find the addresses of the national scenic spots' official micro-blogs. We then used self-programming to obtain the micro-blog home page on the number of active days, the number of followers, the number of followings and the number of updates, the number of pictures, and the number of like, share, and comment of every message from January 1, 2013 to December 30, 2013. The software was programmed by VB language. We confirmed the indicators we needed on the SINA micro-blog. Then, we imported the addresses of the official corporate micro-blogs into the system. The software could flip the pages automatically and put the target data into final Excel tables. As software was used, precision could be ensured and data could be obtained immediately because of the fast speed. Finally, we obtained 284,270 observations on the SINA micro-blog. Based on the collected national scenic spots' operational information and other information, such as tourism-only area or potential visits, the total observed value was 284,870 observations.
+
+The correct input, output, and environmental indicators are the decisive factors that determine the success of the application of this methodology. The indicators are presented in Table 1.
+Table 1. Definition and summary statistics for indicators.
+Indicators	Definition
+Output indicators
+Number of followers	Total number of followers since the Micro-blog was opened.
+Number of visits	Total number of visits in 2013, the unit is 10,000 person-times
+Ticket Fees	Ticket fees in 2013, the unit is 10,000 RMB
+Engagement	PCA score of average likes, shares and comments
+Input indicators
+Time to Micro-blog	2013/12/30 minus the data to open the Micro-blog
+Number of updates	Number of updates in 2013
+Number of pictures	Total number of pictures since the Micro-blog was opened
+Number of followings	Total number of followings since the Micro-blog was opened
+Tourism-Only Area	Part of tourism area which is for the visit, the unit is km2
+Operational Expenditure	Expenditure for operation, the unit is 10,000 RMB
+Maintenance Expenditure	Expenditure for maintenance, the unit is 10,000 RMB
+Environmental indicators
+Per capita GDP	Per capita GDP in 2o13 in prefecture level city where the national scenic spot located
+Number of potential customers	∑i=1nareaofprefecturelevelcityi×populationdensityin2013inprefecturelevelcityi,i=1,2,⋯,n;n=numberofprefecturelevelcitiesthescenicinacrooss
+3.2.1. Input indicators
+We calculated two types of input indicators: indicators of productive resources and indicators of the application of micro-blogs. According to previous studies, organizations can benefit from social media adoption because of their monetary resources (Seltzer & Mitrook, 2007; Waters, Burnett, Lamm, & Lucas, 2009). In economics, productive factors are generally divided into three parts: natural resources such as land, labor, and capital. As the statistical yearbook did not include detailed data about the human resources serving the national scenic spots, this study used land resources and capital as the economic production investments. In this study, resource investment was represented by the tourism-only area. Along with the development of society and economy, the demand for leisure tourism is also growing. As looser tourist sites encourage people to travel more, a growing portion of tourism-only area is being dedicated to tourists. Capital investment consists of operational expenditure, maintenance expenditure, and completed investment in fixed Assets. These three input indicators constitute the total annual operating expenses of national scenic spots. In addition, we used four kinds of social media adoption behaviors to represent social media investments: number of followings, number of updates, number of pictures, and time to micro-blog. These behaviors are supported by theories of two-way symmetrical communication, recency effect, vividness, and foot-in-the-door effect.
+3.2.2. Output indicators
+To evaluate the results of social media investments and operational management, two sets of output indicators were included. Public engagement and number of followers were considered indicators of social media. Visits and ticket fees were considered as tangible returns.
+
+Public engagement is a comprehensive index of likes, shares, and comments, and it was determined through the PCA. Like, share, and comment that appear at the bottom of the content represent the different levels of public engagement in micro-blogs, from low to high (Cho et al., 2014). In Cho et al. (2014), the highest level of public engagement was proved to have a significant difference among the four public relations models proposed by Grunig and Hunt (1984). Considering the advantages of PCA in the treatment of multiple variables, we used positive/negative scores returned by PCA to compute the degree of public engagement. With the technical support of SPSS 16.0, we used the PCA to analyze these three factors. We conducted the standardized treatment because of the relatively large difference in the indicators. We also used the logarithmic treatment base 10 and the correlation coefficient matrix, which were all strongly and positive significant, as shown in Table 2.
+Table 2. Correlation coefficient matrix of engagement indicators.
+Share	Comment	Like
+Share	1		
+Comment	0.879***	1	
+Like	0.600***	0.437***	1
+***
+p < 0.001.
+We computed the eigenvalues of like, share, and comment and the principal component contribution rates (Table 3). The first, second, and third characteristic values for the main component were 2.297, 0.605 and 0.098, respectively. Only the characteristic value of the first main component was larger than 1.000. We calculated the load value for the first principal components. The first principal component loads on x1, x2, and x3 were 0.959, 0.903, and 0.749, respectively. The feature vectors on x1, x2 a, and x3 were 0.418, 0.393, and 0.326, respectively, for the first principal component. From the perspective of the main components of load size, the indicators were closely related to the first principal component. According to the principal component feature vectors derived from the linear relationship between indicators and the principal component y1,
+y1=0.418x1+0.393x2+0.326x3we followed the principal component y1 and the corresponding contribution rate (y = y1 × 76.552%) to calculate the score of public engagement in each official micro-blog of national scenic spots.
+Table 3. Principal component eigenvalues and the contribution rate.
+Principal Component	Eigenvalues	Contribution rate (%)	Cumulative contribution rate (%)
+y1	2.297	76.552	76.552
+y2	0.605	20.166	96.718
+y3	0.098	3.282	100.000
+Another important output indicator of micro-blogs is number of followers. The updates made by a user are displayed on the user's profile page, and they are shown to his/her followers. This output indicator is the most readily available and oft-used measure of influence of micro-blog users.
+
+Ticket fees and number of visits are variables used to measure the tangible returns. For most national scenic spots in China, ticket fees are the main breadwinner and have become the largest and the most direct economic benefits. Ticket fees account for the proportion of total operating income, and it presents a rising trend year by year. Number of visits is the most intuitive data used to measure the popularity of scenic spots.
+
+3.2.3. Environmental indicators
+In the second stage, the influence of external environment factors is eliminated. When choosing the environmental indicators, we considered them mainly from two aspects. First, the indicator should show the quality of living standard of people, and we used per capita GDP to represent this indicator. Second, the indicator should show demographics. We chose number of potential consumers to represent this indicator, and thus we calculated the number of people within 100 km. To measure this indicator, we estimated each province area included within 100 km of each national scenic spot using Google Earth Pro 6.0 and determined the density of population in each province as the output. Thus, the indicator of number of potential consumers is an estimate. The descriptive statistics of the different indicators are shown in Table 4.
+Table 4. Descriptive Statistics for the input, output and environmental indicators.
+Variables	Units	Mean	Sd.	Maximum–Minimum
+Output variables
+Number of followers	number	4.358	0.964	6.283–2.199
+Number of visits	number	2.259	0.607	3.669–0.914
+Ticket Fees	number	3.614	0.599	5.043–2.173
+Engagement	number	0.266	0.721	2.358 to −1.004
+Input variables
+Time to Micro-blog	number	3.050	0.137	3.236–2.674
+Number of updates	number	2.636	0.610	3.918–1.146
+Number of pictures	number	2.980	0.641	4.171–1.279
+Number of followings	number	2.651	0.458	3.301–1.568
+Tourism-Only Area	number	1.711	0.636	3.953–0.000
+Operational Expenditure	number	3.268	0.894	5.406–0.699
+Maintenance Expenditure	number	2.868	0.722	4.505–0.954
+Environmental variables
+Per capita GDP	number	4.603	0.376	5.138–1.954
+Number of potential customers	number	6.930	0.337	7.944–5.400
+3.2.4. Pearson correlation test
+In the DEA model, the relationship between each input and output must conform to the “synthetic” hypothesis. That is, the inputs should not cause the decrease in outputs. This study used the Pearson correlation test to examine the “synthetic” hypothesis. As shown in Table 5, the correlation test between input indicators and output indicators was positive expect for the indicator of completed investment in fixed assets, which was in accordance with the “synthetic” hypothesis. The DEA model was used after deleting this negative indicator.
+Table 5. Correlation coefficients between input and output variables.
+Variables	Output
+Number of followers	Number of visits	Ticket Fees	Public Engagement
+Input
+Time to Micro-blog	0.377**	0.266**	0.250*	0.189
+Number of updates	0.663**	0.307**	0.276**	0.334**
+Number of pictures	0.696**	0.239*	0.234*	0.419**
+Number of followings	0.393**	0.106	0.208*	0.216*
+Tourism-Only Area	0.084	0.156	0.197	0.084
+Operational Expenditure	0.118	0.491**	0.485**	0.144
+Maintenance Expenditure	0.234*	0.625**	0.641**	0.044
+Completed Investment in Fixed Assets	−0.015	−0.095	0.031	−0.023
+N = 100
+
+*
+p < 0.05.
+**
+p < 0.01.
+3.2.5. Coefficient of variation
+Coefficient of variation(CV) is the statistics used to measure the relative difference of each observation in the group. It was used to compare the discrete degree of different data groups. The bigger the CV value of scenic spot management efficiency, the greater the degree of differentiation. It can be formalized by the equations as follows:
+CV=σμ=∑i=1n(xi−μ)2nμwhere σ is the standard deviation of series, μ is the mean value of series, xi represents the operational performance of national scenic spot i, n is the number of national scenic spots.
+
+]]></section>
+    
+    <section name="Empirical results obtained by the three-stage approach" category="results"><![CDATA[
+4. Empirical results obtained by the three-stage approach
+This study used the three-stage DEA approach to evaluate operational performance after adjusting for the exogenous effects of the external environment.
+
+4.1. Stage 1: Applying DEA in evaluating operational performance
+In the initial deterministic DEA model, efficiency scores for all national scenic spots studied relative to a best practice frontier were calculated using the output-oriented BCC model, which is based on the VRS assumption. According to the results of stage 1, the tourism sector had an average efficiency of 0.946, 0.954, and 0.992 (TE, PTE, and SE, respectively) when the influence of environmental variables and random factors was ignored. About 53% of national scenic spots were fully efficient in performing social media adoption activities. However, only 10% of national scenic spots were at a stage of decreasing returns to scale, thus implying that the percentage increment in outputs fell behind that of inputs in these scenic spots. In the initial DEA model, the amount of input slacks revealed by the DEA evaluation represented the degree of operational inefficiency, which is postulated to be composed of net technical inefficiency and inefficiency resulting from external environmental variables.
+
+4.2. Stage 2: Using SFA model to quantify environmental effects
+We used the slacks of inputs obtained from stage 1 as the independent variables, and per capita GDP and number of potential consumer were used as the explanatory variables. We conducted SFA regression, and the results of which are shown in Table 6.
+Table 6. Results of SFA regression in second stage.
+Slack of Time to Micro-blog	Slack of Number of updates	Slack of Number of pictures	Slack of Number of followings	Slack of Tourism-Only Area	Slack of Operational Expenditure	Slack of Maintenance Expenditure
+Intercept	0.0506	−0.4971	−0.0382	−0.1258	−0.0813	0.3425	−0.3789
+(0.9928)	(0.1500)	(0.4112)	(0.2053)	(0.4665)	(0.9930)	(0.4658)
+Per capita GDP	−0.0149	0.0796**	0.0228	0.0164	0.0052	−0.0582	−0.3850
+(0.8250)	(0.0211)	(0.0385)	(0.0139)	(0.0754)	(0.8450)	(0.0318)
+Number of potential customers	0.0011	0.0137	−0.0105	0.0055	0.0069	−0.0159	0.0679*
+(0.5561)	(0.0259)	(0.0372)	(0.0253)	(0.0140)	(0.5476)	(0.0392)
+sigma-squared	0.0067	0.1431**	0.1258	0.1679**	0.2828**	0.2102**	0.1042*
+(0.0257)	(0.0397)	(0.0054)	(0.0266)	(0.0658)	(0.0755)	(0.0577)
+gamma	1.0000	1.0000**	1.0000	1.0000***	1.0000***	1.0000**	0.9864**
+(0.9983)	(0.0007)	(0.0008)	(0.0008)	(0.0000)	(0.0755)	(0.0112)
+Log likelihood	81.6978	21.7250	28.5429	36.8929	25.7933	60.6209	15.1789
+LR test of the one-sided error	46.7031	42.5763**	58.35290**	71.8142	72.7400	48.0754	36.9305
+*
+p < 0.05.
+**
+p < 0.01.
+***
+p < 0.001.
+In Table 6, γ represents the ratio of technical inefficiency variance and total variance. All γ in each regression was nearly 1, and all the significant levels reached 1%. These findings showed that differences were found in technical efficiency and that the SFA method was appropriate. Moreover, technical inefficiency greatly affected the input slacks, and the random factors were not significant.
+The environment variables were examined in the slack variable regression. The increase in environmental variables was conducive to the decrease in input slacks. That is, reducing the waste of inputs and the negative outputs would be beneficial.
+
+For the indicator of per capita GDP, only the t value of number of updates in 2013 passed the test, thus showing a positive correlation. Therefore, people in developed regions have more channels to obtain relative information, and their demand for updates is not significant, thus resulting in deficient updates. Otherwise, these people have more ability to identify useful information, and the national scenic spots do not have to release the targeted information.
+
+For the number of potential consumers, only the indicator of maintenance expenditure passed the test. Increased number of visits causes more waste, and the maintenance of these losses is overdone. However, to maintain the safety of national scenic spots, the necessary scenic spot facilities should be improved.
+
+As the effect of the environmental variables on the different DMUs is different, these national scenic spots will have higher operational performance with an improved environment. Therefore, we must adjust the original inputs to make all national scenic spots have the same operational environment. Only in this way can we investigate their true level of operational performance.
+
+4.3. Stage 3: Using adjusted data for the evaluation and comparison of projects
+According to Eq. (3), we adjusted the inputs and conducted the CCR and BCC model computation again. We then obtained the operational performance of stage 3. According to the result of the Wilcoxon test in Table 7, the efficiency score under stage 1 was significantly different with that of stage 3. The average CCR efficiency score in stage 1 was 0.946 and that of stage 3 was 0.915. The average BCC efficiency score in stage 1 was 0.954 and that of stage 3 was 0.936. Clearly, the efficiency value of stage 1 was significantly different from that of stage 3, which indicates that the environmental indicators chosen in this study and statistical noise affected the efficiency value.
+Table 7. Wilcoxon test between stage 1 and stage 3 in different models.
+CCR model	BCC model
+stage 1	stage 3	stage 1	stage 3
+DEA-efficiency DMU (1)	52	52	57	53
+DEA-inefficiency DMU (1)	48	48	43	47
+Total DMU (1)	100	100	100	100
+Mean of efficiency scores	0.946	0.915	0.954	0.936
+SD of efficiency scores	0.080	0.107	0.075	0.090
+Wilcoxon	Z = −5.906*	Z = −5.713*
+*
+p < 0.001.
+In comparing the results of stage 1 with those of stage 3, we found that the number of national scenic spots decreased to 53 from 57 after ruling out the effect of environmental variables and statistical noise. The operational performance of four national scenic spots, namely, Tianzhu Mountain, Tai Lake, Zhaoqing Star Lake, and Luofu Mountain, sharply decreased in stage 3. This finding indicates that these national scenic spots will have low operating efficiency if they do not have congenital advantage. The average technical efficiency in stage 3 decreased from 0.946 to 0.915, and the PTE decreased from 0.954 to 0.936. However, the average of SE increased by 0.992 to 0.975, which indicates that the decline in TE resulted from the decrease in PTE. Therefore, the main problem of national scenic spots is low pure technical efficiency.
+
+]]></section>
+
+    <section name="Discussion" category="discussion"><![CDATA[
+5. Discussion
+5.1. Comparison of operational performance between 4A and 5A national scenic spots
+Among the samples of this study, 51 national scenic spots were 4A and 46 were 5A. 5A national scenic spots are those assessed by the National Tourism Scenic Area Quality Grade Evaluation Committee in accordance with the national standards in the Manual of Scenic Spots of Division and Evaluation of Quality Level. Compared with 4A national scenic spots, 5A national scenic spots pay more attention to humanization and details and reflect more the common psychological needs of visits to the scenic spots. Moreover, they highlight the center for tourists and emphasize being people oriented. We calculated the average efficiency of both 4A and 5A scenic spots. ]]> <h target="3" match="part">As shown in Fig. 1, 5A scenic spots were slightly more efficient than 4A scenic spots on average when using both CRS and VRS approaches. In terms of scale efficiency, the difference between 5A and 4A scenic spots in pure technical efficiency was large. Therefore, the difference between 4A and 5A scenic spots mainly came from the difference in pure technical efficiency.</h><![CDATA[
+Efficiency comparison between 4A and 5A scenic spots
+Download full-size image
+Fig. 1. Efficiency comparison between 4A and 5A scenic spots.
+We analyzed the input slacks of 4A and 5A national scenic spots, as shown in Table 8. The largest ratio of slacks and inputs is that of the tourism-only area, whether in 4A or 5A national scenic spots. Specifically, the average ratio of 4A national scenic spots is far larger than that of 5A national scenic spots. Therefore, the utilization efficiency of land resources of4A national scenic spots is seriously insufficient. Moreover, the variance of 4A national scenic spots was typically huge. This finding indicates that, among the 4A national scenic spots, individual national scenic spots have serious problems and require targeted treatment, such as Dongzhai, which has a ratio of slacks and tourism-only area reaching more than 22%. In the aspect of operational expenditure, the mean ratio of 5A national scenic spots was higher than that of 4A national scenic spots. However, in the proportion of scenic spots with slacks, 5A national scenic spots had a smaller variance. Therefore, improvement measurement should be conducted among these 9, 5A national scenic spots. As more than half of the 4A national scenic spots had operational expenditure slack, the policy to reduce operational expenditure slacks should be introduced generally among all of 5A national scenic spots. In maintenance expenditure, the slacks of both 4A and 5A national scenic spots were small, and the proportion of national scenic spots could be ignored. Therefore, the resources used to conduct the maintenance of the facilities of national scenic spots are scarce and badly require supervision and government regulation. In terms of social media adoption behaviors, 4A and 5A scenic spots had a different degree of redundancy. Time to micro-blog and number of followings were relatively prominent. Time to micro-blog could not be changed. Nevertheless, according to Lee and Kwon (1995), the secondary effect appeared to be almost equal to the primary effect in the tourism sector. However, these national scenic spots have already gained the primary effect, and thus establishing the secondary effect is necessary, as it is equal to constructing the recency effect completed by releasing updates at the right time. 4A national scenic spots had more update slacks than 5A, with a small difference. The variance of 4A national scenic spots is larger than that of 5A national scenic spots, which indicated that the update variance of 4A national scenic spots came from some scenic spots with huge updates slacks, such as Tiantai Mountain (2.622%). Reducing the unnecessary two-way symmetrical communication would save time and resources and improve operational performance effectively. For example, Qingyuan Mountain (4.215%) and Wild Three Hillsides (2.101%) significantly increased the variance of 5A national scenic spots. Note that 4A national scenic spots had better ability to control the number of pictures than 5A national scenic spots. As shown in Table 7, 5A national scenic spots had huge slacks in picture with an unbalanced internal level because of the huge variance (0.6067).
+Table 8. Statistics of input slacks about 4A and 5A national scenic spots.
+Input indicators	4A national scenic spots	5A national scenic spots
+Number of slacks	Proportion of slacks	Mean ratio of slacks and inputs	Variance of ratio of slacks and inputs	Number of slacks	Proportion of slacks	Mean ratio of slacks and inputs	Variance of ratio of slacks and inputs
+Time to Micro-blog	10	41.67%	0.7578%	0.9840	11	52.38%	0.6218%	0.6565
+Number of pictures	11	45.83%	0.1242%	0.0098	13	61.90%	0.4752%	0.6067
+Number of followings	11	45.83%	0.6225%	0.4485	12	57.14%	0.8440%	1.3241
+Tourism-only Area	13	54.17%	5.0990%	33.9090	7	33.33%	2.6354%	2.1450
+Operational expenditure	14	58.33%	0.2946%	0.3312	9	42.86%	0.6147%	0.4600
+Number of updates	9	37.50%	0.4426%	0.6176	5	23.81%	0.3754%	0.0592
+Maintenance expenditure	9	37.50%	0.0885%	0.0375	8	38.10%	0.0955%	0.0174
+5.2. Comparison of operational performance in different regions
+Fig. 2 shows the mean efficiency cartogram according to the eastern, western and central division of the economy. ]]> <h target="5" match="full">Eastern regions had higher operational performance than the other regions, </h>  <![CDATA[ and the operational performance of western regions was slightly higher than that of the central region. This situation is not entirely consistent with the economic development because economy in the central regions is better than that in the western regions. ]]> <h target="3" match="full">On the basis of the PTE and SE cartogram, we can conclude that the difference in technical efficiency mainly comes from the huge difference in pure technical efficiency.  </h> <![CDATA[The national scenic spots in the western and central regions should learn from those in the eastern regions and improve their management quality and adopt the inexpensive assistance of the social media.
+Efficiency comparison among different regions
+Download full-size image
+Fig. 2. Efficiency comparison among different regions.
+Through spatial clustering, we intuitively determined the difference in spatial distribution of operational performance, as shown in Fig. 3. In the first picture, the operational performance of most provinces is 0.85–0.95. The distribution of pure technical efficiency is almost same as that of technical efficiency, the CV of which reaches 0.095, as shown in Table 9. According to the definition of CV, the greater the CV is, the more unbalanced the operational performance of the national scenic spots. Most provinces reach 0.95 in terms of scale efficiency. Table 8 shows the CV of 0.032, which is a relatively small value. This result confirms that low pure technical efficiency is the current principal contradiction of national scenic spots. Moreover, some provinces in Western and Northern China, such as Tibet, Sinkiang, and Inner Mongolia, that have great tourism resources did not establish their official micro-blog to promote themselves. This situation is unfortunate as social media is the most inexpensive method that can be used to significantly improve their operational performance if used effectively.
+The spatial distribution of CRS technical tourism efficiency, pure technical…
+Download full-size image
+Fig. 3. The spatial distribution of CRS technical tourism efficiency, pure technical tourism efficiency and scale tourism efficiency of national scenic spots in china.
+Table 9. Coefficient of variance of pure technical tourism efficiency and scale tourism efficiency of national scenic spots.
+Efficiency type	Standard deviation	Mean value	Coefficient of variation
+TE	0.01067	0.91465	0.01167
+PTE	0.08895	0.93604	0.09503
+SE	0.03155	0.97536	0.03235
+We also analyzed the input slacks of national scenic spots in different regions, as shown in Table 10. Except for the variances of the tourism-only area that were large, the variances of other indicators were small. This finding indicates that input slacks have obvious regional characteristics. In different regions, national scenic spots with input slacks have similar inefficient management problems. According to the data in Table 10, we found that national scenic spots in western regions paid more attention to vividness and social media two-way symmetrical communication, and that their slacks of pictures and followings were much higher than those in other regions. However, their slacks of updates were smaller than those in eastern regions. This finding shows that the national scenic spots in developed regions are better at taking advantage of new media to promote their operational performance, as the input slacks of pictures and followings of eastern national scenic spots are also high at more than 50%. Based on the results above, the operational performance of central region was the lowest, and the largest slack of the central region was the tourism-only area with a variance of 65.7995. This finding indicates that some national scenic spots are special, such as Dongzhai, which has slacks of 22.269. Compared with the operational expenditure and maintenance expenditure, the slacks of social media adoption behaviors were slight. This result confirms that the consciousness of using social media in daily operation in the central regions is weak.
+Table 10. Statistics of input slacks about different regions.
+Input indicators	China's east region	China's central region	China's west region
+Number of slacks	Proportion of slacks	Mean ratio of slacks and inputs	Variance of ratio of slacks and inputs	Number of slacks	Proportion of slacks	Mean ratio of slacks and inputs	Variance of ratio of slacks and inputs	Number of slacks	Proportion of slacks	Mean ratio of slacks and inputs	Variance of ratio of slacks and inputs
+Time to Micro-blog	13	48.15%	0.87771%	1.1731	5	41.67%	0.3796%	0.0882	3	37.50%	0.3725%	0.0006
+Number of pictures	15	55.56%	0.3620%	0.5413	8	66.67%	0.2225%	0.0692	2	25.00%	0.1840%	0.0000
+Number of followings	14	51.85%	0.8424%	1.2315	6	66.67%	0.6447%	0.4041	3	37.50%	0.2183%	0.0374
+Tourism-only Area	12	44.44%	3.8948%	9.0923	5	41.67%	2.5374%	3.0405	5	62.50%	6.2260%	65.7995
+Operational expenditure	14	51.85%	0.5422%	0.5502	7	58.33%	0.1088%	0.0037	4	50.00%	0.4666%	0.2258
+Number of updates	10	37.04%	0.5780%	0.5270	3	25.00%	0.2247%	0.0481	2	25.00%	0.0910%	0.0000
+Maintenance expenditure	12	44.44%	0.1189%	0.0384	3	25.00%	0.0277%	0.0009	2	25.00%	0.0254%	0.0005
+5.3. Development pattern and efficiency improvement direction of national scenic spots
+The operational performance in stage 3 became more reliable after the environmental variables were adjusted. Therefore, the improvement method should be based on it when national scenic spots cannot change the external environment instantly. In this study, we used the average value of pure technical efficiency and scale efficiency as the origin of coordinates to establish the matrix (Fig. 4). We divided these 100 scenic spots into four types according to different pure technical efficiencies and scale efficiencies, such as the Boston matrix. Chaohu Lake, Sun Island, and Huashan Mountain, among others, were placed in field A, which has poor pure technical efficiency and high scale efficiency. The improvement direction of these spots is mainly concerned with optimizing management quality. MeiLing–Tengwang Pavilion, Panshan Mountain, and DongZhai, among others were placed in field C, which has high pure technical efficiency and poor scale efficiency. The improvement direction of these spots is on improving their scale efficiency. The national scenic spots in field D, which has poor pure technical efficiency and scale efficiency, such as Libo ZhangJiang, Fairy Lake, and Mount Emei, have difficulty in improving their operational performance because they give more consideration to material aspects. The national scenic spots in field B, which has both high technical efficiency and scale efficiency, such as Mount Siguniang, Mount Langya, and Xianju are the benchmarks of learning in the tourism industry.
+Correspondence between PTE and SE of national scenic spots
+Download full-size image
+Fig. 4. Correspondence between PTE and SE of national scenic spots.
+Based on the analysis of input slacks from the perspective of different levels and different regions, we conclude that the main problem of national scenic spots is poor pure technical efficiency. ]]> <h target="1" match="full">Moreover, the similar economic production input slacks and the unbalanced social media adoption behaviors among different national scenic spots have a significant effect on operational performance. </h><![CDATA[Tourism is an information-intensive industry (Werthner & Klein, 1999), and social media is an important marketing channel through which national scenic spots can reach and persuade potential visits at little cost (Xiang, Pan, Law, & Fesenmaier, 2010). Consumers can gain different power over different social media adoption behaviors and can change the operational performance different.
+
+]]></section>
+
+    <section name="Conclusion" category="conclusion"><![CDATA[
+6. Conclusion
+Managers of national scenic spots face intense regulatory pressure to achieve the best operational performance. This study proposed a three-stage DEA approach for assessing the operational performance of national scenic spots by controlling external indicators. This three-stage approach represents a pioneering alternative for examining the operational performance of national scenic spot management to avoid penalizing “good” performers that operate in an unfavorable environment and rewarding “poor” performers that operate in a favorable environment (Hsu & Hsueh, 2009). The output-oriented BCC model was applied in both stage 1 and stage 3. Stage 2 used SFA regression that adopted input slacks generated in stage 1 as the dependent variables and eliminated the environmental effects from the efficiency evaluation. This study demonstrated a methodology for investigating operational performance that could reliably assess the influence of social media adoption behaviors. On the basis of the operational performance scores obtained in stage 3 after controlling the external variables, we found that the difference in operational performance in the different levels of scenic spots and different regions mainly from comes from the PTE that can be controlled by managers. Based on our study and on the relevant literature, we provide the following insights and recommendations for national scenic spots managers or practitioners who are interested in adopting social media for operational performance.
+Firstly, findings from the SFA regression show that the per capita GDP can effectively explain the input slack of updates. Previous studies on the limited capacity model (LCM) have suggested that people have a limited amount of mental resources to process information (Lang, Davis, & Öhman, 2000). In developed regions, people undoubtedly have more information channels because of the rise of polychromic media consumption in which people consume multiple media types simultaneously. For example, when people watch TV, they look up information using their laptop or smartphone at the same time (Brasel & Gips, 2011). Thus, as people in developed regions more easily receive information falls from other channels, their information capacity for social media is compressed. The individual information capacity is limited, and thus social media fatigue occurs because of information overload. The above example implies that national scenic spots in developed regions should streamline their social media updates to provide the most useful information to the public and not update too frequently to avoid social media fatigue. ]]> <h target="2" match="part">While national scenic spots in developing regions should take advantage of the fact that people in these regions have larger information capacity for social media, so that they can provide more information about their scenic spots.</h><![CDATA[
+Secondly, the SFA regression also reveals that the population of per hundred square kilometer can effectively explain the input slack of maintenance expenditure. It means the national scenic spots that have more potential customers waste more maintenance expenditure than those that have less. According to previous research, markets prepare the wastes to meet the needs of future customers (Oldenburg & Geiser, 1997). Industrial waste management is a global problem (Haslenda & Jamaludin, 2011). In the tourism industry, our finding about the waste problem in maintenance expenditure indicates that decision makers of national scenic spots should consider potential customers as a signal of maintenance expenditure waste. While satisfying customer needs is important for enterprises to survive (Amoako, 2012). Thus, a dynamic game exists between cost and service quality to translate maintenance expenditure to high-quality service effectively and economically.
+Thirdly, in the hotel industry the greater the number of hotels' stars is associated with the better the performance (Pine & Phillips, 2005; Khataei, Farzin, & Mousavi, 2008; Assaf & Agbola, 2011) though some scholars argued that some part of 4-star hotels perform better than 5-star (Tarim, Dener, & Tarim, 2000; Chen, 2007). However, there is the dearth of related research about evaluation of 5A scenic spots and 4A scenic spots. This paper contributes to filling this gap. ]]> <h target="4" match="part">According to the results, the 4A scenic spots that generally launched their official micro-blogs emerged earlier than the 5A scenic spots while 5A scenic spots wined higher operational performance. Specially, the investments on updates, pictures updating and followings are quite insufficient. It indicates that managers of 4A scenic spots should pay more attention to information updating and improve vividness of their updates. Moreover, they should learn from 5A scenic spots to construct channels of two-way symmetrical communication with the consumers.</h><![CDATA[
+Finally, findings about operational performance in different regions indicate that national scenic spots in central region should pay more attention on the usage of this technical resource. Compared to those in eastern and western regions, these national scenic spots should particularly improve the vividness of their updating release and initiatively follow more consumers to better understand the information needs.
+
+This study makes theoretical and empirical contributions to the literature on the social media efficiency measurement. First, we examined many studies on the efficiency measurement of technical resources in the field of corporate operation. This research has important reference and practical value for effMicro-blog marketingective social media measurement. Second, we proposed that social media should be brought into the category of corporate technical resource. From the perspective of the resource-based view of a firm, we explored the theoretical relationship between social media and operational performance and confirmed that social media is an important part of corporate performance. Third, we enriched the concept of returns of social media investment. The indicators of returns measurement should consider short-term objectives, such as sales, cost reduction, or market share and long-term objectives about consumer satisfaction. In existing research, number of followers is used to represent the intangible returns of micro-blogs, as it indicates brand awareness and brand engagement. According to recent studies, public engagement is incorporated into the returns of social media investment in this study to affect the notion of social media returns significantly. Fourth, we defined micro-blog adoption behaviors. In this study, we found four social media adoption behaviors according to classical theories of information and management. Compared with that in related research that used indicators depending on the application of social media, the definition in this study provides important theoretical and empirical foundations for future research. Finally, we adopted the three-stage DEA model to evaluate operational performance aside from social media indicators in the scenario of tourism management. National scenic spots are dependent on environmental factors. If we did not rule out these factors, the operational performance could be evaluated accurately. This empirical method also can provide significant reference for later research. Nevertheless, despite the study proposing an improved direction for each national scenic spot, it still has some limitations.
+
+The main limitation of this study is the reliability of the estimated results, which is not assessed by longitudinal studies. In fact, some variables such as number of followings and followers, number of pictures are aggregate-values, if we can real-time monitoring the change of these data, the research would be more meaningful. Besides, we chose the data in 2013 just because most national scenic spots participated in the social media later than 2012 and the operation in 2012 was mindlessly with few updates. If we can test these samples for several years, the research would be more valuable. Further, future studies should focus on the model construction to discrete the coefficient of different social media adoption behaviors so that we could find the influence of different social media adoption behaviors on the operation efficiency more intuitively.
+
+]]></section>
+    
+Funding
+The authors wish to thank the National Natural Science Foundation of China under Grant 71522013, 71373250 and 71490735, and Youth Innovation Promotion Association CAS.
+Acknowledgements
+The authors are grateful to the editor and two anonymous reviewers whose constructive comments and suggestions have improved the quality of this paper considerably.
+
+Appendix A.
+Table A1. Operational efficiency of first stage.
+Number DMU	National scenic spots	TE	PTE	SE	Position in the frontier	Number DMU	National Scenic Spots	TE	PTE	SE	Position in the frontier
+1	Xiqiao Mountain	1.000	1.000	1.000	Constant	51	Ssangyong scenic spot	1.000	1.000	1.000	Constant
+2	Langshan scenic area	1.000	1.000	1.000	Constant	52	Qingzhou	1.000	1.000	1.000	Constant
+3	Putuo Mountain	1.000	1.000	1.000	Constant	53	West lake shu hills	1.000	1.000	1.000	Constant
+4	Sanqing Mountain	1.000	1.000	1.000	Constant	54	Benxi Shuidong National Park	0.828	0.850	0.975	Constant
+5	Dehang scenic area	1.000	1.000	1.000	Constant	55	Yangtze River Three Gorges	0.979	0.980	0.999	Decreasing
+6	Dragon temple scenic area	1.000	1.000	1.000	Constant	56	Mount Jiuhua	1.000	1.000	1.000	Constant
+7	Mausoleum of Yellow Emperor	1.000	1.000	1.000	Constant	57	Huashan Mountain	0.786	0.894	0.880	Increasing
+8	Mount Mogan	1.000	1.000	1.000	Constant	58	Xianju	1.000	1.000	1.000	Constant
+9	Jingpohu scenic spots	1.000	1.000	1.000	Constant	59	Meishan dragon palace	1.000	1.000	1.000	Constant
+10	Sendo	1.000	1.000	1.000	Constant	60	Longzhong scenic spot	0.701	0.718	0.977	Decreasing
+11	Bamboo Sea	1.000	1.000	1.000	Constant	61	Weishan	0.781	0.787	0.993	Decreasing
+12	Xishuang Banna	0.919	0.955	0.962	Decreasing	62	Chaohu lake	0.749	0.761	0.984	Increasing
+13	Dali scenic spot	1.000	1.000	1.000	Constant	63	DongZhai	0.963	0.964	0.998	Constant
+14	Jinggangshan scenic spot	0.857	0.863	0.993	Constant	64	Simian mountain	1.000	1.000	1.000	Constant
+15	Who's black scenic spot	0.994	0.997	0.998	Increasing	65	Mengdong river	0.918	0.934	0.983	Increasing
+16	Tengchong hot volcanic	0.888	0.900	0.987	Decreasing	66	Lake Taihu	0.972	1.000	0.972	Constant
+17	Boshan ship scenic spot	0.840	0.844	0.995	Constant	67	West Lake	0.950	0.952	0.998	Constant
+18	Yuan Yangxi	1.000	1.000	1.000	Constant	68	Wudang Mountain	0.885	0.889	0.995	Constant
+19	Wuhan East Lake	0.951	0.971	0.980	Decreasing	69	Snow DouShan scenic spot	1.000	1.000	1.000	Constant
+20	Mountain Tai	1.000	1.000	1.000	Constant	70	Zhaoqing Star Lake	0.982	1.000	0.982	Constant
+21	Wutong Mountain	1.000	1.000	1.000	Constant	71	Guanzaishan mountain	0.874	0.876	0.998	Increasing
+22	Changyu Cave	1.000	1.000	1.000	Constant	72	Jiugong Mountain	1.000	1.000	1.000	Constant
+23	Shengsi Islands	0.738	0.774	0.953	Decreasing	73	Tai ji Cave	1.000	1.000	1.000	Constant
+24	Tiantai Mountain	0.955	0.958	0.996	Increasing	74	Mount Song	1.000	1.000	1.000	Constant
+25	Huangguoshu	1.000	1.000	1.000	Constant	75	Mount Bell of Nanjing	0.852	0.879	0.970	Increasing
+26	Jinshitan national scenic area	1.000	1.000	1.000	Constant	76	Mount Langya	0.989	1.000	0.989	Constant
+27	Lvshunkou	0.929	0.932	0.996	Constant	77	Sun Island	0.825	0.834	0.990	Increasing
+28	Badaling	1.000	1.000	1.000	Constant	78	Mount Emei	0.755	0.755	1.000	Constant
+29	Tianzhu mountain scenic area	0.910	1.000	0.910	Constant	79	Anshan qianshan mountain	1.000	1.000	1.000	Constant
+30	Baizhang Ji	1.000	1.000	1.000	Constant	80	Five lotus ponds	1.000	1.000	1.000	Constant
+31	Qinghai Lake	0.957	0.962	0.994	Constant	81	East rivers and lakes	0.715	0.715	1.000	Increasing
+32	Luc scenic spot	0.958	0.958	1.000	Decreasing	82	Wuyi Mountain	1.000	1.000	1.000	Constant
+33	Wulingyuan National Park	1.000	1.000	1.000	Constant	83	Huashan mystery wat	1.000	1.000	1.000	Constant
+34	Yuntai Mountain	0.957	0.966	0.990	Decreasing	84	White Cloud Mountain	0.866	0.870	0.995	Increasing
+35	MeiLing - tengwang pavilion	1.000	1.000	1.000	Constant	85	Wild Three Hillsides	0.905	0.945	0.957	Increasing
+36	Laoshan scenic spot	1.000	1.000	1.000	Constant	86	Jingyuetan National Forest Park	0.819	0.821	0.998	Constant
+37	Hukou Falls of Yellow River	1.000	1.000	1.000	Constant	87	Jinfo Mountain	0.890	0.919	0.969	Constant
+38	Xin An river	1.000	1.000	1.000	Constant	88	Zhengzhou Yellow River	1.000	1.000	1.000	Constant
+39	Chengde Mountain Resort	1.000	1.000	1.000	Constant	89	West Hill of Guiping	1.000	1.000	1.000	Constant
+40	Qinhuangdao beidaihe	0.955	0.955	1.000	Constant	90	Mount Qiyun	1.000	1.000	1.000	Constant
+41	Sihai hole township	0.947	0.947	1.000	Increasing	91	Informed mountain	1.000	1.000	1.000	Constant
+42	Mount Longhu	1.000	1.000	1.000	Constant	92	Libo ZhangJiang	0.739	0.743	0.994	Constant
+43	Shennong source	0.921	0.928	0.992	Constant	93	Fairy Lake	0.809	0.817	0.989	Increasing
+44	Taimu mountain	1.000	1.000	1.000	Constant	94	Gulangyu Island	0.877	0.879	0.998	Increasing
+45	Yao Li	0.902	0.916	0.985	Constant	95	Mount Siguniang	0.950	0.960	0.990	Increasing
+46	Zhijin Cave	0.839	0.846	0.992	Constant	96	Kongtong Mountain	1.000	1.000	1.000	Constant
+47	Panshan mountain	0.946	0.987	0.959	Decreasing	97	Mount Luofu	0.920	1.000	0.920	Constant
+48	Huatinghu	1.000	1.000	1.000	Constant	98	Cangyan Mountain	1.000	1.000	1.000	Constant
+49	Mount Danxia	1.000	1.000	1.000	Constant	99	Guifeng	1.000	1.000	1.000	Constant
+50	Yandang Mountains	1.000	1.000	1.000	Constant	100	Qingyuan Mountain	0.947	0.960	0.986	Increasing
+Appendix B.
+Table A2. Operational efficiency of third stage.
+Number DMU	National scenic spots	CRS efficiency Scores	VRS efficiency Scores	Scale efficiency Scores	Position in the frontier	Number DMU	National Scenic Spots	CRS efficiency Scores	VRS efficiency Scores	Scale efficiency Scores	Position in the frontier
+1	Xiqiao Mountain	1.000	1.000	1.000	Constant	51	Ssangyong scenic spot	1.000	1.000	1.000	Constant
+2	Langshan scenic area	1.000	1.000	1.000	Constant	52	Qingzhou	1.000	1.000	1.000	Constant
+3	Putuo Mountain	1.000	1.000	1.000	Constant	53	West lake shu hills	1.000	1.000	1.000	Constant
+4	Sanqing Mountain	1.000	1.000	1.000	Constant	54	Benxi Shuidong National Park	0.754	0.797	0.947	Constant
+5	Dehang scenic area	1.000	1.000	1.000	Constant	55	Yangtze River Three Gorges	0.908	0.967	0.939	Constant
+6	Dragon temple scenic area	1.000	1.000	1.000	Constant	56	Mount Jiuhua	1.000	1.000	1.000	Constant
+7	Mausoleum of Yellow Emperor	1.000	1.000	1.000	Constant	57	Huashan Mountain	0.749	0.762	0.984	Constant
+8	Mount Mogan	1.000	1.000	1.000	Constant	58	Xianju	1.000	1.000	1.000	Constant
+9	Jingpohu scenic spots	1.000	1.000	1.000	Constant	59	Meishan dragon palace	1.000	1.000	1.000	Constant
+10	Sendo	1.000	1.000	1.000	Constant	60	Longzhong scenic spot	0.653	0.709	0.920	Constant
+11	Bamboo Sea	1.000	1.000	1.000	Constant	61	Weishan	0.665	0.724	0.919	Constant
+12	Xishuang Banna	0.837	0.907	0.922	Constant	62	Chaohu lake	0.669	0.674	0.993	Constant
+13	Dali scenic spot	1.000	1.000	1.000	Constant	63	DongZhai	0.863	0.960	0.899	Constant
+14	Jinggangshan scenic spot	0.836	0.861	0.970	Constant	64	Simian mountain	1.000	1.000	1.000	Constant
+15	Who's black scenic spot	0.919	0.984	0.934	Decreasing	65	Mengdong river	0.881	0.896	0.983	Constant
+16	Tengchong hot volcanic	0.826	0.900	0.918	Decreasing	66	Lake Taihu	0.867	0.890	0.974	Decreasing
+17	Boshan ship scenic spot	0.747	0.824	0.907	Constant	67	West Lake	0.869	0.952	0.913	Constant
+18	Yuan Yangxi	1.000	1.000	1.000	Constant	68	Wudang Mountain	0.763	0.812	0.939	Decreasing
+19	Wuhan East Lake	0.897	0.970	0.925	Decreasing	69	Snow DouShan scenic spot	1.000	1.000	1.000	Constant
+20	Mountain Tai	1.000	1.000	1.000	Constant	70	Zhaoqing Star Lake	0.772	0.820	0.942	Constant
+21	Wutong Mountain	1.000	1.000	1.000	Constant	71	Guanzaishan mountain	0.821	0.850	0.966	Constant
+22	Changyu Cave	1.000	1.000	1.000	Constant	72	Jiugong Mountain	1.000	1.000	1.000	Constant
+23	Shengsi Islands	0.675	0.730	0.925	Decreasing	73	Tai ji Cave	1.000	1.000	1.000	Constant
+24	Tiantai Mountain	0.870	0.925	0.940	Constant	74	Mount Song	1.000	1.000	1.000	Constant
+25	Huangguoshu	1.000	1.000	1.000	Constant	75	Mount Bell of Nanjing	0.813	0.838	0.970	Decreasing
+26	Jinshitan National Scenic Area	1.000	1.000	1.000	Constant	76	Mount Langya	0.989	1.000	0.989	Increasing
+27	Lvshunkou	0.854	0.919	0.930	Constant	77	Sun Island	0.781	0.784	0.997	Increasing
+28	Badaling	1.000	1.000	1.000	Constant	78	Mount Emei	0.688	0.727	0.947	Constant
+29	Tianzhu Mountain Scenic Area	0.844	0.912	0.926	Increasing	79	Anshan qianshan mountain	1.000	1.000	1.000	Constant
+30	Baizhang Ji	1.000	1.000	1.000	Constant	80	Five lotus ponds	1.000	1.000	1.000	Constant
+31	Qinghai Lake	0.889	0.929	0.957	Constant	81	East rivers and lakes	0.652	0.704	0.926	Constant
+32	Luc scenic spot	0.879	0.940	0.936	Decreasing	82	Wuyi Mountain	1.000	1.000	1.000	Constant
+33	Wulingyuan National Park	1.000	1.000	1.000	Constant	83	Huashan mystery wat	1.000	1.000	1.000	Constant
+34	Yuntai Mountain	0.903	0.963	0.938	Decreasing	84	White Cloud Mountain	0.830	0.857	0.969	Constant
+35	MeiLing-tengwang pavilion	1.000	1.000	1.000	Constant	85	Wild Three Hillsides	0.894	0.923	0.968	Increasing
+36	Laoshan scenic spot	1.000	1.000	1.000	Constant	86	Jingyuetan National Forest Park	0.766	0.808	0.948	Constant
+37	Hukou Falls of Yellow River	1.000	1.000	1.000	Constant	87	Jinfo Mountain	0.821	0.888	0.925	Decreasing
+38	Xin An river	1.000	1.000	1.000	Constant	88	Zhengzhou Yellow River	1.000	1.000	1.000	Constant
+39	Chengde Mountain Resort	1.000	1.000	1.000	Constant	89	West Hill of Guiping	1.000	1.000	1.000	Constant
+40	Qinhuangdao beidaihe	0.865	0.922	0.938	Decreasing	90	Mount Qiyun	1.000	1.000	1.000	Constant
+41	Sihai hole township	0.888	0.945	0.939	Constant	91	Informed mountain	1.000	1.000	1.000	Constant
+42	Mount Longhu	1.000	1.000	1.000	Constant	92	Libo ZhangJiang	0.678	0.717	0.946	Decreasing
+43	Shennong source	0.843	0.921	0.916	Constant	93	Fairy Lake	0.730	0.772	0.946	Constant
+44	Taimu mountain	1.000	1.000	1.000	Constant	94	Gulangyu Island	0.801	0.835	0.959	Constant
+45	Yao Li	0.882	0.916	0.963	Constant	95	Mount Siguniang	0.940	0.943	0.997	Increasing
+46	Zhijin Cave	0.795	0.829	0.959	Constant	96	Kongtong Mountain	1.000	1.000	1.000	Constant
+47	Panshan mountain	0.880	0.954	0.922	Decreasing	97	Mount Luofu	0.888	0.903	0.984	Constant
+48	Huatinghu	1.000	1.000	1.000	Constant	98	Cangyan Mountain	1.000	1.000	1.000	Constant
+49	Mount Danxia	1.000	1.000	1.000	Constant	99	Guifeng	1.000	1.000	1.000	Constant
+50	Yandang Mountains	1.000	1.000	1.000	Constant	100	Qingyuan Mountain	0.829	0.842	0.986	Decreasing
+</publication>
