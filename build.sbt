@@ -97,6 +97,7 @@ initialCommands in console +=
   """
     |import better.files.File
     |import scala.xml.XML
-    |import xiatian.knowledge.highlight.Highlight._
+    |import xiatian.knowledge.highlight.Highlight
+    |import xiatian.knowledge.highlight.HighlightDataSet._
     |
   """.stripMargin

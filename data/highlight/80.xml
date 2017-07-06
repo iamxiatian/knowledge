@@ -19,7 +19,7 @@ Highlights
 <highlight id="4">Outlining a number of potential research issues in this field of study.</highlight>
       <abstract> 
       <![CDATA[
-Unified Modeling Language (UML) has become the de-facto standard to design today’s large-size object-oriented systems. However, focusing on multiple UML diagrams is a main cause of breaching the consistency problem, which ultimately reduces the overall software model’s quality. Consistency management techniques are widely used to ensure the model consistency by correct model-to-model and model-to-code transformation. Consistency management becomes a promising area of research especially for model-driven architecture. In this paper, we extensively review UML consistency management techniques.]]><h target="2" match="part">The proposed techniques have been classified based on the parameters identified from the research literature.</h><h target="3;4" match="part">  Moreover, we performed a qualitative comparison of consistency management techniques in order to identify current research trends, challenges and research gaps in this field of study.</h><![CDATA[ Based on the results, we concluded that researchers have not provided more attention on exploring inter-model and semantic consistency problems. Furthermore, state-of-the-art consistency management techniques mostly focus only on three UML diagrams (i.e., class, sequence and state chart) and the remaining UML diagrams have been overlooked. Consequently, due to this incomplete body of knowledge, researchers are unable to take full advantage of overlooked UML diagrams, which may be otherwise useful to handle the consistency management challenge in an efficient manner.]]></abstract>
+Unified Modeling Language (UML) has become the de-facto standard to design today’s large-size object-oriented systems. However, focusing on multiple UML diagrams is a main cause of breaching the consistency problem, which ultimately reduces the overall software model’s quality. Consistency management techniques are widely used to ensure the model consistency by correct model-to-model and model-to-code transformation. Consistency management becomes a promising area of research especially for model-driven architecture. In this paper, we extensively review UML consistency management techniques.]]><h target="2" match="part">The proposed techniques have been classified based on the parameters identified from the research literature.</h><h target="3;4" match="part;part">  Moreover, we performed a qualitative comparison of consistency management techniques in order to identify current research trends, challenges and research gaps in this field of study.</h><![CDATA[ Based on the results, we concluded that researchers have not provided more attention on exploring inter-model and semantic consistency problems. Furthermore, state-of-the-art consistency management techniques mostly focus only on three UML diagrams (i.e., class, sequence and state chart) and the remaining UML diagrams have been overlooked. Consequently, due to this incomplete body of knowledge, researchers are unable to take full advantage of overlooked UML diagrams, which may be otherwise useful to handle the consistency management challenge in an efficient manner.]]></abstract>
        <keywords>UML model consistency</keywords>
        <keywords>UML model transformation</keywords>
        <section name="Introduction" category="introduction">
@@ -63,10 +63,10 @@ An extensive literature review on UML consistency management to highlight the cu
 ]]><h target="2" match="full">Presenting a thematic taxonomy of existing state-of-the-art UML consistency management based on a set of parameters extracted from the literature.</h>
 
 •
-<h taeget="3" match="full">Analytically comparing current state-of-the-art consistency management techniques including their commonalities and differences.</h>
+<h target="3" match="full">Analytically comparing current state-of-the-art consistency management techniques including their commonalities and differences.</h>
 
 •
-<h taeget="4" match="full">Outlining a number of potential research issues in this field of study.</h><![CDATA[
+<h target="4" match="full">Outlining a number of potential research issues in this field of study.</h><![CDATA[
 
 
 1.1. Research methodology
