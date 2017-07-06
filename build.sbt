@@ -1,16 +1,17 @@
 name          := "knowledge"
 organization  := "xiatian.knowledge"
 version       := "1.0-alpha"
-scalaVersion  := "2.12.1"
+scalaVersion  := "2.12.2"
 scalacOptions := Seq("-unchecked", "-deprecation", "-encoding", "utf8")
 
 //fork in run := true
 //cancelable in Global := true
 
 //akka
-libraryDependencies +="com.typesafe.akka" %% "akka-actor" % "2.5.0"
-libraryDependencies += "com.typesafe.akka" %% "akka-remote" % "2.5.0"
-libraryDependencies += "com.typesafe.akka" %% "akka-slf4j" % "2.5.0"
+val akkaVersion = "2.5.3"
+libraryDependencies +="com.typesafe.akka" %% "akka-actor" % akkaVersion
+libraryDependencies += "com.typesafe.akka" %% "akka-remote" % akkaVersion
+libraryDependencies += "com.typesafe.akka" %% "akka-slf4j" % akkaVersion
 libraryDependencies += "com.typesafe.akka" %% "akka-http" % "10.0.5"
 libraryDependencies += "com.typesafe.akka" %% "akka-http-spray-json" % "10.0.5"
 
@@ -97,7 +98,7 @@ initialCommands in console +=
   """
     |import better.files.File
     |import scala.xml.XML
-    |import xiatian.knowledge.highlight.Highlight
+    |import xiatian.knowledge.highlight._
     |import xiatian.knowledge.highlight.HighlightDataSet._
     |
   """.stripMargin

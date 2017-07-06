@@ -25,3 +25,14 @@ bin/knowledge --dumpIn -d="./data/papers"
 
 即可实现文件导入，导入的文献默认位于MongoDB的knowledge数据库中的publication
 集合中。
+
+## 论文亮点的统计
+
+```bash
+sbt console
+printSectionStatsMessage
+printCoverage("results", "abstract", "discussion", "methods", "background", "conclusion", "introduction", "research model and hypotheses")
+```
+
+以上第一条命令进入Scala控制台，第二条命令统计论文亮点数据集中的章节类型及
+文档频度，第三条命令则输出亮点在指定类型章节中的出现频度

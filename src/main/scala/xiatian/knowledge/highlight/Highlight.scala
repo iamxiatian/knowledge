@@ -20,10 +20,17 @@ case class Article(filename: String,
 /**
   * 文章的节
   *
-  * @param name     小节的名称
-  * @param category 小节的类别
+  * @param name       小节的名称
+  * @param category   小节的类别
+  * @param characters 文字的数量
   */
-case class Section(name: String, category: String)
+class Section(val name: String, val category: String, val characters: Int)
+
+/**
+  * 摘要是特殊的章节
+  */
+case class Abstract(override val characters: Int)
+  extends Section("abstract", "abstract", characters)
 
 /**
   * 人工标记的亮点
@@ -71,8 +78,9 @@ object Highlight {
       (doc \\ "abstract").text.trim,
       (doc \\ "section").map(_.text).mkString("\n"),
       (doc \\ "section").map(node =>
-        Section(node.attribute("name").get.text.trim,
-          node.attribute("category").get.text.trim)
+        new Section(node.attribute("name").get.text.trim,
+          node.attribute("category").get.text.trim,
+          node.text.length)
       ),
       extractHighlights(doc)
     )
@@ -92,28 +100,40 @@ object Highlight {
         (id, content)
     }.toMap
 
-    // 列出所有Section中人工标记的亮点
-    val highlights: Seq[Highlight] = (doc \\ "section") flatMap {
-      node =>
-        val section = Section(node.attribute("name").get.text.trim,
-          node.attribute("category").get.text.trim)
+    def getHighlights(section: Section,
+                      sectionNode: Node): Seq[Highlight] =
+      (sectionNode \\ "h") flatMap {
+        h =>
+          val targetIds = h.attribute("target").get.text.split(";")
+          val matchTypes = h.attribute("match").get.text.split(";")
+          val labeledText = h.text //人工标注的亮点文本
+          targetIds.zip(matchTypes).map {
+            case (id: String, matchType: String) =>
+              val text = highlightTexts(id)
+              Highlight(
+                id,
+                text,
+                List(LabeledLight(labeledText, matchType, section))
+              )
+          }
+      }
 
-        (node \\ "h") flatMap {
-          h =>
-            val targetIds = h.attribute("target").get.text.split(";")
-            val matchTypes = h.attribute("match").get.text.split(";")
-            val labeledText = h.text //人工标注的亮点文本
-            targetIds.zip(matchTypes).map {
-              case (id: String, matchType: String) =>
-                val text = highlightTexts(id)
-                Highlight(
-                  id,
-                  text,
-                  List(LabeledLight(labeledText, matchType, section))
-                )
-            }
-        }
+    // 列出所有Section中人工标记的亮点
+    val hInAbstract: Seq[Highlight] = (doc \\ "abstract") flatMap {
+      node =>
+        getHighlights(Abstract(node.text.length), node)
     }
+
+    val hInSections = (doc \\ "section") flatMap {
+      node =>
+        val section = new Section(node.attribute("name").get.text.trim,
+          node.attribute("category").get.text.trim,
+          node.text.length)
+
+        getHighlights(section, node)
+    }
+
+    val highlights: Seq[Highlight] = hInAbstract ++ hInSections
 
     //对所有的亮点（数量和人工标记的数量相同）进行分组，合并人工标记的亮点
     highlights.groupBy(_.id).map {
